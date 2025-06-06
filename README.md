@@ -1,3 +1,4 @@
 # himatsumu_ai
 
-クエスト提案AIつくるお
+##test_recommender
+テストデータを使い、pythonのみで実行確認をするディレクトリ
