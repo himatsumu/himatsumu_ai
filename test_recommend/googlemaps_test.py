@@ -3,13 +3,16 @@ import googlemaps
 from dotenv import load_dotenv
 import os
 import pprint
+import time
 
-genre = 'clothing_store'
+genre = 'clothing_store' #絞るジャンル
 
 key = os.getenv("GOOGLE_MAP_KEY") # 上記で作成したAPIキーを入れる
 client = googlemaps.Client(key) #インスタンス生成
 
 place_result = client.places_nearby(location = (34.70605201690028,135.503858174402), keyword=genre , radius=300) #情報の取得
+time.sleep(2)
+place_result = client.places_nearby(page_token = place_result['next_page_token'])
 results1 = place_result['results']
 pprint.pprint(results1)
 
