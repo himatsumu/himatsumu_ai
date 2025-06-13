@@ -1,0 +1,2234 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7046114,
+        "lng": 135.4996204
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70589392989272,
+          "lng": 135.5010336798927
+        },
+        "southwest": {
+          "lat": 34.70319427010728,
+          "lng": 135.4983340201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "H&M",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106047924775549234199\">patricio o.lopez</a>"
+        ],
+        "photo_reference": "AXQCQNSmYUDZThLTgEfnnYBVLLWEEFMFOLtqcIPYz4zqHTxIkX-hL_YcsDoK4cmOReEL_6cBg70_nJna-06VCk6GupCO5PtwTHTGiHBOuq-KgbMx-kkoLsVeSSq0c4tmnSqV9_3x-PQ3dLTWd-y5FuaX9OEPO49zdYVVcKYeNQLQG07T0LXTaBGpLOV7C2WIlffuVDETqhyvkzvcjjYVFppRMNDGGxaosZ5uKXcCn9LLn1oeu__ZqmVuVfs1yuN7xTwadUzdMgRTP700vBYhTYO_pXwLfqSb5r4G5tbNHzSPna4FxGokrG2lLhPCy-BfVlD-9GI43uoEmKrtF5vNUtRIZOOzpaopwZ8MkDEe6V7v0MY_bsSbJUj9aa2dQVkTsSCrtwqtAE8mhE7z2tnWy4F-230EwdVhrwaF4OYh7kq4Jz5bJ74UdLN-KFH4QGVdZYWsRBtQKkIZeUINLxr3V1PZ1AE4AKHWSWVryVuICU-BJ2U338VU_S054pC2KzSgrWvya49jcxGakgUn0Kr-TSbhdlB_cxp56oQK-n-BxJwNHbm34jO44sVE7wyCgJywmR_uxwHuuFZyFsO2vw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ99DoyZPmAGARUjoFUeDA5AE",
+    "plus_code": {
+      "compound_code": "PF3X+RR Osaka",
+      "global_code": "8Q6QPF3X+RR"
+    },
+    "price_level": 1,
+    "rating": 3.5,
+    "reference": "ChIJ99DoyZPmAGARUjoFUeDA5AE",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 345,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 1−27 ABC-MART Umeda Building, 1-3F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7075897,
+        "lng": 135.4990945
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70894102989272,
+          "lng": 135.5004466298928
+        },
+        "southwest": {
+          "lat": 34.70624137010727,
+          "lng": 135.4977469701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "kindal umeda second hand store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1185,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103778473543736881147\">Kindal カインドオル梅田店</a>"
+        ],
+        "photo_reference": "AXQCQNSsUkzRMeVgTMOYWEu5XokWqBKYlIZlXh9ioYZiiZj3n0K4rZ4RN91A6ItTaGXN_1JfPKV8WIGnbNiDqBUbloesmy3Ai4gMTefc9k1CnIxKcVIqatkZ8eDq8B8kko_eXjVjJfBQ2N5fp4KENYLbAkUDCtCG47XM8U1jvcYgRRqkOdl5EDvo1jpFYd11jMtaXvtn9QRJMdQREvLYMOHGiL46hJD2dinamufKaTj2LRyJMPvX2rBSGIMGAEYLhYKQ6fIKqoBFNZrvBL5hZLf6-tcorCxLDb62PzRC_WQkuuPk_eoctNQ",
+        "width": 1487
+      }
+    ],
+    "place_id": "ChIJE7IjsU_nAGAReGISd8tn7a8",
+    "plus_code": {
+      "compound_code": "PF5X+2J Osaka",
+      "global_code": "8Q6QPF5X+2J"
+    },
+    "rating": 4.9,
+    "reference": "ChIJE7IjsU_nAGAReGISd8tn7a8",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 534,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 15番8号 茶屋町ビル 1階"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7069721,
+        "lng": 135.5015684
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70833187989273,
+          "lng": 135.5029167298927
+        },
+        "southwest": {
+          "lat": 34.70563222010728,
+          "lng": 135.5002170701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "LOWECO by JAM Nakazakicho",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107022160540040385257\">LOWECO by JAM 中崎町店</a>"
+        ],
+        "photo_reference": "AXQCQNThMbb9IiotxuvQCP3HxI5TxlM8JJmBqe13JhyDzz6_8qOtzlZXi29UF78u2KjNoj_p4Hvs92hkUSUe61-fwr2YyzcT1WJ5C7baYXxxyN_ctCHGCBYyHMAePB9HPVSgAENp1ZbqbaKlhQcFHbf3RSM8HedAfjs6Bc0gNwK-DdonfXuEorfN9jqr8sr3tjx7bRWrrGEmvp0PAwy30ZObVb5djzdNlA38NgbzufOEhv8aU0Wdsks8UIsA6oCRZBUkK9WgPvqEIwNJokZgTFwqg8P5ckVTTqnZ5paetgP5fJThy_Pu",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJ0waLgvvnAGARnusoISMHtTM",
+    "plus_code": {
+      "compound_code": "PG42+QJ Osaka",
+      "global_code": "8Q6QPG42+QJ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ0waLgvvnAGARnusoISMHtTM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 89,
+    "vicinity": "2 Chome-4-31 Nakazakinishi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7086598,
+        "lng": 135.5042271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71000252989272,
+          "lng": 135.5055776298927
+        },
+        "southwest": {
+          "lat": 34.70730287010728,
+          "lng": 135.5028779701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "iot",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102434851156645109474\">橋本貴行</a>"
+        ],
+        "photo_reference": "AXQCQNTsVbQf284ywurMASHpMzXtIvtVCDi1cZGkrFgUUm0VvD-15GGTVoLBBRWYVXynsnwD6FhhvCYnSb1B1fN_q14Xp748Z0hy7Nv36QJt2AlIAqJYpTrZdtvNWIHus8-1JHoptuwa0m0nJU-n2atqZjrBbPwjHnUmJ8o4-Za3TsLNMgjNU_9ZmhL-E1FgmqO0lrlSGtzAK3x1tbXn9npaUcHiNjn49Oi0gG8lJ34rB5BVxkHnFZVen3VCwlcDLGwIj8uZtSZiNYnH-wjvd4GEnJ1jpoExpj-mj4EiTu5plRz40WowlOKRRMPl5Lh5LWbk6MDOfbF9Nc-YTvId0obQcVHz1sfZelHm6aB17uE8Qg-zW1SLEYCwQ6cpafBusmLjdU_NwDR_FaAl9pSNz78cyRJFA4mHe0X8gZbAsJtGDG9AMNxz7CSs-L1A97ETutEFvvEyokfX3c2rew2ZmUbD1JgObIDaCMtK8Wsz1CqbKSIMJPukQgALWoTe7Z8E7yQ-BIT7DLkTDKo6g3TfHRzhfL_aPhAhu0blK2GigYUESH04MfmejTvGh64g2g-SqnKPbYW_oABAj2RXZQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ4amVHs3nAGARhjjaIGwYUws",
+    "plus_code": {
+      "compound_code": "PG53+FM Osaka",
+      "global_code": "8Q6QPG53+FM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ4amVHs3nAGARhjjaIGwYUws",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26,
+    "vicinity": "Osaka, Kita Ward, Nakazakinishi, 1 Chome−10−11 ２Ｆ"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7078539,
+        "lng": 135.499008
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70909897989272,
+          "lng": 135.5002753298927
+        },
+        "southwest": {
+          "lat": 34.70639932010728,
+          "lng": 135.4975756701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "kindal umeda chayamachi second hand store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2205,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107629559621595471003\">kindal カインドオル梅田クロス茶屋町店</a>"
+        ],
+        "photo_reference": "AXQCQNRoD9CtiUSFBHcWMCDJJAIewa45He1yD2uBUPpqez84m3O0FQ7Q1jyO8HhWpBZRsqsFzOIrdqB8tpISGUhaowdm-oBDrp0efRjqXNWpUKDvKAzrUOMk9FJXXvLRNbTJSueR9YP72OwTfULXsvfJaCVD4xy2YTrphLazrln4e9Gp8j7MzuxSW6EZaYyAy4MfbkvkpupUJtWouRHLZdLOdmifMIovQfauNE2PRuDBGCIbDm5vqpGFhRHHKFKPM6mPai66hs7MXdDrLcpahGQjXPGNGC5rFAz8c5CLcWIueB8ZOr-Q",
+        "width": 2264
+      }
+    ],
+    "place_id": "ChIJAQAAAJHmAGAR66Z6NzXvJnc",
+    "plus_code": {
+      "compound_code": "PF5X+4J Osaka",
+      "global_code": "8Q6QPF5X+4J"
+    },
+    "rating": 4.9,
+    "reference": "ChIJAQAAAJHmAGAR66Z6NzXvJnc",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 534,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 15−9 クロス茶屋町 2F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.706967,
+        "lng": 135.500854
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70828487989273,
+          "lng": 135.5022123298927
+        },
+        "southwest": {
+          "lat": 34.70558522010729,
+          "lng": 135.4995126701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "rroomm mens,unisex",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJdaNQRJHmAGARIs02qSEEv4k",
+    "plus_code": {
+      "compound_code": "PG42+Q8 Osaka",
+      "global_code": "8Q6QPG42+Q8"
+    },
+    "rating": 4,
+    "reference": "ChIJdaNQRJHmAGARIs02qSEEv4k",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "Osaka, Kita Ward, Tsurunocho, 2−8 鶴野ビル ２F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7078705,
+        "lng": 135.5045573
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70920637989271,
+          "lng": 135.5059145298927
+        },
+        "southwest": {
+          "lat": 34.70650672010727,
+          "lng": 135.5032148701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SHOP band 中崎本店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1572,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105534514541120289201\">SHOP band 中崎本店</a>"
+        ],
+        "photo_reference": "AXQCQNSEPvV46mXl6gRFqXBrbBV6i5ZYIC2eBGs7bWaMwlSaBAEvcl75pglSawwwSePX8gZagZrC3AudvZwGotTBH4u-2jH4WNMsAZ9YFAB1o4pX3uuImXbZ-nHLC8ABEY4ntLDPv2NICMDRTUZDEvCCGIUZpycOurbntI3JSfn3PaTEzIyElyKdmsKpzstufFGEBSbgRM_zdlK27WMwnNah-kgd-3D0SqTJ4vdg3l2weRSaRKbGuVJ3peiSIYpjDi34MsPksArDSsx9uIMNLNdCDpimJVyuHmE6lIVjK6Mb9Dcv3wEIG68",
+        "width": 1180
+      }
+    ],
+    "place_id": "ChIJ4ebdTjPnAGARwl37Sa4kHU4",
+    "plus_code": {
+      "compound_code": "PG53+4R Osaka",
+      "global_code": "8Q6QPG53+4R"
+    },
+    "rating": 4,
+    "reference": "ChIJ4ebdTjPnAGARwl37Sa4kHU4",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "1 Chome-7-9 Nakazakinishi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7095685,
+        "lng": 135.49981
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71090552989271,
+          "lng": 135.5011692298928
+        },
+        "southwest": {
+          "lat": 34.70820587010727,
+          "lng": 135.4984695701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "F/CE. Flagship Store Osaka",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105076336347456341409\">Ning Xie</a>"
+        ],
+        "photo_reference": "AXQCQNTJ9x8c7vetgfgEBjVGCK_auNkAW9U7CpPR3D6Nwf8JHd8nwKiMrazzE3JdnBX_FaOYDJeVjesNJfF4YbCoQIe6IVzScdC7N0g_41I6tw0FBFa47DU_aClBidjv-Gu-r-JBmF3mfKdu98KfG9pwRV0MYu29g-zNGa0PclirIJ-xk06hpxEELc3mydJ-9cwnyYgTag-hfzoct_rIDf_nWT3WWA9CyCItWSUCV2kWjUaU4vAV89wcBUVT1ZF4UdCKIOF4f_CupC2p_pgHO2u0gRxhAAFyGBAlR3czRjhE38x9Akkk_Tf_2M6maIUpAbcvz0Y53hgowi04se1Qk79KtUTTaEEqNsVpecne83KslP6BZM-VPluzQr47AfyPx1z1z0_4zNmF6NRYeQu9nKSS-pwp7j7GluFFluLR_LPhpzNFT3HfebYSxbRyIgH16ITs03IirGXtJBwNc676xQHpNTixxFySjF9IF8V_UQfMCACoORjd_AzYtpJJ2PQFe4a9RPbu4lmuUzTlsJL4GR9QcFnFkjdjP9AlsA4yJzC6RXN5KP6awd7h79PNVnSlLlGdG6CpGsBV",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJpezmd2DnAGARP_33cjZGHxk",
+    "plus_code": {
+      "compound_code": "PF5X+QW Osaka",
+      "global_code": "8Q6QPF5X+QW"
+    },
+    "rating": 4.5,
+    "reference": "ChIJpezmd2DnAGARP_33cjZGHxk",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Osaka, Kita Ward, Toyosaki, 3 Chome−9−1 1F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7115954,
+        "lng": 135.4999783
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71295097989272,
+          "lng": 135.5013838298927
+        },
+        "southwest": {
+          "lat": 34.71025132010728,
+          "lng": 135.4986841701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "FAB4 OSAKA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1479,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112279565948563286269\">FAB4 OSAKA</a>"
+        ],
+        "photo_reference": "AXQCQNQz1eAHAP0Vj_c01ei0l4XevmgNE3cUdnsPBykeIofKVgXaCvuSSrg7pJZ35F1vl6-wKYwfyz6pggyJ0PtvP65IiwOqvMfuCqmsrznctzGhmHb_VbzEhlUhwNW1bNp_CfXPZ9EB13WgsMpqUwtwufKXIryEyhKjy15ayDUSujnhaH5LV6EzYvMDU3Dn1expaUN240R4GpXM26kxEb_fYEwiSyktG4Ka_TZf5lV981_hkAU9Gg8-UOzy9R7nlbyFeRqyRue339jQ9QMRdwyzgR64GZqfAcVBoUdLhUUT8McObsjBy9Y",
+        "width": 1109
+      }
+    ],
+    "place_id": "ChIJxU8_Q5rmAGAR5lkTySjnhRo",
+    "plus_code": {
+      "compound_code": "PF6X+JX Osaka",
+      "global_code": "8Q6QPF6X+JX"
+    },
+    "rating": 4.3,
+    "reference": "ChIJxU8_Q5rmAGAR5lkTySjnhRo",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Osaka, Kita Ward, Toyosaki, 5 Chome−1−15 LHOTSE I 101"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.707272,
+        "lng": 135.5039185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70860012989272,
+          "lng": 135.5052621798927
+        },
+        "southwest": {
+          "lat": 34.70590047010727,
+          "lng": 135.5025625201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "raff",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101362168422197119434\">Joshie</a>"
+        ],
+        "photo_reference": "AXQCQNQ9BwAj0rA2rQNuxexFdPtake-Zg_Cl4pXcxb1Ajii9izYerztoduiVzhr-bTOcDSMSlG29n9Jr_qlvsa2F93ia_CRKqopdFLu8YgQ1RGdglT8IuStSylRSLOxdvZKAddUC3zVOAsujPMdmH22Vrf1jkE7IeWmXfeJ3B6uhhdmHGXNysSSvZlvdQSocGyypTtSuwVJdcXSFOQc97wCvNMg2BShQB9YG-FuRHjYrJy3MFn-1PL5o72m_C1862LxGTOhYKb32wbOM5Km35Zulf0M441lEzNlrrU5MDH_QhvNPVsIeHd4pz9NcZFUxDUmMOVSYAxujqo_jZpnP230JcQs79Ie-DgIRGDYP2zyP7kknTwk1PYspTZ7zk-5OAldlB1bUaRl32IAfAZAsOK1Oo-mW5aokrix0KM6Kb8MYCdNuGdupfN33ncrMTxV-Hy0H3644UxlvOIBJI__TwWeAwMBnGp7lUcUQiM5fHFzbPxUnq7aof6GK5LKlOwRJG-88knQkdE8X33C0JNs--EGXFLnAQ5vEhLvR2yXPe3dNQLPhG1yHnonE9Y3y17JTQHbtRh5DSojw",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJX8Z1LJTmAGARrIbqrn2f9Zo",
+    "plus_code": {
+      "compound_code": "PG43+WH Osaka",
+      "global_code": "8Q6QPG43+WH"
+    },
+    "rating": 4.4,
+    "reference": "ChIJX8Z1LJTmAGARrIbqrn2f9Zo",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "1 Chome-8-1 Nakazakinishi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7098919,
+        "lng": 135.5036967
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71115717989272,
+          "lng": 135.5050609298927
+        },
+        "southwest": {
+          "lat": 34.70845752010728,
+          "lng": 135.5023612701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "sign",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116878013590223654372\">sign</a>"
+        ],
+        "photo_reference": "AXQCQNRzTl5pApzD6QkNFhI5DcKQ884reRoem2FrLRQuJSDpAN5fRthqN2sR-k8z6SFh-mM4iUj4Krq6t3Xoj1m5PliJCOVrMdP7Rb1jBQ34Xd7FW44z1RjiZPVd6VpiGWrRXwmU2bAJqySpaOqOQP3ykf2Sk_c3jEkGc0LV--c6oCiUbgQwjxg2_Vz_NLdIrItVxoUJx7-kf4l7Gpf_sJiZmj5-xlCfvTVjD5lG0_fEjYy0eXesx4dBhU1b0YDXa1tIXeJQnUgpoM-vgGscUWVpcu4LL6O-FymW6j0afBFz2UEBzfxsk2g",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJJym9PfHnAGAR-m_8qNAQrcU",
+    "plus_code": {
+      "compound_code": "PG53+XF Osaka",
+      "global_code": "8Q6QPG53+XF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJym9PfHnAGAR-m_8qNAQrcU",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 177,
+    "vicinity": "Osaka, Kita Ward, Toyosaki, 1 Chome−2−1 神田ビル 2F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7061628,
+        "lng": 135.5009641
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70747757989272,
+          "lng": 135.5022741298927
+        },
+        "southwest": {
+          "lat": 34.70477792010728,
+          "lng": 135.4995744701072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Silver & Gold",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2571,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113924828996916646123\">h164tan1</a>"
+        ],
+        "photo_reference": "AXQCQNRaO26zW939Rw8qdE8I_44cHdpvzxeFGjeuZaRkSZPJC7KyMLoxcy90Cyoj546wqIi3xojyU8Z-nhxmCwf3g379xmrHqegEk54KOMnIm98za2ePwN0Iu8K8pWYP4GroBIQaNDDXk-P9f9nWPlp6ij6KfRu-43RZatHsZSKFGhOpGeI2BZR1hBL1X8hJgvLctO_qbCw4PqWoAxQATrLO5S6MGGvjZ9tQ1PXRRsUPbX9vCrHDlC2Y07C4Q4-oV0tZA9Sfwt5Zmdl-m0pUcvGWF_ShsSPnDLClatcDxXI2BKYVrj3Abtxn7YlLe-SIG1ZkgDkOsDnOXed1bumTLAR_JGkcYw646mSRt_QSka_KStHsrhrv2W86g_t1ZO9ZbkZcZg0H_3PmDzxNV53njAWeRQfg_3mMwbameFq__1DsuXnXA3tFGxZCmnW8I9cHVy2N4jPNC1crWIQ9qbrm3OVvvUDWRefx2A22a5NDWFktYSEiz8mfXGHdstgWmYEZMhJdkWKdYkTj1FGz0sEPWMgAqWvJOfpahjgDfbq1fhHc0LYYNx7IlruuBvEwZ9E6iaXgsWXBzkhG",
+        "width": 3857
+      }
+    ],
+    "place_id": "ChIJYcyi_JPmAGARUEKdliSp1lg",
+    "plus_code": {
+      "compound_code": "PG42+F9 Osaka",
+      "global_code": "8Q6QPG42+F9"
+    },
+    "rating": 4.6,
+    "reference": "ChIJYcyi_JPmAGARUEKdliSp1lg",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "Osaka, Kita Ward, Tsurunocho, 1−3 安田ビル 103"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 34.7078628,
+        "lng": 135.5071535
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70924767989272,
+          "lng": 135.5085347798927
+        },
+        "southwest": {
+          "lat": 34.70654802010728,
+          "lng": 135.5058351201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "古着屋more___（モア）",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103253222816750245578\">A Google User</a>"
+        ],
+        "photo_reference": "AXQCQNQ3wgfnQ_GY6LRPflqfMuTz0fjg1kFIRuw_sCj3gzDV2E8aWkVRuu8fkY-FjQF9h754-ytcSrqZFo9SSNYe4CnHIHs2Lnvz_rTLZ4Ax_j4ohcguT3_w4wV6gMI86RTVPpBNFYk4PWynSafAiWajbvCw8B7kLwBrQe4yqYJb_angIQsiwvptpPhUsIDm-FgM1NWq6nwCcSVzblPHaQiexMeIKIwpyNFdSDoYOL1QuVf4M-8G8TiXlod60ASJBbjQtBkSYH6o-TyO63tYjyBR8yWfle4F9FFBI3QTGPN5FroPWY7xbdI",
+        "width": 1125
+      }
+    ],
+    "place_id": "ChIJCxos9_jnAGAReqJWTKXzY_Y",
+    "plus_code": {
+      "compound_code": "PG54+4V Osaka",
+      "global_code": "8Q6QPG54+4V"
+    },
+    "rating": 5,
+    "reference": "ChIJCxos9_jnAGAReqJWTKXzY_Y",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Osaka, Kita Ward, Nakazaki, 1 Chome−10−14 ２階"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7075093,
+        "lng": 135.5038457
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70884927989272,
+          "lng": 135.5051879298927
+        },
+        "southwest": {
+          "lat": 34.70614962010728,
+          "lng": 135.5024882701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "used clothing shop orange",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114787398442899528178\">yanusi zzr1100</a>"
+        ],
+        "photo_reference": "AXQCQNRFQqDciMm_-lPvk5Nwf5kkA8X6EKl7djn7XZohHaX_RCS9rDsnVXNxRNQSrzttU-GZvaiHUCzdKoA8stb_8p18CHxyPtRwWeDUzWSmxnbL05KFVG20dbbdmWb576UaE0R_WNzP_mkKTFFV5hLaxyM-AXLL2g40ZdWgdPDw9H489PgIWugIwUTL1XtfSRh1kxZewzqp5Fpo9DkN8fPz6SKVSmbTH3wnkiamMvAB9rp41zX4wWsbR83PvOzEWKwAxMKI3WV0WFlbi6RG4r3AvpnTXsTO92zX8w9gl6kxVXpcv70c6iF_B9QMqJF-g4vizoFWmg19tJGvGjVPQQeb6RUF4n4uzphjHc1PN9RI-8BP5QzW5rOIQ3Rq1gpPDDyxfd19tBAOBOuKWq8EoD7wT07VdZzPZjMtAE7wtnn9lu45VfbNE-nmT8WeSG2IdYFtSswXFyaX5yNtHeSR3K4xrcyzjLkx5tbUt1jkvpVZWerm65dYzxku7A16kcl4_tsQQh3I_2VNP_uJmWmLbhdOvqQIBLHDbTBmdReF_kHb4VYht2F8ZHhhvf2WY8HhpGlO8_WezVJm",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJY9BFKpTmAGARpoYMkdaYNb0",
+    "plus_code": {
+      "compound_code": "PG43+XG Osaka",
+      "global_code": "8Q6QPG43+XG"
+    },
+    "rating": 4.9,
+    "reference": "ChIJY9BFKpTmAGARpoYMkdaYNb0",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "1 Chome-8-28 Nakazakinishi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7077204,
+        "lng": 135.5039452
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70905397989272,
+          "lng": 135.5052425298927
+        },
+        "southwest": {
+          "lat": 34.70635432010728,
+          "lng": 135.5025428701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Tad funky and soul fashion",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115636234565561958300\">T S</a>"
+        ],
+        "photo_reference": "AXQCQNQa9soCQKW6kZ2iSjK2vFlCXnBHw_VKjMDKOFMml39GWCvxWLeHKfu3f1oJ9-EriOHTDzflYmLMdHu8PWn17CQFN-CYp7NyUJUKbB7DYxdxSgh0ChQwrBHpjobF85AmM5yoAVgv9SFcmrIJ_1PuS9YyMMBpbPC0WJKsrYYCzeEeELlELOfW6rnPweMrEAGjKBYXlund42F8MBHqZSGbnWNWxc0XifiJ5mCp5KgE6QvKvmXcQ2y3Xoetx8f2POCWJAZndEaom8rgcK8wFv8awL0fxEKTKBIa_kgD1P0EyvaIGdO2lToBff4EEmdT4RDAPbd3YzWQFGGxDEt9FqiMven33VDT7XODJ57X3GJTxxBcxIlEUrpER4JgLxtTRlR1PgWcYrrAOvBtKAhNohjKkcl---T1x1ZN4TTR0CCiGbXIiIZzLNMPFkdrWnEf6_g2iDMXSKbtzcWscm-Y0WLU7IEcC-CY1fiMWPE4YtXNjqdahPFCrb5_Wl4BIDUd2guR5MzArXt38xeOkm_Lybx16wAvpa-xrxH_i05WSGzi0XBpg2KYL1T6nmFQ7hLQLohLiMnml1EngONl-A",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJ55N_f5bmAGARmf-TGNzt2mQ",
+    "plus_code": {
+      "compound_code": "PG53+3H Osaka",
+      "global_code": "8Q6QPG53+3H"
+    },
+    "rating": 5,
+    "reference": "ChIJ55N_f5bmAGARmf-TGNzt2mQ",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Osaka, Kita Ward, Nakazakinishi, 1 Chome−7−14 サンコーレトロ"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7065699,
+        "lng": 135.5045064
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70793827989272,
+          "lng": 135.5059562298927
+        },
+        "southwest": {
+          "lat": 34.70523862010727,
+          "lng": 135.5032565701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "502",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103577036987209515169\">麒麟</a>"
+        ],
+        "photo_reference": "AXQCQNRDGvMU_wvPGnsgY6rvaS7o4QFh9Rlo3Wd-7RQYCLbwYvQhAB5aKzXYCGPsrMo41AzwvE8V7G04Vm6lU1EcLG9p54yTZR7A8nFA8eN7HMuf6oxHI9K0g-vJxKOdIqSsgI7orpuT5EzkdihkCFGxOdiLK1IRKS98Ae-H-ZJmAwjyPIZi6g76CixypBIGm4vEyQTF17o047SJ3FByN4mIO3K_bEMU6pJGkpgl6IKik2Cng9H3TSvv7-G_QXVlSPuYRh6sUrYULtN3h4Z7kdRKqV65LzDZwun_84Yb6ZDSDI0sEB1462mFU3ewc20aPTA78P8gcWA2chkczjGR9oMnOEkXKAbc2Lt89OkO2EdSIjAwZslWCiCJvMiJFwemfez01xHgKqL_j2zDedqG5j2rDEcAFIB1oHSiu6TYuR-4SNU4tNnhHuKJ2sJLSaTlu0elWb5SSkH-un9K4EZHL2UQttkTLJna_ihPCejRq_WhouJeV-chxGISdokIkru_kEe5Za9N5rCSqdhNO79A4YPqdmOTVwuifB_epPE5VgMG9nV0sg5xGzbVApny30TmBAsooSL5fX3hgK0rFA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJaTHfyZXmAGAROmArmWTvwIY",
+    "plus_code": {
+      "compound_code": "PG43+JQ Osaka",
+      "global_code": "8Q6QPG43+JQ"
+    },
+    "rating": 3.4,
+    "reference": "ChIJaTHfyZXmAGAROmArmWTvwIY",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Osaka, Kita Ward, Nakazakinishi, 1 Chome−2−6 大武ビル 1階"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7091923,
+        "lng": 135.5042956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71053527989272,
+          "lng": 135.5056207298927
+        },
+        "southwest": {
+          "lat": 34.70783562010728,
+          "lng": 135.5029210701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Pigsty a⇌ｚSTORE (Men's) ＆ vivie 中崎町店 (Ladies')",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101152622271301065487\">A Google User</a>"
+        ],
+        "photo_reference": "AXQCQNSqZ8jGh18_h_JFGzJbeovY9oHPOSwFaNB74Vk94OwmgUwvnjtx-Znslc7VfolLQfwgB7lxi9SJJXaRcBSkkD8n0C0glopNdBpAa2kwhMrl5_ZCoIZ93qXSe1MjDFQzNUEcBdMpF79r7vYigua6NMW9-LgBbfG84UnJDBJW1UGHQ33AltMUJQhAc-rfL9qaiOrAcymmI1_sPsyLWAMnq_NVhRMubs6DpBo7InX4Q6AiEUQcH9_FgKEqY5Yekvk1knEZcFZEUBdmr2tTpPE1nqXj_iPRU_H6zF4TYJ7ugrrxfLIhDNE",
+        "width": 1024
+      }
+    ],
+    "place_id": "ChIJgzAnjQTnAGAR0jVNsgXjrUQ",
+    "plus_code": {
+      "compound_code": "PG53+MP Osaka",
+      "global_code": "8Q6QPG53+MP"
+    },
+    "rating": 4.1,
+    "reference": "ChIJgzAnjQTnAGAR0jVNsgXjrUQ",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 33,
+    "vicinity": "Osaka, Kita Ward, Nakazakinishi, 4 Chome−1, 26MAEDA CRAFT BLD"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7073784,
+        "lng": 135.502033
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70872472989272,
+          "lng": 135.5033550298927
+        },
+        "southwest": {
+          "lat": 34.70602507010728,
+          "lng": 135.5006553701072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Barr vintage select store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102080348895763698152\">倉林元気</a>"
+        ],
+        "photo_reference": "AXQCQNQ9ctIf78sSsRyUupkaItu6I2h1NviF_rQRW59X_yTDeQoYPXgI_LBua-8NmNwL1uUdaTkGkbGwhlWyXbM2iC0aPPEi54IWYY-xyhpfKNcChOlTNrkCcYr1Rtg6J4V4lwkbf6x1QfclfbW0Yqtc6fwp2UrB9wKZL4rr6FrS9TIDBlSiifbe31S2CB5FQFUSS1KyiGpFAD0RaFYWkxgTcktg4SwVCDVFJutf7Z6CQ5wgtHw4KcQDFKZ7-qEr2pDbQX_Wb1zDVMvig_Aedjh3-VVpTyOcRx1Hr7Dbuq3e-ztoXLAU1tVDOJzrb-84xDcqAiWIB1OQ2BjXC1oFyCQ06EAAna7Cifgfd1qMHKM-8XigLjUTjS-l2sKWpeANsq92cPxqOuJD_xAbeT9GO4krSYmaz4jfTcyZtFMqas1oqNdRBczBQm9n397HJYRpwkrBd-R0bgdZuL6TvcgBoKQPnhC3AwTfT4BsrmrNa6nKxPtx3cUgp5bqappVYYjWjf4j0auRlmEhG1CwJn0KMadfM8RWiS_FO-5CDMgwci27XIWyyBoRyRxZEuF5G3tg41jZURKoLA4O",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJP6jasZbmAGARASUuyrRmUqc",
+    "plus_code": {
+      "compound_code": "PG42+XR Osaka",
+      "global_code": "8Q6QPG42+XR"
+    },
+    "rating": 3.4,
+    "reference": "ChIJP6jasZbmAGARASUuyrRmUqc",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 23,
+    "vicinity": "Osaka, Kita Ward, Nakazakinishi, 3 Chome−3−4 中崎町34ビル2F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7077517,
+        "lng": 135.5044248
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70910312989272,
+          "lng": 135.5057747798927
+        },
+        "southwest": {
+          "lat": 34.70640347010728,
+          "lng": 135.5030751201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Rin 中崎店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1632,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100140702655260696304\">Rin 中崎店</a>"
+        ],
+        "photo_reference": "AXQCQNQr6GL4KoLwCf94mCPHBZEp3mwMM2t5rVB8-ZjsoZ8RoCKQNrpsiFsWdANjhh2sTnx1fzzze-b1X8NWZZJf52whmD_x4qO3i7yCZ5RsguMUACVVFBkLoREPpTc1zgHeKethEgZlZE0bqo88Euc1vzcbh-wbntX4SgXtOFBxt4qLHVUNUyzTFa88Sm1EOkWALh5vYXqChPSoBThlsz5fF-AzhrahM6YUcIx78H0BnzZGrKjUNQJgwDj-dImLY7VkfcUw0pl8T5ITGGmfYZuqq7eQ9OCV3mjBwF_pH_dtqZAdf12Y7PI",
+        "width": 2464
+      }
+    ],
+    "place_id": "ChIJUZoa15XmAGARyUBJ-3izh60",
+    "plus_code": {
+      "compound_code": "PG53+3Q Osaka",
+      "global_code": "8Q6QPG53+3Q"
+    },
+    "rating": 4.6,
+    "reference": "ChIJUZoa15XmAGARyUBJ-3izh60",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "1 Chome-6-25 Nakazakinishi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7101056,
+        "lng": 135.5031685
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71152047989272,
+          "lng": 135.5045121298927
+        },
+        "southwest": {
+          "lat": 34.70882082010728,
+          "lng": 135.5018124701072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "古着屋BLENDMARKET中崎町",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115195786155576242941\">古着屋BLENDMARKET中崎町</a>"
+        ],
+        "photo_reference": "AXQCQNTfE-_EI-JAnTKabGsiNbSx7UsoDMENMutm-KeAQFkB2g41YOYun_rIW6zSW0t8xUXXmsWH2RKSWUvUn4R3NVteQN6s6MFnL5kNPyRmpRLNdJBBuxAAuL8AEAkXaGILu6W40Ix_y2lXYgiqfrAxtq0BAo_kpz_Nw91syGPxxhtoARHnH76GeE4-SE-GhPEod1vtMQ9T9RwapksU666C_bC-m5s78MtlWgEhGnoeTHsK4_YqSAffeJj8i-wrCcnZJz91mcg4D1tPImICx99bP78x8hpj9LuMYDZj52eB3N2JMA-B9Po",
+        "width": 6000
+      }
+    ],
+    "place_id": "ChIJSesuOY_nAGARNAmn2fZtuAk",
+    "plus_code": {
+      "compound_code": "PG63+27 Osaka",
+      "global_code": "8Q6QPG63+27"
+    },
+    "rating": 5,
+    "reference": "ChIJSesuOY_nAGARNAmn2fZtuAk",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 27,
+    "vicinity": "Osaka, Kita Ward, Toyosaki, 1 Chome−2−10 東平西原ハイツ 102"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.70776470000001,
+        "lng": 135.5040373
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70908507989272,
+          "lng": 135.5054126798927
+        },
+        "southwest": {
+          "lat": 34.70638542010727,
+          "lng": 135.5027130201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "JIMS",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110192953860290877064\">carl hong</a>"
+        ],
+        "photo_reference": "AXQCQNTQmmW9vFtATa3e7UzW3AjflO8tveLThZGQUR8gen2zVH1V0qjMONhZmv15uF4NtWaElM6PGvDHZTvYEwF-vrO_2vHosRHLLrpwuEWfTyAnOQ20SqS9qEICSjM2rPqKvWFDl_g7xizwkKdHvgAF0I3gwhA3TBtFu5WhozoSaMsZKyHoH1qs_y81DVHo-DuLt8yUYuV2MmNFifIs-GPUK1xphnEM34SUFsv9ZoGfNro4TXEIeJNm8eG6lUUf-WjLDnXiCKNOOiEjhBtzvdPyybf5HJuZZD9UAFk2fbKLSIm9IV6kUrlN8Gr3vVnzofc4ifkHzBomxGFZ4hpR9Dtx0B-DKELjfwyzyTMEEEqVxUYB9RnpSCsIosuYZ71QwbhICmqPkiMdiJOiYvEK4VjpSE5SA6k_rF2aQ7GSe7q2epBPCr7xHD04Q36B3Wn5w1JCP9FVbmpsav6dVJ9x9HV9KBFfMRx3pvfbES97hOtbN7sQHGWtnNPlnWXlIvaD6HIVUeDvphhcXHV8dMnNGuRqasYZp55fQrVjTGkB0bE4xnKKANPOieOsQzPur2khEULpRoGc5oAB",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ913sf5bmAGAR45mgmMEZaJQ",
+    "plus_code": {
+      "compound_code": "PG53+4J Osaka",
+      "global_code": "8Q6QPG53+4J"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ913sf5bmAGAR45mgmMEZaJQ",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Osaka, Kita Ward, Nakazakinishi, 1 Chome−7−14 サンコーレトロ 104 サンコーレトロ102"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7015344,
+        "lng": 135.5113723
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70296942989273,
+          "lng": 135.5128043298927
+        },
+        "southwest": {
+          "lat": 34.70026977010728,
+          "lng": 135.5101046701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "soap",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106217676530332144177\">hiroshi itaya</a>"
+        ],
+        "photo_reference": "AXQCQNScuEqD2jHjIW-R3nwyCh88jwby4qwj-5ELrDLbw4PMzbmZaFn7ZZ3WIHm74qyDwsqoPY5cEB71zI7fmIcH5rj_3-O_2I06PRLy9FaMcfeY_uX8ye9zqzjfngiIcMhcSXRJACfZf3V_c6hQb5MGEhBDC5nLBKO8JANurTUQq5B-T6KzifFntdFCWvBzlKV_tKeI1LbD736g9mYHlgr6RAYFRKEoUwCQredqw5EECEKxSTj0Gx659MLPnEN7giIA6DVZ7PvISGsyY028PIK7KkcymBlBRijRcyOI-GJtWJUO8wnIhpD3E03GKi4xX1JgvFxl92OSdHSWL_AAOpUZi4aajrBepsJIJqZWL_L4fkRWgRo3KHkFKM5WdIVkdvj0Kv3cRVL-Tc5sOA6LVPnw2PGHkBq7MDy58OeJFBe5IU2u5mcAp3vtd3nRmlxoAhGKxFF2Ndc22eGmBxbl6KWdmHnH_Xcvr3PZAvhTgFYkkQlTWWISNssPSW0v6QletOPoaxlFGMYVD95ZppcliTsV425pEM-qaMRjcsVLLf2hGBP9t4sbi6wWk80mdGSXGKYoeYLKWuvD",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJPdsxD8TmAGARDKypQvqmQ2Y",
+    "plus_code": {
+      "compound_code": "PG26+JG Osaka",
+      "global_code": "8Q6QPG26+JG"
+    },
+    "rating": 4.7,
+    "reference": "ChIJPdsxD8TmAGARDKypQvqmQ2Y",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "3 Chome-7-22 Tenjinbashi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7086071,
+        "lng": 135.5036375
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70996962989271,
+          "lng": 135.5049858798928
+        },
+        "southwest": {
+          "lat": 34.70726997010727,
+          "lng": 135.5022862201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "TREE Used Clothing Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102607212388526305630\">TREE Used Clothing Store【古着屋】</a>"
+        ],
+        "photo_reference": "AXQCQNSKJ9Ypt3v4clge7xAro2LuSw43QVD2mTt7DqYIIS1nntJMfRSLiYhRmdvZI3YOUn5_MEp6CPWBfSnXfhe5rv43XQWlHyeyzPUWlVZDjNSsoo2KlU3fdeg353WvvD32oOPv7pX408eBvyxQjjBUBOrSHKbgJTVzg85BYmuy5C1u8-5mcvXbNn4FaCqVD0ob3Gd1RM4bs3jQbgSxopzX9_YkQSIIgK1YN1rX_tH6f1TZgLCQVquAjj_SWpD6eE_NNPt1wiWvTGghTn9bd2g38SF3l4nzfryp-o2fCwZEHLpu5OKfJcU",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJQbhQEADnAGARwd9ed7DQZEo",
+    "plus_code": {
+      "compound_code": "PG53+CF Osaka",
+      "global_code": "8Q6QPG53+CF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJQbhQEADnAGARwd9ed7DQZEo",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "vicinity": "Osaka, Kita Ward, Nakazakinishi, 1 Chome−9−15 オアシスナカザキ 104"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7054072,
+        "lng": 135.499401
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70683842989272,
+          "lng": 135.5006298798927
+        },
+        "southwest": {
+          "lat": 34.70413877010728,
+          "lng": 135.4979302201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "UNIQLO OSAKA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2340,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117879542008853964910\">Sanjib Dutta</a>"
+        ],
+        "photo_reference": "AXQCQNTgsTkyi8l1p-C_Pz82DzCL0Ik7ovy_XSuK_DLPAFfJFPk5AskEscsLOPYAzwffrblzSPhkscSc52M67Br0GGpqD4d6-isj98VFV7x-BfKpajh2FOYSJfS8OPj5iNZmi5jdYr8DOGsO_DdDg4oxtiEmcJNtVFBxxqY7TGNfhAEDa9K5PFvwokNI9xKUMxOhxOCR1MRQIBrAw63Ssk8cvwQdz08ZN7SHEAMzOHGQzaYk-Y_CIREkxy7Xxt0ioYPHC8VgnfCOIIfCxALj9iLqWH30_fyF38Q7RPj1G0nq-_RFZ2zvLoZomsQZRnMhzFQbw7XeW6ONfeWN61_D2ykaHK7soGiu-CETb00-wn_p-WsCYhmLnWG4y5sx-Gg2vL0QzCCq-bqMSfpxHw39MZqw8bvztFYQ2hu93HbYKa5uq-rCRW3qZTLc6uGXMxtkJutmiiRKOCB9SdcZi5LtnOnUbJ6leIh5Mx1D-ihCv8JbKVrLLypIyhP7MPtpFgIturR4FcJKRrUm3EnOqY9Gw_iK5lzCTVZZ94Yp4PWTNXjPwIhuL0sgm2AVBVnxcINhsuinE8u8B-BWJnBPhQ",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJX0TR0pPmAGAR871bHr0FRWQ",
+    "plus_code": {
+      "compound_code": "PF4X+5Q Osaka",
+      "global_code": "8Q6QPF4X+5Q"
+    },
+    "rating": 4.1,
+    "reference": "ChIJX0TR0pPmAGAR871bHr0FRWQ",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2635,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 1−32 Yanmar Flying-Y Building, 1F-4F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7024513,
+        "lng": 135.4980712
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70383712989272,
+          "lng": 135.4994790798927
+        },
+        "southwest": {
+          "lat": 34.70113747010728,
+          "lng": 135.4967794201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "UNIQLO ekimo Umeda Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101494525268329997333\">月見の真治</a>"
+        ],
+        "photo_reference": "AXQCQNS_eWdl1fA2IiUrfCuKLb085kxZKIYYtPvVfzGGcopn77uT5u4uSDjwW0a9ZW3STNmz11UNP6G-Drr4Tetxrv3LQp8Fp_eN7qTl7fEpckcYTScadvFo3MqMCjtqDaPsiH9V50CRlzBxgSFdn976puhqK1obrRdmS5JekjWMJ_Pw3Zhch2Spvg7e5nvFJHTsSB9GwT0h_JaCyGcCLIwMd0cmJieFVuq4z40RPkCYqP3omX_BqWPtcJEtTfwHAwZOzjGZw7B8hBCGX2jRt0WPChme8J9mrSt1Xbv-htnwdM1AFMXfOh5A-rRbxBh-2I-wbYzj3mIi7MIPfL6F_ohYw-9k3cQ6aywQba1-6fbonxqJmN1x0iL4FiTbvDeJhn_Bgor_nBLpZcd2O2aJIJV4MKTt7qtfWh2qI7tvym2NYv6jnMTqFgZNy3wHhxm8y6TBSc8Jqgv8woPg_OUUnSUjcnZEHtXh2g0R6pTB6zZQodv9D1mmYNCeuzMMtwogpC3YT51KKryC7BYfuqqRsRETENhqrToFA_7hcT6XHFhBcLlDH2rYSddOXkrd3_-ka3tKty9HhvBI",
+        "width": 3499
+      }
+    ],
+    "place_id": "ChIJp1yyjJLmAGARKFxnqDYkkFs",
+    "plus_code": {
+      "compound_code": "PF2X+X6 Osaka",
+      "global_code": "8Q6QPF2X+X6"
+    },
+    "rating": 3.6,
+    "reference": "ChIJp1yyjJLmAGARKFxnqDYkkFs",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 138,
+    "vicinity": "Osaka, Kita Ward, Kakudacho, 8−6 大阪市営地下鉄"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.703174,
+        "lng": 135.5000358
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70445792989273,
+          "lng": 135.5014894298927
+        },
+        "southwest": {
+          "lat": 34.70175827010728,
+          "lng": 135.4987897701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "NEIGHBORHOOD",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100282976708809190340\">George Hsieh</a>"
+        ],
+        "photo_reference": "AXQCQNTVFwrWIR1vy92dr8aZQ8j6XXbisM5dKL6zLaTz8PAFUtBqMjZm8WV_apCl-atGSAOXtHbeFL4jKgCp1iy2rM5iRX_hqw2AJSKK8drzNAWjWtZXYHINVUKHQLzY9CU37rUp8KkJ8mC26MueB-0n-ydnHQm0PN8Dfm3mYMZIQxO7mgb1J7wEUCP1JPCf1Q8216oLpqleUae02nuS5nbXz58c89QFNwzY8o0nH7pufHQ-TUPcjsnkyhcxVK4vxpAByWqLdbC2f0kkDVqoELnKfCOfnr9XllI3K_4kdQuR7Me_QisL7BVgxlXg3Af-7T4mxMSQHVQpJKiYXUnSqoSXuglcIscpx7yeWpVMhQ4t-INtYeD0PFgCSMpI3XHIe2Q4KoTU8ESdsaQOKNwuqmdCY8vSV5_o7wY1mcV9j7twjEzwXRkki5ZFwf53FquLMAnF_0DnqvmsFGEIBNvogVlJMixGFRIQxhoQwWw4jK5JyLk7iAjz7bAJLDOpzxQTuEUfJ4z04VWHqz8J7Y1pU0SlO8C-4zHpe0erev2p3HcQ7_lFW_Mij8t0TGQrnCJezi-0xaoUe_7EDa5thw",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ_ZYAD5PmAGARwntnHeSpoNM",
+    "plus_code": {
+      "compound_code": "PG32+72 Osaka",
+      "global_code": "8Q6QPG32+72"
+    },
+    "rating": 3.7,
+    "reference": "ChIJ_ZYAD5PmAGARwntnHeSpoNM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22,
+    "vicinity": "7-10 Kakudacho, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7047847,
+        "lng": 135.500602
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70626582989272,
+          "lng": 135.5018570798927
+        },
+        "southwest": {
+          "lat": 34.70356617010727,
+          "lng": 135.4991574201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "ネヴァーマインドザエックスユー",
+    "place_id": "ChIJXRWDl5PmAGARIxxU4RC7Gqg",
+    "plus_code": {
+      "compound_code": "PG32+W6 Osaka",
+      "global_code": "8Q6QPG32+W6"
+    },
+    "rating": 5,
+    "reference": "ChIJXRWDl5PmAGARIxxU4RC7Gqg",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "3-25 Kakudacho, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7011695,
+        "lng": 135.4987811
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70250962989272,
+          "lng": 135.5001326798927
+        },
+        "southwest": {
+          "lat": 34.69980997010727,
+          "lng": 135.4974330201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Of STYLE OSAKA",
+    "place_id": "ChIJRXkq0pLmAGAReT8vbte1EZw",
+    "plus_code": {
+      "compound_code": "PF2X+FG Osaka",
+      "global_code": "8Q6QPF2X+FG"
+    },
+    "reference": "ChIJRXkq0pLmAGAReT8vbte1EZw",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "1 Chome-13-13 Umeda, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7066173,
+        "lng": 135.4995637
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70796042989272,
+          "lng": 135.5009084298927
+        },
+        "southwest": {
+          "lat": 34.70526077010728,
+          "lng": 135.4982087701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "SUIT SELECT Chayamachi /",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106949978450905723031\">SUIT SELECT茶屋町/梅田</a>"
+        ],
+        "photo_reference": "AXQCQNQ6j_qcA55Gyan6n3sRJJEfgdg6_OB8F2-wON6HPZR907oSpjq_ulKd9DW3xvgWpD7bB7JVFr7mvbhZnfNFH8VWYr0WlGL7b5EuxhlO6Co95S18SRP0pZaMrCBhluMQ_066bheCUDY2BHSyAfj8LsAJmLj2WhBURAbLg18iYCZvIpibMMgcV8ilkESxYKU6kzdy0pF75Zs091AI9h1QoUX0kJRKtqOAtE_ZvyXV32Q9rE-cVxAmj8ZDFd89AfplLDDAMrZGh4LyJnsNQ55zTEUftkmH8QT7B8gN3RYt795RIABhRJ0",
+        "width": 5712
+      }
+    ],
+    "place_id": "ChIJeToLdJHmAGAR4FJvdBdsY9o",
+    "plus_code": {
+      "compound_code": "PF4X+JR Osaka",
+      "global_code": "8Q6QPF4X+JR"
+    },
+    "rating": 4.8,
+    "reference": "ChIJeToLdJHmAGAR4FJvdBdsY9o",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 488,
+    "vicinity": "4-13 Chayamachi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7041996,
+        "lng": 135.5002382
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70530052989272,
+          "lng": 135.5013834298927
+        },
+        "southwest": {
+          "lat": 34.70260087010728,
+          "lng": 135.4986837701072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "A'GEM/9 梅田HEPFIVE店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115785163702657531470\">Wonjun Cha</a>"
+        ],
+        "photo_reference": "AXQCQNRZIv6n_qEkFe03ZSBr6UP6x0RAIzvFvKkNG69va2YcEywu4a3FWq4tCx6zhoJQEICYmC--ChaUwF4ilNeNujNt9SnT3rcwooxp9GLNgpnNGCMKSYS0t0x0qu5bea6S3JIuquogk_Mv_qd5FSnY18Ro-3PuxxHNSRXffEBXdnu7_pGVrVwvpv2PiPcirlQ15IioJE1cHGqnYKPp8TOpQKMwT_rMO3UxKeUJBBgiWc-QO1GYucWIMnP6QpEUj5f4A3cLfO8IXO2_pQrw-Y42KjiXmlmSh10xJII-gUwMg6lWs0TTYbOrqFOCYB80evZRZbZ4qkFJCP6Nq5HA4e2fcfsDOXKR_Q7qoj84KpMw1fgWC4VxVmwVhRnrtsnLGyXxddN_e8s90bnsDWxGJd0dLF_Rw0R2RVe-M9brweebshTGsXkZp22cSDijOSuqpvJ1vD2kw-UEO_60e4fbeXzNGjQusaCB0Zp1OfQ5GhmySXAgnR4a2m9rIC85pGw39Q0WnWmDmwFyRCaxX5y1FO9sT28B1SpvibNUErqk09fx78G1ytiLxPMNnOPUaas9DDpQbEYhiak0",
+        "width": 2252
+      }
+    ],
+    "place_id": "ChIJc2cNo5PmAGAR_94FmPkqwt8",
+    "plus_code": {
+      "compound_code": "PG32+M3 Osaka",
+      "global_code": "8Q6QPG32+M3"
+    },
+    "rating": 3.3,
+    "reference": "ChIJc2cNo5PmAGAR_94FmPkqwt8",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "Osaka, Kita Ward, Kakudacho, 5−15 HEP FIVE"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.707777,
+        "lng": 135.499292
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70903432989272,
+          "lng": 135.5007460798927
+        },
+        "southwest": {
+          "lat": 34.70633467010728,
+          "lng": 135.4980464201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "2nd Street Umeda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110189924069853726362\">yan kazukin</a>"
+        ],
+        "photo_reference": "AXQCQNQktIZleUSZRxnI_p5e6Xc6pqlDbxenPDXhhiZCnXZkty4nXlfyRutWNkAMH57y5jCUBqopJlxU-l7enTnReWynKFFoZBns00SMiUfzF_3UEq8G6kTO_rxGYfrq1IdSNnEruVbpby6GI2rfwtrf9rop2_ojZCr1-VswBoiGM7PBDYnvklDnYS487a8qzRspQWQty0itAasc2-tRobDmIcwpG5V56WTIOzrluIH40fozO4yquebiouvUv4fcKYgaREt-PyP-cgVCP1dTfXqW-14Ju_c2sCG1i18Ml6ry9RRVQJ2y6FPCDUssXugj2c2DtX2VjRxSvMVVTot3yfUjv79rbpUiuxlrWqgYAI98tSu2hVbBulCLoequW-l8r2aNDcOPqaKaQODrF1SbbtJDQMixqo460F6uAv2XNWo6HEB1Q5_fntlIMg6fi-n7bbI2dALMKQXxezjrkQuZSJ9ZINTQQeeR6UydVxPLd5jqhfkoI_RZyZ1tQI_qxr-cAhwt4PttzpkwnakKS30inZHfkhcakOzAJNQg3Ni90TCFffTxDaYpL0fem8HyZypQH9Iuy2paDKNO",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJd7Eb6q7nAGARPk_WeIEaF6M",
+    "plus_code": {
+      "compound_code": "PF5X+4P Osaka",
+      "global_code": "8Q6QPF5X+4P"
+    },
+    "rating": 3.2,
+    "reference": "ChIJd7Eb6q7nAGARPk_WeIEaF6M",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 15−31 1FA クリスタル 区画"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7045138,
+        "lng": 135.503086
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70577702989273,
+          "lng": 135.5043957798927
+        },
+        "southwest": {
+          "lat": 34.70307737010728,
+          "lng": 135.5016961201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "古着屋dada（Second hands shop）",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106514779076741010963\">古着屋dada（Second hands shop）</a>"
+        ],
+        "photo_reference": "AXQCQNSU_VcV4lgA0rUSaq5C9C6qmxaBK1w4j0cM8G2uKwCOglFXFQD_LSKe1PSWZ2NWRySGPHVJgtKwgNA9lyoQgoPQQvV_HACutryZg_PKeo3pCREz8L8PSmuY7_1O5K9BOAMOo8IO38JVHO5-YeXBh9rAVHO5Bs5f8UDJCFKQIfO14QashoyjKnCTTd_5vK9k2ympFLhTbYt-SrdZfpJROUftI42cqt3xcx7Q19Nj0FyAxOtVhKCG9PxC0BXnGm9rNOCg8wZLB3bYV5tT63bvuqv78Xusx2fmhbFf27Rw8E51rXppP54",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJTYDdLVLnAGAR3MvPX6QqBTc",
+    "plus_code": {
+      "compound_code": "PG33+R6 Osaka",
+      "global_code": "8Q6QPG33+R6"
+    },
+    "rating": 4.2,
+    "reference": "ChIJTYDdLVLnAGAR3MvPX6QqBTc",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "Osaka, Kita Ward, Doyamacho, 15−17 ACTⅢ 2F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7039988,
+        "lng": 135.5003184
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70522502989272,
+          "lng": 135.5014148798928
+        },
+        "southwest": {
+          "lat": 34.70252537010727,
+          "lng": 135.4987152201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "AT.OSAKA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111346631044377107337\">AT.OSAKA</a>"
+        ],
+        "photo_reference": "AXQCQNQd2MLH3hBUAgN9fH1NvXy1F7BnKtJz684AodNgud2wKAoeSlS18nsiQZqTA9H6IOsCqOuaLuYRWDxqjYg-EWqEIENiiVAz5z_YSvZ-7rlvINqf7KK6kHIRMF0Qtfd6dBUNFyl36c0wFG0GAdjgO4-rSEDkKq7CY2d9k3My_77SjxWp_6v9R3vPx-wfY3g3LA7rtu_yaJ3XtYMIIO1wKqsEV4l4xTouO9W0z6CRPBN2U1TDzZezZN_1R42KFCmJ51pIzFD504uOyMm1DsMgVuvIj_bgTsKnTuIodKDJOGVBCtaO34k",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJc-A1pQznAGAR7D5RyLJt6ks",
+    "plus_code": {
+      "compound_code": "PG32+H4 Osaka",
+      "global_code": "8Q6QPG32+H4"
+    },
+    "rating": 4,
+    "reference": "ChIJc-A1pQznAGAR7D5RyLJt6ks",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Osaka, Kita Ward, Kakudacho, 5−15 5F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7072576,
+        "lng": 135.5015065
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70860177989272,
+          "lng": 135.5028598798928
+        },
+        "southwest": {
+          "lat": 34.70590212010728,
+          "lng": 135.5001602201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Aikido Umeda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1504,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112683524539174088370\">A Google User</a>"
+        ],
+        "photo_reference": "AXQCQNQgBZiCxZzFya0nXvn_SmZJDuZqXJ---zVUMztC_ac3eBNo_3AJvi9aYhp0WYoKQ8HzmwZ0jaGRvE4DwAEAdtlJoKDglCHi-SEg35L5_jphDELof3fQ85pvUhmVGAxgMpEu_ehkz18aG0eUr03VfiiKXqufxar5wAEmAzTlh8Vwyu3rUw82m9PcMUqAFrB-VUynzvvBVpHHx5Wf0f19etPSfzZzQE5N9bbI42GVxZARvf5CmGVooC7LE5dtNEKbho4xJdMs4Ye1tDcbT-tStoioc5cXXpznCnIWWynLk0iw1SqMqmk",
+        "width": 1128
+      }
+    ],
+    "place_id": "ChIJrTBSTJHmAGARBqqQ0eqR0Ck",
+    "plus_code": {
+      "compound_code": "PG42+WH Osaka",
+      "global_code": "8Q6QPG42+WH"
+    },
+    "rating": 4.4,
+    "reference": "ChIJrTBSTJHmAGARBqqQ0eqR0Ck",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 36,
+    "vicinity": "2-30 Tsurunocho, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7061439,
+        "lng": 135.5000331
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70753307989272,
+          "lng": 135.5014095798927
+        },
+        "southwest": {
+          "lat": 34.70483342010728,
+          "lng": 135.4987099201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "古着屋JAM 梅田茶屋町店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 5712,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103206193245512519055\">Geng jiale</a>"
+        ],
+        "photo_reference": "AXQCQNTy-IKiitehx0sGpey2n2hbbt8IzHM99xsnpcok77EtS6OCoAl1opxlAVMnc8VvL1Eb37mbSZ1zJhwlbv8aKsmIXDLLnrcT16_bu_FV5cNHbsbpgMGEbuokd4pLenE9w0w7Qkh4chkihLpP4jwMw2_JD_8D4saAqmjZEzWzleLL2jJXCMh2nEY3iaSnksGyK7NZhfcNTXNf7UEOX9VbzG0hks5ZyWXYGZFQKMWBjmouPESacmvTWzWmNxpUqK80qla4lJCWfC8Z9V-s0McpwtjRLxOJ2kTwfah_QaUn19lYL-2w1sDb0ofzYAAPxI40ZfsgETa25znQsWKJwuKE7RKnJciLzPBS7HQ4lr8KDeIoVlqWC9YwekAqkuyKWVmOrUqnWd6TZBIMLwVFZgALk7VSFuqRh07YGEQw5aIYgdYHJj3b6g9GWO7oYFIQoutueXKstE1m28sis42ttRgG1sIEYHdbrjaRImtdIzEW47GJh3TUQABPSdEAqNJ7BR8w5jU4k_7lkl_lafUYFWbrXsfIzjsaWkok5qPQRldp3UqP5a1RC14p5gtYGNL-FjzX8YIpWg",
+        "width": 4284
+      }
+    ],
+    "place_id": "ChIJ-_g6TADnAGARGHnQRaSR1cs",
+    "plus_code": {
+      "compound_code": "PG42+F2 Osaka",
+      "global_code": "8Q6QPG42+F2"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ-_g6TADnAGARGHnQRaSR1cs",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "vicinity": "2-31 Chayamachi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.703962,
+        "lng": 135.494858
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70534677989272,
+          "lng": 135.4964298798927
+        },
+        "southwest": {
+          "lat": 34.70264712010728,
+          "lng": 135.4937302201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "UNITED ARROWS OSAKA MEN'S STORE",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108204992395159600454\">チョウゲンボーイ</a>"
+        ],
+        "photo_reference": "AXQCQNQjKwewT2XFOjGrt9Udb3k0Xq7PU8puJ5vmWhC76gi1YLbYA-fEtMCRBKYU1Eh1KaFVvY40Kfj6mCGOhRbGHp90U4mjql-KtDpkBcA_FmXmdVZH1HZQ6NT-kORxHSDBnzi8khKSh0jnld52jx5tSwDylwCYqPFxmwFCgMzT-k4ezna9M6NpdxlvssJoLorWEqwlduHcdfLTYeA0V1S0sW6RJBJGvegI53kmUWC6HaZoPpB2DWsfDTMZf1pPP1dRnL0RrJSmAVUBzQzQ8U5CkCLX2myc-SzVmJQPUO2MaqKHJLExwdEsCneiZRfexEJVVVcrU8XGOBgWozK4dsOQ2XG4-zYTiCAZUnmUUC7IoN0FNB9repkZNt5kSuaQtkisBWrP_WldyYQjeof3cGn0Ll--ZGQBI9qA3gjrP1Z0zOjohYQ3HCD028r2u0iM_GWDZP8Fiz8Qqk8JjXnWnyatx8warpu8kV006c5tfZz-OfzzT0rx6QjGlX1zTTKPNnetyhlzb3xnv3nFvx-q67yfMdMlV2ctcfQeCZIAhT9lMVXHgcI7oxsfR06TGazV779AE16vU3Rx",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ04TYzGDnAGARuCSYgIC43R8",
+    "plus_code": {
+      "compound_code": "PF3V+HW Osaka",
+      "global_code": "8Q6QPF3V+HW"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ04TYzGDnAGARuCSYgIC43R8",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "Osaka, Kita Ward, Ofukacho, 4−20 グランフロント大阪 ショップ＆レストラン 南館 1F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.707812,
+        "lng": 135.4984397
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70909922989273,
+          "lng": 135.4997663798927
+        },
+        "southwest": {
+          "lat": 34.70639957010729,
+          "lng": 135.4970667201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "2nd Street",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1108,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103125462168316429196\">S S</a>"
+        ],
+        "photo_reference": "AXQCQNSh742k9EcaNu9fga4FEa96fcsp6XOMjl65U77GUIoM6VjnUtNaZXdg24uDz9YEGlYkc_fm5-r5dnseDBIlSS24d1A_6Squ3t9ZYjYa21UnsbMwdzgIfIgtXdbH48tbgtO_xjzpqQQxKaf6zfcGqC1SgECbBfh_JMynHEHDmJVg6K-p24ZIppvmpdkIjP-zIHrlm7HKm36-Qb2bR3fh1FHvSfrzX3_b3s1RREAyIaWZvYsGyI9g-q3Nvy75ovD2vy3o00nBTvverpuks72Wdb4xMDBRtJp1LBDw8Pn25E2Z7g4Aw_MMj2Z51EWF8oPU6Z2JmSaqXNkGQZ4i0_sytxcuxcojKstQz3u0AVdeINCcMLe-wbl-ueouV5GuAwtP4mCtm9DOydkZ-_vOdGSCtAvCA3PNs4Lh0d7EEghRgUo48lrGjIlTmXJ4b1kjTocH2mTS3_jcXezotGCb786HB_CiwFcvlytc_qgJjYgveSdtJA7H6Ut-y503WX7pL50K6V1HqLHtIlY65cAHUZFTh_rhuni4aXzsuNdBmzYeHehMyX5uegdzaLvic19xA91N_XYERSug",
+        "width": 1477
+      }
+    ],
+    "place_id": "ChIJm0QWT5DmAGARjzX2e_wKz6o",
+    "plus_code": {
+      "compound_code": "PF5X+49 Osaka",
+      "global_code": "8Q6QPF5X+49"
+    },
+    "rating": 3.6,
+    "reference": "ChIJm0QWT5DmAGARjzX2e_wKz6o",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 161,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 15−22 アーバンテラス茶屋 町B棟 2F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7028866,
+        "lng": 135.4953236
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70455307989272,
+          "lng": 135.4968072798927
+        },
+        "southwest": {
+          "lat": 34.70185342010728,
+          "lng": 135.4941076201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "Lee｜ルクア店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108204992395159600454\">チョウゲンボーイ</a>"
+        ],
+        "photo_reference": "AXQCQNTvDVnA9UbENf2XfxEpkS3iRUgTlkumGYwGjWjTaFExjUySkqi9lRW8dYRAM8PDD2R_yyTBo9Wz5QKqnZUx7ZeroLCQ-ZswNyxqDzhJChcH6rlXeFyKrFCnKyDU74tHWN8B95ivO4r7Nzwy5FRP7LowYcxtwdGrRfYrlxJg27OkUZVP71RSNsrneTaO6NDBQWH9cMW38EN0ruOBmkHPj1AQGbuUCi8_nzPVioXVAg5bereIkzRpVcN7RoPH938pgINeMj7qjYF8bsxkIWvx6SfYOm5bJj7LkTFbfUpWWgwUV0p2I0j-l3Y2kFXaVhSxQYTCt52NRqv8PdjALEmhngQjcBX87RUxR7EH42ArRHs2FWnOzuRlDbvIvzSrGvrNipd1WYcWo6t-d0H2PmoW8hEM3YGZekm-5LYknz5eemYaUB7b-7k4HnU2sKqEZxSKAeHBNr3VsQhtV8yt0R3inChVxZVCWJx7oDWucYkZc_MrmzYjZxjpZlt_4BmJqfpbqho_aLbf_Qt4K6jtzFrHd_jJ33qMfM9I0yYmg5rr56aFHRNStoXfil4V1uN-Loh_jOPyy2hM",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJ30Ci6CjnAGARoe1H2MbdZDM",
+    "plus_code": {
+      "compound_code": "PF3W+54 Osaka",
+      "global_code": "8Q6QPF3W+54"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ30Ci6CjnAGARoe1H2MbdZDM",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Osaka, Kita Ward, Umeda, 3 Chome−1−3 ノースゲートビルディング ルクア７階"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.707868,
+        "lng": 135.498762
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70908447989272,
+          "lng": 135.5002156798927
+        },
+        "southwest": {
+          "lat": 34.70638482010727,
+          "lng": 135.4975160201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "G-Star RAW Store",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105125376200123888553\">康司川崎</a>"
+        ],
+        "photo_reference": "AXQCQNRk3-tlcGB7XNiL7_77k9e5zaxqs3xIymyyAdbyqE99rKGM48YTKQaDg9Bi7lBMz4-3XVl18fku_8opRpK8j56eCNbQf7-fTNAcBcIw7l4mQCHAIoZIpIGdtoZhtlq7Usz_lLgAxfnbexQhU-ae-C3FSxN4M42QskTF0HXdvDtR-zyAFhu0l2OCHWIlsXmYtgTyulssOAGaisphLJ5odvLp-LtGB4qfzbcq-5_KRYqeyICCcn84hzZna94PDcB2XDLc8X-piSp3Xd8w2CgwhPMTT0nWceg9STCWnFtj7KXvz21DSezvWvUb4fcjirHbATTib1ju6h9ndHSWdTn2d4Q24STfiyutRoxZvhp1bk9DQVTdEdzHGiup9_NJdJRu7_dgBpsTWdjshTlwIbp3v6RXACyE667rHVrYu1XWXweYKAFfWFCrl2o4AAG_uKkE1PsLKzecVFSb35Fz9Qkvx711boWVoBrRKWNeO6jUc4NQOrXNBz2pnX8wp2wqbgj82zuFyfeQE1qGcFNbrqnufC27KEjYe59cgodQPZ7zjomOxGh2sAmO098-1cXrbxgcclrgOkzd",
+        "width": 2304
+      }
+    ],
+    "place_id": "ChIJVVUxq5HmAGARy6E9Ppx51yU",
+    "plus_code": {
+      "compound_code": "PF5X+4G Osaka",
+      "global_code": "8Q6QPF5X+4G"
+    },
+    "rating": 4.4,
+    "reference": "ChIJVVUxq5HmAGARy6E9Ppx51yU",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "shoe_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38,
+    "vicinity": "15-10 Chayamachi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7074251,
+        "lng": 135.4989189
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70881732989272,
+          "lng": 135.5003250798927
+        },
+        "southwest": {
+          "lat": 34.70611767010728,
+          "lng": 135.4976254201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "BRING Umeda Chayamachi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109757190189101989687\">BRING 梅田茶屋町店</a>"
+        ],
+        "photo_reference": "AXQCQNRK1k4nxPAXXaT4Rszq6hqqtpQwGCBrgFw7dU9xvip1_gXZAXJlTagtmMPkbgVuUrJj2dRXxe-s5q9vuWla035PyreEEQNvLEhfkSY4_WJWTgrbx7cZ8ALoopARBubDbanByBsV_zRJxQOajaerKVZhvCeTXJeQV2gdFIDi9AZKemm2ynWXghVwG-_VQ84m7hr0L6xboWR0R2lLfyIdEoPGFWPmm6bwJmNjiRaHiIRPoarlasm37PBovP7yJmsjzwW5PJ7qUYpUpBcoP0V-bzWVAV30Mnds1Pr_ypnhLYIQ2GvKndk",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJvXHv_5LnAGARlWmx8h8ozgI",
+    "plus_code": {
+      "compound_code": "PF4X+XH Osaka",
+      "global_code": "8Q6QPF4X+XH"
+    },
+    "rating": 4.9,
+    "reference": "ChIJvXHv_5LnAGARlWmx8h8ozgI",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 184,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 14−15 LINK CHAYAMACHI, 1F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7077974,
+        "lng": 135.4990109
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70906152989272,
+          "lng": 135.5002964298927
+        },
+        "southwest": {
+          "lat": 34.70636187010728,
+          "lng": 135.4975967701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "xross茶屋町",
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117997641252096608481\">よしし</a>"
+        ],
+        "photo_reference": "AXQCQNTN22PftrDFSoFWrTgJrnRktMeBRt7os8DyfdYBVTZ_J-fWVAbVUcpUrPeG2DXcsgFGaturAh7UymE41lTR5eH9qacXtlZd21thrHaR9vMNFFGQTNmJ7VjICeu9Jsg1UW1T_HuQJd8WGdKTLJTu7LDxJEIV4SV7CglrKVgOcmCJyUlgISMozbuEBKExUxfTtoUT5AtNoUjaGKoW0SBoV_C-Tjb_LwpTEo_1YGoMdGiI3l5Ae5NZxATsyg4a2M0UinoKpaxtoORSQIiywlBNWw7eWmMWlmnK3l9KjDCQvTjuIRULcxOVI8TL2I4xP33NL4dNJ4O4uaFFBS0GkkzqW0QZ0XuBp98NLzbkZPOXUF9vVeA2HR9RFpyfZ7_R1Si0mYCiL-lWmm_Zif6qxp2qH4gMDGc2BueK4qbJ28NX-_m1ta5KGkxqgT6Z5ISzCTFQlAzY4jiHodVhwC6el_WicM7hz0FHPUnZIqy9Ml6iaujXfxmIoyh184bDBEvPRR5xGIIPzJTsIvovccDtLL_wZIRNimyQURUHws-oDnCqc-He5gMOS8zSD6zWVEr_MoN_Nz-8Jif9",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJIdtYAcjnAGAR7kMEnT3dvI0",
+    "plus_code": {
+      "compound_code": "PF5X+4J Osaka",
+      "global_code": "8Q6QPF5X+4J"
+    },
+    "reference": "ChIJIdtYAcjnAGAR7kMEnT3dvI0",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "15-9-1 Chayamachi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7071765,
+        "lng": 135.4990116
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70857607989272,
+          "lng": 135.5003906298927
+        },
+        "southwest": {
+          "lat": 34.70587642010727,
+          "lng": 135.4976909701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "OLD BETTY ' SNU Chayamachiten",
+    "place_id": "ChIJsaHaqJHmAGARxwf-cfL-9Ss",
+    "plus_code": {
+      "compound_code": "PF4X+VJ Osaka",
+      "global_code": "8Q6QPF4X+VJ"
+    },
+    "reference": "ChIJsaHaqJHmAGARxwf-cfL-9Ss",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "10-12 Chayamachi, Kita Ward, Osaka"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7072191,
+        "lng": 135.4991735
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70859542989272,
+          "lng": 135.5005385798927
+        },
+        "southwest": {
+          "lat": 34.70589577010728,
+          "lng": 135.4978389201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "BIG TIME 梅田 NU 茶屋町",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2613,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103042456875907840304\">BIG TIME 梅田 NU 茶屋町</a>"
+        ],
+        "photo_reference": "AXQCQNTUMD76JHUShY268doIpO36AxbDxalOzQdH2SHojfEigat8Nieu6vMsiTBrsHy0RPuaCH5VYJSIPuqi-FtF5RxZ6i8uWW1NGarjv4HTPzVIA5YGO8NLoShjr9zX_-HadkckPbRGDR_OVutiYZnqXsZpelBu1qAU-L2eMTnHJBKLXqWNWIRFd_akNdUbSPg5IyUfOGrN1hp-h5pscVwi8Cjf1nYBfUpHa_jDYhAqg1UbXJ56kxUpEcJBqrdzoRr650H8IQbKr8daGcriVAXnQnHVBO9z0qh8E0L0c-lCk_gIIWnAlyI",
+        "width": 3900
+      }
+    ],
+    "place_id": "ChIJD_lrDCznAGARTl4cRq-Q4Mk",
+    "plus_code": {
+      "compound_code": "PF4X+VM Osaka",
+      "global_code": "8Q6QPF4X+VM"
+    },
+    "rating": 4.5,
+    "reference": "ChIJD_lrDCznAGARTl4cRq-Q4Mk",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 10−12 NU茶屋町 1F・2F"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7071857,
+        "lng": 135.498972
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70858297989272,
+          "lng": 135.5003433298927
+        },
+        "southwest": {
+          "lat": 34.70588332010728,
+          "lng": 135.4976436701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "&ellecy",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114855405644703628647\">T avg</a>"
+        ],
+        "photo_reference": "AXQCQNTxa9bKmhDNe50IE1rEFYcywKG9o8ImGwlQWpUPqCwDkW8nTZT4HFktuzOiTD4FnYE-n42Mkpq7bk1unFKOEUYfJsFd1YJyDR3c7mVuOoJocp4dkQsKf8LlLS96V55IG77ISypLcCtYrQBCCW293MV5D72G7MEEmAtkCWhOC_3tGC_JsI7WW5VmxXlCxFCotr77gtGPxFxSIfhoH2Hcip7meT6iNjJFGFNTtrpx8HvuR0J5fHoRxtas45OYOA1-dgzGRnnZVNDTuGgaysgfE8E0R2c4Ru0PFzrrA2z2A0T-QYbkM3ZeWqUwrIJqIgQhAs0XY8l4GiCBcQ_0hYP7P_4BVGFM_E51pG0Y5DiZStBwROUoq4KTq1cehGQl3_UEQzDE65gDsZhPKMZKgfdIpP08385qBix4rYEeC7T-ikVaRqjs2p5TxbWfew5hFmXCpVbbmGTX97JsCt0DCFLgS7BvMP-YmAfKCeTRLpZCaxLOxov_QrPWG_dhRme77IjlronOvHMtdckkYGzavTbRZ0DSp6ZWie5my5tx50ROX1y3hoBX_j2U9LDQwgXLeAMekh9SEg",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJZdAqr5HmAGARdogqFNDxQrQ",
+    "plus_code": {
+      "compound_code": "PF4X+VH Osaka",
+      "global_code": "8Q6QPF4X+VH"
+    },
+    "rating": 4,
+    "reference": "ChIJZdAqr5HmAGARdogqFNDxQrQ",
+    "scope": "GOOGLE",
+    "types": [
+      "clothing_store",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 10−12 NU chayamachi 1F"
+  }
+]
