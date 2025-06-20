@@ -5,6 +5,8 @@ import json
 
 genre = 'clothing_store' #絞るジャンル
 
+load_dotenv
+
 key = os.getenv("GOOGLE_MAP_KEY") # 上記で作成したAPIキーを入れる
 client = googlemaps.Client(key) #インスタンス生成
 
@@ -22,8 +24,7 @@ unique_places = {}
 directions = [
     (0.003, 0),        # 北
     (0, 0.003),        # 東
-    (-0.003, 0),       # 南
-    (0, -0.003)        # 西
+    (-0.003, 0)       # 南
 ]
 
 #API呼び出し処理
