@@ -1,5 +1,7 @@
-from himatsumu_ai.config.settings import settings
+from himatsumu_ai.config.settings import get_setting
 import json
+
+settings = get_setting()
 
 def getplace(client,center_lat,center_lng,keyword,use_mock=False):
     #検索件数を増やし、3方位に300mずらすためのリスト
@@ -29,23 +31,11 @@ def getplace(client,center_lat,center_lng,keyword,use_mock=False):
             place_result = client.places_nearby(location=(lat, lng), radius=500, keyword=keyword)
             api_results.extend(place_result['results']) #結果を追加する
 
-    #API呼び出し処理
-    for dlat, dlng in directions:
-        lat = center_lat + dlat #現在地に緯度300m追加
-        lng = center_lng + dlng #現在地に3軽度00m追加
-        #半径300m以内で指定ジャンルのお店をGoogle placeAPIで呼び出す
-        place_result = client.places_nearby(location=(lat, lng), radius=300, keyword=keyword)
-        api_results.extend(place_result['results']) #結果を追加する
-
-    #API利用しないためテストデータ呼び出し
-    with open("tests/test_recommend/places_results.json", "r", encoding="utf-8") as f:
-        api_results = json.load(f)
-
-    # place_id を使って重複排除
-    for place in api_results:
-        place_id = place.get("place_id") #お店の固有AIを取得
-        if place_id:
-            unique_places[place_id] = place  # 辞書のキーにすることで重複が自動で消える
+        # place_id を使って重複排除
+        for place in api_results:
+            place_id = place.get("place_id") #お店の固有AIを取得
+            if place_id:
+                unique_places[place_id] = place  # 辞書のキーにすることで重複が自動で消える
 
     # 値だけ取り出してリストに
     shop_list = list(unique_places.values())

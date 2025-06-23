@@ -1,12 +1,16 @@
-import os
-from dotenv import load_dotenv
+from functools import lru_cache
+from pydantic_settings import BaseSettings
 
-load_dotenv() #読み込み
+class Setting(BaseSettings):
+    GOOGLE_MAP_KEY: str
+    SEARCH_RADIUS: int = 500  # meters
+    USE_MOCK: bool = True  # ダミーモード切替用
+    MOCK_JSON_PATH: str = "himatsumu_ai/tests/test_recommend/places_results.json" # JSON保存パス
 
-GOOGLE_MAP_KEY = os.getenv("GOOGLE_MAP_KEY") # 上記で作成したAPIキーを入れる
+    class Config:
+        env_file = "himatsumu_ai/.env"
 
-SEARCH_RADIUS = 500  # meters
-USE_MOCK = True  # ダミーモード切替用
-
-# JSON保存パス（共通化しておくと後で楽）
-MOCK_JSON_PATH = "tests/test_recommend/places_results.json"
+# キャッシュ（New）
+@lru_cache
+def get_setting():
+    return Setting()
