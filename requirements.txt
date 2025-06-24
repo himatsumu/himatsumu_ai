@@ -1,3 +1,4 @@
 googlemaps
 python-dotenv
 pydantic-settings
+pydantic

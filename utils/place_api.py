@@ -18,7 +18,7 @@ def getplace(client,center_lat,center_lng,keyword,mock_json_path,use_mock=False)
     if use_mock: #使用
         #ダミーデータ呼び出し
         with open(mock_json_path, "r", encoding="utf-8") as f:
-            api_results = json.load(f)
+            shop_list = json.load(f)
     else:
         #API呼び出し
         for dlat, dlng in directions:
@@ -34,11 +34,11 @@ def getplace(client,center_lat,center_lng,keyword,mock_json_path,use_mock=False)
             if place_id:
                 unique_places[place_id] = place  # 辞書のキーにすることで重複が自動で消える
 
-    # 値だけ取り出してリストに
-    shop_list = list(unique_places.values())
+        # 値だけ取り出してリストに
+        shop_list = list(unique_places.values())
 
-    # ダミーデータ作成用：重複なしの結果を新しいJSONに保存
-    with open(mock_json_path, "w", encoding="utf-8") as f:
-        json.dump(shop_list, f, ensure_ascii=False, indent=2)
+        # ダミーデータ作成用：重複なしの結果を新しいJSONに保存
+        with open(mock_json_path, "w", encoding="utf-8") as f:
+            json.dump(shop_list, f, ensure_ascii=False, indent=2)
 
     return shop_list
