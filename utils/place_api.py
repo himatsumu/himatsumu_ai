@@ -1,9 +1,6 @@
-from himatsumu_ai.config.settings import get_setting
 import json
 
-settings = get_setting()
-
-def getplace(client,center_lat,center_lng,keyword,use_mock=False):
+def getplace(client,center_lat,center_lng,keyword,mock_json_path,use_mock=False):
     #検索件数を増やし、3方位に300mずらすためのリスト
     directions = [ 
         (0.003, 0),        # 北
@@ -20,7 +17,7 @@ def getplace(client,center_lat,center_lng,keyword,use_mock=False):
     #APIの使用/非使用
     if use_mock: #使用
         #ダミーデータ呼び出し
-        with open(settings.MOCK_JSON_PATH, "r", encoding="utf-8") as f:
+        with open(mock_json_path, "r", encoding="utf-8") as f:
             api_results = json.load(f)
     else:
         #API呼び出し
@@ -41,7 +38,7 @@ def getplace(client,center_lat,center_lng,keyword,use_mock=False):
     shop_list = list(unique_places.values())
 
     # ダミーデータ作成用：重複なしの結果を新しいJSONに保存
-    with open(settings.MOCK_JSON_PATH, "w", encoding="utf-8") as f:
+    with open(mock_json_path, "w", encoding="utf-8") as f:
         json.dump(shop_list, f, ensure_ascii=False, indent=2)
 
     return shop_list

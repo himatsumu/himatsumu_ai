@@ -5,12 +5,12 @@ class Setting(BaseSettings):
     GOOGLE_MAP_KEY: str
     SEARCH_RADIUS: int = 500  # meters
     USE_MOCK: bool = True  # ダミーモード切替用
-    MOCK_JSON_PATH: str = "himatsumu_ai/tests/test_recommend/places_results.json" # JSON保存パス
+    MOCK_JSON_PATH: str = "tests/test_recommend/places_results.json" # JSON保存パス
 
     class Config:
-        env_file = "himatsumu_ai/.env"
+        env_file = ".env"
 
-# キャッシュ（New）
+# キャッシュ（呼び出しを初回のみにするため）
 @lru_cache
 def get_setting():
     return Setting()
