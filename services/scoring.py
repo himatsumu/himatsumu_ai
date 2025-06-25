@@ -8,12 +8,13 @@ def min_max(value, min_value, max_value):
         return 0.0
     return (value - min_value) / (max_value - min_value)
 
+# user_genre: str, #選択ジャンル
+#     keywords: List[str] = [], #推測キーワード
+#     mode: str = "base", #ジャンル推定と好み推定モードがある
+#    eta: datetime = None #時間
+
 def score_shops(
     shop_list: List[Dict], #複数のお店の情報
-    user_genre: str, #選択ジャンル
-    keywords: List[str] = [], #推測キーワード
-    mode: str = "base", #ジャンル推定と好み推定モードがある
-    eta: datetime = None #時間
 ) -> List[Dict]: #お店のリスト情報を返す
     
     #特徴量の取得

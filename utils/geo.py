@@ -28,7 +28,7 @@ def add_distance_to_shops(shop_list: List[Dict], center_lat: float, center_lng: 
         #取得できた場合関数呼び出し
         if lat is not None and lng is not None:
             distance = calc_distance(center_lat, center_lng, lat, lng)
-            shop["distance"] = distance
+            shop["distance"] = distance * 1000
         else:
             shop["distance"] = None  # 緯度経度が不明な場合は None にする
 

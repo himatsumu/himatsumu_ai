@@ -25,5 +25,9 @@ shop_list = getplace(
 )
 
 #検索結果のMAPURLを表示
+# for id_num , result in enumerate(shop_list, start=1):
+#     print(id_num , ': [' ,result['name'], ']  https://www.google.com/maps/place/?q=place_id:' + result['place_id'])
+
+#検索結果のお店の名前：評価、距離、スコア、URLを表示
 for id_num , result in enumerate(shop_list, start=1):
-    print(id_num , ': [' ,result['name'], ']  https://www.google.com/maps/place/?q=place_id:' + result['place_id'])
+    print(f'{id_num}：[ {result['name']} ]\n 評価： {result['rating']} \n 距離： {result['distance']} \n スコア：{result['score']} \n URL： https://www.google.com/maps/place/?q=place_id:{result['place_id']} \n')

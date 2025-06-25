@@ -1,5 +1,6 @@
 import json
 from utils.geo import add_distance_to_shops
+from services.scoring import score_shops
 
 def getplace(client,center_lat,center_lng,keyword,mock_json_path,use_mock):
     #検索件数を増やし、3方位に300mずらすためのリスト
@@ -39,6 +40,8 @@ def getplace(client,center_lat,center_lng,keyword,mock_json_path,use_mock):
         shop_list = list(unique_places.values())
 
         shop_list = add_distance_to_shops(shop_list,center_lat,center_lng)
+
+        shop_list = score_shops(shop_list)
 
         # ダミーデータ作成用：重複なしの結果を新しいJSONに保存
         with open(mock_json_path, "w", encoding="utf-8") as f:
