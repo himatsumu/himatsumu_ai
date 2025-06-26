@@ -2,6 +2,8 @@ import googlemaps
 import json
 from utils.place_api import getplace
 from config.settings import get_setting
+from utils.geo import add_distance_to_shops
+from services.scoring import score_shops
 from models.request_schema import RecommendRequest
 
 #settingsの情報を取得
@@ -24,10 +26,14 @@ shop_list = getplace(
     use_mock = settings.USE_MOCK #モックを使うかどうか
 )
 
-#検索結果のMAPURLを表示
-# for id_num , result in enumerate(shop_list, start=1):
-#     print(id_num , ': [' ,result['name'], ']  https://www.google.com/maps/place/?q=place_id:' + result['place_id'])
+shop_list = add_distance_to_shops(shop_list,req.location.lat,req.location.lng)
+
+shop_list = score_shops(shop_list)
+
+# ダミーデータ作成用：重複なしの結果を新しいJSONに保存
+with open(settings.MOCK_JSON_PATH, "w", encoding="utf-8") as f:
+    json.dump(shop_list, f, ensure_ascii=False, indent=2)
 
 #検索結果のお店の名前：評価、距離、スコア、URLを表示
 for id_num , result in enumerate(shop_list, start=1):
-    print(f'{id_num}：[ {result['name']} ]\n 評価： {result['rating']} \n 距離： {result['distance']} \n スコア：{result['score']} \n URL： https://www.google.com/maps/place/?q=place_id:{result['place_id']} \n')
+    print(f"{id_num}：[ {result['name']} ]\n 評価：{result['rating']} \n 距離：{result['distance']} \n スコア：{result['score']} \n URL： https://www.google.com/maps/place/?q=place_id:{result['place_id']} \n")

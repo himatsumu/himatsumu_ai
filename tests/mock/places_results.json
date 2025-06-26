@@ -3,56 +3,55 @@
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7038015,
-        "lng": 135.5022673
+        "lat": 34.7070422,
+        "lng": 135.5059787
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70513882989272,
-          "lng": 135.5036110798927
+          "lat": 34.70838907989273,
+          "lng": 135.5073863798927
         },
         "southwest": {
-          "lat": 34.70243917010728,
-          "lng": 135.5009114201073
+          "lat": 34.70568942010728,
+          "lng": 135.5046867201073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Osaka yakiniku restaurant Uchida",
+    "name": "居酒屋ばいあす",
     "opening_hours": {
       "open_now": true
     },
     "photos": [
       {
-        "height": 3000,
+        "height": 3024,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/104270520896398685884\">TOMMY CHU</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/108522324513615055107\">食卓のユータ</a>"
         ],
-        "photo_reference": "ATKogpeSBBNF6_GVCQBQf1HIbu2NuVW7BA9PJAGw31FI5z_YL_Y2FI--xAsUYIP7E1peTq5LnHg_B51774kCDhY3pfyXs8jesh5puvK0OASg0mJmmjc90IVKzM1tqMFCYOtriGgOB7R4F2eRsBAAZsC1kkO6OkyHG_6oL5JIU0l_7m2S3n0ZWZ_0mW8WCe6TngCSabWu7e3ypGHvWv2KuD05rCgJWpO1xGj_4stwY02KwEO5Zugf30Ib4vndhQ6UdBjBRc5q6yttNR4gUnPzmEcfycrNInuzLjG7baAr9wce9NjbvW_norqVweuHIDTr8ANRTZ_S1FGpDmzdOD0ZU74EGac0gZ25yBOHt7oq9A-3ba7TJSj2g3plHhqRYzoteYM-0v-FdZbGh3MrtQ_qdaLpyLC54DCjBiFAeuhUcYkVA_OIz3_grgwDWG5yyt5sIM6jyO5TWu7GNyNo0AwWkBPhJq-OSLfazj_PxRdlcRiG9glDfX0J7TuDwAx3mO-p7dwIHYnBRiXV1vbdTvtUh7b2ZWhJ3s102X4kNK5a4YbwaXszjaYsJtn4tueUIQs07xViqobXeqI-J7RjUgvTRppi8v4jhqePNw",
-        "width": 4000
+        "photo_reference": "ATKogpemYs6WNSXA2zpRR0CurXWJgyu9V4y858s1PC4aCJTa6O5YmZwIxDRKEys2BAx4bU-phm2nxgMgwyEx6LRH_YZOXNHMPzZUqEyYadoIva5nIzF19Yd6zFi2ATGDaU58E2WuvJ_MyRmYBbysA4sgx7xi81yP2Ia0MDBg46uxRYdFhY0ZnCNKMZdzfwKD66P8Z8kHVoQxJzoecl_gfMvSBy7qVnQ56uU6TU9t5QkuO71AaMIj-_ni1vwBcTODR_48u3IBCbcS2EksHZNE8wY1YHuFG5JGvx_LFigPLnlCSpJlC9r5txT5f_jseSkPQ4R0on2c_OFe1b0JXusOCKZgiy0LU38XYlLrV4am2ar_FXgYhjK-10S_YfLU18gXbfCAmQt0WHLQgPOkil71BxblWmXqwCBPyGSbYF-r_ZbWfWN3t-dBZSTved-9LJ_2pEdt3qXoIJGhovEAxAqIIbps74Pj5UihJOGDXajD4bk_2HcoQY2eXUkon4OpGdMUwDRuQdrKuY-HAAKzLmI8mWAw5C4VTm4MkEQemcfupJSQSwyI24wxzwTmcwyxpnQ6E0rE_kTdG1Oi9vGtG1ku5bzCe57bqBfnkg",
+        "width": 4032
       }
     ],
-    "place_id": "ChIJaxLzYf3nAGARD6HBizIB5_g",
+    "place_id": "ChIJ_29am9DnAGARLvQCPyteSf0",
     "plus_code": {
-      "compound_code": "PG32+GW Osaka",
-      "global_code": "8Q6QPG32+GW"
+      "compound_code": "PG44+R9 Osaka",
+      "global_code": "8Q6QPG44+R9"
     },
-    "rating": 4.8,
-    "reference": "ChIJaxLzYf3nAGARD6HBizIB5_g",
+    "rating": 4.9,
+    "reference": "ChIJ_29am9DnAGARLvQCPyteSf0",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
       "food",
-      "bar",
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 2503,
-    "vicinity": "Osaka, Kita Ward, Doyamacho, 17−3 イーグルビル １階",
-    "distance": 289.4337629671612,
-    "score": 1.139
+    "user_ratings_total": 96,
+    "vicinity": "1 Chome-5-26 Nakazaki, Kita Ward, Osaka",
+    "distance": 222.92702141469536,
+    "score": 1.1671
   },
   {
     "business_status": "OPERATIONAL",
@@ -77,16 +76,16 @@
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
     "name": "サーモンＬａｂｏ 梅田店",
     "opening_hours": {
-      "open_now": true
+      "open_now": false
     },
     "photos": [
       {
-        "height": 4032,
+        "height": 1600,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/113702339965786659177\">ふくだゆり</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/116077195843724573104\">サーモンＬａｂｏ 梅田店</a>"
         ],
-        "photo_reference": "ATKogpePeZoZnekPNB6MgsgqxJndz6U1XkaQIHGvjjKCTyJ6BYaL6NXgHGvYVFrDRRf47H9gxbiAJXNOAUol81VKlQmyhWe1OSxYJn_LetP3IMDVPOpDDCy93GH8844Oio2c5U5NQbbzgVnCfFL5Lbza20jluEVcv3CBRcGeSrNP8WNpti6voJXpd2ZaJORb9eFJIQ6na6hCFmqSD3SecJsdVnTcWpKVr6Yi0FEwH4MgzxSLOnevqAmMJckr1R8oCv6IbZA3ITC028-XUO_OFGAYolyJYresv9H3U7oxMxG6oTlf36OQM2pHEXM7zd4cBxVAQ6FF7hBEttLaps5v6kFYVIqU3Syxh2x5A5bPapPxLceS7EO_ID8Z04DJNPPJs9F_7SS9hGPuoV7Eu3DuJlE6Wj69Ed7d58WzjzO46ZLl4YGwxgU_wLXFEi2V26RLexk04-yrb9KR96IjzMrTNZrv8xp6Eba8F1fZxYJQA6C_x1JaaWjrr5nXqtN13B4xpYBithFMITvrY3ddC6lGe4j4b5yhay09CDfc7avYzWGcWuy3R4u-oJ9w5OeDF0h5z5NYWmZ0XSya",
-        "width": 3024
+        "photo_reference": "ATKogpcRnKOD8WHaS2RE0EGFNjAriXt-tPBRiSHHjxUMe-8Vwb36r0CEWPugl8wyMRmVZdbv1EhwTQ8Z0FBB5xndbjl5Zdc_St1iDyJig2NN0bTff6GS6dQynsyMXBnykH3LNk2-c2hlf_6N8fgpHFEfVDwQJi507SKEFQdJ2K4AAh5yUExGKA6Lh9H484dv98JFaMa-wihAo65IBct8TXsZ3fubJJwr5JWuoC2JV7Bf5rQ3gJmX9du23U7Rb4k0UBsQ4Msb_hQ5YhRa0QWJPO-_hDEEMDEPQqUux8iXKOcsvkurk2_QsaY",
+        "width": 2400
       }
     ],
     "place_id": "ChIJ9YzieSfnAGARedicuZCp1ME",
@@ -107,217 +106,160 @@
     "user_ratings_total": 2031,
     "vicinity": "Osaka, Kita Ward, Doyamacho, 8−12 ２Ｆ",
     "distance": 290.6447519752229,
-    "score": 1.0481
+    "score": 1.1139
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.702833,
-        "lng": 135.5039637
+        "lat": 34.70295530000001,
+        "lng": 135.5013004
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70418227989273,
-          "lng": 135.5053102798927
+          "lat": 34.70431882989272,
+          "lng": 135.5027503798927
         },
         "southwest": {
-          "lat": 34.70148262010728,
-          "lng": 135.5026106201072
+          "lat": 34.70161917010728,
+          "lng": 135.5000507201072
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "pit master VAMOS 梅田",
+    "name": "Sazae",
     "opening_hours": {
       "open_now": true
     },
     "photos": [
       {
-        "height": 576,
+        "height": 2242,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/117946891799482378998\">けんけん</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/112671822137873760635\">Ava Olivia</a>"
         ],
-        "photo_reference": "ATKogpfDaMlN3HWdshEv4im1z3Zj-EOfBHQBV6V_5B3hyLOIgBBhQykcLwaED_IMMr4zDZbuL2wODvaJudYvXhop1YUYULoUsm_YDW9rnvbxcmxo_6Q9p1SoBN3jK_9e0ZG6KathhYqcIR0tdyUVRxwOu2mDsw_1GJ0UBhlrj35wZT5849oLS3Cyl7h4oylS80_i9i2eKYwc-JROIURiHU31pWVPCNNM2mNsMdVJLJJZBqk1jelbthrxEN3APYAt-bSWKpWPpDS1bu8KMBk7dj5j7NoORp94pD0K2E26kw4PwXE935fV9rt8sEUoEvnsQCCfUn_TMeab29l9LldTdUuM-pOJjbv9GrQkRh9u0-6jBHAifnU5o0MQsml9eDjyuXnWcS9MsH0nWkMlMoT4UGmtS2gA9gT1wDDTAFIvEl7qOeysFPU8SwvvOPX3AxTgnwjfMuFnOGanPMV6Q2sxwuqvY-Pbh1OtrRudfbPOAqe7TVV7mg4b0cZ4A2ZprMD01bouJmZ6D6JpBodrUWnM2Tt4Ajnc0Xw2qjAy8VLyvLyiQ6o4aBUP5DC_idb-42X6i3luBDHLI9P_",
-        "width": 1024
+        "photo_reference": "ATKogpdFr7MpG5KbdyCTtWBSu8VD6XGgn8DnvwzM1jBlhkqPBDsVohkoWT1JOAxh8o4WgNtNwl1mcTAxUYDin_rCGGvgOQjURzSrzVXKH36C34-u_uGFqaRsDho_XBMHCnKPSrFv5W312I9O_1RRs9rKt0NYWtuqGRP08dDAq-_wcnrwmm65hbnaYJ18MsXg30yB5_rdupBbhUmnPWGFOW3r9yVCVIcvNSx_F1CxCoj7WBKSm0Nh5rfO4823Wj8I2gwJjgUzRoq944ZRsk4AF6nNvvpNNPiAnN14UBXIQiI-JV2TYJrll5Fi1Qx03FmRgmjgW7mEUguJYepSvHBd0C64Fjwdh2gSu1zbgqovCVaM-Qovxfhk1lZeC9vAXlMkTUWYmDDurM9VzPftvQyO4AoAzpQfdPANX-nDChsSAIRwN5mgxLk-dfdU7YS1k6YQhumNUkJhFQCc1k_dbIjBts1-M2o4VA7bc_XFZgXJwEdRQPlRiJHfPOQ9EHBdTuCbcB72bQcX5c8PUQ2YAbVjoCWAm1nasM4x4T9mQasUaBAwc0STJFSMnD4i--nJMPAVSM3Up-DU5CEayyAFF_Ch02qdAmRPxOqr8A",
+        "width": 1682
       }
     ],
-    "place_id": "ChIJm3dJdF_nAGARq1HujvHs_c4",
+    "place_id": "ChIJvWbySADnAGAR00W2s_PKE_g",
     "plus_code": {
-      "compound_code": "PG33+4H Osaka",
-      "global_code": "8Q6QPG33+4H"
+      "compound_code": "PG32+5G Osaka",
+      "global_code": "8Q6QPG32+5G"
     },
-    "price_level": 2,
-    "rating": 4.7,
-    "reference": "ChIJm3dJdF_nAGARq1HujvHs_c4",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 1089,
-    "vicinity": "Osaka, Kita Ward, Doyamacho, 1−12 雅ビル 2F",
-    "distance": 358.0683331485367,
-    "score": 0.987
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7010546,
-        "lng": 135.5001851
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70238932989272,
-          "lng": 135.5014879298927
-        },
-        "southwest": {
-          "lat": 34.69968967010728,
-          "lng": 135.4987882701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Luxu Wagyu YAKINIKU Restaurant AsukaZa",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 2367,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/111283274200593049738\">天然塩焼肉飛鳥座 本家本店</a>"
-        ],
-        "photo_reference": "ATKogpfiljaqGGxxtdFAI5PvoL99h1_ulHk3fJRwFCknqUB6P6ykEimbTZm3zI9rZoDbeoSMCyO5xD060qhtP4SRPICo21vNdA0luyB2ERRgqE8Z5codphMdCfTiQHfm7LTizJdqRGC0uOptMYAwOHxJc1LYfjIrI-S8rqnU7BcgHTrwiCDvQWUknaJ_gAaZI_unpw4vzQYT1EAZsrRiycKAe2JnfQSDoXG-WMFYzNrzt14rp-Kt8ayykpDbOUXuu1B_Wmm-g8hQCPcajrHvyG9Tj2oYy1U1gexGQvImV347SUDc5_FjjaE",
-        "width": 3288
-      }
-    ],
-    "place_id": "ChIJCYFbEUjnAGARBODJThJyn_4",
-    "plus_code": {
-      "compound_code": "PG22+C3 Osaka",
-      "global_code": "8Q6QPG22+C3"
-    },
-    "rating": 4.9,
-    "reference": "ChIJCYFbEUjnAGARBODJThJyn_4",
-    "scope": "GOOGLE",
-    "types": [
-      "store",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 1211,
-    "vicinity": "2 Chome-13-5 Sonezaki, Kita Ward, Osaka",
-    "distance": 649.2542366089929,
-    "score": 0.9814
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.703841,
-        "lng": 135.502034
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70514607989271,
-          "lng": 135.5033855298927
-        },
-        "southwest": {
-          "lat": 34.70244642010726,
-          "lng": 135.5006858701072
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Torico Meat Umeda",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116962712041144955740\">トリコミート梅田店</a>"
-        ],
-        "photo_reference": "ATKogpdLKsxS8DrtqqLoCHcARper6sz1v5beMmulSSiBm8Su7tDX7Yh24Jc_Hji0urDoilBnpqOZ-z7QdDJkW5EZhrhFfM1JVh6One_-TiyC7eWye5sBbUVl69acnGN9lB9y8v8lSn9TETVS9WV5vdz6fUELgspBCRv8z-4Oect_pFHXCyjqf404qX5sZQ9Ai5XMvu7Cn3x2EWh6UxRhtJKkcRYjNm7eadJi8Et5gbK9-anMcAcfNpNw1gQVPRk2PEsF4Dejn37xw9O7O1r4By8Qgaxl6FerSMJo6HQvWs-C5nNIQRKK1_c",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJlz9bmpTmAGARaf1uXRFY99U",
-    "plus_code": {
-      "compound_code": "PG32+GR Osaka",
-      "global_code": "8Q6QPG32+GR"
-    },
-    "price_level": 2,
     "rating": 4.6,
-    "reference": "ChIJlz9bmpTmAGARaf1uXRFY99U",
+    "reference": "ChIJvWbySADnAGAR00W2s_PKE_g",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 739,
+    "vicinity": "4-29 Komatsubaracho, Kita Ward, Osaka",
+    "distance": 416.21958146905735,
+    "score": 0.9417
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7027709,
+        "lng": 135.5023228
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70409202989272,
+          "lng": 135.5036483298927
+        },
+        "southwest": {
+          "lat": 34.70139237010727,
+          "lng": 135.5009486701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Popular sushi restaurant Uoshin Sakaba",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115698013116646769402\">大衆すし酒処 うおしん酒場</a>"
+        ],
+        "photo_reference": "ATKogpc354Ezg81FkO4x7okzTvUEM9VD8hrR6PC04xIkDYsOwU-0xzJGmhuadlbXekVQRD61sPLrayDwPELraE-xeVweLGi0MYpgT-zZMH1xy5KQiRY_oc6jQ77kXhArkTv0tzc5f55WrKf3iIEfQOr45JgdrUwbaIUNnJkgw-W0T6e6nDN9VDNmBsGcGqu_CM11tolP_cpvEnb9kr6-uZmE922_VB2vs68VzsbBZuXfSF0gViL0kKUNqanZ0tP7szmRMa2s4Ci6UEuleJeSs5NpdvjdfIanYRID-bnh4J8A3UAjniLUfFI",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJldPG_MTnAGARzWi2dKHjLlU",
+    "plus_code": {
+      "compound_code": "PG32+4W Osaka",
+      "global_code": "8Q6QPG32+4W"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJldPG_MTnAGARzWi2dKHjLlU",
     "scope": "GOOGLE",
     "types": [
       "meal_takeaway",
-      "store",
       "restaurant",
       "food",
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 2526,
-    "vicinity": "17-5 Doyamacho, Kita Ward, Osaka",
-    "distance": 297.07009879987703,
-    "score": 0.968
+    "user_ratings_total": 477,
+    "vicinity": "Osaka, Kita Ward, Doyamacho, 5−4 ２F",
+    "distance": 390.90918244896073,
+    "score": 0.8779
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7007624,
-        "lng": 135.500914
+        "lat": 34.7059866,
+        "lng": 135.4974266
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70215867989272,
-          "lng": 135.5022699298927
+          "lat": 34.70730807989273,
+          "lng": 135.4987662798927
         },
         "southwest": {
-          "lat": 34.69945902010727,
-          "lng": 135.4995702701073
+          "lat": 34.70460842010728,
+          "lng": 135.4960666201073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Kogi Soul Umeda Ohatsu Tenjin Branch",
+    "name": "サーモンベーネ 鮭寮",
     "opening_hours": {
-      "open_now": true
+      "open_now": false
     },
     "photos": [
       {
-        "height": 1211,
+        "height": 1816,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/113595521895659198504\">は</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/104732950268764252935\">quiet m</a>"
         ],
-        "photo_reference": "ATKogpfSMAsghatwLn-3rtbtXgM7sNEoi6aTPACG8_oxKL8DOEzscihf3wtlyNAUIjhmb01xRMmNNO1THQgohbibkmvBQW8GIR8GgNw5Gxqz3AFafnYIrb-Mh95NLDHR14Htcu0oDADCUfXfj0w14zJriUglK4yheS1oeP5Igot_p49WOOpUtqCJiyWEnSgsKG9WiCS87ZI5cD2P6fqFTP5dr0IJdTb1GYitfGj7bGJJkLQt6oNr3CuZhINmwbvzXOO2mHraiC1B1hxQEohnF0J_VVlIzfnOk5x1qz1O0f_rFnbta6tagylDx2waBcmdWqvs7wF0I8NbrcHV_xT0cs1Skirm38mFuAOlopCM4q8z3GlFMcshMT_ZQh1n72GYXcmfL52qJjkjDYmkEOwZ4AjWS0_jnoGXPrgVHul2sS5Vc4thN7thS3NCzRhSKH8mdmLZ0oOP1lk1QqDLCv1m3ENinKpNzsHm7HmXvYNhZfpaE0l7fJQ0H8aqxGxSEVfhsCvIYRuoZyMaN1pWelMuI9ctDH_vdoYf0c-5Ng37rZzBHnOMxRjbpd0CRXhCWRh7R4Fz-a3Y7H-Ue89Z2SvTV_hV9tFeWlU",
-        "width": 1206
+        "photo_reference": "ATKogpcBYQQZi4ZSLjs8bwvUws7mAkMzywJabdkF5gLBRWyg63liDILRQS8jwHX3ef1fEPDScFZVOO8IMx-y3VDB9gWvSAxOvclE0KcWhOZfiNtOaIkOPSAFsTl2eaXPgIf48J46lwWvslDKnAi-0bKRnDZ8uNqftZLOwXM1ESr9HUYXQ6pqg3VAijMMWrAjOO-7d0M8M9r7GP1rSr3z_uJZe5NTK5uQezqqY73bAy2hFsmYLRlvFpiae41XiTUq5rBGRKwiGW3IYtHhmNQd3VQ4pJBecHpCY3ta-QCYsVTR2b6xawDRVHvzYZbEEX6uCtLA3pLhTjoFvFNXQUyYf4Rw9CwamYn1rDCuGxw30JGmzGyk2YC7lRazX_xfN-NyuUmzmcsYOxfq1KdyRxhbmzNe5VogUH5qgghy_THy4_KM8AZxMjVaEOfMn7IIpVIzw3RcVO-Lh7dLSMXW5XNooHdt5AAldfAKo5py_wvBVgZjXB6b4JSzUprz0ZhFfaFNRw6WxLbR65caNIXh4rAOoIAkx_ufBU_FfFfajOUdi8TL_8JRIqjJEoL4ZTWgbWaWIBheAk9xgjmP",
+        "width": 3048
       }
     ],
-    "place_id": "ChIJNeMmuULnAGAR_MEbJjhejFM",
+    "place_id": "ChIJb4mmRY7nAGARQyx2vm3XTeQ",
     "plus_code": {
-      "compound_code": "PG22+89 Osaka",
-      "global_code": "8Q6QPG22+89"
+      "compound_code": "PF4W+9X Osaka",
+      "global_code": "8Q6QPF4W+9X"
     },
     "rating": 4.8,
-    "reference": "ChIJNeMmuULnAGAR_MEbJjhejFM",
+    "reference": "ChIJb4mmRY7nAGARQyx2vm3XTeQ",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
@@ -325,107 +267,53 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 9434,
-    "vicinity": "Osaka, Kita Ward, Sonezaki, 2 Chome−10−19 Kawai Bld., 3F",
-    "distance": 646.83108961547,
-    "score": 0.9668
+    "user_ratings_total": 37,
+    "vicinity": "Osaka, Kita Ward, Shibata, 1 Chome−3−7 マルシェ芝田 3F",
+    "distance": 587.9654874556218,
+    "score": 0.8587
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.709636,
-        "lng": 135.504873
+        "lat": 34.700623,
+        "lng": 135.5005435
       },
       "viewport": {
         "northeast": {
-          "lat": 34.71112772989272,
-          "lng": 135.5061908298927
+          "lat": 34.70196912989272,
+          "lng": 135.5019070798927
         },
         "southwest": {
-          "lat": 34.70842807010727,
-          "lng": 135.5034911701073
+          "lat": 34.69926947010728,
+          "lng": 135.4992074201073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "mirachicken",
+    "name": "Taishuskaba Hitomebore Umeda",
     "opening_hours": {
-      "open_now": true
+      "open_now": false
     },
     "photos": [
       {
-        "height": 3024,
+        "height": 1440,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/110825451453429804850\">まゆみ</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/112358654505253305021\">Kitysaty</a>"
         ],
-        "photo_reference": "ATKogpeW5IhlrLHQi73KWa9bUDHmWUmyh24D4Z1-nksX25LTPvKVpfZXcstWOSKSaq9D45UIVvMYRP146xuL-MdQg6KEFwSVhNXwObd8jsBki8dZmotTmkNRf-IYsFBmJmJlFY79aZH_MLXsoJKX-6cx1fm_3OOg4vCTxRrcVwlascd__sKXoQiR9r1tdrFeiamGDKzjPtKUfdWkOSpi5ooqWuMLAobMXeeaAbYARiRBPFU-7CKyKDHjbJgQfOUdqiY_XAQ6J4LwKkh8VRzn_qWgbdVGuuscKdFm3UEKC9v2VHB91mWFZk7QM0tpMRqYLPWjzjnVNQXoB_eWP4ccGsIV7QE0mnfxqsXrQYCTzElYau1lUiyeM08_WNGgapVtLRUKAW8tGoQqRJzGpGcoaqx67J1JjY0yZIjD6CPdSfLvpRiQNTuvOZuhGNaEGXGF9awTgydwvaVnDgtpce8JPkElKXUOazwtl2iEDPqkVpyMZqsIq_Y_LX6EI7p-x34LL2sNjx6tLr7u_oe80ABPcAKABQhYAQt3tVigJ05GIQkFpTwJW6WbenQv3SVCpGd84MUbG3qg5PxT",
-        "width": 4032
+        "photo_reference": "ATKogpcFfdTxl5KIStlyWhZbV_CfbxQ_ltgrxVuM6YitVRlCvlHYyn3mzijdOtKGXzacsf4RV8mpDPwTUs0X1sbumsRWOK-487H7tsjSroq4a2uI-uJtFR53kqESUOGeu_X6E7WnsX8EOq9GVCbq9p81xqavKoNV-HF8QC7fpf4O1_GZzkAGq7vLN6MMAiv36CZA8vFx9yN-lKvBRxMlexOIQRLhve1ZGoL81RGekfhgq_rGYxR5eAeej5kdqTqY7nxOR6onM9jFcR0B4EKCbcqw9QqPDjdgs2PxwJ9l6393M45hyyYfbPC35wf8_lpJbxxaK7WayR5d96AhBESq0VRj4Gj2T_T09R1rZ1yZT2NlKrcuXWhiOcaiV87Nw5tK3d1SI7tsBQSFsQV8zauQiy7hRtzXuEvTlWroorY49rp9tAwiGq_ZLkoULIjtDb-HWG2mrHqjYqc5nor3k87RFwz_UOWroAqFbXyQXxe7NcNBeUcirxy_z6QN8EZ2b4ZHn8gklML5jFjv5Wuvf-4RxP4VhV61-sdYHneB1AN6-dH2I1BdaHiu4ME-cOMT5ibTMvV6zmCrD2CIhXBi2g",
+        "width": 1080
       }
     ],
-    "place_id": "ChIJ73ssuFbnAGARCxajzaUcbPg",
+    "place_id": "ChIJq4Fq8w7nAGARxEtCFWF_gzs",
     "plus_code": {
-      "compound_code": "PG53+VW Osaka",
-      "global_code": "8Q6QPG53+VW"
-    },
-    "rating": 4.8,
-    "reference": "ChIJ73ssuFbnAGARCxajzaUcbPg",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 66,
-    "vicinity": "Osaka, Kita Ward, Nakazaki, 3 Chome−5−14 2階",
-    "distance": 409.1748898476544,
-    "score": 0.948
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7027622,
-        "lng": 135.5031002
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70408082989272,
-          "lng": 135.5042877298928
-        },
-        "southwest": {
-          "lat": 34.70138117010728,
-          "lng": 135.5015880701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Tabehodai Soruchika Umedadoyama Korean Restaurant",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 4032,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/113583223994778344937\">sa mi</a>"
-        ],
-        "photo_reference": "ATKogpesij6aJR8eReNY_OwOMirc4MM78Z-TV0e_TAmAjkBU5zKIWOybT6azXXE29Wg6VEJdBOETZMkKNHbaYzQ0NM7f9EHY8pqH3fGUftSFTts334JpGIdaG-8enJlisetPpRVNwX6ioLg2UBNKBfGeB_KU3wjvWU45fQXq5VmTTTNRso43C7iCh0xKil5X_In8sQWgiHgSdsdJm4MiW6vJ4arGoHWtSLj4_QDjMe_L2TQm8GYD9MsyBVHZAt7H7HrIprVa_B7o2AUnEBTKn2xxhLgUC7j_b3cqW93U2alnvmgoT0eLua75SvUFy8nSDdIahhOTxOTC0yoix-bbIxW7H7RBGHj5NfFnaCIORlBNd1HMqtgHagyoa83U95eJc3RD2RhalxGYr6d1A_Rg04qyirLKG8cn8t4D0yLURxMubeZZ7ksdL5QLsU2IzbSYWresMl94p54GlK7YCtqAngQUfPModzvT1iPfQqQ_OwvUPVzJYmC-G8aMAuv--rpdKjhIql3lDOBGQf9k4cvlgBP5Pllk3S9UedXCgMdPkKxDxlDY8UzMdN1tEKyWv6uHkFFPDQWjfgRXKdVfdA",
-        "width": 3024
-      }
-    ],
-    "place_id": "ChIJK3n23kTnAGAREipg2kDr_6I",
-    "plus_code": {
-      "compound_code": "PG33+46 Osaka",
-      "global_code": "8Q6QPG33+46"
+      "compound_code": "PG22+76 Osaka",
+      "global_code": "8Q6QPG22+76"
     },
     "rating": 4.6,
-    "reference": "ChIJK3n23kTnAGAREipg2kDr_6I",
+    "reference": "ChIJq4Fq8w7nAGARxEtCFWF_gzs",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
@@ -433,909 +321,90 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 1100,
-    "vicinity": "Osaka, Kita Ward, Doyamacho, 3−13 B1F",
-    "distance": 372.3152274151244,
-    "score": 0.8954
+    "user_ratings_total": 3696,
+    "vicinity": "Osaka, Kita Ward, Sonezaki, 2 Chome−10−14 サンユニテック １F ビル",
+    "distance": 675.4578070329405,
+    "score": 0.8502
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7029964,
-        "lng": 135.5034174
+        "lat": 34.7071056,
+        "lng": 135.4990481
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70431067989272,
-          "lng": 135.5048157798927
+          "lat": 34.70850777989272,
+          "lng": 135.5003739298927
         },
         "southwest": {
-          "lat": 34.70161102010728,
-          "lng": 135.5021161201072
+          "lat": 34.70580812010728,
+          "lng": 135.4976742701073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "寿司としゃぶしゃぶ No.8 梅田店",
+    "name": "BeNe",
     "opening_hours": {
       "open_now": true
     },
     "photos": [
       {
-        "height": 2624,
+        "height": 1000,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/114465829816738050922\">寿司としゃぶしゃぶ No.8 梅田店</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/114430947325837384907\">チーズと生はちみつ BeNe 梅田NU茶屋町</a>"
         ],
-        "photo_reference": "ATKogpe_58hZ7sO6ytLwgRPSj512PLkxA7VLBtRyDKfxkctXQCZyi0qsEag8vc8wLV5Ko_-tLj6wTiBnVCWzmeab4kgGNlVpWJqAxpfGcJ0QiKm-A9P9hJZSzY2aYgsCo0XugK4vpjzpaImYdDM7XuP83aC4Wm9mIc9RP-5nhPoWFuOXFQMC31gqdO7To-NgrHEJ4N8kdc-41zOV6pIfD4drDAlC0tTbtnIJZjtLqwqIkXGpGPYnG3eUKrk7PhEKwLITfhWNBj2w2wouJfKykmMJMXZ3XzvgM_VNAMUAiufJZ30Ru1RdXzY",
-        "width": 3936
-      }
-    ],
-    "place_id": "ChIJxwVbGPvnAGARqu8WoSp8xso",
-    "plus_code": {
-      "compound_code": "PG33+59 Osaka",
-      "global_code": "8Q6QPG33+59"
-    },
-    "price_level": 3,
-    "rating": 4.5,
-    "reference": "ChIJxwVbGPvnAGARqu8WoSp8xso",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 1490,
-    "vicinity": "3F, 6-1 Doyamacho, Kita Ward, Osaka",
-    "distance": 342.1498695280711,
-    "score": 0.8402
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.6997814,
-        "lng": 135.5006886
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70112727989272,
-          "lng": 135.5019846798927
-        },
-        "southwest": {
-          "lat": 34.69842762010727,
-          "lng": 135.4992850201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "OKOGE Umeda",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 927,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/108289214883091932168\">OKOGE</a>"
-        ],
-        "photo_reference": "ATKogpcvv7hq3OfzWDmGIImZaI-Hn1REMj0nb-NYBTzqpQnTNmAo6_3DuwvTw53r6lO2-32S0J-tE931eiBtMgWu7nWlb0ilYPibMECQsIjITcSRQaX22Hira6PZZMSbUxX2KGInBWxUW_57UeekwqRIB_4gojcXmGnHj13locoqHmVwWo1XZbVeFEp6xbvEuxij-ksIKnWXcRKOFU7FnuRNbJXZNAm2upNu3KeceMuFjGRLTlR1fIjwS4dBRyruilKf5clEQh2Rj2G2GUOTqSzpzgd-DhpNLIbI_TZzQKzdQzoKYO9apgA",
-        "width": 933
-      }
-    ],
-    "place_id": "ChIJcW93jnvnAGARS_4q2A3qxBA",
-    "plus_code": {
-      "compound_code": "MGX2+W7 Osaka",
-      "global_code": "8Q6QMGX2+W7"
-    },
-    "price_level": 2,
-    "rating": 4.7,
-    "reference": "ChIJcW93jnvnAGARS_4q2A3qxBA",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 5860,
-    "vicinity": "Osaka, Kita Ward, Sonezaki, ２町目8番12号 B1F",
-    "distance": 755.0667335012688,
-    "score": 0.8025
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7106624,
-        "lng": 135.4994364
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.71199967989271,
-          "lng": 135.5007883298927
-        },
-        "southwest": {
-          "lat": 34.70930002010727,
-          "lng": 135.4980886701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "New Babe Toyosaki",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 667,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/105885524430800406853\">とんかつニューベイブ 豊崎</a>"
-        ],
-        "photo_reference": "ATKogpfqPTGwSYj3KZxvLacEddevciq95t8WQ74ya4RVHkymbY25SZ43MFpmImpXs3zacEiR_Ip2WHvwJRVZqqRxFG1NhqTv9R6L487GwKJocuYOVwQ13NB7sTiTgDtUNnm8Oba-DXJ_50y77e0CFjl_8fmrwWrHpuMsUJzS2SRkoKiEPeMzMD-sanjktgHWNYY_2fc_nhgB2m5rAcQjlsSUpYgl9wGk8AXgqOLDBV5nZmCIgYngWS9_jvjQmMJDc--Bh1oE9YJResyw9zcLZh4KWxooIIqdT1pjjXW4TD9aFeB432CEzIY",
+        "photo_reference": "ATKogpcByoc4N-Hv_uvc2uTKIY86foJl9lZOo39vBmONoKv9f32k68SdxEjoaXAdSJ7x_UUmMnGYHdJoB1kCgb6mT3QrW5mCbqfklNkHgnKoVE4wYHZ5j5_6F8lbEnRo8CGuybMlwYKXdl98c8BF6-W6AqvlPUbQv5NT83ES76Or6eH6QViOmbcwxWV5kPYiKyVUPXE6oGlg80e8fKQxp3kBYobtsFJqteEBF3-IELvhQNfUeeZjFhXGqOyhDIxPJ2r97jjfxX4e7ooLhdEQVaydg11qQFO6-EOImQ2hoiRPwVnvof-DSeM",
         "width": 1000
       }
     ],
-    "place_id": "ChIJwy2a2H_nAGAR_9q40jFV-8E",
+    "place_id": "ChIJf63W93LnAGAR413Wj2EiYO4",
     "plus_code": {
-      "compound_code": "PF6X+7Q Osaka",
-      "global_code": "8Q6QPF6X+7Q"
-    },
-    "rating": 4.7,
-    "reference": "ChIJwy2a2H_nAGAR_9q40jFV-8E",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 673,
-    "vicinity": "3 Chome-6-2 Toyosaki, Kita Ward, Osaka",
-    "distance": 652.8252809461617,
-    "score": 0.7933
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7040558,
-        "lng": 135.5046234
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70540002989271,
-          "lng": 135.5060005798927
-        },
-        "southwest": {
-          "lat": 34.70270037010727,
-          "lng": 135.5033009201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Senmonten Chikachikin Umedaten Korean Restaurant",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/102211011831862007611\">大阪グルメXYZ</a>"
-        ],
-        "photo_reference": "ATKogpdQx5MnZ-xTARLkxns-y0fB-91KZT2rp5c_JYBkffdH-0mt57XVwF2NNVj9GT98DiR3LieHuPu6XWgRf6jewLv0CSOdqfnQo_wuhAakLPCjEd1M1-2CXIsina23PADduJCaLyWmsczMrqzR3l1DpOodFbZlMzNfrW_J7FQTpA2G9384ZqdyiVEXmHjvLyv8FE2UW95K5wj2SVt6Mg7Ft5KKwCu-epPWFt2XtOCo8fPTNGb8i9S4LZj8Ae1Jwxjkn3sqgIG_l31x8hynAnX6r1EF9gM2JtHPJnwXKW0ItCnYj8nPg98GsSUoUzlLX2mELfELKMq-SlXWQQpSAcunnfjhsvcLAH0Q-oV1g6w-VFpPxC66ragKgvpxAtbJkbnvSs4lY0wcIxY5vFaF3x3oN5hz3uz-b086YBD81nAC5eM61AAAORWy1eiYjbpVepQbd2kDb24lk-0lnI1Zlub2ALTUiN4_5Be9jcpg5cCNfjhJS_tSJxjuf4k-wcrc-OZ94mf0panui_6Gb0moYWuKAo-3L7vvqEkOACtYnbzvgDWLkr_QknH53tLgew2oqsS-P7sXUVejaajY5g",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJ1_YVN23nAGARbv9YGFgZZ5k",
-    "plus_code": {
-      "compound_code": "PG33+JR Osaka",
-      "global_code": "8Q6QPG33+JR"
-    },
-    "rating": 4.3,
-    "reference": "ChIJ1_YVN23nAGARbv9YGFgZZ5k",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 1317,
-    "vicinity": "Osaka, Kita Ward, Doyamacho, 12−14 2F3F4F 布山ビル",
-    "distance": 232.7305477283314,
-    "score": 0.7355
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7023649,
-        "lng": 135.5024037
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70373852989272,
-          "lng": 135.5037058798927
-        },
-        "southwest": {
-          "lat": 34.70103887010728,
-          "lng": 135.5010062201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Okonomiyaki Monjayaki Restaurant Tonpei Umedahigashi",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 1280,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/103544414084548381253\">Sigeちゃん</a>"
-        ],
-        "photo_reference": "ATKogpeutqcT6qpF4_augxUyJ6f_VNNk_WKuNTvxbBnM44fIzpu_S6xT7tLOYRC5Ca7pypa6x721AQqFN7mMoAw8wkUvpQ0gt1FTo4vBRG23K3UT1fbhlxz0qNq1fXRKhKDQaP71dHbRpWqHsxLi9oxAw7BzVQSKPfHneJsYRwBhDNltFBri55Al8Lt7Ocu5jKOLS-jPo_PKzFORtDLe6X_9qBZil3-If3bvueWzwkLDszWjc61Glw20QHlhyZDwhoSUWlrjEhRyzWDyPqsg5ePNcy_yEL7V_buJDTZ-gBmQB_jLIufwD5m3DRh_E_hIDQ-UDJjfJD6iRWGH73QmL9UwXFX8F-q9gpvCYIxZztSSGHQnX_p85xQCL6TkOLUaMWu9WpYCOhy-80wGdJtJF_TQHPVF3ztSZtgVkJCErNWFDJolwgyKCpw8X9cm3WfhJqQlV58hhwaho8ckbdmX9wczasbFWB5MFTHOzDRShh0Ht21uVj3WfVNgEqkQ9hTeChl4juP32Vu7mbhckcIZNNN1LYdMYTdffFfPzgiZTcp5oeEj7KZxiC2ufpNeJqi0PumPDbe3S2aFQNDh5g",
-        "width": 960
-      }
-    ],
-    "place_id": "ChIJHS5YTOvmAGAROm2f6c7aMPc",
-    "plus_code": {
-      "compound_code": "PG22+WX Osaka",
-      "global_code": "8Q6QPG22+WX"
-    },
-    "price_level": 2,
-    "rating": 4.5,
-    "reference": "ChIJHS5YTOvmAGAROm2f6c7aMPc",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 287,
-    "vicinity": "Osaka, Kita Ward, Doyamacho, 4−4 阪急東ビル 1F",
-    "distance": 431.00899216161736,
-    "score": 0.7326
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7075371,
-        "lng": 135.508504
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70886787989272,
-          "lng": 135.5098572798927
-        },
-        "southwest": {
-          "lat": 34.70616822010727,
-          "lng": 135.5071576201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Asai",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 1200,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/117052363832666612267\">炭火焼鳥 あさヰ 中崎町</a>"
-        ],
-        "photo_reference": "ATKogpdDl0wf56qxGhSn9lpb9rYR_a3WU8A9a7IKbiZvX2pz-2_ma8KanrJrLVJscick0EoqbEdaEicdfWdvcmZbb3J-N1CGRCNVW05-Uyb-vzlKE35hGnmYD9VuWsnGgLkiDEKA4qAUYK83u75nQwSzsz71M0vIT-4DITEHxMzPzGymoUXcXtVnYqwrCqs1KIrhuNzbSyfD_F_c_ttrCNGuoo-7mrYKKMsd8T80BSrTxOHNuywl5z4UHk3mufGyQ4FnNTbYNAyntlXrKTjpG_PBKpTci-UEg3KqF19RAyO7BdGQNRNF7g8",
-        "width": 1200
-      }
-    ],
-    "place_id": "ChIJP0IHpvvnAGAR7kBtPC55gTY",
-    "plus_code": {
-      "compound_code": "PG55+2C Osaka",
-      "global_code": "8Q6QPG55+2C"
-    },
-    "price_level": 2,
-    "rating": 4.5,
-    "reference": "ChIJP0IHpvvnAGAR7kBtPC55gTY",
-    "scope": "GOOGLE",
-    "types": [
-      "meal_takeaway",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 376,
-    "vicinity": "8-6 Kurosakicho, Osaka",
-    "distance": 455.6543029197613,
-    "score": 0.7266
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.69812,
-        "lng": 135.5066704
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.69936182989272,
-          "lng": 135.5080681798927
-        },
-        "southwest": {
-          "lat": 34.69666217010728,
-          "lng": 135.5053685201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Seven Hills",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/114422705452729285128\">[Reservation Required] アラブ料理専門店 七つの丘 Seven Hills, Arabian Halal Restaurant</a>"
-        ],
-        "photo_reference": "ATKogpdxKSHVIw7xKXk2fR7PFXT15_F7GQ_I2AdThRsHmOOIgsVYy6PXnGMvmlZLjuLPNVgZpqkKZiT9DAobff6iKqNgzuL4yTqB0m5OXk6tDCDJcupBVqOlZkaIoeKiwOUBVE79ucJLrXH-tH94CsC9l-oNKpVPmZwUkI_qQnHFa0y606_r3GgToEHFy-KpbSXJb-xBrVyZM3HrZyeO494Vm6NJO58vJYxdxhkmrv9-w1DGxXSq09eHgnon7SEs6AB_mhmgKFVPOvXVRUYVHcdMBZ3Jg-WAcmBviJ3Qsm3B_iyaBrtME50",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJ1To9Lf0ZAWAR_kv_Ub6jz9s",
-    "plus_code": {
-      "compound_code": "MGX4+6M Osaka",
-      "global_code": "8Q6QMGX4+6M"
-    },
-    "rating": 4.8,
-    "reference": "ChIJ1To9Lf0ZAWAR_kv_Ub6jz9s",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 325,
-    "vicinity": "Osaka, Kita Ward, Nishitenma, 5 Chome−16番3号 西天満ファイブビル 地下1階",
-    "distance": 918.70307966579,
-    "score": 0.6924
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.6995332,
-        "lng": 135.5011417
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70087612989272,
-          "lng": 135.5024515298927
-        },
-        "southwest": {
-          "lat": 34.69817647010728,
-          "lng": 135.4997518701072
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Wagyu Beef Yakiniku Restaurant Gyujiro Osaka Umeda",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/101558988615099954054\">m n</a>"
-        ],
-        "photo_reference": "ATKogpfDLro0-QQ1TTqzou6KwpbHi1M-exCtY5MpZefZZ7Qd3R6d2cGgMs1N-0Ap9mehxyCdt5d7rFNtV5TpOYzprcQAormOD5D_0R8Jw2hWcsP_cFbN1_fBj33k0XP9irsgWMcze3ZW9irfwUME3Q-JlnxzB2ecxkw4jNxw2YUkPOog_6BejwIrz3uecJhYQg4msHlng3E0yf6SacrC0iKXb1dwpyMzdSyJGWimhj_XNvX_hfm358XFrEBdUBbBQ4Yg0xpiBbprVnGKq2IVgL09jh3EC-NnmVSYMKEESXkfdk5JofrP4qsJfKsPllC7SkPKceTjA3l3XxAQ13CL7iuqk9s2vqaHQOjpXPIrsupzlCGYNXCKvRg47smvARwrwVsrMrOIGgnCNf-5klhhIjcv8JofbeckDh9LjxyWMzePpEpLhgSNxNLRBliCYVUpQFmDXRkW4EoF2B48dwa-xBb_aQ1fiPv1au_mCjPvok7jO0A21pyHbNs_BbP58tNIjRayHbxxRM-S2f5XKhuEyHYXytAluHvSKNZPW-sM5S5Vis-gFAXJRAnmb1nXg9B897ZkB22tNA",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJMSruQPfnAGARkTCgbPeK-2E",
-    "plus_code": {
-      "compound_code": "MGX2+QF Osaka",
-      "global_code": "8Q6QMGX2+QF"
-    },
-    "rating": 4.6,
-    "reference": "ChIJMSruQPfnAGARkTCgbPeK-2E",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "bar",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 2081,
-    "vicinity": "Osaka, Kita Ward, Sonezaki, 2 Chome−5−22 日宝パティオ曽根崎 1F",
-    "distance": 766.2162797629709,
-    "score": 0.6785
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7071491,
-        "lng": 135.5104988
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70849657989273,
-          "lng": 135.5120036798927
-        },
-        "southwest": {
-          "lat": 34.70579692010728,
-          "lng": 135.5093040201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "yakiniku oukokuya",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 4032,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/100822513150529381584\">小野島颯馬</a>"
-        ],
-        "photo_reference": "ATKogpfXH2FOkKscvJLzsVTa2YA3z4OQbYkn_guCZfU-sDtZFMYvhCfqLURNKsr1ITtBB5cVxgxRhLDR5RtsUi3KCwYkgNp0AJN4I4wmFh7ESvaaPfOPj_ohg9GmMXq91MB34K2jxALz1PKHVtcIwaBT7AdYydR9ARl9fKALYck7kqeG9_Af3s7MQ9kl0LQ751cNMQ0gHe0za5qOWwsmq-vWTVu8ApejAW7NpIWQnWacVm6DxN9wf7iDJ1VZKByhyztWsEPBXMTOuAoP_5NUUtvJtWHCsvN-nZKUSBT3lbtrH1ob7madGmUEP5s37khCUeCtu_W7Ci10VP40-jqvwsO7U_w_SompTNJ07YRUHouG-H_CTvF-26Vggwb9cNmIZs28R9i3jgJ7-P7AIQsGo4eTeyp3FtwmwYfDpPk_327b78K6voTbGQ1mRTpgr9BtG3C8N5akP1qp5nOZ-vq9zLOUPd-s376Bx29449LL03mbTqWue7kwdncfz5-YqrtteU6EXCyGgeObCw5R-sB_mZtJ8bq1wGl3r73khVUkrRxDLJy1wI9Kwi8TJxM4WkBpDDgwGqTiqIhU",
-        "width": 3024
-      }
-    ],
-    "place_id": "ChIJXUc7SgDnAGAR4kfDOiSShis",
-    "plus_code": {
-      "compound_code": "PG46+V5 Osaka",
-      "global_code": "8Q6QPG46+V5"
-    },
-    "rating": 4.6,
-    "reference": "ChIJXUc7SgDnAGAR4kfDOiSShis",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 120,
-    "vicinity": "3-24 Naniwacho, Kita Ward, Osaka",
-    "distance": 619.1623730389101,
-    "score": 0.674
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.6995374,
-        "lng": 135.5012445
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70090482989273,
-          "lng": 135.5025937298927
-        },
-        "southwest": {
-          "lat": 34.69820517010729,
-          "lng": 135.4998940701072
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "焼き鳥 備長炭と宮崎地鶏専門 TORA鶏YA 梅田店",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 1760,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/101751536688379037232\">焼き鳥 備長炭と宮崎地鶏専門 TORA鶏YA 梅田店</a>"
-        ],
-        "photo_reference": "ATKogpezAZGDOgZRq40-xL4Dx9q661-C9New1I0cLPAXlpw6l79sByVkrS4dpd7biZmbtRPkUtlKJRmZYVwHiuqY4lFFlyFSunrpJhhGrdODtAjMvv9X9-2q0swP_9RxJTR8z7WRoUNebGUQItWGGYarBrw65vYykutZrKWhCwtTJYNCzqZ8KSk9apsgO9fpCIo7R9Ob1Qh-L2MSf0hR4IzEYjnHCF28VGjy0ntCgXadq4zton1TF09hIPlNRytPwt3N1s4l-qJgW7rEH8nyNn20zyj0bj-gY0qAouctXZRAGvseLFkA-n4",
-        "width": 2640
-      }
-    ],
-    "place_id": "ChIJOQ9nkQ7nAGARBQQHH94yqkA",
-    "plus_code": {
-      "compound_code": "MGX2+RF Osaka",
-      "global_code": "8Q6QMGX2+RF"
-    },
-    "price_level": 2,
-    "rating": 4.6,
-    "reference": "ChIJOQ9nkQ7nAGARBQQHH94yqkA",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 1414,
-    "vicinity": "Osaka, Kita Ward, Sonezaki, 2 Chome−5−23 お初天神参道ビル 1F",
-    "distance": 762.7788421090745,
-    "score": 0.668
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7086047,
-        "lng": 135.5125367
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70994052989272,
-          "lng": 135.5138677298927
-        },
-        "southwest": {
-          "lat": 34.70724087010728,
-          "lng": 135.5111680701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Siwani シワニ",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/115506226588201328770\">Siwani シワニ</a>"
-        ],
-        "photo_reference": "ATKogpeo0a_PxlqwTP3VdjrlWz4iymKAfhdyxmOQKCUxk6ItDOBNZyen0p9Vc-Otv-K4EtP36s-9-A-bRZlrMZoSphWQ_jg4JQhu-_nqEJHPSRv3AlRne7e3LT39cWhiMnQPtJfanABltC_Iauka1UUMbfZsoUm5HUVdCKYK7UzqFPeckUqoNd5K7kiDbiLLvr0MTfuSnR_5zuvksrU_nzaPEbq6trxMk1ayzQsuSAX35xjtDujGKT85jaALbaAgqqzGVm12lty9cB1Sd3EaC57zxm1y0fvbO0kFGm4g-70LKI24HRDGd0k",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJ6x1805TnAGAR0o4oeYtH1TE",
-    "plus_code": {
-      "compound_code": "PG57+C2 Osaka",
-      "global_code": "8Q6QPG57+C2"
-    },
-    "rating": 4.8,
-    "reference": "ChIJ6x1805TnAGAR0o4oeYtH1TE",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 30,
-    "vicinity": "Osaka",
-    "distance": 842.5565624326658,
-    "score": 0.6612
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.706972,
-        "lng": 135.4991059
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70838837989272,
-          "lng": 135.5005788798927
-        },
-        "southwest": {
-          "lat": 34.70568872010728,
-          "lng": 135.4978792201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "8TH SEA OYSTER Bar 梅田NU茶屋町店",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 2268,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/107007609935845161288\">shira ch</a>"
-        ],
-        "photo_reference": "ATKogpfTJhqC3kCgoP_vQI4I6Fjmgha6_gablqmxRm25q6pUamJ0QCPz7-RQB6Vcu-cn-C8raV5CNgfRyatzn-AbN1P8I1Y3e519BzHaOQ2R1Zav0_3H0BmGg3EzKbGnOk502wha4yt_lum2QowDrSLbTBSrXOSIo5OUSHGh9Y9Aw3t5PmlgMeb0IWqwgJ7TRZHjAlKiGLkehsyUU42SFwi7BIKSQh4SUebGfIPkuxeLXlKrAYw54e6cXKVtq-T5OPsJ-cgsnc3jZ1gzved26DiRpVqLVrXkMPLEivap_G-ultJeukEfjgvW_Gy0yYDrQdgQxQs53j6-6KWzAJFNREuXWRfgLdWSr6JSWxGONAW27BzIhvhOLNPtQ-gmF7L0tjyJfZtGqaXVCs6srQiOybV8TwPdVXi1cb11PXGIIOaLxkBezqEVuDHWMT8ThtWHwsQp8M_JZwpGP--qo72zEurZKTgjHUrRkyIcJvYJqs4F0ZqZEeEpQ0QO8GnJ37lM0uxb5uWixS2GdLvh5I3CxcysOxWu881mHpvZVHi88RP_W88aD9LjKKquSuICmR8wJwhAuoyhH69L",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJK974ppHmAGARIXaGcgb0uy4",
-    "plus_code": {
-      "compound_code": "PF4X+QJ Osaka",
-      "global_code": "8Q6QPF4X+QJ"
+      "compound_code": "PF4X+RJ Osaka",
+      "global_code": "8Q6QPF4X+RJ"
     },
     "price_level": 2,
     "rating": 4.4,
-    "reference": "ChIJK974ppHmAGARIXaGcgb0uy4",
+    "reference": "ChIJf63W93LnAGAR413Wj2EiYO4",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
-      "food",
-      "bar",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 434,
-    "vicinity": "Osaka, Kita Ward, Chayamachi, 10−12 NU茶屋町 8階",
-    "distance": 446.29268364091496,
-    "score": 0.6536
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7089869,
-        "lng": 135.510639
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.71029267989272,
-          "lng": 135.5120521298927
-        },
-        "southwest": {
-          "lat": 34.70759302010728,
-          "lng": 135.5093524701072
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Sushi Roll Double quotation Iki",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/102358992500645700562\">Megan Quinn</a>"
-        ],
-        "photo_reference": "ATKogpd2D9M-haoHbVrJl14HNCxe7i9iQzfBCHDcvTgz3g3X-y9nB3OEDnqhITvkhqgqj0PuFuJwHzji7u7S98uA10iTWORdN481TWpGgGtVH6o-r0HqhpndwX7vVfo3NTCHE87WhyvnCjaHlfavKTCF1OAwDfnUH14BMj7tE2CDAosGbw0wj155iQBcZmj393udLkxdWBV8siTej_qSaJje5K2QwKnO_jIV1WCInXeTXjlhqcVICYd5TzkUrYgBlvzbb1fjEBFEJmovIjClaLh7rciYbOby_kbOQYsl-EhrgxP3HzZjcX_VuuR7tz6wdKX8hcAazs1Iy5tm3L91FUGfbVCVgV-4L5u2jpFLRujTEs46X1cy-1GHqIJBDzU9sJs7viIelfnlsLoY4wwO6ybyxhAD0WPlyHMunXEjHJvi-I6pqGH-A6s8s7ssu5e59fRIoBwFHd_wWRKsL0leDOpnQEDrmlGdbzcbCpy_dZ4xFCBZLgRh0lTQFtqF-okj3XO0laBhwcyB0frF8BBAmlfDNsH8BZBpqMAQ6ybvam9asyx5l5bHhfZP7ovBoQcv7QKwkjg0tYtW",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJ5S4yzr7mAGARm2KL1L75g0U",
-    "plus_code": {
-      "compound_code": "PG56+H7 Osaka",
-      "global_code": "8Q6QPG56+H7"
-    },
-    "rating": 4.6,
-    "reference": "ChIJ5S4yzr7mAGARm2KL1L75g0U",
-    "scope": "GOOGLE",
-    "types": [
-      "bar",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 233,
-    "vicinity": "13-40 Naniwacho, Kita Ward, Osaka",
-    "distance": 700.4967566758357,
-    "score": 0.6466
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7075355,
-        "lng": 135.5083845
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70887177989272,
-          "lng": 135.5096963798927
-        },
-        "southwest": {
-          "lat": 34.70617212010728,
-          "lng": 135.5069967201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "New Rajasthan Osaka, Sri Lanka international restaurant & bar",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 852,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/117207993103202548933\">ニユラージャスタン 大阪､スリランカ＆インタナサナル レストラン＆バー</a>"
-        ],
-        "photo_reference": "ATKogpeKZxaJ_tkZFlryvqeoCZ3QLsl7JWP8SF31ZvjAh3e_Ey4NOhEw8mmzA812K7pebn1dmqhqibvPVXf9ieNDxpHQmycVRchr3aXpk0o0SMj0IEib8BW7FbxWG5TBSE7b8eA7nzVYCL_rdgIkvVJ0UgeOK9Ev1OnClEDtMO0xjD4kbRrhzGyj-R-btWG_oxdnglZr-Ikh9II_Rl2i7hUtkki6MEgMOayp54ZZ-0W9a_IOrA3s0SohxCEkPwnKZ6vTjFPRRA-dCWm0WgYIbvh3PibA93Ee-DIVrAup4wdu-8MIcR4KAZ8",
-        "width": 640
-      }
-    ],
-    "place_id": "ChIJl1oiBvTnAGARkABQRFSYMgc",
-    "plus_code": {
-      "compound_code": "PG55+29 Osaka",
-      "global_code": "8Q6QPG55+29"
-    },
-    "rating": 4.4,
-    "reference": "ChIJl1oiBvTnAGARkABQRFSYMgc",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 94,
-    "vicinity": "ニユラージャスタン ,大坂市北区黒崎町8-7",
-    "distance": 445.42498610720907,
-    "score": 0.6043
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7054212,
-        "lng": 135.4999978
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70691077989272,
-          "lng": 135.5013240298927
-        },
-        "southwest": {
-          "lat": 34.70421112010728,
-          "lng": 135.4986243701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Eggs 'n Things",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3221,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/110508404095288914166\">Japan Aiko</a>"
-        ],
-        "photo_reference": "ATKogpdCF5KIfsyUPR0ibOREH9Haldmsp7tEV6a0GZNLTHrI0yBbsUc0fBt8uzKU5_UXgTddrPZIPhi90LYJSN_eSGRQzL-jPMR5uRL-ni9V8eNXXSXLlujUo--V-gZzoJSU48OrrvRQeXQFTsq61Eey6gX4ka71MJ6pzc__e4Z2nS1h4SlEwdOS0iEm5o56qtckmzN3TSCvmKtHNdxegtzCwwfApCgpwrNxzqRsVUIhOJklHa1x4LVdS_NB7l-y_oJrlr15O8vrVN6aHlzgeb2txAyzke66kBUY3UVGAphViHhe04ajAaQn5SZ2R_isadxEFVIstLpCxfoipT8qPhQvQe9mloHj89Jw4u_fo1xJQpcITFPVjX4Ba2HjUHtHBLb0Av2z4d7u9ucbcfc1U_0cuB3-nk5A7AJv8NOq493XiQKbIBckOCbf2geAsBNSpDbiaW9pnYmBST_1TpJaMjl6vrvp71c3NE6TUg1PI1Qn59mrlTY0ZX2lIgzmmO6EH0fbM0tJ7AtPsRiRk7kqOBlUfQRTyJCo0vn7pbq5fSr2Idc5xD5_Tr4FmyjqL7OFd8XjYmYBxA",
-        "width": 4295
-      }
-    ],
-    "place_id": "ChIJ5-RjB5HmAGARSVydVI7ptFM",
-    "plus_code": {
-      "compound_code": "PF4X+5X Osaka",
-      "global_code": "8Q6QPF4X+5X"
-    },
-    "price_level": 2,
-    "rating": 4.2,
-    "reference": "ChIJ5-RjB5HmAGARSVydVI7ptFM",
-    "scope": "GOOGLE",
-    "types": [
       "cafe",
-      "restaurant",
+      "store",
       "food",
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 1255,
-    "vicinity": "1-45 Chayamachi, Kita Ward, Osaka",
-    "distance": 359.7879711403153,
-    "score": 0.5739
+    "user_ratings_total": 1319,
+    "vicinity": "Osaka, Kita Ward, Chayamachi, 10−12 NU茶屋町 9F",
+    "distance": 455.0333209823773,
+    "score": 0.8153
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7009253,
-        "lng": 135.501331
+        "lat": 34.7077246,
+        "lng": 135.5053267
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70231332989272,
-          "lng": 135.5028964798927
+          "lat": 34.70906517989273,
+          "lng": 135.5066516798927
         },
         "southwest": {
-          "lat": 34.69961367010728,
-          "lng": 135.5001968201072
+          "lat": 34.70636552010728,
+          "lng": 135.5039520201072
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Yakiniku Douraku Ohatsutenjin Branch | Osaka Yakiniku Kobe beef BBQ",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 600,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/104462482380667700947\">焼肉どうらく お初天神店</a>"
-        ],
-        "photo_reference": "ATKogpc20-jURiT4BCVj4S6K6WS4wQO_LuLC0rN9MSvztIw8mCDdOO2IzcPtPYhDXD1DxHMcZYdEwxvarv-Xxr6AlqeE5EwJQx37WYzQGOaoVJ3jBZQgB-TZDxeRCneUOw5LWpQ7dbkhi3U50onr4LVyKotanWLhIsQuLneZThOLNrQhansM5gXC4F9eUNlTtBNK1-RuBgWkyK37WsoLesEVw0gbsx5y2lRpeK-sMHEkmFsQHwZTgLzE2GrH7ARqaue9eGPeezDSh7iN7mB3zsG8PTRwunoTeTrrVX1Q0gIz655lHLNK5EI",
-        "width": 900
-      }
-    ],
-    "place_id": "ChIJ3W3RUSrnAGARu_9yhUpDMQ4",
-    "plus_code": {
-      "compound_code": "PG22+9G Osaka",
-      "global_code": "8Q6QPG22+9G"
-    },
-    "rating": 4.4,
-    "reference": "ChIJ3W3RUSrnAGARu_9yhUpDMQ4",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 264,
-    "vicinity": "2 Chome-14-5 Sonezaki, Kita Ward, Osaka",
-    "distance": 615.0969830489204,
-    "score": 0.5355
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7027281,
-        "lng": 135.5029438
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70411067989272,
-          "lng": 135.5041994798927
-        },
-        "southwest": {
-          "lat": 34.70141102010728,
-          "lng": 135.5014998201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Ichiran Umeda Hankyu-higashidori",
+    "name": "French cafeteria Cercle",
     "opening_hours": {
       "open_now": true
     },
@@ -1343,20 +412,182 @@
       {
         "height": 3024,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/100654650184939747882\">Slawek Cisowski</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/110886680982047001208\">595 LOOK</a>"
         ],
-        "photo_reference": "ATKogpc9FRVVEo6PWp7d1Ei_2BmVRwGfGN8qrR-yaEv754KWpBCy2ggctBbCjfyEv9ca0MBDRgIbpTbRaUKT7K6A_H5LrbWtoVeQfXyyJAIIoHmstWvbwexByUuxhunpC-I5xvsCHdlvYa4zAaoT7Cb6kp2fS5L7mgIAzbpTgzQ4Udg9x7bjaHxqMeuLV0XH_U0F58ZZSbsBUYoRrFEmhS74E6toZ3Eq6KI6WoSBoUW2_JwLQJAzRfz9S_jz95pK95d7MEgSPCyTC3DXw6DA8ZZweWWQDG5X1pTUIJGXPmARM_NfrSl6lxenJGnYbSeiMJjg7q8y9umXGFB8soLfJMNd0b7vDm1I5asaLW46bMyXJHmTGle-nOinaOiFzpiElL8aQqyzb2LJCR4HthQPfNo1InSwicUnPaE0TRUbIVIwTTtMtrcuwqhrjT3dF2Chw0q4k8xKpk8fTL5M6NkQt156qalJrfhpBY9vxzPMTkstZ0RmUG6H5ziXGSqgzMJNYKiGniLzb648GlRtnYy0WQ-1cQULMOUubk97sXnobq0ORT5E4nrhBiEC6I56FJaLnoBSSiWwUJ9n",
+        "photo_reference": "ATKogpfHjL9ttRtzMNCxjXVD9fT01AdYNsWXe_zUjSdNog14coeDwydCMcyyUn_Cv1sW5rRXDjqt5dOmQkP7sWDLQN0Gbd5iA6L0TEiLZ35mQrsfgeaEI53TcDUfwxpdADlegq9C2hIi9Uhncd7vfYpRzBRIzLi6KPfl1mukpNJOYSRSoJAUMFvmg-NOsSMUIpWvR53epuER9uIoWGK9Xq6eB6LVgQ8LtFCmyZqOsfynqcp3L1XaMPG23j-0fknXRGeTr0hZD1656rGNOviWiwd-14YZeZ7uUlLibnCr24CsAdhFxmVJnN9PRv-UKjnv5zj2OV57nUzxkTBpKS9MBPnrndHt-W9zyVN0jemWRAP9_n5QMb8CGPOQjE7iKTL_kE_ce4vdI8CuGiXhVxOr83SuvUFCbnHLw1VEzVIHKK5KRAnaYZlCo06s4xJsjksPttB4NoeOkGEs1bDl11sZHjzAtGLIQxU65W7tD7YIkUfLQ2iluyfFrUN-7YAWpdBIccJzh4auXzHpZa09qEqirkzDjtwCtqRlrKQspVBHVBdzwkzNssUewCPKRuq7BaP1mSUzv5CgND_f",
         "width": 4032
       }
     ],
-    "place_id": "ChIJX97nNOvmAGARdTaAqV-Uv1I",
+    "place_id": "ChIJ3wF_6JXmAGAR0d2FSFHxTwo",
     "plus_code": {
-      "compound_code": "PG33+35 Osaka",
-      "global_code": "8Q6QPG33+35"
+      "compound_code": "PG54+34 Osaka",
+      "global_code": "8Q6QPG54+34"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ3wF_6JXmAGAR0d2FSFHxTwo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 206,
+    "vicinity": "3 Chome-1-8 Nakazaki, Kita Ward, Osaka",
+    "distance": 229.36796294910502,
+    "score": 0.691
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7065977,
+        "lng": 135.5112241
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70789142989272,
+          "lng": 135.5128342798927
+        },
+        "southwest": {
+          "lat": 34.70519177010728,
+          "lng": 135.5101346201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Tenma Sakaba Sushi-Kin",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103803739527101509340\">天満酒場 すし金</a>"
+        ],
+        "photo_reference": "ATKogpcvafT_LN9VpPY9t81cUhw4vDFaRQ11KUk2A-SS3SfVlYY0mHhnQV2XQ9-asNZIJNk8cmg-Q8sMBrtSWQXQXtgUIr22C0AYCybNwaTyM11xopNW46oqQKEpwb3Bxj1ZXvUHV9cLsEisYZPoHLxU_ZHvG97noFgbEg2edJxtsheFqO7WhHkwdz1xhVeqo3EaVF1xyYtdefXu2VOKeueDAkA680e3g6e1EuZzwEdl_MT4shmvAVQdIJDlleRhm8Dkj5D-0EcBVRBL3Ddz1rYf53wqCPPkqLUk3yx4L4vH_2ukOnNp",
+        "width": 1000
+      }
+    ],
+    "place_id": "ChIJs6an-xLnAGARRNX6JZo5dOg",
+    "plus_code": {
+      "compound_code": "PG46+JF Osaka",
+      "global_code": "8Q6QPG46+JF"
+    },
+    "rating": 4.4,
+    "reference": "ChIJs6an-xLnAGARRNX6JZo5dOg",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1127,
+    "vicinity": "5 Chome-7-28 Tenjinbashi, Kita Ward, Osaka",
+    "distance": 676.0569673653371,
+    "score": 0.6815
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7008674,
+        "lng": 135.5001685
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70221612989272,
+          "lng": 135.5014884798927
+        },
+        "southwest": {
+          "lat": 34.69951647010728,
+          "lng": 135.4987888201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "お初の十忠八九",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112634882403191455374\">ごやめし</a>"
+        ],
+        "photo_reference": "ATKogpf2GdShcyquMxFuOfjcuSPUPShi1aJjfW17flouUsWlplf7bjR7RuJ5Ms9LKAj0DhLNfPexxHsn-_HY9u4E7_dlm0cDYP385P21DZLe5rnMWjFarWEa9OJPZgtfFyCSX3oOlhhm3BNQcMkqeamib9hLOnpUzlo2cdQEMxG99LX792l6NsDO91WaEzHE9hkm1xpdMIzHs4-s1diSaVUuti-m_CXTUZOZnUca91VGAYVna95e3FIkbr52LCDyzRDaDb8oWld-z4qIRZ-ITgzd8zrb2Q8M9zVSkBJVlTPrRZMx5MtZMTpnUTwjP_9AF5cLAQfSdmQM63xOa8-c-2TNGyWEZWZquemgVVAEM3_vAvWpFKi6KNri3dTYTQgmEDA_j79DNBLQ7EMcy_IneG3RYyXvtoEIwL9UvpZQhmIUSkMoLqvbuMi6ZiAIfvMUpAQqhDvvC2MfZtlVlfDBKyGasHvGW2M8Qnbiav1HfaCI_vUey-SMdDjX0Wz9CLivIQfK5pj7_LjCMlzF_5OCJI_Cts_Is8v66SqbWpBA_uY6zePkU_jNOTnSUJekQPq0-sxuZhTJFz3z",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ-_AeQMfnAGARQ653EdsnBgI",
+    "plus_code": {
+      "compound_code": "PG22+83 Osaka",
+      "global_code": "8Q6QPG22+83"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ-_AeQMfnAGARQ653EdsnBgI",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 64,
+    "vicinity": "Osaka, Kita Ward, Sonezaki, 2 Chome−13−3 ＡＮビル 1F",
+    "distance": 667.922158685995,
+    "score": 0.6445
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7025251,
+        "lng": 135.5019704
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70391377989273,
+          "lng": 135.5033287298928
+        },
+        "southwest": {
+          "lat": 34.70121412010729,
+          "lng": 135.5006290701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "酒処わすれな草",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2567,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110436187406041835823\">Kazuumi</a>"
+        ],
+        "photo_reference": "ATKogpcW0ruU_i20LPE3Oi9TCvwoW_EGccMyLM0cfboTZf96Yu4ktLE5R22qc-_U7a_jKPtFhUrWm6PWnhH2iy6X96OUSx4yG_e6AAWuEnGcz56qu2KcxGrEbsH7Bn72asp0oCS0S93B0Xn_McRSonVrpkPuqpH7A4MwM99lmkLJDcFFscM30-D0Za4uD5QX9yzpqY0lv2tvB2VxO0_f8MfWs14fGrSMzzgI2mqK7qC9UEcS_AKiv7R29Sr6d7d21YxNrGERU9F8JyQlaol-2gdydb87zXtG1ZZ4z0eN5NJBpxojzEnDpMXbA2H_0Xjw03vK9rWWGqgI1hYO2K-nBZqXGYhtsj8SHGTrnarjQOKozRplSzfzdwJ77NX8aRbF2rda_WvEBeuQBUr34gF27Sp7g10YjuwJ-9ge0XNiSUnj-qHvFUOqd5YBsLCFOU3UUkpwcHtbv_Sk3JTqOUf6s28fB9Hfhffc0cXFfmVf_0zRp_zFzzx5oFcIkq9FlLxEPzaJwwF7bMxrmi5XIYfkqSGUrbbFEq2eiIbInEozZGDeukBWLpBn795layib9h9c7EUesfelLiYEnYtySK_JKH8NEOMBI8qftQ",
+        "width": 2567
+      }
+    ],
+    "place_id": "ChIJhbTIPA_nAGARZR7lt02iaHY",
+    "plus_code": {
+      "compound_code": "PG32+2Q Osaka",
+      "global_code": "8Q6QPG32+2Q"
     },
     "price_level": 2,
     "rating": 4.1,
-    "reference": "ChIJX97nNOvmAGARdTaAqV-Uv1I",
+    "reference": "ChIJhbTIPA_nAGARZR7lt02iaHY",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
@@ -1364,50 +595,53 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 2639,
-    "vicinity": "3-13 Doyamacho, Kita Ward, Osaka",
-    "distance": 378.93640328527954,
-    "score": 0.5034
+    "user_ratings_total": 883,
+    "vicinity": "Osaka, Kita Ward, Doyamacho, 4, 梅田地下街3-4イーストモール",
+    "distance": 428.4637512756057,
+    "score": 0.6286
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7075309,
-        "lng": 135.49762
+        "lat": 34.7071058,
+        "lng": 135.513254
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70891332989272,
-          "lng": 135.4990154798927
+          "lat": 34.70849277989272,
+          "lng": 135.5145772298927
         },
         "southwest": {
-          "lat": 34.70621367010728,
-          "lng": 135.4963158201072
+          "lat": 34.70579312010728,
+          "lng": 135.5118775701073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Osakariverside",
+    "name": "串カツ×串天×海鮮×日本酒 わらいや 裏天満天神横丁店",
+    "opening_hours": {
+      "open_now": false
+    },
     "photos": [
       {
-        "height": 3432,
+        "height": 1087,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/102909117779951578314\">松本留五郎</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/102397652094620651669\">串カツ×串天×海鮮×日本酒 わらいや 裏天満天神横丁店</a>"
         ],
-        "photo_reference": "ATKogpc7mh5UI5E2K6sNN-YxXteesMlf6lMp9eO675VoExedpdwrRTFLcxqaKiGriNB7TWX74Yai8DDuFxG5R-185QnaYRGQeg6jxSv6a-rqVm3XvrFUle1sv0Kpo9TwHENuX05xr8dXLLkQo1hshe1tGvzfqaV8UOGUfcWQvVbp6Om8riowwnLdpHLrpDh2DzXISfyjT7Rt8tQXZ2bOFNZgDqVl1MThWBtknq6LcfWh5QxHtjna_tOu5OffoEMd-lSTI60k-zZGXEDHu4CjTaaoB1ImlkNi7wBr_SBQPmsc2u-EYAmnOhoz0l7PFlj8cy03cpF-FzVViiEB_sx8nwsyGO46p2Fxp5I4PNI6BLYHMIKpWV7VFujO28YTla4PRaMVwWtr-JSxVaamSWfW8Yf3Auw2yQMgyrMKPkL1TBG6M4iFJm83lvt1Dz5Dnt85V37TPFUy-cpnxpsrK-AKyCu7is_l7_OuV5UD0fur5aZioU6sjPjtdqJ_IUeWNLKHfz4_BpfO5jm64m2SRnYauJ9EjKFYKAwKlqWTXa-ALsLRVN3AYE-tBCAIhoQt9euRjYE9Ud6MYO-mZVPcwA",
-        "width": 4576
+        "photo_reference": "ATKogpet8Q5WS_aE7DiS4qlsbZTOzcgreD3aSkYZGSD_PBBP0_yxpoM19V4OwntrW05qHU_z8XFoR3ZJ1k5lEVq0vwTiP4tmA_r5ZgQpegVZkpbklZHMKxjQ-VGJsG2hlkmBjDGN3bwn-5nkzaNRKJvaNZFCbh3IzfB2dxyfml_-tYoNOck0dLIbviHwqQrUT-X8LTWPiZ5djfWtnL8PejojW9wl9Mlihue0b4LxsnHuVJ3VhSI8mJut3ZMvFXl20Rx8ITI4RZxrdqoKEsT5oFsEE2uVBBiwIX5OKj6hjBTaQh12vA6VDM0",
+        "width": 1242
       }
     ],
-    "place_id": "ChIJVf0_DvrnAGARjZR6gzpYmRQ",
+    "place_id": "ChIJ_xw2Lh_nAGAR6ZZ-Km8gQP4",
     "plus_code": {
-      "compound_code": "PF5X+22 Osaka",
-      "global_code": "8Q6QPF5X+22"
+      "compound_code": "PG47+R8 Osaka",
+      "global_code": "8Q6QPG47+R8"
     },
-    "rating": 4.5,
-    "reference": "ChIJVf0_DvrnAGARjZR6gzpYmRQ",
+    "rating": 4.6,
+    "reference": "ChIJ_xw2Lh_nAGAR6ZZ-Km8gQP4",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
@@ -1415,53 +649,108 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 2,
-    "vicinity": "1 Chome-11-5 Shibata, Kita Ward, Osaka",
-    "distance": 593.4738448407894,
-    "score": 0.485
+    "user_ratings_total": 131,
+    "vicinity": "Osaka, Kita Ward, Ikedacho, 8−6 裏天満天神横丁",
+    "distance": 866.8377425399034,
+    "score": 0.6176
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7032818,
-        "lng": 135.5045743
+        "lat": 34.7063472,
+        "lng": 135.4976486
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70463762989272,
-          "lng": 135.5059853798927
+          "lat": 34.70767447989272,
+          "lng": 135.4990134298927
         },
         "southwest": {
-          "lat": 34.70193797010728,
-          "lng": 135.5032857201073
+          "lat": 34.70497482010728,
+          "lng": 135.4963137701073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "All-you-can-eat Japanese black beef Yakiniku after all. Umeda store",
+    "name": "Shinpachi Shokudō Hankyū Umeda",
     "opening_hours": {
       "open_now": true
     },
     "photos": [
       {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104938624730939749876\">Tamaki Teraguchi (ティ-ティ)</a>"
+        ],
+        "photo_reference": "ATKogpcDLqFEwXlH_UnEXivOkTbdV0VZxsaEusN8U_gBwaWq6UWD11rv-KsN8HRcfj7nDrSKwTt0GbS9emdes4SOVQr8rGMS2rx2dPln8KyL31p-J3kniU1A3PYmy_bCrEDSbFjSDUvbqMypP_TFkAGpoyhF52WxcC1IG8C9LlF5DX5AnxGcbR9BSfge0ZoSdZbOJ2No2sRUPpszFiaam18_Ztup8Nd90VuB2Pvb32nuLkmPbNCPFoDHYbijvou1sj1og8lTE6qVVWGE8Qe9hpcwU_s_Mdrfspgt95vuPtlUy3C2mFplIRx38oTWplFviwrDJGzqN-OoKtGIY1FY7TxqK07nry94lloRmdoBMkQz2Hsavp2Ous3JDhhJRWlmnuXWHLuJYxwj7QXGZLk5MgI0V0SMyKNR07CzojAPREfzJjJcWnHjBP8xJ6c8WTDsssCnoWyMiIoiQnSpZWgoxoQHfEIizXZqobbsO51je5zYD1r4KNxsQqIyEf7dPd95X937rENfCJIsHWyHdKYzfh3BEOocruLtI8BRL8E7c4t1MltfcNl11RPDyQiUVka8WzIchty7CWIm",
+        "width": 5504
+      }
+    ],
+    "place_id": "ChIJ-yUcK63vAGAR4epP-VCisqc",
+    "plus_code": {
+      "compound_code": "PF4X+G2 Osaka",
+      "global_code": "8Q6QPF4X+G2"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJ-yUcK63vAGAR4epP-VCisqc",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 601,
+    "vicinity": "Osaka, Kita Ward, Shibata, 1 Chome−5−14 シマサダビル 1F",
+    "distance": 568.5740701618514,
+    "score": 0.5959
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.70701409999999,
+        "lng": 135.5131318
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70836457989272,
+          "lng": 135.5144752298927
+        },
+        "southwest": {
+          "lat": 34.70566492010727,
+          "lng": 135.5117755701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Sushi Totenpura Oyaji Tenmaten",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
         "height": 1280,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/114786163483265051080\">焼肉結局たれ。</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/109077747363949204374\">寿司と天ぷら おやじ 天満店</a>"
         ],
-        "photo_reference": "ATKogpfz6Xy8dV8joPEQFt9mJqZ49Lu6BaixyUhi5PpT-22XpYmUlp3g3ucx8SO_fhaaCWo_mc_XGGrnekE-pts0oS7rIUHWv5PhWiULT5Wi37htu0C9jexIhpLOIaXVrJerDuSpcvpIQi8BYNmjXtzjYTKoWn3KR5njC2jcMdECOc2uQ9g39XuzQi0FoCesY0ZgZPTQbrEjFCVPC-DZZypCXxGNerDzNXIRJFr5Tcbi68vW2hXfY5BXJn-iKgB8783H0FSRIYNuWozl7rc6MjpYYTiCx2o1PKUKsgaz_107iO2GPFE-5_Q",
+        "photo_reference": "ATKogpcO34zC0FlZnWUfIsSvRCDNHvTlmWHFBH7MkWOiGBv3PamZizZc_cYxaHaDnzPZ3BL4zKnbIgNQCeokp8NTCcnhscbb4hj1YnUsHb15vd-zdljV52GPu2QStErRRimNaBNSBRUnQYLtvZEkGUHcN_mq6ISzLaM8wNcUNOInhFw-0K9guu-hNQ3Dhl9ivC9mj_624B-dbW6V5byXxam8k7i1ikqKoqeYafoKCSTE6dcCPt0MYzv_1_VgF4xEOTcUJJh5PTdG4APv_h8T1z_X_31pB0B1zSQHpJRlDS6N86Bql4gx2ek",
         "width": 1280
       }
     ],
-    "place_id": "ChIJo1QDZMPnAGARFqwr3R8oMCM",
+    "place_id": "ChIJSS2HG-PnAGARMOjF0ZmmrpQ",
     "plus_code": {
-      "compound_code": "PG33+8R Osaka",
-      "global_code": "8Q6QPG33+8R"
+      "compound_code": "PG47+R7 Osaka",
+      "global_code": "8Q6QPG47+R7"
     },
-    "rating": 4.1,
-    "reference": "ChIJo1QDZMPnAGARFqwr3R8oMCM",
+    "rating": 4.5,
+    "reference": "ChIJSS2HG-PnAGARMOjF0ZmmrpQ",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
@@ -1469,386 +758,54 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 235,
-    "vicinity": "Osaka, Kita Ward, Doyamacho, 10−16 1F",
-    "distance": 314.91334835505063,
-    "score": 0.4628
+    "user_ratings_total": 294,
+    "vicinity": "8-5 Ikedacho, Kita Ward, Osaka",
+    "distance": 854.4351924432401,
+    "score": 0.5916
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7077196,
-        "lng": 135.5017443
+        "lat": 34.7109333,
+        "lng": 135.499417
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70907452989271,
-          "lng": 135.5030544798927
+          "lat": 34.71228812989271,
+          "lng": 135.5007627298927
         },
         "southwest": {
-          "lat": 34.70637487010727,
-          "lng": 135.5003548201073
+          "lat": 34.70958847010727,
+          "lng": 135.4980630701073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Tetsutaro Umeda Nakazakicho shop",
+    "name": "Organic Vegetable & Italian, Bella-Porto Nakatsu",
     "opening_hours": {
       "open_now": true
     },
     "photos": [
       {
-        "height": 4000,
+        "height": 3000,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/114427033199283003531\">海鮮居酒屋 てつたろう 梅田中崎町店</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/102926625856728232857\">抹茶あずき</a>"
         ],
-        "photo_reference": "ATKogpcYWwyMcYX3p_4wptco0GO32bc3WNxGgKMzRaS_C1XdGWkaBXOmSUU5aeCbuktZuPWFzwzu8KxgKUQylF9wj-j8sAGoOqZUfXCd_H0i6ncOfQLVggJftTpyuGMaSwEMTXZJDdkShU_390AzzKSu5OjFyBJD91LJs28-gJtHzd44xqNhp7IwSzXmMfWouxlToHJnnKHn_JO-ykpBnlT6P3zRq0qZ3kT_wrk7efvTFD0Du8vGd0s_JqBHF-ZjFk4gQtpI35Iwn6Sd_5BWYOOuNv0aS2rqoBFYD9idkaUvFnRdwPngruk",
-        "width": 6000
-      }
-    ],
-    "place_id": "ChIJL8R9tZbmAGARY9lfqIYTU_g",
-    "plus_code": {
-      "compound_code": "PG52+3M Osaka",
-      "global_code": "8Q6QPG52+3M"
-    },
-    "price_level": 1,
-    "rating": 4,
-    "reference": "ChIJL8R9tZbmAGARY9lfqIYTU_g",
-    "scope": "GOOGLE",
-    "types": [
-      "meal_takeaway",
-      "store",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 463,
-    "vicinity": "Osaka, Kita Ward, Nakazakinishi, 3 Chome−3−15 JR高架下 36号",
-    "distance": 267.8080838207468,
-    "score": 0.4301
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7029862,
-        "lng": 135.4990478
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70431092989272,
-          "lng": 135.5005268798927
-        },
-        "southwest": {
-          "lat": 34.70161127010728,
-          "lng": 135.4978272201072
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Bindu Indian Restaurant",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 720,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/105280837526390230285\">インドレストラン BINDU 梅田阪急グランドビル店</a>"
-        ],
-        "photo_reference": "ATKogpem_nuOaP-kBcWxZKx4zYLWel9kmgNF_JUIshsissF50rsKYpMAPeMFXCZoAelciawXEMQJRbb6w6laaw801XXZFB18hGnCS_RTExA0vEBBxvFqIU1iOnl45noRgG6hFc7PbztqFUmFgCRvIoxgS77mVUrD0CPS3ZrIwokojGSNpeDNv19eryhfweMso4cHB8pzxgagc0NQVEDrNUfcwphiWVuIGOI1tgcL38-2D6R3CoBl1eFm5Do7IgoVSuUqM63L9qlLtmpPTwbUYhnuHNmEq6cgR83wQcuCAEyI30KgJ4Ily34",
-        "width": 720
-      }
-    ],
-    "place_id": "ChIJH6EIVpLmAGARE5W-5RQZdk8",
-    "plus_code": {
-      "compound_code": "PF3X+5J Osaka",
-      "global_code": "8Q6QPF3X+5J"
-    },
-    "price_level": 2,
-    "rating": 4.1,
-    "reference": "ChIJH6EIVpLmAGARE5W-5RQZdk8",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 330,
-    "vicinity": "Osaka, Kita Ward, Kakudacho, 8−47 Hankyu Grand Building, 30階",
-    "distance": 556.3984739385127,
-    "score": 0.3282
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7042757,
-        "lng": 135.4983239
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70569302989271,
-          "lng": 135.4992520298927
-        },
-        "southwest": {
-          "lat": 34.70299337010727,
-          "lng": 135.4965523701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Umenohana Umedaten",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/117259586251639477098\">梅の花 梅田店</a>"
-        ],
-        "photo_reference": "ATKogpdlBHCOg-Vnmd4sB21Os4tyqejuYtdPeLKDuTn5ankcOFtyHPPnWzwIg3ZoN8QS1nl-oUsyNebYnkcHryMpcDwFaqBAF6RN6ye2dh0PD5NRZtuP9NfB4bP8XYIp_2L6oDdJi27ulHKwI0k5j6lsEDPVGrwS5H0GZ1Hc0_WrQwWT94MRJp0-zAPieoAhABy4yT-BlkrY5tVLVeeiSO4U6paFacDxO36KXymRZnaLsHHTW3TFk9qKLPGl4lnT7v36S5nymSbi7IMcWyY-VPF4EC81sGuAPkBmbTd_HrgL-BKR4O9NA_E",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJiTr1UbvnAGARw1886MjwrzA",
-    "plus_code": {
-      "compound_code": "PF3X+P8 Osaka",
-      "global_code": "8Q6QPF3X+P8"
-    },
-    "price_level": 2,
-    "rating": 4.1,
-    "reference": "ChIJiTr1UbvnAGARw1886MjwrzA",
-    "scope": "GOOGLE",
-    "types": [
-      "store",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 237,
-    "vicinity": "Osaka, Kita Ward, Shibata, 1 Chome−1−4 阪急ターミナルビル 17F",
-    "distance": 543.0930527479081,
-    "score": 0.3254
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.706141,
-        "lng": 135.5107384
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70749422989272,
-          "lng": 135.5120914298927
-        },
-        "southwest": {
-          "lat": 34.70479457010727,
-          "lng": 135.5093917701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Chinese Restaurant Shuang Long Ky Tenma Station Branch",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116111000372859345581\">一文字誠</a>"
-        ],
-        "photo_reference": "ATKogpcckYXPMRVHkQsvB7P7qdhgy6C3t2cQtxEEngRAwbt6vOWaFp0Cqwqg6Jni1lCteBkHVzxY_nYOfFmPVMCpA2OG0BuQp76EQG4ocFJINYVM7UBCWdtH8K7QhLVn66S1yGvhPY6Ghad7KLz9ifm_M-t-kaP0W1k5ir5hsvKH_UAmb18OHoD_LQ9ugdbMsJQYnIFr4LkQmBFhQE6hdhogp_vmnYLOG3LTPuN26x9-nq9RVRyUdubAHNCtlzk4Kaal4RzEmR866AiB21fK1VJh8nvUOk3IehmhiY5lKklWsoBHVBeSlTppoStxBCXFscSLOd4xmAYdpc7BqE0487kuwme4udWui_ojMNymdlAYEX9vh0qMIYvDX6XJhhrNQmlFFpMuyGPYA13YnSNiKn6Bb6ItVpjf_Rnn7uSiWoOwEo7YrEtKknElfeLtuAjnhSSpRh_ADbQX-s4zpyACAtIkNocyGN24etMHr3dVTHy1sYyhPP0t4pvqhtyP8cpjtMVoQBI9krCoNpIv4Y661XjvxZC5N1LCVfTkOYKadkBPGGRPXyJV6ol9l5snpj0glLTA2o3QRg5P",
-        "width": 4032
-      }
-    ],
-    "place_id": "ChIJP3pkhsfmAGARnGblJRYSqMw",
-    "plus_code": {
-      "compound_code": "PG46+F7 Osaka",
-      "global_code": "8Q6QPG46+F7"
-    },
-    "price_level": 2,
-    "rating": 4.1,
-    "reference": "ChIJP3pkhsfmAGARnGblJRYSqMw",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 1064,
-    "vicinity": "Osaka, Kita Ward, Naniwacho, 1−24 JL天満駅前ビル 1～5F",
-    "distance": 629.0096339067287,
-    "score": 0.3227
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7030842,
-        "lng": 135.4999131
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70441177989272,
-          "lng": 135.5013315798927
-        },
-        "southwest": {
-          "lat": 34.70171212010728,
-          "lng": 135.4986319201072
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Curry Restaurant Bruno HEPnavio",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 1636,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/112621968596899654342\">pivot 513</a>"
-        ],
-        "photo_reference": "ATKogpc5M5UpLcL86lrqj1y_Oi8MP-4bc-Oe2IhQdEvFL8PdCqjwquL2bLa782atyZh6T_5Hpqsx5RNN6O8ot996xb8SEojTGWR4C8xFsUii0fMLhPA2Cl1Zivs7jIDzFbPMobNSrpCGSruISjWyDcxRvNx3aeXY3cbav3o6rVPO3lFsDQwwti9pLptbhpLhgqnDx7yc3Fb21Rupmq3VCUIHGmkxsXIQId3lqcc8Zgml8pUnNmgvGohzd7gH9rJXwDC7mQqzA2ymHbav9puu-Ezuw3cvT_z-Z0HEkfKSTM7A1fyiJU6jbbrHGkmalqBNK7EZ6jtGC74yJAXnZqTAC3wSYgQYeiHyksdycxs_YV644gxDeD36HdSJmJUy2KWhH6RZzfBBB5AvSadZ5xN8Ur7O4JgvognaBhtq4dMK5kWyEyqhvWP0ZQlSj-Bb9J2kZZzAQ3m7zKeEzHZW6eMLfdlC-QQKb-PUqqK6k-3yQiS8g6-QkSc9Qk3lI4zNZRfvgg4EfHzCN48TSkFXEe5KJkxtzHQL9qcAiRRviIr6fbE3zSeQMZBHUVnu45O0d0uQMDxvk5ZhwdSPIqyXkg",
-        "width": 2180
-      }
-    ],
-    "place_id": "ChIJCZ4PDJPmAGAR7ae2SMyutio",
-    "plus_code": {
-      "compound_code": "PF3X+6X Osaka",
-      "global_code": "8Q6QPF3X+6X"
-    },
-    "price_level": 2,
-    "rating": 4,
-    "reference": "ChIJCZ4PDJPmAGAR7ae2SMyutio",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 318,
-    "vicinity": "Osaka, Kita Ward, Kakudacho, 7−10 HEP ナビオ 7F",
-    "distance": 488.83476472804267,
-    "score": 0.2844
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7003804,
-        "lng": 135.5009533
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70171207989272,
-          "lng": 135.5023044798927
-        },
-        "southwest": {
-          "lat": 34.69901242010728,
-          "lng": 135.4996048201073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Thai Street Food 999",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 2448,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/109245244392536804372\">Masahiko Konno</a>"
-        ],
-        "photo_reference": "ATKogpeZyRgRfP0VkzOJiQ_3e8f8Y1n_4GC2TZ-ESKXFJ9rjy-cl-SexjE6cGrrcvwm2aVmB-WYaLG0WBNe7BLKeKCK3WSv-4dI9tQQnKBYUiirZa5BfUP5W-oM7EQx7pOpn8QHR75ar6XvbmBnzuoF8tsOIVnyMh-l_b3omUnVSCEg4l91-9xuTf2T5mtIAJunBViDQE__Z9nHuxswmCxe3XIwilIG5VZfu4hiKJcmL5OPToRzwdxvxv169TZnYXMxxthiNvQUfLXD9tFcXTZMEt-SDu-19tYtPpjYi092Nj7pBlPLHsdwFTvIELflq52gwvRxooMkaUaF4oZSxXF9q2BNSj7XsN31CmiFFSX69i2SxfkHUZE6td2H-jwuT-EmCL6ipeYAXpJ7Kqqgr813CHOSJB7mC0sDCeXDAadGPA7yEHbvZ4avGFdV_vte0Kcfn4WAeOuC4irIG7uX5ckJSyyQz2ArOvyRiuVFw6PajivHIeCOSB56rGoSeY_U1Pr8eBx1LN0AXsMFosrM7leQmYws8GAxNE70DF-VhjBw7c42StaP18FFobA4ZmNaboXPKSVvU7tUgS-IHTw",
-        "width": 3264
-      }
-    ],
-    "place_id": "ChIJ___7kOzmAGARLroVOJCLfTQ",
-    "plus_code": {
-      "compound_code": "PG22+59 Osaka",
-      "global_code": "8Q6QPG22+59"
-    },
-    "rating": 4,
-    "reference": "ChIJ___7kOzmAGARLroVOJCLfTQ",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 263,
-    "vicinity": "2 Chome-9-17 Sonezaki, Kita Ward, Osaka",
-    "distance": 684.2818203224515,
-    "score": 0.1603
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7052436,
-        "lng": 135.4980713
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70667672989272,
-          "lng": 135.4993950298927
-        },
-        "southwest": {
-          "lat": 34.70397707010728,
-          "lng": 135.4966953701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Menya Takei Hankyu Umeda",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 2252,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/117802555196030223871\">Jason L</a>"
-        ],
-        "photo_reference": "ATKogpeMnghyM7dtE64OwtcRAS9xgWiTP6YA0sTNuaBWSvack1eqrfp55_xnwYJTwlgP0kgpW2yLGj85l1fwFadyvORYmCoUb6RWjftHtHVqM-hJr-lqntkr5ozSgU18u7mqLnvbqOUA4YejhjKmWBNu9hQCDrMB54Pclyoc_MY7S7oYmBRSSwayv4ENNvVmCHdh8R70Uil0KL2KL-FyBTaiZUkbfrkODVkLXqtNbFsBveo1TLca6INSC3nRRH7-0LIaRqbXG_qlVb4n701DiA-3CjBuXaaxwlmwZrnWdePgkQfLucL1M-lPyprRhCtYKumA_j4qmVJ7taiBjLPJAcWwKZJfzNCmBD09zvnRq_2LZ0ApoDo7a6tUWc3fCibXM7xKEwJ2trlFEdfnwlYqUeXOeO6qta2nH7Nrdf1dk17hW-wY55MtghX0XjB0OdSAx8pbT6aorEAScSG-yC73U971SW2DpL504qCrYoaS1sBErJ03U2ITUfJeKtn01UFVO9AIoWqFjMfGxuuxGDOoyV04Q9GKL7SJu6_xg6XU8H0YDTKla23IjHGB8ONkwjvFc5lLRuVSo2pN",
+        "photo_reference": "ATKogpdW07dQ-NyttNzJggldanDAPUmhYD7cvOexM0kwO3svK-YhoKDI5wD3k7TxvM_IFG9CKiv6_Pjx1abMbRoNdMrjT3VqdztsCGgN4Jzg8wDRBWfUhHayk_3ynNsPiw2D5dXYiTBR0b0cO6hvwPHQNmy1gt4QOyg5qN3oF8DQMuZzdj8noFk3Y9YXXjy_GS2vdPlORzqmqhuLedHvWv9HlPzPfqGS25aIAhnJojaUXASJ6T4FP3Ziwje5aBuOTGPM4cXyN_l_sK9VACiBK_StcHdRB4DcNxamOV29WuKNU2kTL-JFISmxiMXJIzZgK1EUBNzjNTpjif2M5SYyP7T13FjfAT6T7lI1jMI63L-rcjtS3KiYtnNHWHrqs9u79KaeC3IHMQBZ2JNtDA3kDJM1lb_-Nm-tVvIPjxJV5JjTL6KQnC_kZtVO4ZSrUYZ-V2nJVsmOJ--yK_hcFS1LkyIoLaoJUNEgsgHHIpc5kSlaELYkoRzg_UVO5JMnIy_6TJVRxgOlJHgtnNC8HiRhwHPebyKbPd-V4AGFJMrvOXEWjJjh6koav55QWFxHsKH6GB2XLev9YhCz",
         "width": 4000
       }
     ],
-    "place_id": "ChIJnZ2RJ5LmAGARo2RaegXOfV4",
+    "place_id": "ChIJKXJ4YZrmAGAR1_KQe5V_j1U",
     "plus_code": {
-      "compound_code": "PF4X+36 Osaka",
-      "global_code": "8Q6QPF4X+36"
+      "compound_code": "PF6X+9Q Osaka",
+      "global_code": "8Q6QPF6X+9Q"
     },
     "price_level": 2,
-    "rating": 3.8,
-    "reference": "ChIJnZ2RJ5LmAGARo2RaegXOfV4",
+    "rating": 4.3,
+    "reference": "ChIJKXJ4YZrmAGAR1_KQe5V_j1U",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
@@ -1856,10 +813,558 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 1632,
-    "vicinity": "大阪市北区芝田１丁目１−２ （阪急梅田駅二階中央改札内西",
-    "distance": 536.5731620814144,
-    "score": 0.1425
+    "user_ratings_total": 346,
+    "vicinity": "3 Chome-6-13 Toyosaki, Kita Ward, Osaka",
+    "distance": 677.7973466680128,
+    "score": 0.5749
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7027438,
+        "lng": 135.5029043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70409682989272,
+          "lng": 135.5041522798927
+        },
+        "southwest": {
+          "lat": 34.70139717010727,
+          "lng": 135.5014526201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Kaiten Sushi Sakae",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2399,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101588607149946653054\">alcozsun</a>"
+        ],
+        "photo_reference": "ATKogpcAdwNuTeABqXQJ1sQRnzrXz1QZFeHM9wxdpPeGqnTH_kMDwYGfgsh7-GzTeAuW0Zc-0wW7dQGe2E681Poqjj6cDS1KvgTLto65e1_rvDoG0DQkF-yTcfvXNZh6LRO2BpZvwyU0F7S-Il_RfX306lvstrY6ZW5AEj3eutjHwt2eocxLcxVunGW3tgX0W9msgsqCMPHmO26_e9kthDvhAn_DTAQtjJHy1KdQ4dsxWNzODgMw6xgywpOwn6oS4R4hJoYnvtAkCbg2WZm_1Ef9DxZxq33h6gS0BvPWYtsF_Ti7wUREx_upcm0bzJ14Nf_BwHfGns7IRpb9Yae-SBt06pODaiUXSOgpXXkchcsXw0P4WzWKp_xtf-g5OZkMdnM7IQozXBkFyM5wqm6tzbynZY2ouoX-1ILXqBLlHLoinrkAnu6GfEq2T3z7r1LJRpZQ_4spiJxk5GG2scx4CsLPMjKUnu6320MaFBOodjSnRp6Mr-m-WZe1QvHEpWJt7VZuJ8812zyybfgxocgbofhf8fLP4I4tPhl93OSIkGe_SkocrNULuFZe9ZdkmPw-IwGP6hVgwkPLFm3RDPFhWmOa6FXPwo4",
+        "width": 3199
+      }
+    ],
+    "place_id": "ChIJh7C7RZPmAGARUGg_xSybBOM",
+    "plus_code": {
+      "compound_code": "PG33+34 Osaka",
+      "global_code": "8Q6QPG33+34"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJh7C7RZPmAGARUGg_xSybBOM",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1638,
+    "vicinity": "Osaka, Kita Ward, Doyamacho, 3−12 ステージスカラブビル 4階",
+    "distance": 378.0502846453056,
+    "score": 0.5554
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7088656,
+        "lng": 135.5113373
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71019342989273,
+          "lng": 135.5127656798927
+        },
+        "southwest": {
+          "lat": 34.70749377010728,
+          "lng": 135.5100660201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "炭吟醸 天神",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114257950569473609566\">炭吟醸 天神</a>"
+        ],
+        "photo_reference": "ATKogpdBrgloXRLucJNk3uqC933pZbODCBNFL9-VX7qtqwg7Ta1piJPrFb4LfGa7ntgbtQC2mPG9G3fxPk5jQDqRamNurQhsF9cm6_o7r0bI0545uB2-b0bs6hnD6SQcSXtjJotWHt6rxTzxECYBzT1-AJoJP_AMdgZFtyJarQMToRjE7UWtUrg56yE8QBSXqLAL3t5Ir9NosYMaG0pcKeyU8kQR8Pzzm33C6lQlwz1w8czyMBcyQll18CBfIcAENedXlWzfPfjT5J0-j-w_1ABYuOFJ8L1vFzP5HEt_cMed-hmVDkJ5tVA",
+        "width": 1536
+      }
+    ],
+    "place_id": "ChIJp5DlYgDnAGARove7IYU_FkM",
+    "plus_code": {
+      "compound_code": "PG56+GG Osaka",
+      "global_code": "8Q6QPG56+GG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJp5DlYgDnAGARove7IYU_FkM",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "Osaka, Kita Ward, Tenjinbashi, 6 Chome−5−5 サカエビル",
+    "distance": 751.8506641127725,
+    "score": 0.5292
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7074668,
+        "lng": 135.4970572
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70877792989271,
+          "lng": 135.4984121298927
+        },
+        "southwest": {
+          "lat": 34.70607827010727,
+          "lng": 135.4957124701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "サーモンベーネ",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113078307777282347255\">Kaito H</a>"
+        ],
+        "photo_reference": "ATKogpdWTN0G8fMH_5XCvYjPWLb1F2YJRM6L3NefVefrfSC6DYvkd4pN30bzzDHIMoNw6ltTHDdgEQFioMre-bJbs71QTo9WJcX__6aK-yUGiSTAUuFZFTvQYqIlDuHUi7ZPzf6fVTlz47-soR1lmi4mKwDaOQqhySeSgfY0WAW6tSxcm07U6hIUILA0rI1O2LAQBtTHgc0JjkY-jcCQjn57HAYgVW3VWRl0f7EqIJYULBQcluTTXfyTxFXRAjKO1y6y5bu7Gi9mJcTHlZE9oZIBSffX4HmVpQhjho7yzobg-VhSUrmijjcMXKT-RLmnC6rRNA9Ej_7gQ5WekFKc93Xzy2XBCgv35fnMmi2coJkA5K7ycfC3KpzjP6SV2W45zjJvuJnZaeWeX8D1ihyJcgO1qBRGi7vmVB55r7WL2psFFsUwXmNE2b2oVvYiOFbD19EuywXUwUbtwFz0i01eO1sdhftGrwLhoS83BgiUxtFdoxh6D4MCa1ATHrWy2PxzVD_DHGjvoqdYUfHMJoCbW-vsc2dHLbt7trOV6aDMO1IVNe2mK1KBVApcX7CZT4q4P7dJRZkp8B1AmzZ3Gg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJl9_hJpDmAGARPgSSiQ91uMw",
+    "plus_code": {
+      "compound_code": "PF4W+XR Osaka",
+      "global_code": "8Q6QPF4W+XR"
+    },
+    "price_level": 2,
+    "rating": 4.2,
+    "reference": "ChIJl9_hJpDmAGARPgSSiQ91uMw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 253,
+    "vicinity": "Osaka, Kita Ward, Shibata, 1 Chome−10−5 ＫＥＬＬＹビル 1F",
+    "distance": 641.2780228022751,
+    "score": 0.5222
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7052646,
+        "lng": 135.5119894
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70661557989272,
+          "lng": 135.5133444298927
+        },
+        "southwest": {
+          "lat": 34.70391592010728,
+          "lng": 135.5106447701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "中トロと豚足",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103490897871473901263\">中トロと豚足</a>"
+        ],
+        "photo_reference": "ATKogpcGYGfloikDrdoBebj4gonisMofVHKQdM82-ltSlxi_XLtSm2ZKFshs7-JBOja2FCowUsWUHZYHaFo7MIPGD1ZvZx1Wm2s4IbJvhkMxLJ3r14Xa7_FmvJQ1D-xqSsayHOKhA9H_c0mUH3YYxdN0uNJVdgAm-YCBR4vplddNH7nZ_JPrlUX75IqEz5r8eQpnNnPIcYJdfTNKJ7pI3oI2dOUkPOhq-Eyl3gWZsJEit-QAvE4TUXH2r4HdQyvUPE_9pKOWy0bPUuHu8KTNSKIZzP3ewTaQXYF5KvkFAAVo9i4RT3nC2WU",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJa9qUwp_nAGARgxNTDG5IlXE",
+    "plus_code": {
+      "compound_code": "PG46+4Q Osaka",
+      "global_code": "8Q6QPG46+4Q"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJa9qUwp_nAGARgxNTDG5IlXE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 704,
+    "vicinity": "Osaka, Kita Ward, Nishikicho, 3−12 アウロラビル B1F",
+    "distance": 748.4307054814262,
+    "score": 0.4974
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7030993,
+        "lng": 135.495663
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70468887989271,
+          "lng": 135.4968181298927
+        },
+        "southwest": {
+          "lat": 34.70198922010727,
+          "lng": 135.4941184701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Fishmonger Stand Fujiko",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117367371661139255986\">沖新治</a>"
+        ],
+        "photo_reference": "ATKogpf1lplHG73jvWm5ORWI1vR2ogTjMVUHN0pX7HZU76IiQXZZTivhlqD3g0frRaaLJw7UaAlfOAGgBynl3RPWkk3MpwprPi8Vx6U2O8qo4x64efbq27JeCUVnOREtXZ4ieArllhgTTqWq2t92ff6OumjRaVb-GS3DBrSc2TduRHgPB_fX11tcJjLG0-gWilb2xHpe6v75ZIKAFqzVzCyObUqjBm-XT_064CoCG7v4pP5JzFHPLJeLKA7_vr1z2v72BthITHgfase6RIUQCCdvIJmVzA9dh1qNKZBhN3N9dvmxEvgq8C5y6H5kEwrBlI0uOXrR9vrHyFUsZIZe6HcC-D8VbMtIwmyOkfQmW9m3oeqsKNIBFYZiczNtqP__w9V2zG5qJo5LuG_5PwLnobMimwOZxGhD2xZ2y35UOJvTVFd2i888OYllt-iB6gAKhclEBmresAQMWpVQ0kEEzdbnJyMJfBEz90hmJBpuKzx70YuxS9_DHaeyAT8ZVd1nmcRHLmGPDGnYLQl0DWK-Xg9mYeyCjNU3C7gDO978eq_unq-IDKS1CoMpng-LupMthUI9CvXb4JsswiTtvw",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQw0u6Y3mAGARQqh3RoKt9Eo",
+    "plus_code": {
+      "compound_code": "PF3W+67 Osaka",
+      "global_code": "8Q6QPF3W+67"
+    },
+    "price_level": 1,
+    "rating": 4.2,
+    "reference": "ChIJQw0u6Y3mAGARQqh3RoKt9Eo",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 925,
+    "vicinity": "Osaka, Kita Ward, Umeda, 3 Chome−1−3 ルクアバルチカB2F",
+    "distance": 817.9364246207668,
+    "score": 0.467
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7028453,
+        "lng": 135.4995909
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70436002989272,
+          "lng": 135.5012636798928
+        },
+        "southwest": {
+          "lat": 34.70166037010728,
+          "lng": 135.4985640201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Naofuku",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2250,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111742504663953827217\">KATSU</a>"
+        ],
+        "photo_reference": "ATKogpc6IBxbu1UM1JLMNNB_OvsNL7A8_BjtHVjsEefubgvZ6P_asNICm1rhBI9ZY9bMyrjWU6d2KsAmRMdckVYGrqE39sk3DRVhELBVeqT7xEg9Biy7Asq72QmogeSAOO6WvDYSqt2UqpZLE5fKmDPR_4AIyES_ADymLyr0kkZ_G6c8NlTC0ICzsF26TjwF6DaZ6R40MTU6TeJzgaBSU_AMIrPOUKQhGeVwvDt2pFg3hSC2s8XyYE9xWADsT1y4KlVJK2BsoGwafIR9v7UJPoMcPeNAf75LdeNnhTBwYd5_NySdp-T2PlBJJpwPFZiXG1nR8GGOP-mAZAQaDK0rvJOmWRGGM4DeJ7qp2cQd70zgpIptAD09Qb1bds1FQQde3QTFX0I3C7CSiqrbRKrvHkOeYleleu9qQtTcOeb7JNneHbgVGwI6p2eTofYXu18ke0bS0Wi0M26uLP_7l5Me_tJTAD2LDQPGp8VK5FmPr1tjIFbKrUWakkX0ssQYxUpb8EyJXPcxDK42B4-Sims8_4J1q8MuARqCeyo_FePORmTMpypn-2CXxVSBXyfxwNz9qD9l9VcEt85gPxZKIg",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJkwViU5PmAGARzSeDPvNLNHg",
+    "plus_code": {
+      "compound_code": "PF3X+4R Osaka",
+      "global_code": "8Q6QPF3X+4R"
+    },
+    "price_level": 1,
+    "rating": 4,
+    "reference": "ChIJkwViU5PmAGARzSeDPvNLNHg",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 189,
+    "vicinity": "Osaka, Kita Ward, Komatsubaracho, 梅田地下街4-2 ホワイティ梅田イーストモール",
+    "distance": 528.4974283574304,
+    "score": 0.452
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7026117,
+        "lng": 135.5019566
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70359697989272,
+          "lng": 135.50279455
+        },
+        "southwest": {
+          "lat": 34.70089732010728,
+          "lng": 135.49970955
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Sushi Sakaba Teppei",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1044,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105097872290863271289\">鮨酒場てっぺい</a>"
+        ],
+        "photo_reference": "ATKogpff3WfPw69TBPQ40rS-KI8LJMSp85LhXVGFcEJZo3YuAlpB2FjLgZTpHXEDY2zYFwyV_2Y0THfjsfDgWB0F8H7naXIIzgWdzNBRJ9hnzwabJGq63QsQm6eSaVq5mlBTGY5niTbq1JaGFfGtK3NxFdalHc6uqj-ll_gOT0OoWTyckl4mylkI7tlh-2S03ARVtkbwdIQbR7a8BsuTwwpn_t4FCewPAkH7i0CmWKLaLlCfiYty5LDbyQrjMYCyZyOoIkxyehqE74reO-TiTrQCJ06bmlVYa-Q_72E3-FnGl6ys4fM8YKc",
+        "width": 1568
+      }
+    ],
+    "place_id": "ChIJjeyY993nAGARonNg1EcAOX8",
+    "plus_code": {
+      "compound_code": "PG32+2Q Osaka",
+      "global_code": "8Q6QPG32+2Q"
+    },
+    "rating": 3.9,
+    "reference": "ChIJjeyY993nAGARonNg1EcAOX8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 169,
+    "vicinity": "Osaka, Kita Ward, Doyamacho, 梅田地下街3-1 イーストモール扇町 NOMOKA",
+    "distance": 420.18802598942426,
+    "score": 0.4482
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.70784,
+        "lng": 135.509551
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70918247989272,
+          "lng": 135.5109101298927
+        },
+        "southwest": {
+          "lat": 34.70648282010728,
+          "lng": 135.5082104701072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Onion",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2047,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106421155405365643583\">きききいいい</a>"
+        ],
+        "photo_reference": "ATKogpeWGZU1iOmjEPYvBvhXg05Zd9I8YNdbbfCXFSuJM_Es6vrPIJzSA68OBtGo9jF_yPiXh9aYPpeb5zmFrmQei6L_owD913mQQ1hajFaWAIg31PuqLXKYOCNeZIy5jpbsJ1uQRCZYlvjFkkx9Zpcxpkx_6a7BE96i_GeN_H0W8HadxnkWvSL0ZFDUlPqHY8Q1sByveW17-rH-uIut_t-43NE4XYu91F7eGslR13duY0ZiqDy03nMZcezqP8EPOrsTG2SBbZ5CElbiJKT58kq6sYgote2VSB0P2aUiJon1ZgxpYps_7WWhtq979k79S6_nnC3TRvufz74DEHF-49gvHC0OfpnPOxqiuhWtPkEyhzVZM91LifAt0J0Y7H3ahn_3p9QQ2X5OPds34Syma-K-eC_UqLMOQ-nEuzm9pcFK03B_naR7WQFYFsK-Ave3_RC4f9DeJONm50yB_OVqie-K8gdmc5nbDRL7bvS8DwoYYmxyZpgaULVNFMj_SsxoDojHHe91zfLekz31rpz99QS3fZAnTt94IEesGgAPNTHIMNS3Xa0hPhSwRIwlnkcUXVEIAjr1Sq1X",
+        "width": 3571
+      }
+    ],
+    "place_id": "ChIJFdG4xVHnAGARLn8hlnftOiM",
+    "plus_code": {
+      "compound_code": "PG55+4R Osaka",
+      "global_code": "8Q6QPG55+4R"
+    },
+    "rating": 4,
+    "reference": "ChIJFdG4xVHnAGARLn8hlnftOiM",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 146,
+    "vicinity": "7-12 Kurosakicho, Kita Ward, Osaka",
+    "distance": 557.0702170026154,
+    "score": 0.426
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7030282,
+        "lng": 135.4987641
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70438072989272,
+          "lng": 135.5003483298927
+        },
+        "southwest": {
+          "lat": 34.70168107010727,
+          "lng": 135.4976486701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Edomae kaitenzushi Kishu Yaichi Hankyu Umeda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116716536349574393895\">Hyoju Agnes</a>"
+        ],
+        "photo_reference": "ATKogpdompgk68pCC1iHfuiVRscMQO3-jTU9FR8WPv-ZMuKKNh2AiWVn3lI1CIvkI_r7PAvwtaNcrbuiDqoiPkuf9pWrybL4sN9TPRF06zlcqcieCDAFQGjRKYiS9S11m0D0YwHA15Fu0BmZMywXCJ3vomzPgWNe_SrTKYnxSAZjM3H-6FMPjk9SHMGvuKPg2f9vTyIy5RFPGrNQahsPUSjff4YezndArZZjedCl8liMw0g-GA4qMHdY9n7T1-zFq8aLMw9exuyLEt4rBJyj1YXsr7mynDu96NZE2bb0xYXdHfCOoJPuy47Nvw1mZnuIolOXVg-sLiKRQGA-mJm6tYUmUdWIVLynay8uBhX7qY-z8IW_rVlZlzFg2PdY9sINwjJ8e_WxxXowO8dWASTo9nZn3-BXTbtp3fqqVsEBr7c5mikTTTD9WV8hylzXhbuK0Kk158Eh3JSEDXY61kocPW1WzOq5J_pGOE5n-ZrMW_OhDBbyC_nDitlGGNp6l1gQSPubdmH0TI-aYtzd0uDSi7hK9UGQqYf5Ird2aZfF-oo0r8Lh2KTJINQPJ2suMgol_dpl9UHGH5tz",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJj67a5JLmAGAR8_F7Y5za_V4",
+    "plus_code": {
+      "compound_code": "PF3X+6G Osaka",
+      "global_code": "8Q6QPF3X+6G"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJj67a5JLmAGAR8_F7Y5za_V4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 517,
+    "vicinity": "Osaka, Kita Ward, Kakudacho, 8−7 阪急百貨店 阪急うめだ本店 12階 The SHUKUSAI DINING, Restaurant area of Hankyu Dept. Umeda 12F 13F",
+    "distance": 574.3669008576712,
+    "score": 0.3995
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7064585,
+        "lng": 135.4973337
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70777677989271,
+          "lng": 135.4986808798927
+        },
+        "southwest": {
+          "lat": 34.70507712010727,
+          "lng": 135.4959812201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Maguroya - Umeda Shibata",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1028,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111979238160945715145\">1216 TD</a>"
+        ],
+        "photo_reference": "ATKogpdPIA3vJAeR6FYB5gV6GnZ-RkEXNLL9Ky4NHzRRNoc4RpMajW2w3DZJ-InLoD9YmIPgZaOc-zTtvJMUM-YiXrULo7In9Lh8tjyc5qsrr9m3cN8dtOG7XRW6jy3oPwqilWyUYmpz13KyIAeS889t9PvaTbwEe4rEt52JOUahtogU2C7xk7V9Xw-_fjBB1GS9qhQ__BtRbGD--N8TYk9zYWQpMAFmXdOfiUYlUe0Qvb4N6EPbPv-kKLOXRb0b21cRNP5G0XUwjfnwttwDlux6n_V4gavIivgllW0UStpmj5PIx-QfxpCXkfRYErM50tBOJIteeFkjvQ1oJQny7FWyVWs0_GHfbn1E96jhV3TbHEmHW9DiTjdc_9sw62sVJRY4NCFRa8NhRuNW9cBUFnPTLwPxIu9sgoUOq1XzcNXjr_Z3xHjY8fFsVobI1OVj0En0bl5tKwDzKxevKcOkvF5C65pT2AGdQzkWcUnPRHVhrty2bMAi3mlRvMby3LOLWTqI9zc53bBV0-hQTKE7PRkv-Lzld2aE6H4esEftW9brUGl39Xiyd2GtanvSdIGmon5LmXI2Zz8r",
+        "width": 1593
+      }
+    ],
+    "place_id": "ChIJ2WqL0JHmAGAROw9eslyZXB8",
+    "plus_code": {
+      "compound_code": "PF4W+HW Osaka",
+      "global_code": "8Q6QPF4W+HW"
+    },
+    "price_level": 1,
+    "rating": 3.9,
+    "reference": "ChIJ2WqL0JHmAGAROw9eslyZXB8",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 538,
+    "vicinity": "1 Chome-5-6 Shibata, Kita Ward, Osaka",
+    "distance": 598.1211586842612,
+    "score": 0.3872
   },
   {
     "business_status": "OPERATIONAL",
@@ -1888,12 +1393,12 @@
     },
     "photos": [
       {
-        "height": 1000,
+        "height": 2877,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/104037484625235964711\">梅田 阪急三番街 リバーカフェ</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/117761987572906826623\">なーな</a>"
         ],
-        "photo_reference": "ATKogpewrNitBC-Sm1TcHevlIMp7QdHwik4nyYF7MFxkdECl4CFv9ZeH9_1_2Zslbp1bxwTQWy24hBXOCIRDlNEkuHYCn0iW0i82k9CVZnMAmZ048t5Ow8QOmuvTSr14R90DFVYIf_OJqh1UON8Lvhjww6qSKuY48s1flrY8PWq6eQ9Od1mT_JPiPDyWkPpvdvxGshMlp4CR1cGpZxVx21RqFft9n4z2Ny9OEXc5vhn7daSQLbTxbayIvztuiT2-VmDlvJ_bjDxV7f50K_UsOuftZMnlS3Z-kUisFjxJU8pYXQXuTx0nf1I",
-        "width": 1500
+        "photo_reference": "ATKogpfp23z0ovxLp8G__yA3-kXWEl0P2N74ak_QPoylsV2JhXPRnVHrlRRsPs6sXFlvULfnQMWdUCZJBlCPbPrpTXPPcKavJGZMUxmP5FC0_Fzwh7td-0XCo1UvBls-SuUp6vfqX23HZ_bn6-ejyUPf42wXROSAx12EqvaZZrlKaDqM2461OMEzrhJUgoKd5LC5z5bRr-RJSWxdDrXJCOtGyANie-eO3CnRZHEoaBNJsLl-aLgCEjImKItj4d5ClIwi8CipgrnBesvFxjzRjqZ7pnaK_lroqXxQKcM25dlcPAz5MUZVweFHlsOERFsQhRcR4Wm5U2ALHiRVY3i9xRhv5pZiNoqRSlX_QK0zl_MxjD7uCh90EHwGt2aP0mqrt1Y6kACjrRZvbHinD3iI8Qi_8NOmWlRZKFT0J9edPia2soJfUMcJOrkVRnhS0qTAefHe1v9aVqDqncapukjiLfUDAyqeJuCWwHYrnECMu9DgGJdYTVrJlP1bS4-ERzZPkhnNcCrn92LTbr2Rug2920w8SDRJnlZ-KjQhzL5y5OZFNx1T4wACqzh1M6bGsVIOfTDz64gznFdp",
+        "width": 2158
       }
     ],
     "place_id": "ChIJm1YniJHmAGARBdtY9mAJ3gs",
@@ -1914,54 +1419,111 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 498,
+    "user_ratings_total": 500,
     "vicinity": "Osaka, Kita Ward, Shibata, 1 Chome−1−3 阪急三番街南館 地下2階",
     "distance": 490.68413362397206,
-    "score": 0.1313
+    "score": 0.3843
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7084316,
-        "lng": 135.5129866
+        "lat": 34.7103343,
+        "lng": 135.5134832
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70982132989272,
-          "lng": 135.5143424798927
+          "lat": 34.71160527989272,
+          "lng": 135.5147965298927
         },
         "southwest": {
-          "lat": 34.70712167010728,
-          "lng": 135.5116428201073
+          "lat": 34.70890562010728,
+          "lng": 135.5120968701073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Italian restaurant",
+    "name": "かじゅあるかっぽーTSUKUSI",
     "opening_hours": {
       "open_now": true
     },
     "photos": [
       {
-        "height": 3024,
+        "height": 2990,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/113566043232648500103\">Mayumi Natsuyama</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/116207793188791035426\">田中太郎</a>"
         ],
-        "photo_reference": "ATKogpetNjI9RjGQ0MxiGBdlg-4vGM4AvJbRO82d0ZSsSUAvhNco7gZAVKQZ3q4QGdbf9_0OyWAtWKYlA95RPpDpCVvaPzjiUaiwJaxprKDdw2ZmKFhpNhLzuuRLfNl5U2CBSKrAHs1vggi9LOKBWnEJ07ftYhlLruT2oEP7OYzYXQBmCmqGPOqQk8gXwg9VIeXzpZNITmo-tbKdBEemwGBdzS-G2Wkw5SYWot1MKEBo1eAKCnbazYS35cPSam1KyK2qGwWEeh0vWJIMdbdi2gvetoFzYfxVvLuakL8gfIQBOlyxOJzBqDd8RjHqCaevKRek_GF-1JfKIXGBGuo_VCa1WJMHZqbreJapEqcIn2pSNnHleWTKp7oxvA90a4jaqxIy6vBapNSkdzF2u28j9pCrfr4sp7l-GEYVOEvGKts-4v6HHhGVKFXnMqE3GTQRgsAp2DCkZXiVyydWE12IciH69WYaBAVMaAUAPdcdgPnEv6p0QljNVnbapqBfY4lddtk2nh3sgWnPsbQ3GUM14a6GhYxCH6xruB9FLpd5oEBCLUSk7b5XL4-yuDm7XMSmIhUiLUqYXh0j",
-        "width": 4032
+        "photo_reference": "ATKogpeY7evACSZenmQBlLVgt83RSeU7IJaPZA9MlGFt19hzbpvfYAPkCup80NaenoBtzW--Yz3DEqdIbyiWOLIDrSxgElljdj7KK3C5a2s9inGOpuFupRvrqSc9PDCQPckFJMffXn-mehoAa8ZClX_lEzK3WA-lpF4hi4xmzONEIdvwHz2lotCTqnnHF8juz1yZTBvo7LONXZOK7XcpoHdtorQ_bpxrbFhtX5u2uO44WrJCWu8VNDN2t7y2wUs-UzxdNnUiTNNC2KD9WjFRUsDhV2JUre2iIM0pW6ZRFcwfl4WR_Dj9ant2NrVdaeknnETn46UrmZZvfXodA8vgeLcKlNDbozhPGwWLF1hxHU8uFgZLnXf2YvIKGn7kc3FYq28bWyfS5YRMRauzXrGkoVOnUU3Xn3lMqVfLlCg9yYcZCeqrDnury-GpAq_uYFD-KlgafzVAatGBFNqp8Z32G8iURZ4w8BBCVLul046n_J3SA_t4tLV_NxaKTDp7IORVvfoAUE1_cQAX2JFeRbqrJMQP2cDjbMwB-rmmx31W1FSE2ty2EXOMCWJuSZBEpJmGAqMIZPNydLhg",
+        "width": 3024
       }
     ],
-    "place_id": "ChIJ-YnejLjmAGARaS7bqyeXkbE",
+    "place_id": "ChIJTUZYKzHnAGARRPODM_fbwrY",
     "plus_code": {
-      "compound_code": "PG57+95 Osaka",
-      "global_code": "8Q6QPG57+95"
+      "compound_code": "PG67+49 Osaka",
+      "global_code": "8Q6QPG67+49"
     },
-    "price_level": 1,
-    "rating": 4.1,
-    "reference": "ChIJ-YnejLjmAGARaS7bqyeXkbE",
+    "rating": 4.3,
+    "reference": "ChIJTUZYKzHnAGARRPODM_fbwrY",
+    "scope": "GOOGLE",
+    "types": [
+      "bar",
+      "cafe",
+      "grocery_or_supermarket",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 75,
+    "vicinity": "Osaka, Kita Ward, Kokubunji, 1 Chome−7−7 1F",
+    "distance": 1000.4059233824896,
+    "score": 0.3325
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7085445,
+        "lng": 135.5018628
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70989547989273,
+          "lng": 135.5032033798927
+        },
+        "southwest": {
+          "lat": 34.70719582010729,
+          "lng": 135.5005037201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "イタメシヤ8（エイト）",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110186210562430112304\">イタメシヤ8（エイト）</a>"
+        ],
+        "photo_reference": "ATKogpeEPpkmZIx0JYOXnPBj8XHxcsvaQi519HTHx8PGhhhDdmWfzTeVXc-_zHZdtZuSN41u0pqmnDXXKelXl0x-E0Q-Mswrc_zJD9kKXKmVGaz6C-4odyfZDo75VnjaZYG5HKl1LewpIWzQUElVGGAGOS_1i4aMKj95Nc_QWYdyldhkEmlo3kdCZ5zm9UFW6mlr2BTsD6wTO3Z2b--cQ3ZQOQne7IyZKfZR1pO0oPsuQseiCSJzqP-VNG4Ltiu30Xku3thLJYK_p4U-5i0nK2_YgYtLrAFmPSbFY6t2uZeylv2tLZvMNbQ",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJIRs-gPvnAGARQJ7a3PvJrGE",
+    "plus_code": {
+      "compound_code": "PG52+CP Osaka",
+      "global_code": "8Q6QPG52+CP"
+    },
+    "rating": 3.6,
+    "reference": "ChIJIRs-gPvnAGARQJ7a3PvJrGE",
     "scope": "GOOGLE",
     "types": [
       "restaurant",
@@ -1969,285 +1531,558 @@
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 262,
-    "vicinity": "Osaka, Kita Ward, Ikedacho, 14−12 シャトー菅北",
-    "distance": 875.3787751320438,
-    "score": 0.1282
+    "user_ratings_total": 254,
+    "vicinity": "4 Chome-3-25 Nakazakinishi, Kita Ward, Osaka",
+    "distance": 331.7857871019375,
+    "score": 0.3268
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7070155,
-        "lng": 135.4990478
+        "lat": 34.7039559,
+        "lng": 135.4959793
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70849422989272,
-          "lng": 135.5003618798928
+          "lat": 34.70557072989273,
+          "lng": 135.4971119298927
         },
         "southwest": {
-          "lat": 34.70579457010728,
-          "lng": 135.4976622201073
+          "lat": 34.70287107010729,
+          "lng": 135.4944122701073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Kotteji NU Korean Restaurant",
+    "name": "Ohitsu Gohan 46 Tokinaka LINKS UMEDA Store",
     "opening_hours": {
       "open_now": true
     },
     "photos": [
       {
-        "height": 3024,
+        "height": 600,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/105713722907628421124\">岩本元熙</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/100153270085464403957\">おひつごはん四六時中 LINKS UMEDA店</a>"
         ],
-        "photo_reference": "ATKogpcpnjzehrXkhVEcKi8O8TMmFLIR_D5GOpf0LrijqUEOtBEerUIhsQ5Imw0ItTOyXkpWJ-PXfOszmePSA_fwG0krWRZ5CzmDsaVTFG5B_Czj1spzhqf0OgTcRWU4qyBP0UMedhlf-oswuWsvORm5S12CLofO9v6oI8Xn7iI1wyoLvDSJXCVZ0f0H7sI9xeAeSFHggreY5LrRk1WzOThhO6FAROabgiCUeYGbsDTRjjZQ2qsPwsWhlSEu0Db3nobwx6kAOSxfAnGQyC0bq6DvqYs8pGSgvvT90wpU2FJ7RJjGDR9ViNlugznSYSk_66eHGomy4lIsMChlWE_FePgR6O8gEk-6WBzQjyWj5rK4E7kNsNjuE9-J5yyOburSv8NJZUFMhbj-gpIpCwyAnU0Wb7yB3BXenAF0wrt9rd80fuST35Z-I_ai290HfZI-rkGENguBOtbbm7dnenbAQJvXmN6kXgNwy0CtPTtMyCr4Oca0f6S6jxYHjfTFdCY7FTQEYcTDspOuwRSTEwq6Ms7skWpigMUy67_qvx4N7GZ4KXMjjJ97JlEtKfCpygCQjY-ru-OEV3eW",
-        "width": 4032
+        "photo_reference": "ATKogpfG6whHEgt80cJq9MVzzmRMH9LHFR3U9oMrOCrg0yjSbYuapAOvVkshvHUZPIxIFvWrO8urO1lvnxBtYS-BrKRVbVM3DFSxN5w4wHKQkOdu7W_l0FLvUOo4TiIBRkOdpPTgXZMXiSJwE-XH6IGiuVZ_MHAzbF1AhwQTXGhoFOTTfEzmTeLrMjvU6q1SUN7pEZq0DAAIkHtOzPsQ-h3lH9kDwV7pYzYWX3Lm0Rr9gYZlOZ8LhbiDpJy20XBvsLVfZPagsi0v7jLsvuHjz8xfzWQtBZbjqCIG9RgnX8sC0iXtfBks7fY",
+        "width": 800
       }
     ],
-    "place_id": "ChIJcUC3aifnAGARWZt_7zs0ze8",
+    "place_id": "ChIJwS9x_Y3mAGARRGxEKIHWakk",
     "plus_code": {
-      "compound_code": "PF4X+RJ Osaka",
-      "global_code": "8Q6QPF4X+RJ"
-    },
-    "rating": 3.8,
-    "reference": "ChIJcUC3aifnAGARWZt_7zs0ze8",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 138,
-    "vicinity": "Osaka, Kita Ward, Chayamachi, 10−12 NU茶屋町 9F",
-    "distance": 452.58432630180477,
-    "score": 0.1124
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.7074853,
-        "lng": 135.49894
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70885912989272,
-          "lng": 135.5003248798927
-        },
-        "southwest": {
-          "lat": 34.70615947010728,
-          "lng": 135.4976252201072
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Osaka Yakiniku All-You-Can-Eat Yakiniku I Like It Umeda Chayamachi Store",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3360,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/104201084210816568971\">大阪焼肉 食べ放題 焼肉おにくが好きです。梅田茶屋町店</a>"
-        ],
-        "photo_reference": "ATKogpeQMDQ0k2YcKxOuY9tdXck_BEu_Wj5HpvHv1iK5H2pLuPp7WRlYT9DAURlDm9HgzDmpWiYEem1KVBDyVEoYN_bFGYwxXkpe9HLqrhZCeqU7c-ipyCzjLhM_NP3ZriSdNug4AhkgaZbhXtLiF9aUObntxhXkw5_laPkcrmWT-1nMkA-Z9BF6d4SHF4tiN-agSSNGMxTWpB3vH8aj822LxbJJy6GR1lc3JmequGG6ZJpQihhAy9k5IS_VBSlEF8yxWjz-YBM0Ec4JIVVKWjQmqTSiCEScByAB2YGuhDCHJZZYrjAlsok",
-        "width": 5040
-      }
-    ],
-    "place_id": "ChIJbSXCeafnAGARFfbuYcp9JRU",
-    "plus_code": {
-      "compound_code": "PF4X+XH Osaka",
-      "global_code": "8Q6QPF4X+XH"
-    },
-    "rating": 3.8,
-    "reference": "ChIJbSXCeafnAGARFfbuYcp9JRU",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 72,
-    "vicinity": "Fc Bldg., 3F, 14-15 Chayamachi, Kita Ward, Osaka",
-    "distance": 476.98730545394704,
-    "score": 0.0766
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.698553,
-        "lng": 135.4983839
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.69979462989272,
-          "lng": 135.4997335798927
-        },
-        "southwest": {
-          "lat": 34.69709497010728,
-          "lng": 135.4970339201072
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "大衆焼肉ホルモンよっとこ 梅田店",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 3840,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/108322331544852116021\">大衆焼肉ホルモンよっとこ 梅田店</a>"
-        ],
-        "photo_reference": "ATKogpfJWhV0H5tXaEPhCz9IWuOGTiS4SLmwl9M1THnVROq-cZDJ3tz9eLf002JCNzVKSVlu96pFi1Zr7shnzLmt5q38KeraQ3IwE8S1LizCiN6BqaPFQsuxb7J8ASyys09uw2raV0U1JizyfMIcghskbMWM0f_9-j2Ax16WKrjjiD4gIhR9kA_fxrQZSKVyla9eVgetSMVlGiwDNJV4srNGAvPFDz4SY3IPden8ERjTAM31tyDSMf_3h_L7q5zDe3C9vpNVoMEnY5ZsnSYIHo3U-P_2bHtA6hXahOPdOTYmkMSV61lR_jc",
-        "width": 5760
-      }
-    ],
-    "place_id": "ChIJnTYE2_3nAGARY97ifabpTMU",
-    "plus_code": {
-      "compound_code": "MFXX+C9 Osaka",
-      "global_code": "8Q6QMFXX+C9"
-    },
-    "rating": 4.1,
-    "reference": "ChIJnTYE2_3nAGARY97ifabpTMU",
-    "scope": "GOOGLE",
-    "types": [
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 245,
-    "vicinity": "Osaka, Kita Ward, Umeda, 1 Chome−2−2 大阪駅前第２ビル 地下1階 45号",
-    "distance": 972.4942376744867,
-    "score": 0.0674
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "geometry": {
-      "location": {
-        "lat": 34.698074,
-        "lng": 135.497485
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.69939692989272,
-          "lng": 135.4988258298927
-        },
-        "southwest": {
-          "lat": 34.69669727010727,
-          "lng": 135.4961261701073
-        }
-      }
-    },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "Gensei",
-    "opening_hours": {
-      "open_now": true
-    },
-    "photos": [
-      {
-        "height": 662,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/101136824515620349275\">蕎麦居酒屋 玄盛 大阪北新地本店</a>"
-        ],
-        "photo_reference": "ATKogpfZ_3Mm0Ws6tWMttoUBAqivWeAkWgcz_2HKu1Aii4BZe25CnkVaFtTKHBZrUiyJrlLg8PKJ8IZglPMCgYIn0VuhjKoU9YuYP3Czw9FvHDAtTxB9H8g6MfPOIubcpbBZ1b2vXKdCUBkGzWGKbmRqeMolY_pa2uwNkY42Bh07OyAcT9rsuQlrei1UBNLiKXJFWPxZ-oAdGmHl7NzfmzY3H34ClbSjlZ7VlvipFOSLSgEsFrXy_XKSnKmWVFanBtMSlNK9OgiWg3fp6vcn0K3IrLxvcdonSSKOUo---qinyzxPCpaqdQE",
-        "width": 662
-      }
-    ],
-    "place_id": "ChIJtwN8q8XnAGARtHWiIuTEF1s",
-    "plus_code": {
-      "compound_code": "MFXW+6X Osaka",
-      "global_code": "8Q6QMFXW+6X"
+      "compound_code": "PF3W+H9 Osaka",
+      "global_code": "8Q6QPF3W+H9"
     },
     "price_level": 2,
     "rating": 4,
-    "reference": "ChIJtwN8q8XnAGARtHWiIuTEF1s",
+    "reference": "ChIJwS9x_Y3mAGARRGxEKIHWakk",
     "scope": "GOOGLE",
     "types": [
-      "meal_takeaway",
-      "meal_delivery",
       "restaurant",
+      "meal_takeaway",
       "food",
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 569,
-    "vicinity": "Osaka, Kita Ward, 曽根崎新地１−１０−６ 北新地シリウスビル 1～4F",
-    "distance": 1061.3233892627368,
-    "score": -0.042
+    "user_ratings_total": 225,
+    "vicinity": "Osaka, Kita Ward, Ofukacho, 1−1 LINKS UMEDA8階",
+    "distance": 757.004250190879,
+    "score": 0.3259
   },
   {
     "business_status": "OPERATIONAL",
     "geometry": {
       "location": {
-        "lat": 34.7104865,
-        "lng": 135.4980765
+        "lat": 34.7046371,
+        "lng": 135.4980854
       },
       "viewport": {
         "northeast": {
-          "lat": 34.71179382989272,
-          "lng": 135.4994550298927
+          "lat": 34.70597632989272,
+          "lng": 135.4993719798927
         },
         "southwest": {
-          "lat": 34.70909417010728,
-          "lng": 135.4967553701073
+          "lat": 34.70327667010727,
+          "lng": 135.4966723201073
         }
       }
     },
     "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
     "icon_background_color": "#FF9E67",
     "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "name": "センバキッチン 北梅田店",
+    "name": "海鮮鉄板居酒屋 あいち 阪急三番街店",
     "opening_hours": {
       "open_now": true
     },
     "photos": [
       {
-        "height": 1536,
+        "height": 426,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/114932087024984770107\">センバキッチン 北梅田店</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/100893640876312528317\">海鮮鉄板居酒屋 あいち</a>"
         ],
-        "photo_reference": "ATKogpdlRvzlLlpzj789YHRIbbazq6c82JHGuMClEVKwO8n_xp_pSZJ7tXe3Ytb6D-nsxMfJVx-iWbZqeS-XJpBlfQB5SL1HAaYiGDTL8ZuMOFIrgvn79lKqfm7bs1Lsq_bLiFzgiME5vlul06Rj3N7sQ5XkpJFLkLbjK1i3QT94Cs3EykWQqsasKyl5AlWW8fWe5bAcFzES3VEPjv5UCbKgBaVspBXlpC2YBPLGI1mYGqgBLPkyLee16VwC6D4ZWNZsivfydvWilHXdLkG0ImBClAvCTHRnKDIiwsFUtn1OkIXLmNYdADc",
-        "width": 1536
+        "photo_reference": "ATKogpdyyqzT0zvDj_FuSNYgTUoKJvydorhF8GgTwTIbad_fGDjx-xAcedK1RAXein_gkpzlhuJAodS5_F_uTGsLtlK6J46w4oNwwFoPSjf91-ELb6ixQoV3ZgFZinpAWeuZA6gX3_RSwPGbcNKSTGREWgajV5ERdhoJEemwCPKnk_JqWMujJHLDSR0A8Zpty7-IASbkVwG5-J54wYWeKa4Mh37TZi_B9xawvLD6Qy3Q5erTzG8KV8eXCISKpfZGO5keqp8VQENhzY778OxUAoU_ltV1KhFLTxverNw93qTINlC1dumQV9w",
+        "width": 640
       }
     ],
-    "place_id": "ChIJC7lDlZrmAGAR4-i24oySACg",
+    "place_id": "ChIJD13a1TLnAGARB4GcW5kRdEQ",
     "plus_code": {
-      "compound_code": "PF6X+56 Osaka",
-      "global_code": "8Q6QPF6X+56"
+      "compound_code": "PF3X+V6 Osaka",
+      "global_code": "8Q6QPF3X+V6"
     },
-    "price_level": 2,
-    "rating": 3.7,
-    "reference": "ChIJC7lDlZrmAGAR4-i24oySACg",
+    "rating": 3.9,
+    "reference": "ChIJD13a1TLnAGARB4GcW5kRdEQ",
     "scope": "GOOGLE",
     "types": [
-      "meal_takeaway",
-      "cafe",
       "restaurant",
       "food",
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 171,
-    "vicinity": "3 Chome-14-9 Toyosaki, Kita Ward, Osaka",
-    "distance": 722.8067357712894,
-    "score": -0.127
+    "user_ratings_total": 45,
+    "vicinity": "1 Chome-1-3 Shibata, Kita Ward, Osaka",
+    "distance": 550.6573409569105,
+    "score": 0.3248
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7009057,
+        "lng": 135.5005678
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70222127989272,
+          "lng": 135.5019545798927
+        },
+        "southwest": {
+          "lat": 34.69952162010728,
+          "lng": 135.4992549201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Kodomasu Bar",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 427,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113175905788415596597\">大衆酒場かど升</a>"
+        ],
+        "photo_reference": "ATKogpcwkj7-80zz5LJhySyNSJEYAyiq6OQal0kN4oTMLfq2rZixwac6-bnGLWpxReGKeqySHTBB99Rf9-MJkEHWFoXDpv4s3J2IGJITQJEpiU-d2MxyMWKBU6kPUY9hKS5x4-VpSR6YtMra5P1Lt3fDzqGMV62HB56PcVPcLVXV_fJkwu4BLvdpYH6pBr2cBEDArgrA2VSZ3w9mM_I-TjzecWppAXoT94xrLhQcJYtscs5jzU-nRCIkUlfnUmZZuTc_Zl9TLmRqx8zo_ltbnZGlGULU1xdaY1OrLuD2XZG5CdHOnvgjp_0",
+        "width": 640
+      }
+    ],
+    "place_id": "ChIJS67M4KvnAGARiH1wJ0muQ6s",
+    "plus_code": {
+      "compound_code": "PG22+96 Osaka",
+      "global_code": "8Q6QPG22+96"
+    },
+    "rating": 3.9,
+    "reference": "ChIJS67M4KvnAGARiH1wJ0muQ6s",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 167,
+    "vicinity": "Osaka, Kita Ward, Sonezaki, 2 Chome−14−13 河合ビル 1~3階",
+    "distance": 646.480284796598,
+    "score": 0.3166
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7033262,
+        "lng": 135.4981405
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70463282989272,
+          "lng": 135.4992988298927
+        },
+        "southwest": {
+          "lat": 34.70193317010728,
+          "lng": 135.4965991701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Shunsenichiba Gyogyogyo Shinumeda-shokudoai",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100985634365313337673\">康司大西</a>"
+        ],
+        "photo_reference": "ATKogpf0yU33vW7iM-ly2jZ4RVzQaAY0Pfbv5YReT4q-OPFtvkhml-9sCyxI-vW4zPbdU4GaaNnQA03jK8BMUt4kHbeYXHYCiKag1fX5mcrxosWsjMi4ac_7HCkgzNjOt2GMxPmP79Sf6_HK2lp1G4VJUYqtS7vJnyOhMV6or5Y2qSK7B1brzhoMvflxkgvWu3Z-6bKdC74JB7LwZFtgrFbCv5owxMlIjXvte2DWUJrb7GAzMB_bu79t9DR0W99pc8v2-4eCvJp3urs9UglgQjED6lzXOZgRfKDbAmH2i3Q2fNd390_jEdS9qmI41uHkzwxnH8_U_VAuXA7yxBSeppNlsqM_ZZAt3gSND2dfaF-suZKErUKTQEhltHwXVT0s6P-XD1MNpdZ7oPDU_vrbzOt3J9Y9zZf6tlHkZqAMPq6guyhj6iWd4dnfojYnXm2Bk03zZrYgzU0aa_we6AmXqcNe8TO3BXxpPMRsIMVUcP-CdkATa13W9LcPylV0d3RBU6yXXWxyX0P_wgTGtQ6rVhiODvSiFv4fvbHVVOycDpwBbqHr_BS57UB5qlRmVB_RTh91MMF2MAuk",
+        "width": 5504
+      }
+    ],
+    "place_id": "ChIJJc7FZZLmAGARd7c_uMvsOv0",
+    "plus_code": {
+      "compound_code": "PF3X+87 Osaka",
+      "global_code": "8Q6QPF3X+87"
+    },
+    "price_level": 2,
+    "rating": 3.9,
+    "reference": "ChIJJc7FZZLmAGARd7c_uMvsOv0",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 78,
+    "vicinity": "9-26 Kakudacho, Kita Ward, Osaka",
+    "distance": 604.1952366470223,
+    "score": 0.3136
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7099302,
+        "lng": 135.5113741
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71117387989272,
+          "lng": 135.5124487798927
+        },
+        "southwest": {
+          "lat": 34.70847422010728,
+          "lng": 135.5097491201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Daikisuisan Machinominato Tenjinbashi 6 Chome",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1676,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107540231433957399412\">大起水産 街のみなと 天神橋六丁目店</a>"
+        ],
+        "photo_reference": "ATKogpetyF_CGP84DZX-GpAve90xWqDDr3sVvrEX2ksinnJ9ju90IcUpQ2uczia-yu32hMag3s7MKALp4jI_B7nQAua_G7OP75fRIqaRBx6Bw2-ikR_JQDS9MIulEd9qpyxp6VQ0O4q2T9dmcSPWfuv3EQDxUdOw0vv8Q7uKgY9jZD-g61S8rdwE07CQTYpSC88StCezeZdLrVyTb77Lg6wlCQOHsAbjgofMYGYQnHsONne9ok0wtCBHOrwOe8gmP1rXadEtPyVZlJ6nGt8UDqdeVZounDBisgWLWclTnTBkVQ4ug4OHsM8",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJO8ECIp_nAGAR0My3mW0kzak",
+    "plus_code": {
+      "compound_code": "PG56+XG Osaka",
+      "global_code": "8Q6QPG56+XG"
+    },
+    "price_level": 2,
+    "rating": 4.1,
+    "reference": "ChIJO8ECIp_nAGAR0My3mW0kzak",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_takeaway",
+      "store",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "6 Chome-4-11 Tenjinbashi, Kita Ward, Osaka",
+    "distance": 811.1524198324458,
+    "score": 0.2937
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.6995391,
+        "lng": 135.5013847
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70088512989272,
+          "lng": 135.5027227798927
+        },
+        "southwest": {
+          "lat": 34.69818547010728,
+          "lng": 135.5000231201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Jinen Ohatsutenjin",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105526453912342362641\">L</a>"
+        ],
+        "photo_reference": "ATKogpdpTxWb-8_HwoV8vYqFeXGCG2i6TMY7Ogszvysylwy1TsluAwXsZ9bP5b1lGvsATMshQOAdZ8uV0DtGreJHiGqh-Tpq4HHILnLuN-yd8AdBAkxRrentr8XQXbWSiq8QnRlef6k5-M2x4CG9EkMeqBEMezrjpc2b_OACLin19q58A4FCMC-SrM_4CwG5GM5eDINLGF8rirVe6Ufob-3FFbIDmwKIGR0op4vZj_6yHVaAsJJ9d2W7b0ZU5_tPvswriOjmSkQTReUeVUxPUulaFVDY_blgr5LZJDKOc0UVyzi_68tch6KG2EJ1GkzyzKEdrWwpQoRYiOqeCGUZejSQm2onzzGAEo6CrlGkKR6dNyLKJ035Po2vitfu6pq_Dr15lBKSFZxBEiRX-3XQpeUuCANuwhIW0VUxn4cAg3CdSCLepCCnhskelDW_reA7LqyXKzTkxedvdKRcWxUAKKnOaOvjskjMO6WEyjqLofv2IyR1RDEp_Z8XCLv3Li6XcO2hs4R83aySz-4C93fvn8ufw8R2zJJcdFisvug2M0kdKyuPnFinMeAACelMTCQ_TqDVUT1RLFLWyWo0Hw",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJK1MeeezmAGAR332NqlGasvw",
+    "plus_code": {
+      "compound_code": "MGX2+QH Osaka",
+      "global_code": "8Q6QMGX2+QH"
+    },
+    "rating": 3.8,
+    "reference": "ChIJK1MeeezmAGAR332NqlGasvw",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 447,
+    "vicinity": "2 Chome-5-24 Sonezaki, Kita Ward, Osaka",
+    "distance": 758.6814614983472,
+    "score": 0.2249
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7060177,
+        "lng": 135.4982377
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70737427989272,
+          "lng": 135.4998568298928
+        },
+        "southwest": {
+          "lat": 34.70467462010728,
+          "lng": 135.4971571701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Osaka Dojima Toroya Hankyu Sanban Gai",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115842535563902347482\">Yuki ICHIMURA</a>"
+        ],
+        "photo_reference": "ATKogpcUtIErbOeE7nUWrplFgUEXAwp8cxBBUH9LcWLMzG_9He5sWgWf9B5AtdvrtPuPudKuPgqiAOMP1GQ0rsib3mOuxIPgw2WZS1jRpiIY95B44DJjRBNH-uourvmIwOVCl9wfkbgPOkVlkAArTtSsRQg6JhW0GJ8Ja089JDZ7j8ygSCsfrKZPTchUFdopJ0xFCbFgnb_D5YojBcYbDNwkVonTAM1plTEncaOMqHkGE0ABerqS0WKxGJeH7XI9ZT5mNDaeVLISIsSL27-UoZLuPuSX3KOaDopejvv_ix_8f384ErgIH3kGpTupFeMv0D-mTKeynUFdMzkTtf4Blrbjgeh0f23f9SDKyA2b1LCVmWqY-jMmreR-HTO1cQFYV4c4b5kHmUidIaxqA4R_iCXctsKG7CGbMxwbO-gRiOvE6xM3apS8BmUJc9dj4Hfme8SI9Fo0cCLD5XR6XWTngE79p9Xqs72iofsrl-cdNqybyHNJrz2QkII0K87asvg1R2Fwf7-XX6p_AG3Q36XLjOlKaHPFdTYEf-s093C2-VEm5pNpsGYzX7pYjR2VGD2fdvRlFbO0EedRxVI4Mw",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJY2t6EJLmAGARrCJgyN4Ionk",
+    "plus_code": {
+      "compound_code": "PF4X+C7 Osaka",
+      "global_code": "8Q6QPF4X+C7"
+    },
+    "rating": 3.5,
+    "reference": "ChIJY2t6EJLmAGARrCJgyN4Ionk",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 267,
+    "vicinity": "Osaka, Kita Ward, Shibata, 1 Chome−1−3 阪急三番街北館 B２ UMEDA FOOD HALL内",
+    "distance": 513.7906133331528,
+    "score": 0.1606
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.6989342,
+        "lng": 135.4979539
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70035767989271,
+          "lng": 135.4995774798927
+        },
+        "southwest": {
+          "lat": 34.69765802010727,
+          "lng": 135.4968778201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Isomaru Suisan Osaka Ekimae Dai-2 Bldg.",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 408,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109763503073486509922\">磯丸水産 大阪駅前第2ビル店</a>"
+        ],
+        "photo_reference": "ATKogpca-5qnMo2E1N-gg_hOO3xGJcFlNTJSK7KvGvf-C7iqkR5351AO-HCSCvJ822-kpuR-1LWjey7OIh1SsVhC-OHg6y9EGZOM9v_0prmtd5pONzJKyZo1DZYUrC9HFAFiZMFm0JFVAeJSKHvM8h9OautRGFRdbnNFwlWfLh-j6aaKyFN7tWgiPv904MaBFYhgRFUGryEJKv4DwHRcZPd_uSpIQlOns0LtHQrZNyDqL47B3LvZLHCr4I2mG22FFxCCKVW1ZMPrFKpfKFqYXEVBMP-8WOqaCl9NkSIy5TmzcRtG91sVRDg",
+        "width": 612
+      }
+    ],
+    "place_id": "ChIJ26MDW7fnAGARRANseN1XPGo",
+    "plus_code": {
+      "compound_code": "MFXX+H5 Osaka",
+      "global_code": "8Q6QMFXX+H5"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJ26MDW7fnAGARRANseN1XPGo",
+    "scope": "GOOGLE",
+    "types": [
+      "meal_delivery",
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 191,
+    "vicinity": "Osaka, Kita Ward, Umeda, 1 Chome−2−2 大阪駅前第2ビル B2F 36号",
+    "distance": 957.9867630772228,
+    "score": 0.0159
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.6986071,
+        "lng": 135.4961775
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70028277989271,
+          "lng": 135.4976345798927
+        },
+        "southwest": {
+          "lat": 34.69758312010727,
+          "lng": 135.4949349201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "鮪人 まぐろんちゅ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107121647278345297766\">鴻池明</a>"
+        ],
+        "photo_reference": "ATKogpeJDvgF5HM-CZCevHUNd45PzbZAiBzOHKT3L3GTFWKMZkFBwANuwWjZQqVyWz35lun5nH8uMAVxiIAvAXyf-V-o0XE4BeextYbsGL9SMqh-Ujs0QdIr7nOSo5mnSKJjw8ZGx_h1KQCMGPLTJOiEMsYSJsOSO--vjRp8QkSZHnPSUifaW5LUcHD4cEjbuGalDuA-kPlrfze_0Fr7_TRW5fU1KwbeHXqT7SnuZkVaFfWKDBe95XJAiJAN46weyyPhdwpo3Yb5s2CjNN05ct1LNZgqjgHIgYYDrPLNh1Pl2gJae-eswnp_MX0oQUXR8J4iVAe9u0_kFquE2Kz954rA_qwZy1SvOEn-fxJAvkM13iVBjgSIdwDYYWwCc8un25RNO0yMBFTe0KkmCgvEPKPktnuIzQbTicMgr_b9Hfk92mT8hl1NNFrwWqmsvVWDZ0CLR1XqROrQWHuarJd9wFqz4sUAxkGYp4CiD3iYMMLbHj8z3ZbwXNyGkkoBp-zsPreHlrYCA394ZFre46G585Uu8tT82qefHOG5OpOAxj1wvUswXj9SmSh6WJfHaHzBm7mf_Auhlg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJxZt1kEbnAGARLOox-7ZHqL4",
+    "plus_code": {
+      "compound_code": "MFXW+CF Osaka",
+      "global_code": "8Q6QMFXW+CF"
+    },
+    "rating": 3.7,
+    "reference": "ChIJxZt1kEbnAGARLOox-7ZHqL4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 67,
+    "vicinity": "Osaka, Kita Ward, Umeda, 1 Chome−3−1 地下2階",
+    "distance": 1085.498160703082,
+    "score": -0.0959
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 34.7008723,
+        "lng": 135.4990199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70198517989272,
+          "lng": 135.5004255298927
+        },
+        "southwest": {
+          "lat": 34.69928552010727,
+          "lng": 135.4977258701072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "“Ekimae” kaisendon restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2258,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114831930312719814213\">riratarou yodoyama</a>"
+        ],
+        "photo_reference": "ATKogpcYBWcjxOzOzk4d82ZHxWP_I2WKa5J4_w7Zv-lESH6XXwWs4DyKnxm0Hg3AqH6xh291jV48KA_IVAUiCC7DoVPD5n2zlEUezi69PkBmj8ZSbmKp7W2wpoUGB9NZy6U6QZKqZiSDB8WbBLpXsffNxBu48VUbfYEZKfKCwVUVz8sNiv4165fXMGbJvZDkjRI_dYjBrxnMkR-yHTLwOls05sbJ4nlYU_l4DYsOfZiHuH6IyHeeBDu0xKIycKgZABxVxEPvvpShB0TL0QZUo0MwgUILv00_Yxab_IyomP7lKQcTmWJRCMSWtkLESS0EPETkt9HWsF-DyL3h4u8N7cEgPQbISEWdTjuh81pA9stLAwdjba2Ed0PfNCqxIkhiSvgy3IUyPiTCqhaZywwgOCEXCHrwAGF9-XolXUs0mN0eS3ahSft26OSw2I5_MC2QaGGWOKtS588CNd5yy3X2Yea7afo666G0vcYXQgqpDagHDuzUXpTlrk9SD7N3gGkww9b_Vseris_9vpP-B4Qc1_tlEgOKhXiPnvc-eHKd_-VktfVJFa-wrnL6i9GCJstAVuGGnRh_sw",
+        "width": 1947
+      }
+    ],
+    "place_id": "ChIJrVBCx5LmAGAR7o0EjzETqX4",
+    "plus_code": {
+      "compound_code": "PF2X+8J Osaka",
+      "global_code": "8Q6QPF2X+8J"
+    },
+    "rating": 3.3,
+    "reference": "ChIJrVBCx5LmAGAR7o0EjzETqX4",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 71,
+    "vicinity": "1 Chome-13-13 Umeda, Kita Ward, Osaka",
+    "distance": 726.1863505152118,
+    "score": -0.1355
   }
 ]
