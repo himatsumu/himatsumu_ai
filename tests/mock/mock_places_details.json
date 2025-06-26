@@ -1,0 +1,482 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "１階",
+        "short_name": "１階",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "イーグルビル",
+        "short_name": "イーグルビル",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "3",
+        "short_name": "3",
+        "types": [
+          "premise"
+        ]
+      },
+      {
+        "long_name": "17",
+        "short_name": "17",
+        "types": [
+          "sublocality_level_4",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Dōyamachō",
+        "short_name": "Dōyamachō",
+        "types": [
+          "sublocality_level_2",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Kita Ward",
+        "short_name": "Kita Ward",
+        "types": [
+          "sublocality_level_1",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Osaka",
+        "short_name": "Osaka",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Osaka",
+        "short_name": "Osaka",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Japan",
+        "short_name": "JP",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "530-0027",
+        "short_name": "530-0027",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"country-name\">Japan</span>, <span class=\"postal-code\">〒530-0027</span> <span class=\"region\">Osaka</span>, <span class=\"street-address\">Kita Ward, Dōyamachō, 17−３ イーグルビル １階</span>",
+    "business_status": "OPERATIONAL",
+    "curbside_pickup": false,
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-26",
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2025-06-26",
+            "day": 4,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-27",
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2025-06-26",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2025-06-27",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0500"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 5:00 AM",
+        "Tuesday: 5:00 PM – 5:00 AM",
+        "Wednesday: 5:00 PM – 5:00 AM",
+        "Thursday: 5:00 PM – 5:00 AM",
+        "Friday: 5:00 PM – 5:00 AM",
+        "Saturday: 5:00 PM – 5:00 AM",
+        "Sunday: 5:00 PM – 5:00 AM"
+      ]
+    },
+    "delivery": false,
+    "dine_in": true,
+    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Dōyamachō, 17−３ イーグルビル １階",
+    "formatted_phone_number": "06-4397-3002",
+    "geometry": {
+      "location": {
+        "lat": 34.7038176,
+        "lng": 135.5022668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.7051379802915,
+          "lng": 135.5036102302915
+        },
+        "southwest": {
+          "lat": 34.7024400197085,
+          "lng": 135.5009122697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+81 6-4397-3002",
+    "name": "Osaka yakiniku restaurant Uchida",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0500"
+          },
+          "open": {
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0500"
+          },
+          "open": {
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0500"
+          },
+          "open": {
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0500"
+          },
+          "open": {
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0500"
+          },
+          "open": {
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0500"
+          },
+          "open": {
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0500"
+          },
+          "open": {
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 5:00 PM – 5:00 AM",
+        "Tuesday: 5:00 PM – 5:00 AM",
+        "Wednesday: 5:00 PM – 5:00 AM",
+        "Thursday: 5:00 PM – 5:00 AM",
+        "Friday: 5:00 PM – 5:00 AM",
+        "Saturday: 5:00 PM – 5:00 AM",
+        "Sunday: 5:00 PM – 5:00 AM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104078276566696569813\">焼肉ホルモンうちだ</a>"
+        ],
+        "photo_reference": "ATKogpdIjrinEfVEwKawY53Ah6E7IKa08ink1y8x5ktHYymZ59wTOq_Kozysl04M0sWCIsotpH-SMFt3U-kfDJXWZsXBdnDNR1BORZBM4q76NHmYhJd5WDXo3PnfR09jv5KlPnOJ-3EElL6k1A4kJLlp3Qqpou_VQod_Q7XyPI0BtzzgHgKctiRFGoqdmUoBmKW6KmriONXbPqpObgxuOP9Xvx-HzI_iOOPzmzK4sSolKGxz-DSQk6HI1jR-1hcF-7_KSP40TRWChd9ZnjE8i561KKdrTkQGmhgsbm5FohJINOdv4czhGX2otU7OUsbOCVDzzGqdndOSvy0",
+        "width": 2268
+      },
+      {
+        "height": 1409,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104078276566696569813\">焼肉ホルモンうちだ</a>"
+        ],
+        "photo_reference": "ATKogperYB6gTZWOf-hIVwwKl2USdWE1cKMWgI0zUdTuVhWj6k43QzakhppkK4qo1NLOdfOBUqlPLrA75QiGz1iFfKwox42ls3av6qG67D74sM__tl80ZJ18C3u0oWzc1AhE9cJRmeGFCY0FYIzp9o6FCvigkD98BULK3BaCMt_dsjYag-qR1OD35oy4D_8kwos91iO5oeCRQdb9xGZX4IRPqBwzv8_Isj4zsrM_ApIJMayOqSPdr8aYJz2RH0zsL-YGRif4g6CHmt0oY7ukwp7od0a2TXwOF-gBP9MmSNpyrt1oWwuCPOlQBxXlW04yZi4XOdqxkwNAHNE",
+        "width": 1409
+      },
+      {
+        "height": 4284,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108506150681347519705\">爱迪生</a>"
+        ],
+        "photo_reference": "ATKogpdPtaKBP_Rpg8h7eJYIGT6rAkAjRFwSrpkH50NW1CT-q8G51G06jYNvNv3AM3iQVyZ_P4UMvRduVJR8jCWhMS4L3CSSW8L0N6lnLblgULS6CKqI735f2aC1ecBMX-X7mjhtU_iSJm2JwYnP9YC4PW3_X8YPlE5ET7-vR4U7EyHCbl1PZw9TM9c7e5fkYhHDSGnogvViD3s3IDSw86QwBCwMUb_uz33uERxmJ3iYNL2KmVjZjOV5etQ2BM-jfqkqoxhh3g4Bg4dkUPG0MRbmLQ6pdeKsAtIMxcoG_Xza9HprEiPG23dvO1Xyk3v1xGP3F0VA-4bxf1a_fPyRE2ARTc6VRWwwU-BguiG1jcbzR4bHxK2TeW_o8QfC4WUTJpjUJwnpXD_1Wz-uxh_5E_6IxOEIw58rqOhgR1jOqvwAFqKFAQYg5KuM6LwVIkQ5m2qAAI_JWZGd9H9SNn_lNvdgm_9JhisWAcdPlFA9_OLFLiv4O55NTIlYZmgYMeP3uUyycSbEWHDjK_eRQW1c4xosXnkb0zgVpgjUM-jEkyiILEZ_1k3GTx-0hbLh5ZvR8WYtZNBU6T3w-DbbtUI3iQW4lWLce01CM3469iSrdLzYiwJbhPAkhpKAYH0iS8OQSJz3fyb6Kslcu5X-XV_QwKkLpT15GCE",
+        "width": 5712
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102825327580928226335\">권혁범</a>"
+        ],
+        "photo_reference": "ATKogpctaVQbf0k6QAkA_bMNCm6rhwNqb4qFKquoLmkX6MxNOpD_PKUbIDi55q7Z47Ba0ZD2jAV8-FSAkJJwgr8e4mIAI_-T5JoH5a9BZt9p-cjySBDtLJWyg3L42I0VfzDqUfZ7I0m6s_rqjZoVa2F1Q4iXJL4necNQC3Rk76tNwNqzEETeMgV0_KyG41GOABjEEMFNppWg282M8gAk2YS8sQy-ivY3psB5fdEYu32MV41KXjvjqWCKklx_dayJDgzzRzqpYdtcr_5lX1Jl-y90GuoaUReq1qow1Tzd76bRtjFvf7VsK_RORY5BWKs8XHjEJFxcJao3nomp9xK-s04T-KHjIESjpy_3VPzYROqAKRW2sCQwh-6N2obbn1aTJ7wE3KxRlGjjASkDA9bC7t507wrSoN3J68nkTe79VOaTIwA9mcUjv68SgKanG4pxfXIddFfwgxWoPzjUpoy1P0fLulJYw0CUGnD839jb7A9iT6uVveL6EFkh4JPvZgRg_SPR-H60VJcu56CS3ZffSFDEgBaBCogc2JPfi_aWBeFGMRPgQJwkcXNcQl7lWXGyxjoRkOf5paooqNBvrbAp0dFE-ZXaIT5ZfHmazj-OLW6z1tzme5w-4QqwnzOL9VUapd_t80hK8g",
+        "width": 4032
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111784915618012439501\">민경</a>"
+        ],
+        "photo_reference": "ATKogpcyYrVOA7iD6n-9oLji5Hd-bMUuatWTXNdW2RBG3Y3wLxaKNNBx3SjNGA2cK9hPh3zCzR6MwpfDUn9Ea_gpGr2D6L-kQSn_3YLunuuSg71Vt-_CyLPprMoks-RGrRdI5RWS52cn3VDYFF8QNJDkH-HkG2JlISuxglQnpsAiabGIeiGfSvD0RauPLiTh25PWKsKdoW8m2T9EWUWK2hM5NwL0E7-s1GteZEB6lflb9GQn95dBd5USr30BM9cseCsbrQuCsmqyMhr7ELYToy_WlxXw_vSkgL3IQ3sRjdg2eSKpWzDbjwn_41KosB00s87uf72PQfPIgm4INaPhB1YMpj5nsrqFrSx_NIo0QWJ30YU5BAd4Zmk3ickomMnWGHYZU4uJmBtH6ERBvCIt1tdxW5_-JNkoWqcggNhwWVQUIrFDBIR60YAQXemwk-KMAbJm0smWCDnlrpN23yYGVi7i-Zo0y5qKcF6BcVIRBV6V_mbB98TYSGjWyfMy0gOCONAIOajz73dTsS4hv_kgjqcSrm7uWi7Zj78fX6zZuEn6HMmbcKjV2NFGP5ZBd7yV2MFFyRLrrZV35EaP_hYSls93YyN-YK68IIuTyDOxWhDfgnTOFIZ3UI4CS42OSIEnSZW7zyegsQWDwMFR-OGIeHCBgHcppj4",
+        "width": 3024
+      },
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101851646214052434452\">하정훈</a>"
+        ],
+        "photo_reference": "ATKogpeIHSmC-5JyZ4NdR4SMOODMoPMEPAmQjzMeN-kon-gtnSUV84Qywq4-fLqqiasD1Xy3AOYV7shLJKjHBZVkQ1gyCmcKpLgP9CAohLa49DqxiMv60LpAMguQNq8KBFiTcQCGE1r5s_zsNtLzYiOxGv3ukcC4pTVojQ_I32oMbFUXwhRAsRQeyNWglOwHq1aiZ_fktvj760ZxBpSjKlNyAjHKidIPPYk8JqOaEqHjAqaYR92NStP9LTeujpZjhMWzeP5ZbDAxN6P01NkPn9zEn_MuxKOxQEbQJYp7rQD9ucOePKHqxVYSSrqkilqFqu8rPDktzOdv6AVGtn4NZhg9Di8EjwdnpscFO7Ji5FFYHOS1zWK8ZCSwP7N-K1gbe6iQ8S-mDXgzMF9M2rK5ocHmQ0X3ynl_4ChLzqMiICaS89tSBTzUPH3PPRouLTBaETJjlAb6agIIrBi2P6v3EAzPcjp2joRfbCs34vQAQuszlgAqQ0NzsfP5GcgxMyBbcuqWzpTVRxI792t3jdjG3jRJZGWonYMSbFSGUEFk-WVJ0aIp_H8uLA8GM2amOHEoGGkXgB5iV46mjEH7DWhrwyRMjXE0Du_dStYgXzQeuOrSRtXAITjrxmRj1lDzzd2k9KS9AwFNtQ",
+        "width": 1280
+      },
+      {
+        "height": 1496,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111655547783010259894\">류동코</a>"
+        ],
+        "photo_reference": "ATKogpdMSXQmdP7jKyZX_ZPjdN7z9BrSUpwheI9frK6MtwfbUg1IFC6Z1DNaj2YRkGhAYxTAkhn1FO1ZiLWrSIBGTMf1Y4YKC-Zzn3cIKvMBvsXnNLaVOJ6nGkxO_oK2WN7I1fPaIkNK-Zh6ZPyUazMKBKiaTdJRSoqwVoP0yvTDe9kr-2ddvuY8oVlE4RGGeS3bQEfXzqDdB7x0a0p7SZGtXm8UVrLgcEeaEEGLr2rk3M3JKhXutC7ZPfSUj1IvqAjg_scuBJguwodF02oRzVbtZxU2iYIW3WuSVHW-hfhQeSOIN5zOEHmPdIGtle4R9pOpxgKeHS_MOLWPpeisGfA7bK8pTukNG3-zs-Uq84AyewP3OPY2sspx4d_C-mUibNBOR3frq9F31e4xSYec3Wj4X5QoUVv_K2rtzkuWIcOoW7f5e0kf22-rEA9MRHOioKI9SvtK73UfNTk48OEGfz4aQsam2R71yrVfy49rckCAJOxo5ILGrUidDMfJymMIYxGv54tjMF-YO9uVpJ02U-FbtO7ihPYz4pBwXxnvbxVh5d-OXGype13HXxxwqragY9zVULkpYsSkd16Ukr485-RpNlZ3RAgKllKXjZ4yOc7swgjytp6ss34eifiOTZ4fndmi0OeAiQ",
+        "width": 1496
+      },
+      {
+        "height": 2992,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115283559301189579911\">김지은</a>"
+        ],
+        "photo_reference": "ATKogpfpMLAmX0YPi8XrB9goEQxzQmeMHX8wCWHVVjQVGWRGQA69x8_K9w-ildNyM4Vzc5LtHn-YqSuE4HTdNK0pvsNblrxHuq-5pwmaM1D7Z-ZYiKhiGTo3Lj4VQd_5rjAH4elQPL8Eoz8eFmqknhH9uNIRFtdxW4e1F7jXWlT5WwiIO24TBIvxcvg9P_jE-Ed9j_clcH73YOxHCG2RO7aonbxsBsYyoknR50fsOHOEdXKEnUwow1UPN1iFxQ_1uLHmBGx5L6DBv3l_hKDD6qp9Eg7lgWVaPE54n5ZOC2lYq1i-vQuItNoI99Sa9l4wvsLEz-pQOo3St6ZOFpnkiJVcP0u1HOW3QRFMdtBCwT9-DSZkgm8CfME_hmSIEknB58SAFHO2TPrmtA2euKKpQndIwaF4SZK9VwKxPwnhibwi_6bLbjyVk1aLycSSSs72ItK1Dap3czn0bNKnTMt-YmzQxAVSH6gm__OesXUz1g_acVtBCjDPD8vTy0JeAqfA_wrhWsKP-5fw18kTqie_cU_4YyKrCpLxudIfmPLedIqXrWLKYzp1Psg-TZMRjufV2IwdTXWiPBpRJxQu-k0QPSMnHQuJxxU2hcjd-Po_PHQ3DQUugPO6Md4ej8RuAV4sOa0ESgetfQ",
+        "width": 2992
+      },
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108821828571536879661\">ひでみ</a>"
+        ],
+        "photo_reference": "ATKogpeSJGszhzQrz5_b4ubs6e5aiMBDNYLChrZ73UX0l7SXZzuk3bvVtBWnA3Ae_OfF2YnvUZ5H9OVNq875n3RMwGxPkTIq9HWExW7p2G_rvU9OdKx9BMbvJHgbjpw5prNGYNrKzB6B2RDPyQcDqIWSdwkZwEQvQ4K0J_Q9xICohkl7tFB2HXm7xrYlDF5qc_b6Kqws1ix6BtqDz7RNuF07M26KH7JJsCCJkHIbKwoIQ12lx75daZO0ejbv_pmk3SqR1bL9G9KTm2ny8Mph0YsE868oCTC7btRYklIb6vdwMtvP1vHCQQuMfmRvAKSXhO_pUov-8b8fqKwRMhFemk5Su2KQ7olnuht25Lzz-s8w39Cm3fa87A_Y8OXXK9_hDVypTHh5hNZH1ThPYIDAhRiciukIjqD9WiSTXjLESFOQPWIooZgVDdG8WPbcsjfMwq_hfKznVKR2P704EEqmpFdn1bpmUML80k7w3TV6IHhv7L5hB16ASqHi87LehMvs29C5qkQWV5DXmYGMik1TiGRtDXLkm8kr0PmUelAjMFmfZcDdcvAtR7toxgwQ9uxALGilUjPzn5YkPUhws7ioABCz7KMizSkgMxnGzvUGOJEYZBUDnNgkjDO6H0J_wX0n0fi1qvyJrF0R",
+        "width": 1280
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102694727632766343790\">高橋仁</a>"
+        ],
+        "photo_reference": "ATKogpfPddgtKoAVuqzwAyYVqvdVJcfo8cid65A-0buwFiMmPvBf4Bagsogi_gnVcox1LKKi1v5JTQkjY_P-kbsu1s-RtY9OJUH0fXq_MR9BCMCMfWtVEjLcAOpCaOoXW99iefhd8LJUXBkOBrLCColzDRe5ccts-3lrEeYafrL5Fr78LwnUQLZs7QIcGlPsger3bLRK8izzQyuIiTtDAxkzEbAYH2KqTOqzCmNSR2gNydNFCmTbP7BaJc1Aovwsz0lYiyUrhIlU83cstShFPXXgFmEa9cMTUeQSp1M37IoRDEss602L4S4EbBQoI0xaTlINzRTW7VQPjJxEtp8UlShkVvpNVZdKIKiACw1V1a4lyukLfy5-pUzpMnOdE3IW3gNYvr24klBzHSWUnCEujBt8SnMhxAmQgksYXfXOX0Yyomc-og3U-bYCR6Zjn2Vf5mYXHEC0kQQKls2Vc8DN0-5Qn2vCWQ9fHe9xedLdyJbfdniOE9kjpI5pKetGt3461yOVsLz45UYfnfSbHahBXUwI9cxtjvLX-inj-So7JxVLr9XlKQmiGrprd11qBmIIGNeiuWTY_oK5236vMEw5Ai8ftN5cs7zH-I-af4AYvrGzwRVj1GptGqcAWimZS73foRsgBbwxeg",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJaxLzYf3nAGARD6HBizIB5_g",
+    "plus_code": {
+      "compound_code": "PG32+GW Osaka, Japan",
+      "global_code": "8Q6QPG32+GW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJaxLzYf3nAGARD6HBizIB5_g",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Ron",
+        "author_url": "https://www.google.com/maps/contrib/117731000003074419216/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmOZTPOj7NcH0PQLOgj1PG81RPDJEvFx_ao39AKtW_WUlBHVw3=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "3 months ago",
+        "text": "Good selection of wagyu beef self grilled korean style. Pork n chicken also available but limited. Vegetables kimchi hotpot rice.\nGood selection of drinks inc jap wines n champagnes.\nSmall restaurant but adequate ventilation esp no smoking.\nFair pricing for quality. Attentive service.",
+        "time": 1742475695,
+        "translated": false
+      },
+      {
+        "author_name": "Kimly",
+        "author_url": "https://www.google.com/maps/contrib/109265550283135926938/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIanEp-l55TAoW92qVl8fAeOPkJVJVa2VkDWf_KeqKAHiQ1lAmL=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Walked in at 9:30pm. Had the kalbi, yukke, and special misuji with sauce. The meat was tender and juicy. Kimchi was not spicy like in Korea though. Service was great and attentive. Would come back again!",
+        "time": 1748955748,
+        "translated": false
+      },
+      {
+        "author_name": "John Yong",
+        "author_url": "https://www.google.com/maps/contrib/102194928471902328990/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkkzN1b03BxvscWF97Nwumzuyh-8SPcTYTZ_FaNsMK_D0Vmw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Nice Yakiniku. Although I do not know much about all kind of beef parts, but every dishes give us different experience. Staff are friendly too.",
+        "time": 1748252357,
+        "translated": false
+      },
+      {
+        "author_name": "Nathai Sirikantraporn",
+        "author_url": "https://www.google.com/maps/contrib/106201200650973624846/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXlDMQs3OhmF92xSIHpgDWOqSLgiFqI33Fwak_KQmCtUj5iA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "the best beef meal I had in Osaka so far. The quality and the season are so on point! Will def come back here 👌🏻",
+        "time": 1745234416,
+        "translated": false
+      },
+      {
+        "author_name": "Irene Tay",
+        "author_url": "https://www.google.com/maps/contrib/108506090699419900340/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlGbKhyUpYg_tUxbaW35B9rit9yOcSKAljNRxkUf9dumCf-hM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Good food, good service. Clear the plate very fast. I like the draft beer as well",
+        "time": 1747905591,
+        "translated": false
+      }
+    ],
+    "serves_beer": true,
+    "serves_breakfast": false,
+    "serves_dinner": true,
+    "serves_vegetarian_food": false,
+    "serves_wine": true,
+    "takeout": false,
+    "types": [
+      "restaurant",
+      "food",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=17935305357631004943",
+    "user_ratings_total": 2509,
+    "utc_offset": 540,
+    "vicinity": "イーグルビル １階, 17−３ Dōyamachō, OsakaKita Ward",
+    "website": "https://s.tabelog.com/osaka/A2701/A270101/27135358/",
+    "wheelchair_accessible_entrance": false
+  },
+  "status": "OK"
+} 
