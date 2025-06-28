@@ -3,38 +3,15 @@
   "result": {
     "address_components": [
       {
-        "long_name": "１階",
-        "short_name": "１階",
-        "types": [
-          "subpremise"
-        ]
-      },
-      {
-        "long_name": "イーグルビル",
-        "short_name": "イーグルビル",
+        "long_name": "1-1",
+        "short_name": "1-1",
         "types": [
           "premise"
         ]
       },
       {
-        "long_name": "3",
-        "short_name": "3",
-        "types": [
-          "premise"
-        ]
-      },
-      {
-        "long_name": "17",
-        "short_name": "17",
-        "types": [
-          "sublocality_level_4",
-          "sublocality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Dōyamachō",
-        "short_name": "Dōyamachō",
+        "long_name": "Maihama",
+        "short_name": "Maihama",
         "types": [
           "sublocality_level_2",
           "sublocality",
@@ -42,25 +19,16 @@
         ]
       },
       {
-        "long_name": "Kita Ward",
-        "short_name": "Kita Ward",
-        "types": [
-          "sublocality_level_1",
-          "sublocality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Osaka",
-        "short_name": "Osaka",
+        "long_name": "Urayasu",
+        "short_name": "Urayasu",
         "types": [
           "locality",
           "political"
         ]
       },
       {
-        "long_name": "Osaka",
-        "short_name": "Osaka",
+        "long_name": "Chiba",
+        "short_name": "Chiba",
         "types": [
           "administrative_area_level_1",
           "political"
@@ -75,408 +43,387 @@
         ]
       },
       {
-        "long_name": "530-0027",
-        "short_name": "530-0027",
+        "long_name": "279-0031",
+        "short_name": "279-0031",
         "types": [
           "postal_code"
         ]
       }
     ],
-    "adr_address": "<span class=\"country-name\">Japan</span>, <span class=\"postal-code\">〒530-0027</span> <span class=\"region\">Osaka</span>, <span class=\"street-address\">Kita Ward, Dōyamachō, 17−３ イーグルビル １階</span>",
+    "adr_address": "<span class=\"street-address\">1-1 Maihama, Urayasu</span>, <span class=\"region\">Chiba</span> <span class=\"postal-code\">279-0031</span>, <span class=\"country-name\">Japan</span>",
     "business_status": "OPERATIONAL",
-    "curbside_pickup": false,
     "current_opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
-            "date": "2025-06-30",
-            "day": 1,
-            "time": "0500"
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2200"
           },
           "open": {
             "date": "2025-06-29",
             "day": 0,
-            "time": "1700"
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0800"
           }
         },
         {
           "close": {
             "date": "2025-07-01",
             "day": 2,
-            "time": "0500"
-          },
-          "open": {
-            "date": "2025-06-30",
-            "day": 1,
-            "time": "1700"
-          }
-        },
-        {
-          "close": {
-            "date": "2025-07-02",
-            "day": 3,
-            "time": "0500"
+            "time": "2200"
           },
           "open": {
             "date": "2025-07-01",
             "day": 2,
-            "time": "1700"
+            "time": "0800"
           }
         },
         {
           "close": {
             "date": "2025-07-02",
             "day": 3,
-            "time": "2359",
-            "truncated": true
+            "time": "2200"
           },
           "open": {
             "date": "2025-07-02",
             "day": 3,
-            "time": "1700"
+            "time": "0800"
           }
         },
         {
           "close": {
-            "date": "2025-06-26",
+            "date": "2025-07-03",
             "day": 4,
-            "time": "0500"
+            "time": "2200"
           },
           "open": {
-            "date": "2025-06-26",
+            "date": "2025-07-03",
             "day": 4,
-            "time": "0000",
-            "truncated": true
+            "time": "0800"
           }
         },
         {
           "close": {
             "date": "2025-06-27",
             "day": 5,
-            "time": "0500"
-          },
-          "open": {
-            "date": "2025-06-26",
-            "day": 4,
-            "time": "1700"
-          }
-        },
-        {
-          "close": {
-            "date": "2025-06-28",
-            "day": 6,
-            "time": "0500"
+            "time": "2200"
           },
           "open": {
             "date": "2025-06-27",
             "day": 5,
-            "time": "1700"
+            "time": "0800"
           }
         },
         {
           "close": {
-            "date": "2025-06-29",
-            "day": 0,
-            "time": "0500"
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2200"
           },
           "open": {
             "date": "2025-06-28",
             "day": 6,
-            "time": "1700"
+            "time": "0800"
           }
         }
       ],
       "weekday_text": [
-        "Monday: 5:00 PM – 5:00 AM",
-        "Tuesday: 5:00 PM – 5:00 AM",
-        "Wednesday: 5:00 PM – 5:00 AM",
-        "Thursday: 5:00 PM – 5:00 AM",
-        "Friday: 5:00 PM – 5:00 AM",
-        "Saturday: 5:00 PM – 5:00 AM",
-        "Sunday: 5:00 PM – 5:00 AM"
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
       ]
     },
-    "delivery": false,
-    "dine_in": true,
-    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Dōyamachō, 17−３ イーグルビル １階",
-    "formatted_phone_number": "06-4397-3002",
+    "editorial_summary": {
+      "language": "en",
+      "overview": "Tokyo offshoot of the iconic theme park known for its rides, live shows & costumed characters."
+    },
+    "formatted_address": "1-1 Maihama, Urayasu, Chiba 279-0031, Japan",
+    "formatted_phone_number": "045-330-5211",
     "geometry": {
       "location": {
-        "lat": 34.7038176,
-        "lng": 135.5022668
+        "lat": 35.6328964,
+        "lng": 139.8803943
       },
       "viewport": {
         "northeast": {
-          "lat": 34.7051379802915,
-          "lng": 135.5036102302915
+          "lat": 35.63923269999999,
+          "lng": 139.8826676
         },
         "southwest": {
-          "lat": 34.7024400197085,
-          "lng": 135.5009122697085
+          "lat": 35.63078430000001,
+          "lng": 139.8735744
         }
       }
     },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
-    "icon_background_color": "#FF9E67",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
-    "international_phone_number": "+81 6-4397-3002",
-    "name": "Osaka yakiniku restaurant Uchida",
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "international_phone_number": "+81 45-330-5211",
+    "name": "Tokyo Disneyland",
     "opening_hours": {
-      "open_now": false,
+      "open_now": true,
       "periods": [
         {
           "close": {
-            "day": 1,
-            "time": "0500"
+            "day": 0,
+            "time": "2200"
           },
           "open": {
             "day": 0,
-            "time": "1700"
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
           }
         },
         {
           "close": {
             "day": 2,
-            "time": "0500"
-          },
-          "open": {
-            "day": 1,
-            "time": "1700"
-          }
-        },
-        {
-          "close": {
-            "day": 3,
-            "time": "0500"
+            "time": "2200"
           },
           "open": {
             "day": 2,
-            "time": "1700"
+            "time": "0800"
           }
         },
         {
           "close": {
-            "day": 4,
-            "time": "0500"
+            "day": 3,
+            "time": "2200"
           },
           "open": {
             "day": 3,
-            "time": "1700"
+            "time": "0800"
           }
         },
         {
           "close": {
-            "day": 5,
-            "time": "0500"
+            "day": 4,
+            "time": "2200"
           },
           "open": {
             "day": 4,
-            "time": "1700"
+            "time": "0800"
           }
         },
         {
           "close": {
-            "day": 6,
-            "time": "0500"
+            "day": 5,
+            "time": "2200"
           },
           "open": {
             "day": 5,
-            "time": "1700"
+            "time": "0800"
           }
         },
         {
           "close": {
-            "day": 0,
-            "time": "0500"
+            "day": 6,
+            "time": "2200"
           },
           "open": {
             "day": 6,
-            "time": "1700"
+            "time": "0800"
           }
         }
       ],
       "weekday_text": [
-        "Monday: 5:00 PM – 5:00 AM",
-        "Tuesday: 5:00 PM – 5:00 AM",
-        "Wednesday: 5:00 PM – 5:00 AM",
-        "Thursday: 5:00 PM – 5:00 AM",
-        "Friday: 5:00 PM – 5:00 AM",
-        "Saturday: 5:00 PM – 5:00 AM",
-        "Sunday: 5:00 PM – 5:00 AM"
+        "Monday: 8:00 AM – 10:00 PM",
+        "Tuesday: 8:00 AM – 10:00 PM",
+        "Wednesday: 8:00 AM – 10:00 PM",
+        "Thursday: 8:00 AM – 10:00 PM",
+        "Friday: 8:00 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 8:00 AM – 10:00 PM"
       ]
     },
     "photos": [
       {
-        "height": 4032,
+        "height": 928,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/104078276566696569813\">焼肉ホルモンうちだ</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/117843790272353465139\">Kenny Stokes</a>"
         ],
-        "photo_reference": "ATKogpdIjrinEfVEwKawY53Ah6E7IKa08ink1y8x5ktHYymZ59wTOq_Kozysl04M0sWCIsotpH-SMFt3U-kfDJXWZsXBdnDNR1BORZBM4q76NHmYhJd5WDXo3PnfR09jv5KlPnOJ-3EElL6k1A4kJLlp3Qqpou_VQod_Q7XyPI0BtzzgHgKctiRFGoqdmUoBmKW6KmriONXbPqpObgxuOP9Xvx-HzI_iOOPzmzK4sSolKGxz-DSQk6HI1jR-1hcF-7_KSP40TRWChd9ZnjE8i561KKdrTkQGmhgsbm5FohJINOdv4czhGX2otU7OUsbOCVDzzGqdndOSvy0",
-        "width": 2268
-      },
-      {
-        "height": 1409,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/104078276566696569813\">焼肉ホルモンうちだ</a>"
-        ],
-        "photo_reference": "ATKogperYB6gTZWOf-hIVwwKl2USdWE1cKMWgI0zUdTuVhWj6k43QzakhppkK4qo1NLOdfOBUqlPLrA75QiGz1iFfKwox42ls3av6qG67D74sM__tl80ZJ18C3u0oWzc1AhE9cJRmeGFCY0FYIzp9o6FCvigkD98BULK3BaCMt_dsjYag-qR1OD35oy4D_8kwos91iO5oeCRQdb9xGZX4IRPqBwzv8_Isj4zsrM_ApIJMayOqSPdr8aYJz2RH0zsL-YGRif4g6CHmt0oY7ukwp7od0a2TXwOF-gBP9MmSNpyrt1oWwuCPOlQBxXlW04yZi4XOdqxkwNAHNE",
-        "width": 1409
-      },
-      {
-        "height": 4284,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/108506150681347519705\">爱迪生</a>"
-        ],
-        "photo_reference": "ATKogpdPtaKBP_Rpg8h7eJYIGT6rAkAjRFwSrpkH50NW1CT-q8G51G06jYNvNv3AM3iQVyZ_P4UMvRduVJR8jCWhMS4L3CSSW8L0N6lnLblgULS6CKqI735f2aC1ecBMX-X7mjhtU_iSJm2JwYnP9YC4PW3_X8YPlE5ET7-vR4U7EyHCbl1PZw9TM9c7e5fkYhHDSGnogvViD3s3IDSw86QwBCwMUb_uz33uERxmJ3iYNL2KmVjZjOV5etQ2BM-jfqkqoxhh3g4Bg4dkUPG0MRbmLQ6pdeKsAtIMxcoG_Xza9HprEiPG23dvO1Xyk3v1xGP3F0VA-4bxf1a_fPyRE2ARTc6VRWwwU-BguiG1jcbzR4bHxK2TeW_o8QfC4WUTJpjUJwnpXD_1Wz-uxh_5E_6IxOEIw58rqOhgR1jOqvwAFqKFAQYg5KuM6LwVIkQ5m2qAAI_JWZGd9H9SNn_lNvdgm_9JhisWAcdPlFA9_OLFLiv4O55NTIlYZmgYMeP3uUyycSbEWHDjK_eRQW1c4xosXnkb0zgVpgjUM-jEkyiILEZ_1k3GTx-0hbLh5ZvR8WYtZNBU6T3w-DbbtUI3iQW4lWLce01CM3469iSrdLzYiwJbhPAkhpKAYH0iS8OQSJz3fyb6Kslcu5X-XV_QwKkLpT15GCE",
-        "width": 5712
+        "photo_reference": "ATKogpePdTCmAdtbA6kdwjENVPIcTXRMrl4fZv4KeYG0AvuqWmlECISHAuX6ReA4Gm5Ewld-Dqy_QxBeFxgvMQKB5pHUCqqgpnUSD5fxHUxyGAGnvN89doUUWA1EHf3TToxOSLSaAX5hiqAqY-UirMaZHDdLS70ZJkCEtiK8LehRH3wM21iFKvi_bI_9sSzYp_dhbYhURr96f7387tPlr25m5SQvcm7dQ69SCbPCErdQJPorNgkQ3802pX1t-GurznCah_q7cEy_m5cll7oowIAvEJV_88vpRifPB02LT2xj7bIC7NQ1FWT2jnct5P4-76M3R-gsn3bMac6-bFB2mwhwgQEu0CRQcuirabqTX1dW7k9g80CzMcH_4H8sfQamvJLA6ONkpNIicZkV6P9Ki50_UhkoqpzCrAyNNBT55FjKBa5gdLYAZR6xgrrZmeips5tKQFvJxFLp1hjOoxs7r0U1n_fp1M_LEGVckMKlZwPgAJcZsvHsFhOLCVr8W4et63J9iBbgTGIOj239F3xyVPT9lqTOqCy6goROBr5unDO9HxO3R_vGhsa-yrAkb2F5hd1MpzNEdWFionFVXXOwcfKolwgDzYc13xHsKOWNy6KhrJOUd3omtli-yKg0faxT5lv8wqGzug",
+        "width": 1273
       },
       {
         "height": 3024,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/102825327580928226335\">권혁범</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/102485309220406344171\">名無</a>"
         ],
-        "photo_reference": "ATKogpctaVQbf0k6QAkA_bMNCm6rhwNqb4qFKquoLmkX6MxNOpD_PKUbIDi55q7Z47Ba0ZD2jAV8-FSAkJJwgr8e4mIAI_-T5JoH5a9BZt9p-cjySBDtLJWyg3L42I0VfzDqUfZ7I0m6s_rqjZoVa2F1Q4iXJL4necNQC3Rk76tNwNqzEETeMgV0_KyG41GOABjEEMFNppWg282M8gAk2YS8sQy-ivY3psB5fdEYu32MV41KXjvjqWCKklx_dayJDgzzRzqpYdtcr_5lX1Jl-y90GuoaUReq1qow1Tzd76bRtjFvf7VsK_RORY5BWKs8XHjEJFxcJao3nomp9xK-s04T-KHjIESjpy_3VPzYROqAKRW2sCQwh-6N2obbn1aTJ7wE3KxRlGjjASkDA9bC7t507wrSoN3J68nkTe79VOaTIwA9mcUjv68SgKanG4pxfXIddFfwgxWoPzjUpoy1P0fLulJYw0CUGnD839jb7A9iT6uVveL6EFkh4JPvZgRg_SPR-H60VJcu56CS3ZffSFDEgBaBCogc2JPfi_aWBeFGMRPgQJwkcXNcQl7lWXGyxjoRkOf5paooqNBvrbAp0dFE-ZXaIT5ZfHmazj-OLW6z1tzme5w-4QqwnzOL9VUapd_t80hK8g",
+        "photo_reference": "ATKogpdNfypY7vWqT6m2W_0zpq7ZK15iXgE0xfPTeLiQabdeIAKuuDI0E56LzHf51jzfNvAS4xu7PgcfJcn6xrUsli7XTRVVkmX-aRkJD6QydiKDqQECBYUWV3rXKhazDbqw-yGHbTxgsQ5nQj6_ANwdB4HggHOP2wkahLU6XurtJbYbk8ac3QMRZiODil23vm5cl8-Pk6dTUrS9Xc_g7YiUW0XRayEZHxCCJ9JbTOh2D_vJ50ejsLLhHGsZZhx1RlMI32DuaivN3POhYLFtF3SMZNwwrbE4jE5bc47e7hRbW8JceoPThRP94WyVoEHfpt8xBZsgPUnLWauuLi9Af3n7m2w0E_3VF3GTOIseuq0xts7dqtMJ_jlCgg3klWJ2_-Nbm2AJKpRSFqUjqsGeMTj-LXvpicMqOlwe_DGSFsbY9iqpL7eWXEHJIApHTVUjRyZk7vU_xmdMzV1Dd-WRbSAWA2PBsrGaRGwhU5T6R33bYB8DcsOJ6Z83L4D2YL2PLRaLur8qXHKVlpIUiIJSxdgWygk61Uf4alYpZNDsPDTWitcL9ezCSaUbV0cMPwUiVPcghUeIQOmKU3qAoIWiTbrtQIPk_VfA2uOdBAvkGeuh-GCWHSFSoxsXZT7ELRkBvTSJpwBN8g",
         "width": 4032
       },
       {
-        "height": 4032,
+        "height": 565,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/111784915618012439501\">민경</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/114975408784711547520\">Sato Alinne</a>"
         ],
-        "photo_reference": "ATKogpcyYrVOA7iD6n-9oLji5Hd-bMUuatWTXNdW2RBG3Y3wLxaKNNBx3SjNGA2cK9hPh3zCzR6MwpfDUn9Ea_gpGr2D6L-kQSn_3YLunuuSg71Vt-_CyLPprMoks-RGrRdI5RWS52cn3VDYFF8QNJDkH-HkG2JlISuxglQnpsAiabGIeiGfSvD0RauPLiTh25PWKsKdoW8m2T9EWUWK2hM5NwL0E7-s1GteZEB6lflb9GQn95dBd5USr30BM9cseCsbrQuCsmqyMhr7ELYToy_WlxXw_vSkgL3IQ3sRjdg2eSKpWzDbjwn_41KosB00s87uf72PQfPIgm4INaPhB1YMpj5nsrqFrSx_NIo0QWJ30YU5BAd4Zmk3ickomMnWGHYZU4uJmBtH6ERBvCIt1tdxW5_-JNkoWqcggNhwWVQUIrFDBIR60YAQXemwk-KMAbJm0smWCDnlrpN23yYGVi7i-Zo0y5qKcF6BcVIRBV6V_mbB98TYSGjWyfMy0gOCONAIOajz73dTsS4hv_kgjqcSrm7uWi7Zj78fX6zZuEn6HMmbcKjV2NFGP5ZBd7yV2MFFyRLrrZV35EaP_hYSls93YyN-YK68IIuTyDOxWhDfgnTOFIZ3UI4CS42OSIEnSZW7zyegsQWDwMFR-OGIeHCBgHcppj4",
-        "width": 3024
+        "photo_reference": "ATKogpfISSb7seb5fu1xg_mpEPTLIDtcPRAWU4E8rArnZTzmeQxi_lRFPPUcjdZcQDc0s7Py6_3iIJtARhsGSA7kKzAsYV_vXxafc4o4u__uByvDbx-04SEvHPRq8_Fg3XXvxmXFKvig_Sap5Gc5cMUGHAVrlngFx4mb1E0R6fElWCMDsgpgO1UuZ00MJdYH6yu2_F11DmVM8n06UqDqSzUFj0PtjWuOOG799VrxhqXWqQ1NoUF2T-gLfWjV3VI9I5dvkouqMLgwzFHk6ltS98iUSUgZ5ZpL3T36-iTQ8M58iSxKT5nfSXeWOvbeQcuMg2_nxezVaUslSqLl54WdIK7t6IHUus_dpeuUz0_xuDbae1zPAIJ1WsvjQEblA2oHxjyNcEcbP4wwJWOvZcVBhmnKxq6rROBlPG1nkcECIaMXEeDSHNHS0AyH8MezXOzwA3Qxl27kre7dXeL8cRq3GKZFltkoAbm85LrYXR9QfEvEp2uRfo16c0yjnSCpgS08YbaQNKlw-lXArMHZ6y-oCCU51uFnY6A2WX4XL0xMnk-p7Ipf6Ri8Ku06cZ7iNNj0LtMD8zoip1kgVBDzPoKKanYszVnzHDilQoZzpq3lu4sRElcjN3zsPo3800vE8R9WagaZEkBSfA",
+        "width": 824
       },
       {
-        "height": 1280,
+        "height": 929,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/101851646214052434452\">하정훈</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/117843790272353465139\">Kenny Stokes</a>"
         ],
-        "photo_reference": "ATKogpeIHSmC-5JyZ4NdR4SMOODMoPMEPAmQjzMeN-kon-gtnSUV84Qywq4-fLqqiasD1Xy3AOYV7shLJKjHBZVkQ1gyCmcKpLgP9CAohLa49DqxiMv60LpAMguQNq8KBFiTcQCGE1r5s_zsNtLzYiOxGv3ukcC4pTVojQ_I32oMbFUXwhRAsRQeyNWglOwHq1aiZ_fktvj760ZxBpSjKlNyAjHKidIPPYk8JqOaEqHjAqaYR92NStP9LTeujpZjhMWzeP5ZbDAxN6P01NkPn9zEn_MuxKOxQEbQJYp7rQD9ucOePKHqxVYSSrqkilqFqu8rPDktzOdv6AVGtn4NZhg9Di8EjwdnpscFO7Ji5FFYHOS1zWK8ZCSwP7N-K1gbe6iQ8S-mDXgzMF9M2rK5ocHmQ0X3ynl_4ChLzqMiICaS89tSBTzUPH3PPRouLTBaETJjlAb6agIIrBi2P6v3EAzPcjp2joRfbCs34vQAQuszlgAqQ0NzsfP5GcgxMyBbcuqWzpTVRxI792t3jdjG3jRJZGWonYMSbFSGUEFk-WVJ0aIp_H8uLA8GM2amOHEoGGkXgB5iV46mjEH7DWhrwyRMjXE0Du_dStYgXzQeuOrSRtXAITjrxmRj1lDzzd2k9KS9AwFNtQ",
-        "width": 1280
+        "photo_reference": "ATKogpcb6w5OtK-RieslzGhx-R6Tt8Pyb8_rOQsjtmrNS6YJ8nkQmENYY7k1T0smFf_OTNyOPo9t2amSa7vEt8TGxHg17VjIq2qrEw_tmu-uzqloMP-sNPvhT1__6bs-vi1L_34mhrnAeCFyNsvXoSLsPN9XcWDU1zF6LAvVYJrHCo5CVx6MKSXNFAun34vRELlDyy4vQVfjnb1cmnHGIfeSfSACgSrrJFbStDenVJvdys0n00hyci3Q9RWk-xFUyAhjTL8TycPDEVXbMvDLS-qCG4gOLPGwag_ZHwCpjtNoQ6lwNj-ioWxBx4nYaqS5B9Fqc5oN6J4wthCK2GqMiyz75igKe47yJ706ghFjaJDRZkUX2LSlT2wVctAE16a5wocfUReRyENMFoklVUN_TQfnGFEBIOfNbNHh6bXy2jdKE3H9EY4_Qoq4KXwX_QaHrfMn6sN0RDYXl1VoQ83BPmOMus3pGYpLt7CVRwyf6uLsqBfUojsMcPQeTzzNYR_whV_TSkegK-8hKsLXINUnoLeatV9k0JJDVS43py0dtVtrza6sQiLQ5UGzaLkc6cpp7JdaXGKyUNlmjM27edtpQlZJxmVXGAqugbrwuiFEnj1CXipE9e2IftBCHHLjMHPDmqwMXO8-30am",
+        "width": 1284
       },
       {
-        "height": 1496,
+        "height": 1080,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/111655547783010259894\">류동코</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/105753821198739691888\">Asuka Y.</a>"
         ],
-        "photo_reference": "ATKogpdMSXQmdP7jKyZX_ZPjdN7z9BrSUpwheI9frK6MtwfbUg1IFC6Z1DNaj2YRkGhAYxTAkhn1FO1ZiLWrSIBGTMf1Y4YKC-Zzn3cIKvMBvsXnNLaVOJ6nGkxO_oK2WN7I1fPaIkNK-Zh6ZPyUazMKBKiaTdJRSoqwVoP0yvTDe9kr-2ddvuY8oVlE4RGGeS3bQEfXzqDdB7x0a0p7SZGtXm8UVrLgcEeaEEGLr2rk3M3JKhXutC7ZPfSUj1IvqAjg_scuBJguwodF02oRzVbtZxU2iYIW3WuSVHW-hfhQeSOIN5zOEHmPdIGtle4R9pOpxgKeHS_MOLWPpeisGfA7bK8pTukNG3-zs-Uq84AyewP3OPY2sspx4d_C-mUibNBOR3frq9F31e4xSYec3Wj4X5QoUVv_K2rtzkuWIcOoW7f5e0kf22-rEA9MRHOioKI9SvtK73UfNTk48OEGfz4aQsam2R71yrVfy49rckCAJOxo5ILGrUidDMfJymMIYxGv54tjMF-YO9uVpJ02U-FbtO7ihPYz4pBwXxnvbxVh5d-OXGype13HXxxwqragY9zVULkpYsSkd16Ukr485-RpNlZ3RAgKllKXjZ4yOc7swgjytp6ss34eifiOTZ4fndmi0OeAiQ",
-        "width": 1496
+        "photo_reference": "ATKogpckIoAH1LkSnIR5C14L_LG5_CvzE5CM4YNAe3q-1-7IW98mhfkfYOc-cLin8xwGUNW2ArPD1OFnhc8hy4LZgeup-cGAWi4iXKFWJ12StkL2ykEFEO8bGWLoNiWV-PBDTMMsD9n_gmhcaxqSnAa7Yhy_eHuhbiDrOH5GBpzMIyQv4WhwzLKQuPfBM9b_R1m3N9buG0jtV-WLqfiu8ZYrzW7NTwq3SzOvLJcC2zacGldP8XbwNUXdAC2WFTR0xPcVDk_FlJ2F-bMU_BQWIBX3e2rIxF-HzQ6nFFO3U0YIJObWdC4Yky_jyJsWnYuKrWr5j5Ojw_KzkMISq9ivdJojm2hid7FmdvbWC4mNCv7Pywq9LOLnI7Ukg7YTP8kTrxXw6v3FLjWIHKNC1c-y8i_BbzCBejbsJnFqVv7VZmlT5BVAwCl8GEJ31aLA6lRrs7kbTIqfuQ2ow7zMYhSTpYMQAbkSeGOHsHMtF63Jz1-n98s_63LS0IaTQtua9_1nJVFYDEy_3WrG5jC8-XQlCCrUeE3thHrP3YJw5Sy2U9NTC066XEIhCoJe68xgNPcevqRrGnqakJAxWeSrP5_feD656oJUJhLrYUBlJa8dI7NxaRRpO9B1eaSvb57i4a3KjqeeTresMA",
+        "width": 1440
       },
       {
-        "height": 2992,
+        "height": 3648,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/115283559301189579911\">김지은</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/105257451912294944118\">空豆太郎</a>"
         ],
-        "photo_reference": "ATKogpfpMLAmX0YPi8XrB9goEQxzQmeMHX8wCWHVVjQVGWRGQA69x8_K9w-ildNyM4Vzc5LtHn-YqSuE4HTdNK0pvsNblrxHuq-5pwmaM1D7Z-ZYiKhiGTo3Lj4VQd_5rjAH4elQPL8Eoz8eFmqknhH9uNIRFtdxW4e1F7jXWlT5WwiIO24TBIvxcvg9P_jE-Ed9j_clcH73YOxHCG2RO7aonbxsBsYyoknR50fsOHOEdXKEnUwow1UPN1iFxQ_1uLHmBGx5L6DBv3l_hKDD6qp9Eg7lgWVaPE54n5ZOC2lYq1i-vQuItNoI99Sa9l4wvsLEz-pQOo3St6ZOFpnkiJVcP0u1HOW3QRFMdtBCwT9-DSZkgm8CfME_hmSIEknB58SAFHO2TPrmtA2euKKpQndIwaF4SZK9VwKxPwnhibwi_6bLbjyVk1aLycSSSs72ItK1Dap3czn0bNKnTMt-YmzQxAVSH6gm__OesXUz1g_acVtBCjDPD8vTy0JeAqfA_wrhWsKP-5fw18kTqie_cU_4YyKrCpLxudIfmPLedIqXrWLKYzp1Psg-TZMRjufV2IwdTXWiPBpRJxQu-k0QPSMnHQuJxxU2hcjd-Po_PHQ3DQUugPO6Md4ej8RuAV4sOa0ESgetfQ",
-        "width": 2992
+        "photo_reference": "ATKogpd12GhottfiPcYtOO-0GL3h7X-devGnNPzm8d1EJPGu-N8_XVYUe3fi1cahDxnzwlIA6DlFAKAQc8EwFUgTcFjjkMHs_9BiNIRagSeinyutpTBMbd2RIJFmtlM3KUQ7NXOcRo-c4zNKmMstFlPbESNfs1zv-lKrOX8oxjhdawqB5YmkQFSyC-9gTXDSplpjBDJpkV2znYuKujngoP4DwjbMf6q_Z-QuZFQPCxGOmV_J1Eu-LoVYm1gz8ne-M_Y0Buj53tNkyiQmXplny8zCWAEzLaXERy-88sD_eOSHXVwMHMFzpS9QpWujbGtA2ifY-ySwacIrmCu8TeJGb9tZfPQLvAMnd6APrisWbKinBGpPs16ZExJO_RBqp72w5wzScAJCQRnnYU0YmvCm9yPLFl2YcQBTZj9xpo0LyVexZ_Cg_3FLVpU1Zhs_Xxh6F07ya-vo15kvpZsnsvCGV4ULTqTGuGgWNhjdcSs3U-grYhPjtclOyNm5JK3WFDJkywmcpIfmYTskAnIFlK9EvIsX-3OE2ezy4_Tn0PvJFseuelq0IFU5Js0MR7gmZPWQTrHt1eIIf2B627p15oxqxphl-_fTB7IT-Jux2ohfJTue74AW8N9gEn4AQ_f5Cboycr4i",
+        "width": 5472
       },
       {
-        "height": 720,
+        "height": 2268,
         "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/108821828571536879661\">ひでみ</a>"
+          "<a href=\"https://maps.google.com/maps/contrib/111753278927358651997\">まゆみ</a>"
         ],
-        "photo_reference": "ATKogpeSJGszhzQrz5_b4ubs6e5aiMBDNYLChrZ73UX0l7SXZzuk3bvVtBWnA3Ae_OfF2YnvUZ5H9OVNq875n3RMwGxPkTIq9HWExW7p2G_rvU9OdKx9BMbvJHgbjpw5prNGYNrKzB6B2RDPyQcDqIWSdwkZwEQvQ4K0J_Q9xICohkl7tFB2HXm7xrYlDF5qc_b6Kqws1ix6BtqDz7RNuF07M26KH7JJsCCJkHIbKwoIQ12lx75daZO0ejbv_pmk3SqR1bL9G9KTm2ny8Mph0YsE868oCTC7btRYklIb6vdwMtvP1vHCQQuMfmRvAKSXhO_pUov-8b8fqKwRMhFemk5Su2KQ7olnuht25Lzz-s8w39Cm3fa87A_Y8OXXK9_hDVypTHh5hNZH1ThPYIDAhRiciukIjqD9WiSTXjLESFOQPWIooZgVDdG8WPbcsjfMwq_hfKznVKR2P704EEqmpFdn1bpmUML80k7w3TV6IHhv7L5hB16ASqHi87LehMvs29C5qkQWV5DXmYGMik1TiGRtDXLkm8kr0PmUelAjMFmfZcDdcvAtR7toxgwQ9uxALGilUjPzn5YkPUhws7ioABCz7KMizSkgMxnGzvUGOJEYZBUDnNgkjDO6H0J_wX0n0fi1qvyJrF0R",
-        "width": 1280
-      },
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/102694727632766343790\">高橋仁</a>"
-        ],
-        "photo_reference": "ATKogpfPddgtKoAVuqzwAyYVqvdVJcfo8cid65A-0buwFiMmPvBf4Bagsogi_gnVcox1LKKi1v5JTQkjY_P-kbsu1s-RtY9OJUH0fXq_MR9BCMCMfWtVEjLcAOpCaOoXW99iefhd8LJUXBkOBrLCColzDRe5ccts-3lrEeYafrL5Fr78LwnUQLZs7QIcGlPsger3bLRK8izzQyuIiTtDAxkzEbAYH2KqTOqzCmNSR2gNydNFCmTbP7BaJc1Aovwsz0lYiyUrhIlU83cstShFPXXgFmEa9cMTUeQSp1M37IoRDEss602L4S4EbBQoI0xaTlINzRTW7VQPjJxEtp8UlShkVvpNVZdKIKiACw1V1a4lyukLfy5-pUzpMnOdE3IW3gNYvr24klBzHSWUnCEujBt8SnMhxAmQgksYXfXOX0Yyomc-og3U-bYCR6Zjn2Vf5mYXHEC0kQQKls2Vc8DN0-5Qn2vCWQ9fHe9xedLdyJbfdniOE9kjpI5pKetGt3461yOVsLz45UYfnfSbHahBXUwI9cxtjvLX-inj-So7JxVLr9XlKQmiGrprd11qBmIIGNeiuWTY_oK5236vMEw5Ai8ftN5cs7zH-I-af4AYvrGzwRVj1GptGqcAWimZS73foRsgBbwxeg",
+        "photo_reference": "ATKogpd2vUaHw4JsR6YvZHk-oJ6WyAhSXlGmPp1JLk_E4utqRAEYqbS5b1QqpEVBz_p5PxaEDkW96GZ-2fgjsXRpPGrbQoyBS9oGpKXz5FgXu-ltppM6J8PjqTWNmVvnMonoEZIGNIXYXSBcmgsmZ0LazirEqymstwdh8822iZzqLQPMu5yaRTkB_oazUXdjrXmypOCmF16OW_BJPyv0SczmZxBfrVd6U2-mwOr52YhYU9FdunedNIxCDKinGVp95i5iUGBh8juFMXFcCorZQGL5SEMbaotQNyfNGdjMD_funlJ6oRy-8tutofXJ4ce-NQQkurRd8YtbWF7_SAcLRL4ccq0oy5BunpxrTOzi5L6nf7Kl9p-brNG8uqtanDZDx24LUBwham_BcOBW5L9vbeQ8inuOY2vdzlvbv29ck-pndhbnc-Hevj04W9lpo8MDkEbOeYHNYo65uhfhTgqMB_iRFCQKiQDyxIYsERw8Fi4VY-A6iNOkzNOKn-pMCjw7dIuPzlKqsV4NDzTmSTbpBQENkNI1ngCERhmNFEPxlNlkJIyrQ8uwAH_ryA-cuqv-ZdNASaWEvfyPPnJLf9qG_o3yh0bUt-htkeTX86QWtTgOnmZ7dbv1h1WBUIafUKznGa2wEZ0cPA",
         "width": 4032
+      },
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111167901073586010760\">貴史</a>"
+        ],
+        "photo_reference": "ATKogpf6eXrXHzJexib-HJ5ZlbjFqYNxuBPz1U3pZZywrLEtF_NTJUzRnLm3F1kwFPBuzL4kJ69ezp_HjYHHtoj0adehXhjk99rNgVzfFhx08i4FZAig7FudTRkHaKgWhkenbc3tHZOmjZwUcSsoFqLBvOeak4_fEbj4VbhkyHFlRvgBE8mc4pchFOLisD2cyuoiUY8p1s2wqWJVUs_Bi8ntkEvGCY9Dv04k6PSkLz_vL9edIad9WuZX9CCnD7ZWthzxxdyFlJze8p4Ad57ARW6cJuCNZnATIn_nrQDKKNZBSWcwWTzHqjWN0KtEBJlRmFmVbpg_TdIH3hlDQsnqQ3Y-xopwZBY0xjJ-yGgYK3A1VqW5wT7xpYFvxpUF1dbUF1yHrr7wzDCvlsFFlfsZkzq-YZEpxYeht9mlYrG_t1NKy-ma0mG5_lYy-raAIyHLiR1f9MJMMwS04v2RMoBcNaIXYNJRTMU1t8bd3-RGmBcSTBEAH9WaBqhnh7DLh-XHlqWp5J_yTf8FC8TSJAvYQL2V5263PltQUb789mmmKvuhI1g2S5H6A2WblUBm3DaRjKkQ1SyLxZrfk0sXUEnszoGZuiZwQAu2iaYiAXKIWMqZw8zecl8gbh1Rymp8yBrDy7ORrO01jw",
+        "width": 4032
+      },
+      {
+        "height": 2604,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116174061055404431230\">Morgan Lee</a>"
+        ],
+        "photo_reference": "ATKogpfxRTc1SbFDZ_dtPS9JfCd8cxBYg7eMPSOn_OxTlY3Ug2-X3xQhQVMbjCBl3Gp1wsH_rlylEH7bk3fnq5-K3IP144Irkvc7DF92UiuJQlZnIBZpTfadPgYg5Gm05qZM8xhvu3gdFobBfginm0ur0jGBUvcy750cAvyXQD_B-s2NqexBvhGRdlwB6IWcz8NPxmdGQrCrg0K5iyjSPVbykud8HE36lfQg6btBxUi2D37VVgjhhUyXEN4LoopXobYjVb8ily1-EXKfSelmuxLu0Xz2gF5RhzhXf4v9tmVnyCfPgZ9xmWgApqJMByvB0Q2HOkqIkSsLLNvyEaM1a-2rRQyFZJtfPOOmKDw1-hRCBFlE8YGuUM8p3uppSjq1rQ2iH6Mp3hOFIClYk8DGGYfK-07udC7ktlnIEe5E2cz-qTS5zK0U__F_HGHE6MwYo2Z53xjyxXA0Nl4wNDUV7nUlAO18v3ciBTHevq1ve8qaw9Pe1_RsBG2FhdX8NigZFUDg42mqcaEh7fQsOatx6htk7vEdL8keww5j-k1k8mZiAJkmwOm6Ar1zMK636QUAHRpeXsquNuVXEZPCKpLtDF_Llomyr-dE77EEB6K87KIuP4sxHwOujLP76fPpxdJAwswhcc49cg",
+        "width": 4624
+      },
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110192953860290877064\">carl hong</a>"
+        ],
+        "photo_reference": "ATKogpctW6uzrLRBMyWbphqdWHawav3CUONwCATgPmXWakQGH1U_ifd0IjDIyXmeXprnBQ_6VOEdc_0iYZoM1ed14NracZCfTKlStuC4xemKd_mRLbaoMlIQoSMRAnT3vvYlW6HmmBCa0f2dauRFNkgLq4IPrUtmD6l_g4mpvhw9pKdLtB5ruL8LvXa_eX0Jh75wH6twxWMpoMCremBZGRz3eTXNeBWaD5wQRjhBxDcp9p49Vh0ADYY-VAn59nsSbmuHTwRoNj55qSTJiKrWF8WIdEz5Wf8nIYcKfyy2oheMOrsyHwvX31e6t7UcDseRGaIPcjQQ6s2c6wmnmaKGz72QDaudGiSyZu2ybHd7QjomdFu0QPj9evJieydVHZWrZDwA1T9MtFY1lb9qG8F_8rG5vHgtA4zS1B4A573cUXTmxcaVhNXII9SjziNRWU2ttmAAr3CTOW887Wip9cSFrQsMx8sluU7odo9QWaG3XGiAbvo8_5CeCmH0WiQQQ3_0HTQ908Gk1-hZVy8SnNARrsPF113HVYI30t7GWNfGVI_yjqE_rccx-Kkg5f6v1kggujLo-QeppODgGhnSrsSlvR69ec6eaa3NtNsmIe0hcDkatDOKNncNMcQaUbcpy_7mhndzNJXxGVlI",
+        "width": 4000
       }
     ],
-    "place_id": "ChIJaxLzYf3nAGARD6HBizIB5_g",
+    "place_id": "ChIJszdHEQN9GGARy9MJ1TY22eQ",
     "plus_code": {
-      "compound_code": "PG32+GW Osaka, Japan",
-      "global_code": "8Q6QPG32+GW"
+      "compound_code": "JVMJ+55 Urayasu, Chiba, Japan",
+      "global_code": "8Q7XJVMJ+55"
     },
-    "rating": 4.8,
-    "reference": "ChIJaxLzYf3nAGARD6HBizIB5_g",
-    "reservable": true,
+    "rating": 4.6,
+    "reference": "ChIJszdHEQN9GGARy9MJ1TY22eQ",
     "reviews": [
       {
-        "author_name": "Ron",
-        "author_url": "https://www.google.com/maps/contrib/117731000003074419216/reviews",
+        "author_name": "Cindy C.S",
+        "author_url": "https://www.google.com/maps/contrib/108987136320444267089/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmOZTPOj7NcH0PQLOgj1PG81RPDJEvFx_ao39AKtW_WUlBHVw3=s128-c0x00000000-cc-rp-mo-ba6",
-        "rating": 4,
-        "relative_time_description": "3 months ago",
-        "text": "Good selection of wagyu beef self grilled korean style. Pork n chicken also available but limited. Vegetables kimchi hotpot rice.\nGood selection of drinks inc jap wines n champagnes.\nSmall restaurant but adequate ventilation esp no smoking.\nFair pricing for quality. Attentive service.",
-        "time": 1742475695,
-        "translated": false
-      },
-      {
-        "author_name": "Kimly",
-        "author_url": "https://www.google.com/maps/contrib/109265550283135926938/reviews",
-        "language": "en",
-        "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIanEp-l55TAoW92qVl8fAeOPkJVJVa2VkDWf_KeqKAHiQ1lAmL=s128-c0x00000000-cc-rp-mo-ba3",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUXD0QtbNxK_zyLmiS_Ig-orS0061rKT7C5WqWH16_xmJ1LkOO=s128-c0x00000000-cc-rp-mo-ba6",
         "rating": 5,
-        "relative_time_description": "3 weeks ago",
-        "text": "Walked in at 9:30pm. Had the kalbi, yukke, and special misuji with sauce. The meat was tender and juicy. Kimchi was not spicy like in Korea though. Service was great and attentive. Would come back again!",
-        "time": 1748955748,
+        "relative_time_description": "2 weeks ago",
+        "text": "One of Magical places on earth\n\nTokyo Disneyland was my second Disneyland. And its good to be here. I have great time. Even no ride any attactions. Just strolling around park its already MADE ME HAPPY\n\nso many parade which is its fun to seeing it live..\nMake sure you download Disney Resort apps before you come as it will needed during you in park such as to buy meal, to buy disney premier access, as your guideline because it shows which attractions has long queue and which one is not",
+        "time": 1749720666,
         "translated": false
       },
       {
-        "author_name": "John Yong",
-        "author_url": "https://www.google.com/maps/contrib/102194928471902328990/reviews",
+        "author_name": "Yuval Ezov",
+        "author_url": "https://www.google.com/maps/contrib/107801109114802731122/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkkzN1b03BxvscWF97Nwumzuyh-8SPcTYTZ_FaNsMK_D0Vmw=s128-c0x00000000-cc-rp-mo-ba3",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_s8DElW4on_vMXmXO2rxAcNQ0CrCw7Mx-KERwHBY7HOzArfQD=s128-c0x00000000-cc-rp-mo-ba5",
         "rating": 5,
         "relative_time_description": "a month ago",
-        "text": "Nice Yakiniku. Although I do not know much about all kind of beef parts, but every dishes give us different experience. Staff are friendly too.",
-        "time": 1748252357,
+        "text": "We woke up early and arrived before opening, waited in line with everyone and it was totally worth it—we were among the first to enter. The Beauty and the Beast attraction was amazing, beautifully designed and so much fun. The park is very organized, super clean, and the staff were kind and helpful. We had a great time with the kids, and the price was more reasonable than expected.",
+        "time": 1746706748,
         "translated": false
       },
       {
-        "author_name": "Nathai Sirikantraporn",
-        "author_url": "https://www.google.com/maps/contrib/106201200650973624846/reviews",
+        "author_name": "Dexter Jemuel Tay",
+        "author_url": "https://www.google.com/maps/contrib/109381824600258789770/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXlDMQs3OhmF92xSIHpgDWOqSLgiFqI33Fwak_KQmCtUj5iA=s128-c0x00000000-cc-rp-mo",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwtKx_mApHL7Z5lKC1QAIKIjRn99Ln4aPYX8ZMBEpVD8xh1uba=s128-c0x00000000-cc-rp-mo-ba3",
         "rating": 5,
-        "relative_time_description": "2 months ago",
-        "text": "the best beef meal I had in Osaka so far. The quality and the season are so on point! Will def come back here 👌🏻",
-        "time": 1745234416,
+        "relative_time_description": "a week ago",
+        "text": "My first time in a Disneyland in 43 years. 😅\nBrought my daughter (12yo), son (10yo) and mum (69yo) for a day of fun (on a Monday).\n\nSpent 10hrs there and managed to catch the fireworks at the end.\n\nNo other experience for reference and comparison.\n\nBuying of tickets is now done on the app though - I'd suggest downloading the app, create an account and familiarize yourself with it, prior to your trip.\n\nAnd it seems that we can bring our own food in now so if you'd like, stock up on sandwiches/snacks before you make your way there. Oh and raincoats too, just in case.",
+        "time": 1750156794,
         "translated": false
       },
       {
-        "author_name": "Irene Tay",
-        "author_url": "https://www.google.com/maps/contrib/108506090699419900340/reviews",
+        "author_name": "Nest",
+        "author_url": "https://www.google.com/maps/contrib/104966709213256354050/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlGbKhyUpYg_tUxbaW35B9rit9yOcSKAljNRxkUf9dumCf-hM=s128-c0x00000000-cc-rp-mo-ba3",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU7oJ0BU1Om1zanHTXM4YGvgbGzhgfFBzXygslNELNuklB4jYV=s128-c0x00000000-cc-rp-mo-ba2",
         "rating": 5,
-        "relative_time_description": "a month ago",
-        "text": "Good food, good service. Clear the plate very fast. I like the draft beer as well",
-        "time": 1747905591,
+        "relative_time_description": "a week ago",
+        "text": "visited Tokyo Disneyland in September 2024, and it truly felt like stepping into a dream. From the moment I entered, everything was filled with joy, colour and magic. The attention to detail in every corner of the park was amazing: every ride, building, and even snack felt like part of a fairy tale.\n\nIt was a day full of laughter, wonder, and unforgettable moments.\n\nUnfortunately the queuing takes a long time: we spent  at least 15-30 minutes waiting to access each attraction.",
+        "time": 1750222864,
+        "translated": false
+      },
+      {
+        "author_name": "Shanuka Rathnayake",
+        "author_url": "https://www.google.com/maps/contrib/116552041692723943084/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNJj1nODjdzx0Lux8dAy5m-b8RXmT1uFVIocNkc_mNp8-oFGA2=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I visited Tokyo Disneyland in May 2024, and it truly felt like stepping into a dream. From the moment I entered, everything was filled with joy, color, and magic. The attention to detail in every corner of the park was amazing, every ride, building, and even snack felt like part of a fairy tale.\n\nThe parades and shows were full of energy and beautifully done, and I was so impressed by how friendly and cheerful all the staff were. Their kindness and enthusiasm added so much to the overall experience.\n\nThe rides were fun for all ages, classics like It’s a Small World and Pirates of the Caribbean were full of charm, and the newer attractions were exciting and well-designed. The park was clean, well-organized, and surprisingly easy to get around, even with the crowds.\n\nIt was a day full of laughter, wonder, and unforgettable moments. Tokyo Disneyland truly lives up to its reputation, it’s not just for kids, it’s for anyone who still believes in a little magic.",
+        "time": 1749371055,
         "translated": false
       }
     ],
-    "serves_beer": true,
-    "serves_breakfast": false,
-    "serves_dinner": true,
-    "serves_vegetarian_food": false,
-    "serves_wine": true,
-    "takeout": false,
     "types": [
-      "restaurant",
-      "food",
-      "bar",
+      "amusement_park",
+      "tourist_attraction",
       "point_of_interest",
       "establishment"
     ],
-    "url": "https://maps.google.com/?cid=17935305357631004943",
-    "user_ratings_total": 2509,
+    "url": "https://maps.google.com/?cid=16490271119724106699",
+    "user_ratings_total": 113862,
     "utc_offset": 540,
-    "vicinity": "イーグルビル １階, 17−３ Dōyamachō, OsakaKita Ward",
-    "website": "https://s.tabelog.com/osaka/A2701/A270101/27135358/",
-    "wheelchair_accessible_entrance": false
+    "vicinity": "1-1 Maihama, Urayasu",
+    "website": "https://www.tokyodisneyresort.jp/tdl/",
+    "wheelchair_accessible_entrance": true
   },
   "status": "OK"
-} 
+}

@@ -1,0 +1,1233 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0018 Osaka, Kita Ward, Komatsubaracho, 3−3 ＯＳビル 1～3F",
+    "geometry": {
+      "location": {
+        "lat": 34.7027623,
+        "lng": 135.5003733
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70403092989272,
+          "lng": 135.5017025298927
+        },
+        "southwest": {
+          "lat": 34.70133127010727,
+          "lng": 135.4990028701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "namco Umeda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 533,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102047278341645846155\">namco梅田店</a>"
+        ],
+        "photo_reference": "ATKogpessXls1o8__15x2bUFSPQlyQKunbTXZ92_RuY_czWz8CJtrqcR0bZMk7JloG6yameIu_ug6nsDMAuNjQFycRXsl15vDrmBMskCNPjcEzYd5Y5i6qXZm-aWHRKqJ-dFjt-44rUKGHj_Yp7o0knjq6h8uWHNWaLGbpsuICQ7mYRoE4DU4_IyG_81EcO1OhIUoyGC3W9oe4k4Gj0iokaiFHh01K-dbJnBI1mqLm2OzOrIr2lJPtRsLJlohW7la_78j_x0lyQ4VMhruod3CRGTzQ9xsNd-xWGd0wLbzJ567uDPcDYTsVw",
+        "width": 800
+      }
+    ],
+    "place_id": "ChIJAVFIFZPmAGARkIfJNtCXhmY",
+    "plus_code": {
+      "compound_code": "PG32+44 Osaka",
+      "global_code": "8Q6QPG32+44"
+    },
+    "rating": 3.5,
+    "reference": "ChIJAVFIFZPmAGARkIfJNtCXhmY",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1732
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0017 Osaka, Kita Ward, Kakudacho, 5−15 HEP FIVE 8・9階",
+    "geometry": {
+      "location": {
+        "lat": 34.704144,
+        "lng": 135.500436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70548602989272,
+          "lng": 135.5020530298927
+        },
+        "southwest": {
+          "lat": 34.70278637010728,
+          "lng": 135.4993533701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bandai Namco Cross Store - Osaka Umeda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 989,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117394246807611366231\">バンダイナムコ Cross Store 大阪梅田</a>"
+        ],
+        "photo_reference": "ATKogpeuoE1junnmdvEGbPH07IcTSG3ZvRWIz4wHKnQGOmhZQ9yX87ede94Zc7hlwYP5WtVaU7DSnkaNZXQYtrr9QNXY4ZRj3dRy0QdLzjS439BHi8YZgg6MENFDTk7Oq7lW2aAYB3MWL0vTL0mFUuGWkyvCE1o77Aq6C2xci0vUK4kMkOyYfTmvGQ_lJVJ4KeLYj591oWGWrchTZOo-vGKOLiORdJhlHXKw-fplMz2ON5qayngfuK1Tvo9X0CvoJwWBcIr6jqirBqaXIjF9kwdEZf4ZfcsYM4HazHLGIfFTOE1to8qeFXg",
+        "width": 1483
+      }
+    ],
+    "place_id": "ChIJqw43opPmAGARjNmee6J8Tqs",
+    "plus_code": {
+      "compound_code": "PG32+M5 Osaka",
+      "global_code": "8Q6QPG32+M5"
+    },
+    "rating": 3.7,
+    "reference": "ChIJqw43opPmAGARjNmee6J8Tqs",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 208
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Doyamacho, 10−11 H&Iビル堂山 1F",
+    "geometry": {
+      "location": {
+        "lat": 34.7034118,
+        "lng": 135.504485
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70479367989273,
+          "lng": 135.5058657798927
+        },
+        "southwest": {
+          "lat": 34.70209402010728,
+          "lng": 135.5031661201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "アミューズメントカジノ ポケット（Amusement Casino pocket）",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1477,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104497137663754681803\">アミューズメントカジノ ポケット（Amusement Casino pocket）</a>"
+        ],
+        "photo_reference": "ATKogpcpm5YrLlIOdNUXtvBX6Voz4pk77_fMks8kvqkhAJmd0D97pG8zmYmqUY5RTdbYCAjz1wPSvjYvxDDKmb40CVYtk3XFZhyPRX5Yc3qZWSD3C4fUWvhyJHDYcjfuGSqkbwHUvVT4GPFU6-KkYkUhR9croe1X1SkwnNY2bEyuonfFv4tsUBZ9QJbOx2-xfXG5DERr46Jr07h1QTfQVoZZd7nlPCPxCGz2qhuJIt2T2ZAXUqDbc5s-IN9CkyPfUKJV4wAsAPSK_4LafNtBpemXOjxYYdEdQhFdiYdk4JwdFxbQTlx8IfM",
+        "width": 1108
+      }
+    ],
+    "place_id": "ChIJfxsNe5znAGARKOBKatUa1SQ",
+    "plus_code": {
+      "compound_code": "PG33+9Q Osaka",
+      "global_code": "8Q6QPG33+9Q"
+    },
+    "rating": 4.9,
+    "reference": "ChIJfxsNe5znAGARKOBKatUa1SQ",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 54
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "4-16 Komatsubaracho, Kita Ward, Osaka, 530-0018, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.7032572,
+        "lng": 135.5010406
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70474497989272,
+          "lng": 135.5022317298927
+        },
+        "southwest": {
+          "lat": 34.70204532010727,
+          "lng": 135.4995320701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Round one Umeda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116153824263911024158\">K MKT</a>"
+        ],
+        "photo_reference": "ATKogpciJ0IgL_Avf7xSCrGjTdOlcIiLiT5R-WWbHPrXkD90OeiEGjH_upTnmAdhGAJwRBTfiaQeXN9f3IPEvkyXtVEWKgGdn8IVUSsrCDkXYGTUom6JCWYbYhJaM_QCzMuFaFAwY2vDFsWHmJn6XaM-1-sFH_4tWS3o4cqluA-bsMVGSqNdrml7edtBi4oWtP0_sz2n7kAXh8CFpcdvth_Zv1FnRIjm_ArK-w8jz5F2UuNUv-_FwMj6lJBzbgZQ5N6Bv4jXGUr2E9ExJaFxN2-vE1cQ02Ps7e-11nyQnvgvVb-u24Ven-W3-UQYrHXapxevYOCwbgfeEbJ7GCXNvNqv-geLiOOlddDOoeBZf-Sqf72kFalFt8FjIr5Nfegn9V8P4oRnkVINfMm05_dhgzPz1yaOnzZPF0ky2FKL_3w3cgSmWmZwgz1E_5_4mc-CxrmyIeEnVqCxSCzTugWr1e7hWJbx4YzCkqdhVgaAhwKgfdUzC-t8nlk9ILtEHW2nkFqmbcp7BcKMKmYbLxH-1FhImwp1ozR9algt3jI-2PIfZiYn8l73f4ewSDp_UobePV0GjvQ8C8e8",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJjcj6Z5PmAGARw2yhVbsJDik",
+    "plus_code": {
+      "compound_code": "PG32+8C Osaka",
+      "global_code": "8Q6QPG32+8C"
+    },
+    "rating": 3.4,
+    "reference": "ChIJjcj6Z5PmAGARw2yhVbsJDik",
+    "types": [
+      "bowling_alley",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1006
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0017 Osaka, Kita Ward, Kakudacho, 5−15 HEP FIVE 9F",
+    "geometry": {
+      "location": {
+        "lat": 34.7040913,
+        "lng": 135.5004194
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70548107989273,
+          "lng": 135.5020440798927
+        },
+        "southwest": {
+          "lat": 34.70278142010728,
+          "lng": 135.4993444201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "eggnam HEP FIVE店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1773,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103119451082832417223\">eggnam HEP FIVE店</a>"
+        ],
+        "photo_reference": "ATKogpfqzuJldOTfPJWnZD-Rqx-ilr3NbWdXgwi-iF6akog0mSHejXWeClpBAb5-SoXFmh89KscxQkcJWppln5hPoA5IVxAHa5u24ezYf7bwCfjA1Kxla0HkFblAaRF0Mz4xk-uamCM0z3hL_dAplBVmsB3uHzEpUanQcjzl6nPEH59GKcxMeskF8gKjHmDkRJ5Pe_yMTY0cu7GKVZ5gp-qB9A8b8xVzBSe0d2CjEejHQh__eFzRGbitSPOnFIApRInmZZui7zvhfuRFJwvo30JzqgDQt9E_XNod3zvQDNcz18sZlO2nmCs",
+        "width": 2423
+      }
+    ],
+    "place_id": "ChIJ95IlUADnAGARN84XA9CKOlE",
+    "plus_code": {
+      "compound_code": "PG32+J5 Osaka",
+      "global_code": "8Q6QPG32+J5"
+    },
+    "rating": 2.5,
+    "reference": "ChIJ95IlUADnAGARN84XA9CKOlE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0013 Osaka, Kita Ward, Chayamachi, 10−12 NU茶屋町 ４階",
+    "geometry": {
+      "location": {
+        "lat": 34.7069626,
+        "lng": 135.4990769
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70838937989271,
+          "lng": 135.5005867798927
+        },
+        "southwest": {
+          "lat": 34.70568972010727,
+          "lng": 135.4978871201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GiGO NU茶屋町",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114855405644703628647\">T avg</a>"
+        ],
+        "photo_reference": "ATKogpciVsem3tT7VtIguaclq_A7Cb3abZ2GdqsEQm2ONfpBuRST4jYWETUdsL05BvFAIaBlBNwW9bgSPAIiyHUpuv-BlbzHmJs3Gd60OdL81tNCbVqGA7sCXZLmBFsZD6w52rujbmimXIQmTnMpS9AZ0HL0u4flKPnsJEX2lIB8R2NSGP5ONn0KZzUC7BcyQ5tE4zpK3AlNAsSvwWBSiOfMfSTcttXKoX3DjTX6LjZb-E5cESwiRt5trc_UZpA_w-RbqitAyTorFjzU2BWFGicXcrsuQsrKa9wDhqhHSVpAiYv1l0fQOFsy4IIKJBUCxzBY4ZpxXS6JslYSbwytq1HyLE6AnNOxq_1wDCbtAEyuP7iW7YmUACzirVaVNr8FUV-ZUc4-x4IK5eE8oZEPXMBoPsSzJVh2pPStZAQ2QEok59iw3JvpWg3_rzmpeKHFSek_A7dJMWzBJcJmXo6HHKLCoobRDmrN4BEt4XEJHaJBCT942n9lwLt1HLTNqBAKdCgEKKp_tOevrC1vxwMnOo_5p_E3SV-XTLY4ra24rpOam4TGNDT-UCrJ_ffZYtMoLAIRazYaN3tO3m7i_LPi-OhVgGeinzA",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJG2ssUADnAGARbKuW7bwTlVc",
+    "plus_code": {
+      "compound_code": "PF4X+QJ Osaka",
+      "global_code": "8Q6QPF4X+QJ"
+    },
+    "rating": 3.2,
+    "reference": "ChIJG2ssUADnAGARbKuW7bwTlVc",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 26
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Doyamacho, 15−15 鳳城ビル 2F",
+    "geometry": {
+      "location": {
+        "lat": 34.7046879,
+        "lng": 135.5027853
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70606242989272,
+          "lng": 135.5041054798927
+        },
+        "southwest": {
+          "lat": 34.70336277010728,
+          "lng": 135.5014058201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Game Bar Picoty Osaka Umeda",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4480,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113135071582506267933\">ゲームバーPicoty 大阪梅田</a>"
+        ],
+        "photo_reference": "ATKogpfiqM_K8V-UTUonynsa0Rn-cp0jLiUyfS5SkJOqhhjAFejv1igcKEKKavPFNT4DXLEN9ycy7_o9zjNQLrOX5LwT-u7R7ON9PEQ3plcZ1cP30GrC0O-8z88CpgTljKHRifQbv6EcJXt1plJdVUoROijXNC4FAND7o5IIHMRQ0L78ItUwQf8du2xvZ5RpjjNowbggL0ffo3za4uTrcEjA5FbJN0u_pc0o3QMYSz9IySr8TqElunZ6AN1ESXMp4IOoOk-_2ZHuUTXDYQgZyD1hRiRFCRI8lDKquCCa2kgBz9f4NGOs1J0",
+        "width": 6720
+      }
+    ],
+    "place_id": "ChIJAQBMi5TmAGAR8OpaAiX_cis",
+    "plus_code": {
+      "compound_code": "PG33+V4 Osaka",
+      "global_code": "8Q6QPG33+V4"
+    },
+    "rating": 4.7,
+    "reference": "ChIJAQBMi5TmAGAR8OpaAiX_cis",
+    "types": [
+      "bar",
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 491
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "The Tower Osaka, OSAKA 6F, 3 Chome-2-2 Umeda, Kita Ward, Osaka, 530-0001, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.7006219,
+        "lng": 135.4941733
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70178652989272,
+          "lng": 135.4951916798927
+        },
+        "southwest": {
+          "lat": 34.69908687010728,
+          "lng": 135.4924920201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GiGO Arcade Café KITTE大阪",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105615977262827872538\">Takeyoshi Suka</a>"
+        ],
+        "photo_reference": "ATKogpci4R9igWTbctnnuWVAVlt0rBioMJZDFPJE6SmUjxtox-j7m8okEaXCEVKWYWvlZicgacWcI1h3DRI3D8T2c8-46XQALitYBnTHR-HPihOcytWhSu2xDFtTe2EnqfXlzpRtJFeOFaCGjXHfV9Y1Cn_44Ut6oh-Hv-YeYLmsVv9RDx5hv6Uyu0feLIk0eRyvWiVGKrddbb_WFIAYNrNv4wXVOpZjsESfSuHR05DPRM43zmiM8W2etzd9tT2gbFf_FTbH_Wbm2M5LuXN9NzAljAoJUugK-39zSEfrcuKajfNGaPOdvWFM2sZRoCB-e3AE6H-uuqZrMy6bOdMH8_7uYuf7dEOIMIV1Ph-SBhB-LSR3Fz2BvuUG-w5xMZk914yIqL21ml1X07E4uSBy-QJutrdoZA_997DOzDkk5ApaGkeJr01Txb9RMWuGgHWoyrg4nMV7tJp8wjBS2u3gDEHlQqAXtcK7YEGilu2ZT3dR88Cs9Jtgyw2MKZmjZQKrU6vYMG2tup0N2XtejLa0O_r-J6fb_ZTMkipMb9WWq-GhGpySCXYCMYUx1EFs2RhIrg7RCE82lldDf2eHFA",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJd8z5VADnAGARHFdWXjZKa_Y",
+    "plus_code": {
+      "compound_code": "PF2V+6M Osaka",
+      "global_code": "8Q6QPF2V+6M"
+    },
+    "rating": 3.4,
+    "reference": "ChIJd8z5VADnAGARHFdWXjZKa_Y",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "4-16 Komatsubaracho, Kita Ward, Osaka, 530-0018, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.7032572,
+        "lng": 135.5010406
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70457167989273,
+          "lng": 135.5022093798927
+        },
+        "southwest": {
+          "lat": 34.70187202010728,
+          "lng": 135.4995097201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Umedananairo",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107847203006034281777\">わっき〜ちかい</a>"
+        ],
+        "photo_reference": "ATKogpcj_EBNKMXPryQig0qFK21WPQIS7anP_jNCAB_L6xSliSZoL6eOA5ZkkeVHXKm9sGAb0BXmy3jNdbpGCp0phVQlRV1PSI3LXS8TZZ3_mkFh-6rX3aqclCuo2UitYgwNkT75LNVSEftHUvs_W9ptDsK2UjsVGPD2fZ7L395EFpedzw1jJlWZglQKRxK0qIiFQpXZ0y6c24mHyPt7J_qt3dwUk9Fa_kT0nDxYm3gvK8JBdrrGZFtU7yDQzr0MJ1wWEz-fsNfKtztH3KyJmtxyudVd-30hwinZIIL_38sdw7fvDlQ9wwnAaSeZ53BiSKsvCapQNHv-yo9FJexyviAGZ6CsGPJw8n-TzZ4qcJLzQ7VmhWWZaRzFDg29ptC6Soi688uszsdHL6JyqYEBdTqupcj29x3sD-MLkhJuFcAhArgH2x_DqXcPOrqPrI1527xN2QrMUfo3ZGTnRsYMD5S6zKKs5O3jQgilohs9eDb7QvGcQ2l7hywslw3Lgrx3uWJVv2Hw4S6PW81EWIz0mPFAweGTJ-8eFlRbgIZm-V_wltrTvYoy8OqbAl0FvpWT5GZsL6CxI0xGIOacoQ",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJdU6raJPmAGAROwvJ0TvJYzY",
+    "plus_code": {
+      "compound_code": "PG32+8C Osaka",
+      "global_code": "8Q6QPG32+8C"
+    },
+    "rating": 3.8,
+    "reference": "ChIJdU6raJPmAGAROwvJ0TvJYzY",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 430
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0051 Osaka, Kita Ward, Taiyujicho, 8−17 Plaza Umeda Bldg., １１階",
+    "geometry": {
+      "location": {
+        "lat": 34.70198,
+        "lng": 135.5023311
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70331172989272,
+          "lng": 135.5037189298927
+        },
+        "southwest": {
+          "lat": 34.70061207010728,
+          "lng": 135.5010192701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "アミューズメントカジノ Jerrys poker",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107266599159587239097\">サーモン太郎</a>"
+        ],
+        "photo_reference": "ATKogpf3XCiTF78ysRWcyUpjSzhJTLNOQm8ERko9OkbmLWroppEPJ9oVUO7n92g560IT10NmYdpAm4NjbqYRiH4eaHCWPQh-UHFXlA7dAoI7_egiKIueG00ytLDnP1LGYiio3CfbU2z4AA6NRB8ZTZc41SECuKsjznfvrlndkRwrWkvCl5NzaoXuR_dM63RN7GEbh26M_wf1UFOFXqi-ne8B9diucaiNXJKgqf8LklzWkQpKsRaNGxzBF2Di9kUNP_u_S9hQr2gtyO80KPyPWwCjRHffESVnxeygvrp6wqHqTn15g42V8Wgcm3bno-Uu0hehyiZoALN9FulsSzFNfK1K9q-IVdsx_gRbZ7F2RZtGYs7B7VM6TRQEEk3UW2z-MvP2zV9Tzp7duB6dst6gTZxpuTNtqdQJi2bWjxuO4cvC4seeMmJzHOFDC66oW97zYgxs2PQvErFTR6LU8NZhmOzWgZxNF2v4WdQjILpCWpvZE4JApQtVlIf-NXOOJp_Yzgx68OUVS81K4aym3QLKztR87mrw8m_6kArWL-a7S02XqoYf1WJzYyDyeXbaTpin6Hwyug2ixzJk",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJN_Av6W7nAGARVuyqzh74vUA",
+    "plus_code": {
+      "compound_code": "PG22+QW Osaka",
+      "global_code": "8Q6QPG22+QW"
+    },
+    "rating": 4.6,
+    "reference": "ChIJN_Av6W7nAGARVuyqzh74vUA",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 108
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1 Chome-3-1 Namba, Chuo Ward, Osaka, 542-0076, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.667511,
+        "lng": 135.502862
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.66869187989272,
+          "lng": 135.5042644298927
+        },
+        "southwest": {
+          "lat": 34.66599222010728,
+          "lng": 135.5015647701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Round1 Stadium Sennichimae",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106534347701475309034\">Alanna Holbrook</a>"
+        ],
+        "photo_reference": "ATKogpdtfppkS4MVcSaJ3A_vUExVvtVUg2Ni4Qt-E1XI9m0udzv6GQJosLSoFc-lIIFqznwu7xp2ERKUK6N_Zwz6oPuVGpJyOj-2992-SYTdHgSAG_zEBMtSlK50TDa9CjCr6c6WIr3_Nu6Bqm2chp81cOO7OIoCofe0Q48Vhf6lLwJHf9LQX75W7TuHAlpgm_Lk7UMJ1oUc9r3OACtaTTy3_8l-2fuIQnFnTMmni9zOXdxrxgS1MZHoK9kz3dlvBL_GZ1DxxKqCjCCmB8HELYhSvOCi2Vl8uive2uFkZP2VcL_xo6aoQXp1NBIlG3xorrDPXgnnBJKY_-HQPFRrLunNh7y4_mqZo7dDl52jOv2GrQ91ifmnxPJ1mriq7dObvxK9qcLYDd9jn0_bg6RYv5_lyeclYTVX-wfUTeE80SI5YdJ2qEJg_29FEUr6Oo5cYXvtBiBifLI6pTqpCor5ksrA4jni1yWY4MF_sTB43ONDUz1fqxWc0pij7jwZTkAIeXAcybGMy6YBMI_lN22HnN1IdapATLPQlckS5GIj9wS5xld3c8LlmcJicJQJQp3E3WDkV51R5Qy-oDdrlQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJqU3TtxTnAGARbMBactGzXDM",
+    "plus_code": {
+      "compound_code": "MG93+24 Osaka",
+      "global_code": "8Q6QMG93+24"
+    },
+    "price_level": 2,
+    "rating": 3.7,
+    "reference": "ChIJqU3TtxTnAGARbMBactGzXDM",
+    "types": [
+      "bowling_alley",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5090
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0012 Osaka, Kita Ward, Shibata, 1 Chome−1−3 阪急三番街 北館 1階",
+    "geometry": {
+      "location": {
+        "lat": 34.7061413,
+        "lng": 135.4980522
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70760547989273,
+          "lng": 135.4992795798927
+        },
+        "southwest": {
+          "lat": 34.70490582010728,
+          "lng": 135.4965799201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "#C-pla 阪急三番街店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1536,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111762143166505818821\">#C-pla 阪急三番街店</a>"
+        ],
+        "photo_reference": "ATKogpdMp5WN_aj6Yo7ZyDJBab4vcVScKh1-As0EFd-pzYKHbrEuhAbReqKQG80vHKepmF0tykyqPbqzXR7Z0J0MhYFr7eLFM_ty7Zqx9_lxWPTNUxGkbKXn8W1JFzB50HTegr4GQdm6WMLdEbtsJML8k1DwncMzjKuydo4JbeQYxu-ttnJxB77nIfbyQtZHSNs6xD1OkS43mfiAmRUaK4UVgMuYCi1GtxZPfgzVdb-YG9Mybe7QHWCCwmpNhS3XBeb_NTYff0FRPIgwcH_fMpmO6TjYkE2G4K4nSw2l8Gsg7X3Ie9PiJzk",
+        "width": 2525
+      }
+    ],
+    "place_id": "ChIJW8jdf1PnAGARommnC9H6Eh0",
+    "plus_code": {
+      "compound_code": "PF4X+F6 Osaka",
+      "global_code": "8Q6QPF4X+F6"
+    },
+    "rating": 2.8,
+    "reference": "ChIJW8jdf1PnAGARommnC9H6Eh0",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0011 Osaka, Kita Ward, Ofukacho, １−1−1 ヨドバシ梅田タワー LINKS UMEDA5階",
+    "geometry": {
+      "location": {
+        "lat": 34.7041898,
+        "lng": 135.4962546
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70522177989272,
+          "lng": 135.4973599798927
+        },
+        "southwest": {
+          "lat": 34.70252212010728,
+          "lng": 135.4946603201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "スキッズガーデンLINKS UMEDA店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112769940164676240357\">しもた!</a>"
+        ],
+        "photo_reference": "ATKogpfFA2VRll3aTp94XxTo-rIsIijoj1Aw3l2ZyLz69Cn6dtx82kbsrd2cT-P7xqs0_CpewIUlKFzbX0vjVQfyck0iu2tjV5Q7humarmv4KzHVfcO1ceY6nfMlewowKQkMgRZKm-PJFx2YuNZZdxdKM0XMpRdTMyf6xqv6SuCQTztkO_m_q3F3oJjn1mp9KNaB1qkT3EKIW8PNjmWbNk8H1s9yieOtnK6vsPQRd667cj3ujdAs7yoL2hmWB7ysD-Swrbsh0zUh2kMxGLA97ZrIZtua2wt5StznIf877YqopaCmTFuzWDE7nFbWOyPKQ55WAnDmzGP5nF3hZNHCwM0_-4tIrL9N1gRDPTcDfWHBdviqvxGXVRWNRnaFzwle_nlvLfwiU4rEcPoureNEdO0Rj1OwM2rmZura2olwBiIRycQvGSEQLpnuFfXH6eWR3N_aUJfV2DAXHRnAX-qO7uWBc5fChJ1k-Ugt3FRw2bDb6smk91j7-iORcZgjvg5Tzz2Ljg0aXPyZPHPQULoHd9YvFfzMVjfvY67P85oqzXXiEsvQ3cn4CHGpXXIE8oMSA3vVIrYIuCyD",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJ81aDpM7nAGAR-X9vKm_QKlA",
+    "plus_code": {
+      "compound_code": "PF3W+MG Osaka",
+      "global_code": "8Q6QPF3W+MG"
+    },
+    "rating": 3.9,
+    "reference": "ChIJ81aDpM7nAGAR-X9vKm_QKlA",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 48
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-8558 Osaka, Kita Ward, Umeda, 3 Chome−1−3 LUCUA osaka 5階",
+    "geometry": {
+      "location": {
+        "lat": 34.7028866,
+        "lng": 135.4953236
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70458282989271,
+          "lng": 135.4968072798927
+        },
+        "southwest": {
+          "lat": 34.70188317010727,
+          "lng": 135.4941076201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "#C-plaルクア大阪店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1108,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102700320839115737846\">#C-pla ルクア大阪店</a>"
+        ],
+        "photo_reference": "ATKogpdjaWjjU1__gLpbMeUvfocLi1w4ZJSX--BOwj7jqvGZcV-GehdX19DAM6JjjaNQA9F_8Voax6qEX2gMh5VgSX-K16cScWLWhVTUWNtc6SxFsRpdwCXTg3dYlo4XsSMd7XofjD4LxMwjmo6Y-w4QLOqUek048ajb3jIjezxoeEf36x0N1PH2aGLmJa61PGO43ZRWhgT42Vt4l_iFbWuSzWl7WR2nY9UjPIEQZThAru84wwzAqq8VAbw_BYuMMzpGPERSSsiT3LHa2RkE2P1t5dgcqqGdKVhEM-7Exd-4vxrfs5PxIoQ",
+        "width": 1478
+      }
+    ],
+    "place_id": "ChIJZwlE63HnAGAR9RZpeZ0sQl0",
+    "plus_code": {
+      "compound_code": "PF3W+54 Osaka",
+      "global_code": "8Q6QPF3W+54"
+    },
+    "rating": 4.5,
+    "reference": "ChIJZwlE63HnAGAR9RZpeZ0sQl0",
+    "types": [
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0018 Osaka, Kita Ward, 小松原4−27 小松原MDビル",
+    "geometry": {
+      "location": {
+        "lat": 34.7031391,
+        "lng": 135.5013635
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70450457989272,
+          "lng": 135.5027217798927
+        },
+        "southwest": {
+          "lat": 34.70180492010728,
+          "lng": 135.5000221201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "monte50",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117630013477717357184\">Gordon NG</a>"
+        ],
+        "photo_reference": "ATKogpepLIinkGLTgIwMBX7kZL2j-MSLgdOunDk5Ox1sWRCpdFZb4j-oFG1oaauApv5QxYO1Dk_pebxhL_hwVsJv7gQbVeSvX8PEseePDC9utQpSITSQUb0PIgSRjL4xVOxJ8U59BAYMXpBsR-t6-pRH6UZESu6KiP2unf6JaUMCgHJFwVBD_uu6GrCc1IkdQuPtllgB55Y1mxd6MU6AWBNx6AU6Tj3JaKwtFWn3xQPWYIujYmovot6dmrOeesx8wmXCTQpn5YtBpPy7uo536wDcjxHrfwMh4kWmANFwmeI241ef3oQdyVswwKMaWF0savx0NSxU7OcZ3_0wG7MjjS_J4Gn0_UNeM5Mnn-pLmaNvdLQ71zarTqSwg3PYbh5VsNkXCSrOVJJy4hyP5G9ysaQDxauM5rys5zS_fIQJ-n6DmYACFTaaeQgPU8O4iS72otjrBQ9Z0rZIu4T-chbLVVtUoeFgvi9uTW0WR4ErgsjpJxD2yFN_dh_IwZe9AtAHvU2guzqBcPqnQDVWyDuFAe3w5Xi9M3VD4NDSI46-ydwDlJqRF2unLYj8WE_CAu_i8r1GNqkI6Q",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ05BaZ5PmAGARgiF78LW2Yy4",
+    "plus_code": {
+      "compound_code": "PG32+7G Osaka",
+      "global_code": "8Q6QPG32+7G"
+    },
+    "rating": 4,
+    "reference": "ChIJ05BaZ5PmAGARgiF78LW2Yy4",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 139
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Doyamacho, 9−28 Sproutbldg S, 1F",
+    "geometry": {
+      "location": {
+        "lat": 34.7030028,
+        "lng": 135.5039784
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70432387989273,
+          "lng": 135.5053041798927
+        },
+        "southwest": {
+          "lat": 34.70162422010728,
+          "lng": 135.5026045201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Club Sega Higashiumeda",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101486365732358592359\">Hector Fiel</a>"
+        ],
+        "photo_reference": "ATKogpdpvTOFr2W8kbKGtobLSv7mLUGh4Bh4n2TXd7I5x4Gz60MzR2GM6q9CBmyQFgh8XhDvgzidDL_vskhmuTxWcjcTbkhqd_SXtohstI9H72dPbCG80KLY6l7iKb8HdcJp-zArJ2uU04ogQVBIizhHKi4UQbaB6jUkpSdliYiQ1n-w4UQjsSybhYeMmNQ9y0l8GpIX-G1fNefYLwmsrzCa7tFaA00y7HSwYaPAj4jp8SvF_GcvnTS2GtqudQ2gdg2wNAr8QNeKbt5Yi9wn7934N6nDWfvUPOQ6qi26UIEdAZ3xYoLNgF8C_D3Sso6hIFKO2Rw0BYohBygRHjdtt8wpefD92M5uhq4KYoxBXrCBUNJUxvdcOEo6iP4veORCVSBAl4sYjt8radymHSa8cAqPhx_PE8aQJFZcEl8DuKf6IC3e0QylPMlIWXGGMw1R024sKN7y8HDxvyAkFKRJPJqxMYeAkXj4WCxNFIIKJ78ZQD75cQe-Nrf0Ty23FYD2Ih-mFt0MTJH6HxAJP_Qyo3q70sn9dra4UZISorZQEQ7SREuUbxCIE7sGaq5P0HP-MT85In-41-0z",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJX76HKuvmAGARKtQtReGDNNA",
+    "plus_code": {
+      "compound_code": "PG33+6H Osaka",
+      "global_code": "8Q6QPG33+6H"
+    },
+    "rating": 3.3,
+    "reference": "ChIJX76HKuvmAGARKtQtReGDNNA",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 373
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0011 Osaka, Kita Ward, Ofukacho, 1−1 Yodobashi Umeda Tower, LINKS UMEDA５階",
+    "geometry": {
+      "location": {
+        "lat": 34.7045946,
+        "lng": 135.4961989
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70613657989272,
+          "lng": 135.4971947298927
+        },
+        "southwest": {
+          "lat": 34.70343692010728,
+          "lng": 135.4944950701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "モーリーファンタジー LINKS UMEDA店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112791657300418394852\">Snack Snack</a>"
+        ],
+        "photo_reference": "ATKogpdCrUF7CTLkB1hhQY0S8nPNcDWb6QlpU2FVYrPp102lFf5b4bTSivj8jUx0ZPUGucy51rs2V2-YMomGoND48YYP4zULMtjh2XHoO_GEEZ6UPEDlz8n1W8aZB9o9eBQKfQwOatoSyXy7Np5QTBf5YGge-fZB3Q9wjI_FkBXdTvOXlD4q5HFMNw2X31M60Ko1YnQUqv4ac-1KnHSuUtpGKRCHRtK5PG_KraoYsrODoDrRYNtjjNSSE3Fv1VKV7S5jQofWmRWB28hLGj-TPaEDsnmlrgZiu57ImJlujwpafT1zIrUpWHKFY5_J-hW4yZ0CpLPqZNiJGmjrBnrllRvO01gxzhc12Bl3nCcn-CAeyizCNFtPY52_lXRYHWL4l15AzqXl4cm_GQJIJKnQCO-2gyZQ54bgymjVN8edi7Z05lIrhZ4gtUULB2qpusjfJCtbamirEhb-wMxFmHLnsJhbKlACWiQlldcoDlosjgtlNt_a1jfJ283NrCaH1GkmbjJsF7ERIKHtDbH1si9DuL-pkAdIdVB89aACIljw3O2s8xEYmH5Sm1wiP9SsFp2kA_dtzG3LxKvaT5TYJA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJUwBXTtXnAGARFaNtxBahdL0",
+    "plus_code": {
+      "compound_code": "PF3W+RF Osaka",
+      "global_code": "8Q6QPF3W+RF"
+    },
+    "rating": 1.9,
+    "reference": "ChIJUwBXTtXnAGARFaNtxBahdL0",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 341
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "5 Chome-5 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.7077187,
+        "lng": 135.5113517
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70902072989272,
+          "lng": 135.5124832298927
+        },
+        "southwest": {
+          "lat": 34.70632107010728,
+          "lng": 135.5097835701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "JOYCITY Gacha Land Tenjinbashi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107804304792480228126\">さへきひろのぶ</a>"
+        ],
+        "photo_reference": "ATKogpcuzZQjr2J62K7z75it86tdsCccu6y0KV2lvbNfA7YfGxtC_7vzFFLxK8EYt8-gJfqOH4e3Jjp-1lbXC1KDZxAYV_Sy9_us-XYuetk7VryYm99tuREAgkxpST8aJU_HdGVnNZWH5P25mwNfIT3uO_RezKsGfIV9kQf61jjoE3YBAoWO5WV1cGDUyNLTo8CryAVr1VOnDcpAW8D7KmBmB1S5JzVjRqHhEsivYr9e29r0cjfJQ6lvsorx_9ffbX9Qw-LtSwb-Bdz-btXRs3y-lj472C4l_zS3FVZOkk9hxMCsZS26yCLwdFEsJKscvDKp1YKy6MOhEn477IEx5gUMrwvgjLrP56tWv_1NU-qkQkZWrqG_b5-QmmKAToF8Gop5W-ybapQnNrD34GHiZDwXxh-rHS8VACZGxF6JeS17dCGi5dhwZcZCPNtjnIzYZEXjqVBCwIW3zFbuctK8yPtxbC-AKfBhTzTTVDTRfniYxOwThxF6EPPS2AhlLkzLMwjUMMS2PupI9XmZDdDHV7blO29gNOvktXx6ljf-JtLhQR3i2wTXnLiUvI80-tA25pDY_3w2pP_tI2B_PQ",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJg2sHtrjmAGARm2SS6uxd-Ao",
+    "plus_code": {
+      "compound_code": "PG56+3G Osaka",
+      "global_code": "8Q6QPG56+3G"
+    },
+    "rating": 2.4,
+    "reference": "ChIJg2sHtrjmAGARm2SS6uxd-Ao",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒561-0823 Osaka, Toyonaka, 神州町Kamisucho, 1−15 2F",
+    "geometry": {
+      "location": {
+        "lat": 34.7388191,
+        "lng": 135.4793548
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.74003165,
+          "lng": 135.4807586298927
+        },
+        "southwest": {
+          "lat": 34.73732984999999,
+          "lng": 135.4780589701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "アルゴセブン",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104673049453363481538\">Juan Rodríguez</a>"
+        ],
+        "photo_reference": "ATKogpdiLKzfVz19SvXTaIjHgdLt0vZBhknxn_RRHp_oaIJpsPbEsj9FaL3GS68OD4bhf4MjmFYPeyoysaO7B5I70lruLtjW-G83AyoC0Ai4jrWD5zIbUiDl8AMjH9w_e81S5Gk1k86HaB-fzD7wy-GlFPyNeglwSQOg5U-3cXkRjHt2lyATTpdJ-_0FHK5NcE3HOSl2RTn8mnMmlxUvTReLOfecXkypRvERp-Nw8ogfsipXNa1Tbw1goem0qHImcgB7I2JpZ4JoqzsF2DrS2-mOSK_DvvrQEgXcLzflvq9rtnIkw8kToWd-g4pRkX1hMjJ38v4x6T2c9QDf-kmGW7svYJMdqg3bQZQVd-KhkESbTWJR1nvg0AGat2SjPPNR9TEJXpPJB_bkZZpuMJ9LM8c5xCfbypXBQ1PUvpB9hgDlbnDpCUv4CMquq9SBoxEInHxo9C7w0l0E0qrlD1NOeVygpj5tr8L_XrL37IPnbat9z_c1EZ8ZUZ2EAfEsa92RUrETZKSZuo9gvLao9RUNRlpOt2xgeb_gM-J6InL1P0Ysck5Dj-X0rwA07SHz-jrxVBw0Ag1fgHyo",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJL9Xxn6_lAGARxF82Xi5BAhU",
+    "plus_code": {
+      "compound_code": "PFQH+GP Toyonaka, Osaka",
+      "global_code": "8Q6QPFQH+GP"
+    },
+    "rating": 3.5,
+    "reference": "ChIJL9Xxn6_lAGARxF82Xi5BAhU",
+    "types": [
+      "bowling_alley",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 843
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Kita Ward, Osaka, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.7066033,
+        "lng": 135.5016253
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70797282989273,
+          "lng": 135.5028693798927
+        },
+        "southwest": {
+          "lat": 34.70527317010728,
+          "lng": 135.5001697201073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "QｰBang!1th西梅田",
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112429750772454774565\">伊沢マサル</a>"
+        ],
+        "photo_reference": "ATKogpfhU99kZKZnJ2CMU-lC2Y544BzDff72LLoxvtxpIxFdOTDdfT7YUqy1Nrc3VGH3GCj9YKvkTpxUeFXN8R4hbS7ad2rITMy0XlAP90m1HpLvZGxDYYzkQHK-VB0xNmQdOTRZkiyGqVDKiUMMvg3B-WLqdfh3txajI-tHwXt-GpYQtFlNk9dE3X-76O-LLdYJiu9aY7Y8pyQey0ONL5q23ge7Q9ENYkRWLImOZevWVydN3S6bxPRMyogcbPgyhVW5qYQ4oxn6aY0t5XHNIAqzFINYXFSp4b1GzXvNjo0adAAoh3YCHQrkFqwq9pb5iGO0BaA2MU4VqFHOpSK76NguLO1bgwekSbLICoNfjxOtWU71Q2He_aM5IZY51TZyfVUd-3Gh9Xo_h5EIlLAwNH3ZDYqSiPX60Pw8lGpg219ub1ro-d1R5rqRGs9W2w_j71RkyM5JXMniDdDiKYX_HVdqRpaovNFMWlQTC9zgXtJ94kklA4sEd-EyfFWxOk6bgjxPHli-SdcJfM-Kk4wUMFtTu5hBW4m6UATl4otzsosd10RHX9FFltcrb4CrLwDmNCk3MKXeYfOS",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJc31h_f_nAGARi5ITYlJ204A",
+    "plus_code": {
+      "compound_code": "PG42+JM Osaka",
+      "global_code": "8Q6QPG42+JM"
+    },
+    "reference": "ChIJc31h_f_nAGARi5ITYlJ204A",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ]
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0051 Osaka, Kita Ward, Taiyujicho, 8−17 Plaza Umeda Bldg., 5階",
+    "geometry": {
+      "location": {
+        "lat": 34.7016977,
+        "lng": 135.5022882
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70316672989272,
+          "lng": 135.5037044798927
+        },
+        "southwest": {
+          "lat": 34.70046707010727,
+          "lng": 135.5010048201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "GoodGame Poker Live Osaka GGPL Osaka 大阪梅田 ポーカー",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 567,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105139243720690115995\">A Google User</a>"
+        ],
+        "photo_reference": "ATKogpdCByqmrFOpdEoibZhdgrxzunQ6X9rOkUXzCvytPuZlQS8ALvtzxHq5ylmPRap7Jgm4vY8xUHq4Pnns0RmfJwekykha1DaHRrM4o_O86PEfZMqHmYydqSGzswGnWNnAQ8KlaLWOazXIh_6nNkYmeTQNpBcbkIiqtOAu0q_Kxus66NSwSSTPstWjTFiIaExnct0BPrHbtpkTK4LGx_O2cucD-mLH05YpABqns6aJLo5FlnrEEnU0Uu6SrtZF_BvIlje8frHdqs5-LOnL_H70ljN0LW5sz6iy9MOSicT5x-zspELLYcY",
+        "width": 870
+      }
+    ],
+    "place_id": "ChIJ62BGthbnAGARwLobB4GW2iQ",
+    "plus_code": {
+      "compound_code": "PG22+MW Osaka",
+      "global_code": "8Q6QPG22+MW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ62BGthbnAGARwLobB4GW2iQ",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 97
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3 Chome-1-15 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.6993373,
+        "lng": 135.511827
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70097537989272,
+          "lng": 135.5130652298927
+        },
+        "southwest": {
+          "lat": 34.69827572010728,
+          "lng": 135.5103655701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "レンタルスペース【PURU南森町】/ポーカーテーブル完備！",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 1108,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114398165117040510332\">レンタルスペース【PURU南森町】/ポーカーテーブル完備！</a>"
+        ],
+        "photo_reference": "ATKogpep0koeJ5DODQyGH9KvuzmmRuXR95KjqyX0l6UHsHUW5zMDpvOOz8DGtkKtNkd2z8zFRbAnuNqwEnwDmo5fK9SMtSqbYpzxDsO3dqisybICrr6SsaEgRzm8eW60aanB8R2_A-p1DCpPvJxuF9WAArPuPcQNaBp11OtQcYQ13yh3_UpTPSlniBts_WM0_3L_mPRjKBfi3ikBVcQifijl6DaDVYe5CoB7ROIhotB-ftGJmXdAmv5FEOyS0YfQa3ipiRgEfsE3eAiT5xyijqFBXOeLSk74e42f5P2a_o3rUpCRFnG1_PQ",
+        "width": 1477
+      }
+    ],
+    "place_id": "ChIJJUeZBgDnAGAReoOFQ4PARqw",
+    "plus_code": {
+      "compound_code": "MGX6+PP Osaka",
+      "global_code": "8Q6QMGX6+PP"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJUeZBgDnAGAReoOFQ4PARqw",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Doyamacho, 1−21 モンテビル 3F",
+    "geometry": {
+      "location": {
+        "lat": 34.7029027,
+        "lng": 135.5045807
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70428242989272,
+          "lng": 135.5060140298928
+        },
+        "southwest": {
+          "lat": 34.70158277010728,
+          "lng": 135.5033143701073
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+    "name": "Amusement Dining Bon Bon 大阪梅田店",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 720,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118053551476565317518\">Amusement Dining Bon Bon 大阪梅田店</a>"
+        ],
+        "photo_reference": "ATKogpeKTmdNfTrDWLPiE03xhALXtF8mNtaPR9fzYYhk597UEXVGSkAYqWpdfv-AWvT1MKLFp1WPgdsgnbd9yMYGaCaD4X3KcAvjw_XxhpdlFOz-4BCbfcNXuhJxkbXWjaFKADTx9kt6l-J_cQ04hh9cfVULTgFkI2lTy5MsJNzxrff1VxK5oVBLOYAOBDc-koYJGzh13EYhaIBJVl5QtXiF1ww-_eGIN6-scCbHB7pZ9Khkhi3L3_Q_bXYIx5M46QAVMALxQMkMnRylp9zXCPzha9HVFWH0rakirm3xiY8Hdkl05uimFo4",
+        "width": 720
+      }
+    ],
+    "place_id": "ChIJ2W1OxermAGARjoNq0C7UOAw",
+    "plus_code": {
+      "compound_code": "PG33+5R Osaka",
+      "global_code": "8Q6QPG33+5R"
+    },
+    "price_level": 2,
+    "rating": 3.8,
+    "reference": "ChIJ2W1OxermAGARjoNq0C7UOAw",
+    "types": [
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 22
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 1 Chome−1−3 Osaka Station 3 Building, B1F 59-2",
+    "geometry": {
+      "location": {
+        "lat": 34.6986091,
+        "lng": 135.4996838
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70025667989272,
+          "lng": 135.5011002798927
+        },
+        "southwest": {
+          "lat": 34.69755702010727,
+          "lng": 135.4984006201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Royal Game Center",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118070482714599725532\">UT</a>"
+        ],
+        "photo_reference": "ATKogpe7g2lA-2HE1jjSbVsZD8ejmcKsmXaH0aIlJEkH3SYzCRwgUhDghGc60sXnFt8HzJHcwsxt6i6jozPjGhJhgrMHXZI98oafogUrTQqn_WvaOv73L88ieo0nxzmCu3__bEvcvBzlW4aGGRd872u4Iq2Q6E_Culi6-MSBPEIOCnRnHu0al4wN86t55ytGakPQEtaQ9tWBYkRUekb4iBSbajZAeUW_eRvUqe16fj2KD09S0skx8U5Bt3Voq8esjGBMr_StHxxRPtHGFivWRS9pNIb2D5ziR0wb25imQt_ejMH53gzlNTUjUkN61pq5CCsfuIxF7Hw10zhG7C0eJjPzmHq9tIyE4Ct_ZUuAwOv1Hb_E4NKY3o-iMshRbRF0a7ECYTrm193bqLSRNg9MANykxs6yPPlJvyJnjKOIBnL4G2U9wC5A8I0G3IY8ty6lhpA1IT9XyInY6trsrRi3mUVl4EyeJTdcBiExsUuDfRmuVIex8jPK5ZqUI4TMJ3JeNpNL7zVGcBtCR_ZiLhMdBM-Ory4MBNbfGnVhzvwI4ikWmjlzsiK2jreYB0aGo6h1_N9eIUBwmzl2",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJu8FMVezmAGARMnY_nyB8tDo",
+    "plus_code": {
+      "compound_code": "MFXX+CV Osaka",
+      "global_code": "8Q6QMFXX+CV"
+    },
+    "rating": 4.2,
+    "reference": "ChIJu8FMVezmAGARMnY_nyB8tDo",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 267
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 1 Chome−11−4 Osaka Ekimae Dai-Yon Bldg., B1F",
+    "geometry": {
+      "location": {
+        "lat": 34.6998123,
+        "lng": 135.4995929
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70132687989273,
+          "lng": 135.5009355798927
+        },
+        "southwest": {
+          "lat": 34.69862722010728,
+          "lng": 135.4982359201072
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "SEGA",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103682045982137803716\">Justin Huang</a>"
+        ],
+        "photo_reference": "ATKogpf4N5rbwg8BqgL7UzMbtJZ9oyASEEI4kqbIHN_ywpVZE0dyj8FaaLsSoHtiA3Tacm4q12qRq5H0c1ohtudjKzlcSbpevibPnXN7sKd4IwxZI71eClU56MmmhH38p17UbbUYJ-piKoQHOCM0MmnK33GNXpl33Jv8xF8rTVZKpnUABT2NWIjCIkVXxB5TmrJpKXwdMlglNB5oMz2h5CZkH4PfBzAoUpqqtsfQHdxm4zGIcrh6ejx2PAT29kFQod7J_XLLQCbIoH2IZRX6T1bovv-meUKDiWTfgiF1wPhYWR6NpPlufa0IeC2EryO0CMykLKbt82YAb5UXE3934AAkFixAnAlud-5EtoZfS0GNeAd1COLUPE7GwLdnp8-n2tr67foBhUSE1jUJj2bfkgt8O8aaBDK6Qni2kIyoCUZJ6mKrbzC-Z6m9fWe9x4l8oG2zKyGtO-sK-SylWTkEeiYvSFnT5w2-x-zIatk1T0Uh_tEy5MslROJJoR5n1VMJ6muGPUUEkF1dKGC5VJ3ehV-EF0eZC6ychnqB3_ctVUd4L-zGnpqE_97jtEpfzjC3b9Fbviy-BKnyRj3SSQ",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJealDIu3mAGAROAuu98XMO2g",
+    "plus_code": {
+      "compound_code": "MFXX+WR Osaka",
+      "global_code": "8Q6QMFXX+WR"
+    },
+    "rating": 3.3,
+    "reference": "ChIJealDIu3mAGAROAuu98XMO2g",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 458
+  }
+]

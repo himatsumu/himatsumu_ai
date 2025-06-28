@@ -2,3 +2,5 @@ googlemaps
 python-dotenv
 pydantic-settings
 pydantic
+fastapi
+uvicorn

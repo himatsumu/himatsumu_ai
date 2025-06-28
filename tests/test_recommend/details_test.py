@@ -8,7 +8,7 @@ client = googlemaps.Client(settings.GOOGLE_MAP_KEY) #インスタンス生成
 
 
 # Place ID を指定（例: 中崎町の服屋など）
-place_id = 'ChIJaxLzYf3nAGARD6HBizIB5_g'  # ※適当なPlace IDに置き換えてください
+place_id = 'ChIJszdHEQN9GGARy9MJ1TY22eQ'  # ※適当なPlace IDに置き換えてください
 
 # 詳細取得
 place_details = client.place(place_id)

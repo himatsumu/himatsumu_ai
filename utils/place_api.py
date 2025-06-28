@@ -25,7 +25,7 @@ def getplace(client,center_lat,center_lng,keyword,mock_json_path,use_mock):
             lat = center_lat + dlat #現在地に緯度300m追加
             lng = center_lng + dlng #現在地に軽度300m追加
             #半径500m以内で指定ジャンルのお店をGoogle placeAPIで呼び出す
-            place_result = client.places_nearby(location=(lat, lng), radius=500, keyword=keyword)
+            place_result = client.places(query = keyword, location=(lat, lng), radius=300)
             api_results.extend(place_result['results']) #結果を追加する
 
         # place_id を使って重複排除
