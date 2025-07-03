@@ -39,15 +39,21 @@ def score_shops(
         log_review = math.log(1 + shop.get("user_ratings_total", 0))
         review_score = log_review / max_log_review
 
+        #現在営業中かどうかを取得
+        is_open = shop.get("opening_hours",{}).get("open_now",True)
+
         #評価の重みを設定
-        score = (
-            -0.5 * distance_score +
-            1.0 * rating_score +
-            0.3 * review_score
-        )
+        if not is_open:
+            score = 0.0
+        else:
+            score = (
+                -0.5 * distance_score +
+                0.7 * rating_score +
+                0.3 * review_score
+            )
 
         #スコアをお店ごとに追加
-        shop["score"] = round(score, 4)
+        shop["score"] = round(score, 2) #小数点第2位までに
         score_shops.append(shop)
 
     #評価が高い順にソート

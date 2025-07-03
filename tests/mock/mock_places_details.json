@@ -1,182 +1,2178 @@
-{
-  "html_attributions": [],
-  "result": {
-    "address_components": [
+[
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 6:00 PM",
+        "Tuesday: 10:30 AM – 6:00 PM",
+        "Wednesday: 10:30 AM – 6:00 PM",
+        "Thursday: 10:30 AM – 6:00 PM",
+        "Friday: 10:30 AM – 11:00 PM",
+        "Saturday: 10:30 AM – 11:00 PM",
+        "Sunday: 10:30 AM – 11:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Japan, 〒530-0015 Osaka, Kita Ward, Nakazakinishi, 4-chōme−1−６ 3F",
+    "geometry": {
+      "location": {
+        "lat": 34.708785,
+        "lng": 135.5040465
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71007863029151,
+          "lng": 135.5054055802915
+        },
+        "southwest": {
+          "lat": 34.70738066970851,
+          "lng": 135.5027076197085
+        }
+      }
+    },
+    "name": "cafe&bar färben",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:30 AM – 6:00 PM",
+        "Tuesday: 10:30 AM – 6:00 PM",
+        "Wednesday: 10:30 AM – 6:00 PM",
+        "Thursday: 10:30 AM – 6:00 PM",
+        "Friday: 10:30 AM – 11:00 PM",
+        "Saturday: 10:30 AM – 11:00 PM",
+        "Sunday: 10:30 AM – 11:00 PM"
+      ]
+    },
+    "place_id": "ChIJO-BXdZnnAGARI1WT3wBVoIw",
+    "rating": 4.7,
+    "reviews": [
       {
-        "long_name": "1-1",
-        "short_name": "1-1",
-        "types": [
-          "premise"
-        ]
+        "author_name": "Andrew Dabydeen",
+        "author_url": "https://www.google.com/maps/contrib/104506729358657811917/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtoOOiw-eV-8B9d0SQyFmJQ2hXJ3yv1KbJZknvO8SBVPAM3XcMeA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "By far, my favorite coffee spot of my visit to Japan. I got the black sesame drink and it was absolutely divine. The flavors and complexity was something I’ve never had before. We came right when it opened and had the whole place for ourself. The staff was very warm and welcoming. It’s very easy to order as you do it through your phone. Would definitely recommend coming here!",
+        "time": 1747277252,
+        "translated": false
       },
       {
-        "long_name": "Maihama",
-        "short_name": "Maihama",
-        "types": [
-          "sublocality_level_2",
-          "sublocality",
-          "political"
-        ]
+        "author_name": "S",
+        "author_url": "https://www.google.com/maps/contrib/104272473768904619003/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWci_Lrt-HmbEpnHUhYLL8IdiLpxwIu-Br_CuHOG_g1ZV8-ahC3=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Best latte I’ve had in Osaka so far, it’s my go to as I have yet to find a better one!! And I love that you can just order via QR code, it’s so easy for those that don’t speak Japanese. Overall just perfect ✨💕",
+        "time": 1743092504,
+        "translated": false
       },
       {
-        "long_name": "Urayasu",
-        "short_name": "Urayasu",
-        "types": [
-          "locality",
-          "political"
-        ]
+        "author_name": "Naomi Moore",
+        "author_url": "https://www.google.com/maps/contrib/100990819764780375445/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWLnZdgHJo6ptJ4AbPLgQkmUgycqAGSwJHpzS2OB_C6oiCQTz8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Honestly unreal how delicious the food and drinks were. This was our first time checking out cafes in this area and I was drawn here by Google photos of the iced drinks and croffles, we are so delighted we chose to go here!\n\nOriginally I expected to start with sweet croffles and coffee and head somewhere else for savory breaky, but I was pleasantly surprised to see they had savory offerings as well. We chose the eggs Benedict croffle and caramel banana croffles with two iced Farben lattes and everything was perfection. It was so good we came back the next day for another Benedict croffle, this time also trying their eggplant bacon pizza (very thin crust but super flavorful!), iced caramel latte and iced orange latte (seasonal). Again, everything was spectacular. Their croffles and iced drinks are the best I’ve ever had, can’t recommend this chill & friendly spot enough!\n\nFor access, we went to the 3rd floor cafe for both visits. They had a sandwich board in front the staircase to the cafe/bar space so it was pretty easy to find. Once inside, we ordered via QR code at the table which had an English option so it was super simple to navigate.",
+        "time": 1715136877,
+        "translated": false
       },
       {
-        "long_name": "Chiba",
-        "short_name": "Chiba",
-        "types": [
-          "administrative_area_level_1",
-          "political"
-        ]
+        "author_name": "Josh",
+        "author_url": "https://www.google.com/maps/contrib/108044182071867662185/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZh1MHZOiJ5iJlIdkXFY9-5nSz6aygMIfSCFoz5ZB5ggSoVw=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "The hot chocolate and croffle were really good, and the third floor had a nice atmosphere.",
+        "time": 1740912923,
+        "translated": false
       },
       {
-        "long_name": "Japan",
-        "short_name": "JP",
-        "types": [
-          "country",
-          "political"
-        ]
-      },
-      {
-        "long_name": "279-0031",
-        "short_name": "279-0031",
-        "types": [
-          "postal_code"
-        ]
+        "author_name": "Ming Wayne Gui",
+        "author_url": "https://www.google.com/maps/contrib/103215637245458967504/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXexwr22D29l2o_zr_AvRYi-cUTjhatm0KMpsbJkP_KzeM8tyM=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Firstly we are glad it actually opens at 11am aa stated in its Google Map label. The croffles are good, coffee too, and the ambience is perfect as a little cafe in a quaint street. Choices are limited however in terms of food types. Still, come for the coffee and environment.\n\nAnd they play Ed Sheeran on the stereo, why not?",
+        "time": 1673058828,
+        "translated": false
       }
     ],
-    "adr_address": "<span class=\"street-address\">1-1 Maihama, Urayasu</span>, <span class=\"region\">Chiba</span> <span class=\"postal-code\">279-0031</span>, <span class=\"country-name\">Japan</span>",
+    "types": [
+      "bar",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 190,
+    "utc_offset": 540,
+    "website": "https://www.instagram.com/cafeandbar_farben/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "1-chōme-10-11 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.708641,
+        "lng": 135.5042741
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.7099911802915,
+          "lng": 135.5056324302915
+        },
+        "southwest": {
+          "lat": 34.7072932197085,
+          "lng": 135.5029344697085
+        }
+      }
+    },
+    "name": "Yatt Nakazakicho",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ]
+    },
+    "place_id": "ChIJzcfdRQDnAGARgCmucNdEsAk",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Iris",
+        "author_url": "https://www.google.com/maps/contrib/113875228806357901633/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmhFh04ptDeNKbxFafOYvrryCwYggS3zFP_mKNyVnJS1Cg6HJH=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Flat white was a bit too acidic when mixed with milk, it’s better if it can be more medium. But I loved the cup it was served in.\n\nThe iced Americano had a medium-light roast, smooth and well-balanced.\n\nThe scone was surprised me—crispy on the outside and moist inside—excellent! Paired with ice cream and crunchy flakes, it added great texture and layers.\n\nThe pudding was rich in flavor and had a dense texture—just the way I like it.\n\nDifferent seating area has different vibe!\nDefinitely worth a visit!",
+        "time": 1744425380,
+        "translated": false
+      },
+      {
+        "author_name": "Sonia Garcia",
+        "author_url": "https://www.google.com/maps/contrib/114522767091931532752/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_b3etJSCbYAuvZRZoRj_Imqs9XysYam_ngrkhWFG66sOcx0F8=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "many seating options and great lighting. i nearly didn’t come to this cafe because i didn’t see many pictures of their matcha and the ones i did see looked super light/milky. i took the chance though and it worked in my favor! the matcha i got was good, but on the sweeter side.",
+        "time": 1747531363,
+        "translated": false
+      },
+      {
+        "author_name": "Alex M.",
+        "author_url": "https://www.google.com/maps/contrib/103072135489542235619/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlFDvuMHJnl-voiJVayyFSXCqVk7JLgVhlUeVodYt_uzaKzw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 weeks ago",
+        "text": "Absolutely idyllic cafe in Osaka’s bohemian neighbourhood Nakazakicho. Their specialty are Japanese scones which are delicious, soft on the inside and crispy on the outside. Their decor is also super unique, with each floor having a different vibe. The second floor is mid-century modern. And the top floor was our favourite, with tatami mats and Moroccan style cushions.",
+        "time": 1749632977,
+        "translated": false
+      },
+      {
+        "author_name": "Borislav Mihaylov",
+        "author_url": "https://www.google.com/maps/contrib/112180564301095247801/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPu5-m8d0CD3XIvuCmpCV1h8Jo0Jv19eoJiUT5CT84Gw0suhKLqA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great coffee place. Excellent latte with nice presentation. We had a scone and pudding and we loved both. The interior is very cozy with different spots inside, some more private.",
+        "time": 1744684270,
+        "translated": false
+      },
+      {
+        "author_name": "ppks _",
+        "author_url": "https://www.google.com/maps/contrib/108962427837512362913/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL99zUBVqP2Gd-8SJ_y6SkzBMwZ47fGk2RbIN3ZHglkRyJ_cw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Had a great time here!!. A very well decorated coffee place. Loved everything there. Great coffee and very friendly staff. The Japanese lady at the counter welcomed foreigners warmly. English menu is also available.",
+        "time": 1732718966,
+        "translated": false
+      }
+    ],
+    "types": [
+      "cafe",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 124,
+    "utc_offset": 540,
+    "website": "http://yattcafe.com/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Japan, 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 5-chōme−6−５ コミカビル",
+    "geometry": {
+      "location": {
+        "lat": 34.7065656,
+        "lng": 135.5114766
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.7078735802915,
+          "lng": 135.5129596802915
+        },
+        "southwest": {
+          "lat": 34.7051756197085,
+          "lng": 135.5102617197085
+        }
+      }
+    },
+    "name": "MIKO COFFEE",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 5:00 PM",
+        "Tuesday: 10:00 AM – 5:00 PM",
+        "Wednesday: 10:00 AM – 5:00 PM",
+        "Thursday: 10:00 AM – 5:00 PM",
+        "Friday: 10:00 AM – 5:00 PM",
+        "Saturday: 10:00 AM – 5:00 PM",
+        "Sunday: 10:00 AM – 5:00 PM"
+      ]
+    },
+    "place_id": "ChIJAdW_b0XnAGARAAJXoCcR6Uk",
+    "rating": 5,
+    "reviews": [
+      {
+        "author_name": "芳賀大晃",
+        "author_url": "https://www.google.com/maps/contrib/115659203368543724210/reviews",
+        "language": "en-US",
+        "original_language": "ja",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-8vnaL64yAqxQ-pitszyCKb6avYOrgMe0e2VhY7Qmf8xSjA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "On my way home from playing at Ogimachi Park's Kids Plaza, I found MIKO COFFEE, which was crowded with people. I purchased a cafe latte, matcha latte, and passion sour. I've been following them on Instagram, so I'm very happy with their occasional services. I would like to go for coffee again when I stop by Tenjinbashisuji Shopping Street 🤭",
+        "time": 1719756856,
+        "translated": true
+      },
+      {
+        "author_name": "M F",
+        "author_url": "https://www.google.com/maps/contrib/112924407179010521392/reviews",
+        "language": "en-US",
+        "original_language": "ja",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWsQpc2-Ljbyti7d_c2-d_MwLrzaDzZc56Av--pmA3yZzRCw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "It looks like a newly opened store.\nThe coffee was aromatic and delicious, and the atmosphere was nice.\nIt seems to be open at night, so it seems like a good place to go after drinking!",
+        "time": 1718168443,
+        "translated": true
+      },
+      {
+        "author_name": "山田ま",
+        "author_url": "https://www.google.com/maps/contrib/109870663148296336502/reviews",
+        "language": "en-US",
+        "original_language": "ja",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUokDz40rL24oCBprGbjsIF8RATTQQzLw825QfBW2lM_8v-U_c=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I had the recommended coffee and was surprised at how delicious it was.",
+        "time": 1718006320,
+        "translated": true
+      }
+    ],
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "store",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "utc_offset": 540,
+    "website": null
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Dōyamachō, 15−１７ 梅田 City Villa Act III 2F 202",
+    "geometry": {
+      "location": {
+        "lat": 34.7044907,
+        "lng": 135.5031641
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.7057684802915,
+          "lng": 135.5044283302915
+        },
+        "southwest": {
+          "lat": 34.7030705197085,
+          "lng": 135.5017303697085
+        }
+      }
+    },
+    "name": "Blau coffee",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 8:00 PM"
+      ]
+    },
+    "place_id": "ChIJVc6VnrvnAGAR0lh6kKi3ELo",
+    "rating": 4.3,
+    "reviews": [
+      {
+        "author_name": "C Yee",
+        "author_url": "https://www.google.com/maps/contrib/103664780444004939918/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfpT5798G8Crnp-KeMw_gw3lp2uauaf8uuooew5q52py2e0uO1oA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "I was staying at the Ibis next to this cafe and came here multiple times. Really good toast, it’s like a mini pizza, and love their iced latte.",
+        "time": 1748237568,
+        "translated": false
+      },
+      {
+        "author_name": "Abdullah Algshayan",
+        "author_url": "https://www.google.com/maps/contrib/101459167898614834885/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrK7yMGCel107xvlDKrFgy9VB9zIyNF3hrCck6DrBOW44Opw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Delicious food & coffee and chill vibe",
+        "time": 1743829757,
+        "translated": false
+      },
+      {
+        "author_name": "Thomas Chew",
+        "author_url": "https://www.google.com/maps/contrib/117130363354466050758/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZL3eeN61MYuCeLbWLeC0QJOvwd9TJWAiwbRoPaHfqHYNx-Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "Dark roast coffee the way I like it",
+        "time": 1723253008,
+        "translated": false
+      },
+      {
+        "author_name": "G A",
+        "author_url": "https://www.google.com/maps/contrib/101243117319083018028/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlIdCi3Xv2UjbK8aJEKUd0UUU1hCec4rpYoFbxnCYKyL_VTuhGvQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Nice coffee, delicious toast",
+        "time": 1731031544,
+        "translated": false
+      },
+      {
+        "author_name": "趙慶宇",
+        "author_url": "https://www.google.com/maps/contrib/116679710358468180244/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0mhaDQLfLzXBmKnUUTgLggYm7VPRuR3QLf2VL9OFGtfMsyA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Nice place",
+        "time": 1726968811,
+        "translated": false
+      }
+    ],
+    "types": [
+      "cafe",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 24,
+    "utc_offset": 540,
+    "website": "https://twitter.com/blaucoffee_"
+  },
+  {
     "business_status": "OPERATIONAL",
     "current_opening_hours": {
       "open_now": true,
       "periods": [
         {
           "close": {
-            "date": "2025-06-29",
+            "date": "2025-07-06",
             "day": 0,
-            "time": "2200"
+            "time": "2000"
           },
           "open": {
-            "date": "2025-06-29",
+            "date": "2025-07-06",
             "day": 0,
-            "time": "0800"
+            "time": "0900"
           }
         },
         {
           "close": {
-            "date": "2025-06-30",
+            "date": "2025-07-07",
             "day": 1,
-            "time": "2200"
+            "time": "2000"
           },
           "open": {
-            "date": "2025-06-30",
+            "date": "2025-07-07",
             "day": 1,
-            "time": "0800"
+            "time": "0900"
           }
         },
         {
           "close": {
-            "date": "2025-07-01",
+            "date": "2025-07-08",
             "day": 2,
-            "time": "2200"
+            "time": "2000"
           },
           "open": {
-            "date": "2025-07-01",
+            "date": "2025-07-08",
             "day": 2,
-            "time": "0800"
+            "time": "0900"
           }
         },
         {
           "close": {
-            "date": "2025-07-02",
+            "date": "2025-07-09",
             "day": 3,
-            "time": "2200"
+            "time": "2000"
           },
           "open": {
-            "date": "2025-07-02",
+            "date": "2025-07-09",
             "day": 3,
-            "time": "0800"
+            "time": "0900"
           }
         },
         {
           "close": {
             "date": "2025-07-03",
             "day": 4,
-            "time": "2200"
+            "time": "2000"
           },
           "open": {
             "date": "2025-07-03",
             "day": 4,
-            "time": "0800"
+            "time": "0900"
           }
         },
         {
           "close": {
-            "date": "2025-06-27",
+            "date": "2025-07-04",
             "day": 5,
-            "time": "2200"
+            "time": "2000"
           },
           "open": {
-            "date": "2025-06-27",
+            "date": "2025-07-04",
             "day": 5,
-            "time": "0800"
+            "time": "0900"
           }
         },
         {
           "close": {
-            "date": "2025-06-28",
+            "date": "2025-07-05",
             "day": 6,
-            "time": "2200"
+            "time": "2000"
           },
           "open": {
-            "date": "2025-06-28",
+            "date": "2025-07-05",
             "day": 6,
-            "time": "0800"
+            "time": "0900"
           }
         }
       ],
       "weekday_text": [
-        "Monday: 8:00 AM – 10:00 PM",
-        "Tuesday: 8:00 AM – 10:00 PM",
-        "Wednesday: 8:00 AM – 10:00 PM",
-        "Thursday: 8:00 AM – 10:00 PM",
-        "Friday: 8:00 AM – 10:00 PM",
-        "Saturday: 8:00 AM – 10:00 PM",
-        "Sunday: 8:00 AM – 10:00 PM"
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
       ]
     },
-    "editorial_summary": {
-      "language": "en",
-      "overview": "Tokyo offshoot of the iconic theme park known for its rides, live shows & costumed characters."
-    },
-    "formatted_address": "1-1 Maihama, Urayasu, Chiba 279-0031, Japan",
-    "formatted_phone_number": "045-330-5211",
+    "dine_in": true,
+    "formatted_address": "1-45 Chayamachi, Kita Ward, Osaka, 530-0013, Japan",
     "geometry": {
       "location": {
-        "lat": 35.6328964,
-        "lng": 139.8803943
+        "lat": 34.7054212,
+        "lng": 135.4999978
       },
       "viewport": {
         "northeast": {
-          "lat": 35.63923269999999,
-          "lng": 139.8826676
+          "lat": 34.7069238802915,
+          "lng": 135.5014705802915
         },
         "southwest": {
-          "lat": 35.63078430000001,
-          "lng": 139.8735744
+          "lat": 34.7042259197085,
+          "lng": 135.4987726197085
         }
       }
     },
-    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
-    "icon_background_color": "#7B9EB0",
-    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
-    "international_phone_number": "+81 45-330-5211",
-    "name": "Tokyo Disneyland",
+    "name": "Eggs 'n Things",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 8:00 PM",
+        "Tuesday: 9:00 AM – 8:00 PM",
+        "Wednesday: 9:00 AM – 8:00 PM",
+        "Thursday: 9:00 AM – 8:00 PM",
+        "Friday: 9:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ]
+    },
+    "place_id": "ChIJ5-RjB5HmAGARSVydVI7ptFM",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Rina Feast (That’s How We Feast)",
+        "author_url": "https://www.google.com/maps/contrib/103894703564215855464/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCb03bYFEipgCyDnQSsKUVfvBJ-aRy6lnN6_k24HdazrBiq00=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We visited Eggs ’n Things 梅田茶屋町店 during the holiday period, and it was peaceful and not crowded, which made for a relaxing experience. The staff were very nice and could speak English, making everything easy and welcoming.\n\nThe place itself is quite cute, with a cozy vibe. The food was fine overall—though we wished the garlic shrimp could have been a bit crispier. We also enjoyed the coffee, which was a nice touch. A pleasant spot for a casual meal and a relaxing break! ☕️🍤🍳✨",
+        "time": 1746765490,
+        "translated": false
+      },
+      {
+        "author_name": "Alan Tan",
+        "author_url": "https://www.google.com/maps/contrib/103801214611209064283/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqOkQAy5TCUpHEtjF56vXMJ_I6MCpkmeP8MJQEwJSkUsXklzBC=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "An American style breakfast cafe. I came here at around 10am and there was already a queue forming. The restaurant wasn't full, but I guess they limited the entry so that the kitchen could cope. As this was an American style cafe, you can expect the usual waffles, pancakes etc, there are also other variety of breakfast-type of food available. I am not very impressed with their house blend coffee which was supposed to be originated from Hawaii. The French toast was good though. The portion for the pancake was huge, I recommend sharing. Service was just a bit longer than expected.",
+        "time": 1746589723,
+        "translated": false
+      },
+      {
+        "author_name": "zen X",
+        "author_url": "https://www.google.com/maps/contrib/100981423670566589441/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFD7JuzGrSGIdlY455RR7MvWDO_5EsHL6q4eULH1qnYbaXwA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "We had such a delicious breakfast! The food was fresh and flavorful, and the atmosphere was cozy and inviting. I’d definitely recommend making a reservation if you can—walk-ins are welcome, but you might end up waiting a bit depending on how busy it is. Totally worth it, though! Great spot for a relaxing start to your day.",
+        "time": 1747831893,
+        "translated": false
+      },
+      {
+        "author_name": "Louise Harte",
+        "author_url": "https://www.google.com/maps/contrib/101262860284948279148/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKG8EmTDHMRvwVuzk3dAQCQsSF-CaSLUbOGVewuFBlTZN-_1A=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "We went here for a late breakfast (around 11:45am) and there was a queue. It probably took around 30 mins to be seated but it was worth the wait. The menu was varied with breakfast and lunch options. I chose a poke bowl, and asked for it without the egg yolk which was no problem. My friend got the chocolate chip pancakes which was a massive portion and she asked for no cream which was also no issue (the amount of cream on the pancakes is a little crazy😂). My only small issue was that they had no other varieties of milk (almond, soy, etc) so I wasn’t able to enjoy a coffee but that wasn’t really a big deal for me. I’d definitely recommend here for a breakfast while in Osaka!",
+        "time": 1743722068,
+        "translated": false
+      },
+      {
+        "author_name": "Ademayowa Balogun",
+        "author_url": "https://www.google.com/maps/contrib/101498005757186973950/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIq1ot8IO36z2z_Pg0woR6i-hWRKZUMJxJw6qOcsq3a8ySzEA=s128-c0x00000000-cc-rp-mo",
+        "rating": 4,
+        "relative_time_description": "a week ago",
+        "text": "I love eating here and it’s generally a place I like to bring my friends for a calm brunch during the week. The staff are so friendly that they even remember my face and greeted me when I brought someone else last week. It’s nice to have a spot in Osaka that has a typical Sunday brunch vibe all day long, and I’m a big fan of their endless list of drinks haha\n\nThe potatoes are very good be sure to order them! I like their spinach cheddar omelet, just be aware they use quite a bit of oil so be aware if you’re sensitive to oil heavy foods. I also really like their chicken and waffle, or the platter on the back of the menu that gives you a sample of all the meats! Also tried the loco moco for the first time and the flavor was really good! Again, a lot of oil is used and that’s the only reason I gave a 4/5 stars!",
+        "time": 1750834199,
+        "translated": false
+      }
+    ],
+    "types": [
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1259,
+    "utc_offset": 540,
+    "website": "https://www.eggsnthingsjapan.com/umedachayamachi?id=g_business_umeda"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 8:30 PM",
+        "Tuesday: 10:00 AM – 8:30 PM",
+        "Wednesday: 10:00 AM – 8:30 PM",
+        "Thursday: 10:00 AM – 8:30 PM",
+        "Friday: 10:00 AM – 8:30 PM",
+        "Saturday: 10:00 AM – 8:30 PM",
+        "Sunday: 10:00 AM – 8:30 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "4-chōme-1-13 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.7087745,
+        "lng": 135.5034573
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.7101466302915,
+          "lng": 135.5047741802915
+        },
+        "southwest": {
+          "lat": 34.7074486697085,
+          "lng": 135.5020762197085
+        }
+      }
+    },
+    "name": "neel中崎町",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 8:30 PM",
+        "Tuesday: 10:00 AM – 8:30 PM",
+        "Wednesday: 10:00 AM – 8:30 PM",
+        "Thursday: 10:00 AM – 8:30 PM",
+        "Friday: 10:00 AM – 8:30 PM",
+        "Saturday: 10:00 AM – 8:30 PM",
+        "Sunday: 10:00 AM – 8:30 PM"
+      ]
+    },
+    "place_id": "ChIJGyLAvWrnAGARgV8FAkqNJfk",
+    "rating": 4.2,
+    "reviews": [
+      {
+        "author_name": "Dela",
+        "author_url": "https://www.google.com/maps/contrib/101914962350978232967/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3XIguXKYMt5XQ2OzHg4VtC4ISeYY8gsM_G-eHzP9go4uoIxZaRw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "SUPEEEEEEER LOVE THIS PLACE! The latte and flat white are superb!!!!! Make it less ice and it surprisingly feels sooooo right. Would love to come back here again for another coffee and crepe! Hehehe recommending this to anyone around Osaka.\n\nThe barista is very friendly and helpful, other staffs are kind and i have no problem at all here. The cafe is small, but it is beautiful inside and out. However, there used to be a wait until yoi can get a seat inside.",
+        "time": 1749915434,
+        "translated": false
+      },
+      {
+        "author_name": "Shiela L",
+        "author_url": "https://www.google.com/maps/contrib/112447975985260017302/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLe3zjvyRmBJcdjFB9sHGGvXcYz06H2zyLQxv5yQ_C7Ho1GeA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 4,
+        "relative_time_description": "2 weeks ago",
+        "text": "A very pretty cafe with a quaint and cozy atmosphere. It’s easy to see why this cafe makes the rounds on social media, it’s very aesthetically pleasing. Went here on a Friday morning and there was a queue of about 20 minutes.\n\nOrdered two matcha lattes, the katsu sandwiches and the banana crepe. The matcha lattes were just ok, way too milky for me to actually taste the matcha. The katsu sandwiches were great! A definite highlight of the meal. The banana crepe was also just ok, not something I’d be itching to order again. Service was fine, though, they did make a few mistakes with our order, they quickly rectified it.",
+        "time": 1749691079,
+        "translated": false
+      },
+      {
+        "author_name": "B. TAI",
+        "author_url": "https://www.google.com/maps/contrib/102416823013947992991/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3Ox7p-V3Q1kiAorsGd75IZellUIGsr1iichuVQiC1qeTVyaZV=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 3,
+        "relative_time_description": "3 months ago",
+        "text": "Is a great shop to sit in and have a relaxing day, but the order has to wait a little bit long. We ordered a crepe and waited for 30 minutes. It taste good but I don't think 30 minutes is necessary.... I will come back next time for other signature dishes but hopefully I would not have to wait for a long time again.\n\nP.S. Great service and great staff ♡",
+        "time": 1742652056,
+        "translated": false
+      },
+      {
+        "author_name": "Sean Cadet",
+        "author_url": "https://www.google.com/maps/contrib/101435414693671999078/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3KVV5ef5Xk9TMiWs9qsGCLHAGhQ3H8K__A2sQCX8kXMLv-88hTg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "While the place is very quaint and quite picturesque, we came here primarily for the coffee, and as such, this review only reflects our view of their coffee.\n\nWe felt that their coffee was just alright and nothing really special. There are other places not too far from this place that serves better tasting coffee. However, this does not mean that everything else they offer is not great. We only got their unbaked cheesecake other than our coffees and it was actually pretty good. And I’m sure other things in their menu, like the crepe, will be good. But I would say the coffee is more of a secondary supplement to their other offerings.\n\nAs for the place and ambience, it is probably one of the main reasons it attracts a ton of visitors. It is  picturesque, and the outside does not look like any typical cafe. The inside decor is rustic and unique, giving visitors a lot of chances for great coffee pictures.",
+        "time": 1725353277,
+        "translated": false
+      },
+      {
+        "author_name": "Harry Chiem",
+        "author_url": "https://www.google.com/maps/contrib/100724440673746634455/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiIlK6W13Zhk_geNEvnhX99Zfc7qRn0TohTe9EUcDP9uqNmfZ6Xw=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We came across neel through Instagram and we are so glad we decided to try them out. A gorgeously constructed and decorated little shop in the quiet side streets of Osaka - the lineup was decent but definitely worth it regardless of dine-in or take away. I got the pork katsu sando and my partner opted for the crepe. Both dishes were amazing but the crepes were truly next level. Such a cute place, incredible eats and drinks and amazing service. Highly recommend!!!",
+        "time": 1747464806,
+        "translated": false
+      }
+    ],
+    "types": [
+      "cafe",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 249,
+    "utc_offset": 540,
+    "website": "https://neel.coffee/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1000"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1000"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1000"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1000"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1000"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Tuesday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Wednesday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Thursday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Friday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Saturday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Sunday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Japan, 〒530-0056 Osaka, Kita Ward, Toganochō, 5−番2号 梅田ホリックホテル 1F",
+    "geometry": {
+      "location": {
+        "lat": 34.7009509,
+        "lng": 135.5048723
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70230633029149,
+          "lng": 135.5063135802915
+        },
+        "southwest": {
+          "lat": 34.6996083697085,
+          "lng": 135.5036156197085
+        }
+      }
+    },
+    "name": "UMEDAHOLIC HOTEL café & bar",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1000"
+          },
+          "open": {
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1000"
+          },
+          "open": {
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1000"
+          },
+          "open": {
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1000"
+          },
+          "open": {
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1000"
+          },
+          "open": {
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1000"
+          },
+          "open": {
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1000"
+          },
+          "open": {
+            "day": 6,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Tuesday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Wednesday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Thursday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Friday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Saturday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM",
+        "Sunday: 7:00 – 10:00 AM, 10:30 AM – 10:00 PM"
+      ]
+    },
+    "place_id": "ChIJKWYGVd_nAGARNKOK3ckRZ2Q",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author_name": "Gary I",
+        "author_url": "https://www.google.com/maps/contrib/101708588703040438648/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMMYzLUS2TRaYCDrxoW02_DOYref-YcEdqATy6REAonvM9mg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "We had a pleasant two nights at this hotel. The rooms were a good size, clean and the location is a 10 minute walk to the subway making it ideally placed. There are numerous convenience stores nearby also which was handy.\nThe staff were excellent, we needed to send our luggage onto Hiroshima and they were extremely helpful in arranging this even calling the hotel there to ensure all the details were correct. Thank you for a great stay and all your help!",
+        "time": 1749969581,
+        "translated": false
+      },
+      {
+        "author_name": "Olaf Schotte",
+        "author_url": "https://www.google.com/maps/contrib/111000825567314265034/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLd3tNEkI2nVQruZ_0fCSWSBcSujTYfOsII9VN-DH8R4eUrlA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 4,
+        "relative_time_description": "10 months ago",
+        "text": "Have been there during an exploration trip through Japan with my wife.\nYou get offered a choice of two different kinds of breakfast to start the day, but have to make that choice a day in advance.\nThe room has been small, but for a short stay it's fine.\n\nWe enjoyed our stay.",
+        "time": 1723641889,
+        "translated": false
+      },
+      {
+        "author_name": "Manuel Oliveira",
+        "author_url": "https://www.google.com/maps/contrib/106116485516878506098/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINjReYR1NYIV6TlcjPSWFMmx5t9dgnfYenjxDT1MafRl5aGsIo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Great location if you want to be close to entertainment and shops but far enough from the crowds. The room was great, plenty of space to open two medium sized travel suitcases. The bathroom was different from all the other 3 hotels I stayed at in Japan, the one I had included a standing shower next to a bathtub and you can choose what you prefer. You can get used to it pretty quickly after figuring out how to use the shower knob. The toilet and sink were all separate from the bath area. Like most Japanese hotels, you get toothbrushes, toothpaste, mouthwash, hairbrushes, razorblades and shaving cream, etc included, and you can restock everyday if needed. There were only 2 coin laundry machines, making it hard to do laundry at night (when most people are back in the hotel), but afternoon worked just fine for me. You can choose between a Japanese and a more western style breakfast, both were savory. Both were okay, but nothing too fancy (soup and small fish bites or sandwich). You can also get breakfast at Umeda station, it is 10 min away walking and it has many options to choose from. There are also several convenience stores nearby the hotel open until late. The breakfast lounge is pretty comfortable and has a nice atmosphere.",
+        "time": 1691422792,
+        "translated": false
+      },
+      {
+        "author_name": "EMAN Krason",
+        "author_url": "https://www.google.com/maps/contrib/112525414882403893089/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6ncHPlE7V95kfxebAERSS4c2y3B4C0U79hW9EjZpBIg5LSYwD=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 1,
+        "relative_time_description": "11 months ago",
+        "text": "Very wierd staff on the front desk.\nSink in the sleeping room. Very \"convenient\" when your spouse washing her hands at 2am after toilet visit. Japanese bizar. Very poor water pressure at the sink. Room View is really magic. Building site between two large parking lots and noise from those places at midnight but at 5am as well.\nBreakfast was has very poor options so this just another awfull japanese hotel with small rooms, bad breakfast and lot of quirks.\nAt least they had rainbow and tranformer flags everywhere.\nI wish they invest energy spent on the lgbfjb decorations in really important things like services and rooms.\nAt least i know what is really important to the management.\nI get it.",
+        "time": 1722824868,
+        "translated": false
+      },
+      {
+        "author_name": "Masa D.",
+        "author_url": "https://www.google.com/maps/contrib/100738250155153136577/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDA1Mc8wExlTBKEO-fOOAyocXZFD_k-pqZZD3mN9MRcrG0Eg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "During a family trip with a teenage son, we stayed here. It’s a new and clean hotel with lots of nice amenities, such as washers and dryers.\n\nOur room was not big, but i thought it’s slightly more spacious than many other business hotels in the area. There’s a café downstairs, which is a plus.\n\nIf you want a clean room in a comfortable hotel without breaking your bank account, this is a great option.",
+        "time": 1692806167,
+        "translated": false
+      }
+    ],
+    "types": [
+      "cafe",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "utc_offset": 540,
+    "website": "https://www.holichotel.jp/umeda/restaurant/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Japan, 〒530-0016 Osaka, Kita Ward, Nakazaki, 2-chōme−3−１２ パイロットビル 1F",
+    "geometry": {
+      "location": {
+        "lat": 34.708551,
+        "lng": 135.5058182
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.7099045802915,
+          "lng": 135.5071376802915
+        },
+        "southwest": {
+          "lat": 34.7072066197085,
+          "lng": 135.5044397197085
+        }
+      }
+    },
+    "name": "Taiyō No Tou",
     "opening_hours": {
       "open_now": true,
       "periods": [
@@ -187,7 +2183,7 @@
           },
           "open": {
             "day": 0,
-            "time": "0800"
+            "time": "0900"
           }
         },
         {
@@ -197,13 +2193,290 @@
           },
           "open": {
             "day": 1,
-            "time": "0800"
+            "time": "0900"
           }
         },
         {
           "close": {
             "day": 2,
             "time": "2200"
+          },
+          "open": {
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 9:00 AM – 10:00 PM",
+        "Tuesday: 9:00 AM – 10:00 PM",
+        "Wednesday: 9:00 AM – 10:00 PM",
+        "Thursday: 9:00 AM – 10:00 PM",
+        "Friday: 9:00 AM – 10:00 PM",
+        "Saturday: 9:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 10:00 PM"
+      ]
+    },
+    "place_id": "ChIJD4lf_ZXmAGARUQaNS6ytpec",
+    "rating": 4.1,
+    "reviews": [
+      {
+        "author_name": "Gosia",
+        "author_url": "https://www.google.com/maps/contrib/111141589571768486322/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6DDTNtCLpKYkA1C6QGVgB4VZj8ir4P0kckyjBXl6jNl04FdYE=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "What a wonderful find in Nakazakicho! The atmosphere is lovely, very much a retro feel to it. I went in for some coffee and a scone, all tasted great and was served in the cutest possible form. Staff are very nice and helpful, I don’t speak Japanese but felt very welcome and didn’t have problems with communication. Definitely recommend if you explore this great area!",
+        "time": 1731481799,
+        "translated": false
+      },
+      {
+        "author_name": "Sally Cheng",
+        "author_url": "https://www.google.com/maps/contrib/105554587398124993444/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUK7y-CQ_KlwXZnO4LkZa_6ghuMLPEglLTEA9rlH4fuc7apQ9nS=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "delicious home cooked-style food! roughly 1200 yen for a lunch set with the choice of fish or meat, both of which was delicious!\nfinished the meal off with 2 of their stunning cakes in the case (strawberry cake and old fashioned pudding) both were wonderful!",
+        "time": 1706415752,
+        "translated": false
+      },
+      {
+        "author_name": "Ahmad Syukaery",
+        "author_url": "https://www.google.com/maps/contrib/111765547823346719833/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLad0vAaaPyB5OUiQHRItuG5DwB7VpAfjsxJp6BNha9c-xLWKs=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "A cozy place to have early breakfast and coffee. Tried the egg and vegetablesandwich and it was very tasty. Coffee was good too!",
+        "time": 1735818757,
+        "translated": false
+      },
+      {
+        "author_name": "Crisabel Rhea Licayan",
+        "author_url": "https://www.google.com/maps/contrib/118195665107144434713/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1z2mqqKZl831CZZiCVS0oaKAm50xzPafDgmtLcz_naQMonwnw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "This cafe is so far my favorite. I've been to all of their branches in Namba, in Nakazakicho near umeda and this one their main branch. It has a homemy vibe that makes you want to stay longer (unless it's not crowded). These are one of the delicious food on their menu. I ordered Canele カヌレ,  assorted baked goods 焼お菓子盛り合わせ, home-made lemonade 自家製レモネード.",
+        "time": 1626417741,
+        "translated": false
+      },
+      {
+        "author_name": "jana sch",
+        "author_url": "https://www.google.com/maps/contrib/101746297074017064325/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6kvI1Nqo-7VGlL2G_pQa2TUcaTnhAj2E71NfXCSFH-p7PwxaZ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Such a cute and cozy café! So happy I found it on google maps, before our trip to japan. The drinks and food were as amazing as I had hoped.",
+        "time": 1690458029,
+        "translated": false
+      }
+    ],
+    "types": [
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 487,
+    "utc_offset": 540,
+    "website": "https://taiyounotou.com/cafe/honten/"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "Japan, 〒530-0013 Osaka, Kita Ward, Chayamachi, 15−２２ アーバンテラス A棟",
+    "geometry": {
+      "location": {
+        "lat": 34.70780179999999,
+        "lng": 135.4982278
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70909908029149,
+          "lng": 135.4995043802915
+        },
+        "southwest": {
+          "lat": 34.7064011197085,
+          "lng": 135.4968064197085
+        }
+      }
+    },
+    "name": "Blue Bottle Coffee - Umeda Chayamachi Cafe",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2100"
           },
           "open": {
             "day": 2,
@@ -213,7 +2486,7 @@
         {
           "close": {
             "day": 3,
-            "time": "2200"
+            "time": "2100"
           },
           "open": {
             "day": 3,
@@ -223,7 +2496,7 @@
         {
           "close": {
             "day": 4,
-            "time": "2200"
+            "time": "2100"
           },
           "open": {
             "day": 4,
@@ -233,7 +2506,7 @@
         {
           "close": {
             "day": 5,
-            "time": "2200"
+            "time": "2100"
           },
           "open": {
             "day": 5,
@@ -243,7 +2516,7 @@
         {
           "close": {
             "day": 6,
-            "time": "2200"
+            "time": "2100"
           },
           "open": {
             "day": 6,
@@ -252,178 +2525,367 @@
         }
       ],
       "weekday_text": [
-        "Monday: 8:00 AM – 10:00 PM",
-        "Tuesday: 8:00 AM – 10:00 PM",
-        "Wednesday: 8:00 AM – 10:00 PM",
-        "Thursday: 8:00 AM – 10:00 PM",
-        "Friday: 8:00 AM – 10:00 PM",
-        "Saturday: 8:00 AM – 10:00 PM",
-        "Sunday: 8:00 AM – 10:00 PM"
+        "Monday: 8:00 AM – 9:00 PM",
+        "Tuesday: 8:00 AM – 9:00 PM",
+        "Wednesday: 8:00 AM – 9:00 PM",
+        "Thursday: 8:00 AM – 9:00 PM",
+        "Friday: 8:00 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 9:00 PM"
       ]
     },
-    "photos": [
-      {
-        "height": 928,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/117843790272353465139\">Kenny Stokes</a>"
-        ],
-        "photo_reference": "ATKogpePdTCmAdtbA6kdwjENVPIcTXRMrl4fZv4KeYG0AvuqWmlECISHAuX6ReA4Gm5Ewld-Dqy_QxBeFxgvMQKB5pHUCqqgpnUSD5fxHUxyGAGnvN89doUUWA1EHf3TToxOSLSaAX5hiqAqY-UirMaZHDdLS70ZJkCEtiK8LehRH3wM21iFKvi_bI_9sSzYp_dhbYhURr96f7387tPlr25m5SQvcm7dQ69SCbPCErdQJPorNgkQ3802pX1t-GurznCah_q7cEy_m5cll7oowIAvEJV_88vpRifPB02LT2xj7bIC7NQ1FWT2jnct5P4-76M3R-gsn3bMac6-bFB2mwhwgQEu0CRQcuirabqTX1dW7k9g80CzMcH_4H8sfQamvJLA6ONkpNIicZkV6P9Ki50_UhkoqpzCrAyNNBT55FjKBa5gdLYAZR6xgrrZmeips5tKQFvJxFLp1hjOoxs7r0U1n_fp1M_LEGVckMKlZwPgAJcZsvHsFhOLCVr8W4et63J9iBbgTGIOj239F3xyVPT9lqTOqCy6goROBr5unDO9HxO3R_vGhsa-yrAkb2F5hd1MpzNEdWFionFVXXOwcfKolwgDzYc13xHsKOWNy6KhrJOUd3omtli-yKg0faxT5lv8wqGzug",
-        "width": 1273
-      },
-      {
-        "height": 3024,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/102485309220406344171\">名無</a>"
-        ],
-        "photo_reference": "ATKogpdNfypY7vWqT6m2W_0zpq7ZK15iXgE0xfPTeLiQabdeIAKuuDI0E56LzHf51jzfNvAS4xu7PgcfJcn6xrUsli7XTRVVkmX-aRkJD6QydiKDqQECBYUWV3rXKhazDbqw-yGHbTxgsQ5nQj6_ANwdB4HggHOP2wkahLU6XurtJbYbk8ac3QMRZiODil23vm5cl8-Pk6dTUrS9Xc_g7YiUW0XRayEZHxCCJ9JbTOh2D_vJ50ejsLLhHGsZZhx1RlMI32DuaivN3POhYLFtF3SMZNwwrbE4jE5bc47e7hRbW8JceoPThRP94WyVoEHfpt8xBZsgPUnLWauuLi9Af3n7m2w0E_3VF3GTOIseuq0xts7dqtMJ_jlCgg3klWJ2_-Nbm2AJKpRSFqUjqsGeMTj-LXvpicMqOlwe_DGSFsbY9iqpL7eWXEHJIApHTVUjRyZk7vU_xmdMzV1Dd-WRbSAWA2PBsrGaRGwhU5T6R33bYB8DcsOJ6Z83L4D2YL2PLRaLur8qXHKVlpIUiIJSxdgWygk61Uf4alYpZNDsPDTWitcL9ezCSaUbV0cMPwUiVPcghUeIQOmKU3qAoIWiTbrtQIPk_VfA2uOdBAvkGeuh-GCWHSFSoxsXZT7ELRkBvTSJpwBN8g",
-        "width": 4032
-      },
-      {
-        "height": 565,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/114975408784711547520\">Sato Alinne</a>"
-        ],
-        "photo_reference": "ATKogpfISSb7seb5fu1xg_mpEPTLIDtcPRAWU4E8rArnZTzmeQxi_lRFPPUcjdZcQDc0s7Py6_3iIJtARhsGSA7kKzAsYV_vXxafc4o4u__uByvDbx-04SEvHPRq8_Fg3XXvxmXFKvig_Sap5Gc5cMUGHAVrlngFx4mb1E0R6fElWCMDsgpgO1UuZ00MJdYH6yu2_F11DmVM8n06UqDqSzUFj0PtjWuOOG799VrxhqXWqQ1NoUF2T-gLfWjV3VI9I5dvkouqMLgwzFHk6ltS98iUSUgZ5ZpL3T36-iTQ8M58iSxKT5nfSXeWOvbeQcuMg2_nxezVaUslSqLl54WdIK7t6IHUus_dpeuUz0_xuDbae1zPAIJ1WsvjQEblA2oHxjyNcEcbP4wwJWOvZcVBhmnKxq6rROBlPG1nkcECIaMXEeDSHNHS0AyH8MezXOzwA3Qxl27kre7dXeL8cRq3GKZFltkoAbm85LrYXR9QfEvEp2uRfo16c0yjnSCpgS08YbaQNKlw-lXArMHZ6y-oCCU51uFnY6A2WX4XL0xMnk-p7Ipf6Ri8Ku06cZ7iNNj0LtMD8zoip1kgVBDzPoKKanYszVnzHDilQoZzpq3lu4sRElcjN3zsPo3800vE8R9WagaZEkBSfA",
-        "width": 824
-      },
-      {
-        "height": 929,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/117843790272353465139\">Kenny Stokes</a>"
-        ],
-        "photo_reference": "ATKogpcb6w5OtK-RieslzGhx-R6Tt8Pyb8_rOQsjtmrNS6YJ8nkQmENYY7k1T0smFf_OTNyOPo9t2amSa7vEt8TGxHg17VjIq2qrEw_tmu-uzqloMP-sNPvhT1__6bs-vi1L_34mhrnAeCFyNsvXoSLsPN9XcWDU1zF6LAvVYJrHCo5CVx6MKSXNFAun34vRELlDyy4vQVfjnb1cmnHGIfeSfSACgSrrJFbStDenVJvdys0n00hyci3Q9RWk-xFUyAhjTL8TycPDEVXbMvDLS-qCG4gOLPGwag_ZHwCpjtNoQ6lwNj-ioWxBx4nYaqS5B9Fqc5oN6J4wthCK2GqMiyz75igKe47yJ706ghFjaJDRZkUX2LSlT2wVctAE16a5wocfUReRyENMFoklVUN_TQfnGFEBIOfNbNHh6bXy2jdKE3H9EY4_Qoq4KXwX_QaHrfMn6sN0RDYXl1VoQ83BPmOMus3pGYpLt7CVRwyf6uLsqBfUojsMcPQeTzzNYR_whV_TSkegK-8hKsLXINUnoLeatV9k0JJDVS43py0dtVtrza6sQiLQ5UGzaLkc6cpp7JdaXGKyUNlmjM27edtpQlZJxmVXGAqugbrwuiFEnj1CXipE9e2IftBCHHLjMHPDmqwMXO8-30am",
-        "width": 1284
-      },
-      {
-        "height": 1080,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/105753821198739691888\">Asuka Y.</a>"
-        ],
-        "photo_reference": "ATKogpckIoAH1LkSnIR5C14L_LG5_CvzE5CM4YNAe3q-1-7IW98mhfkfYOc-cLin8xwGUNW2ArPD1OFnhc8hy4LZgeup-cGAWi4iXKFWJ12StkL2ykEFEO8bGWLoNiWV-PBDTMMsD9n_gmhcaxqSnAa7Yhy_eHuhbiDrOH5GBpzMIyQv4WhwzLKQuPfBM9b_R1m3N9buG0jtV-WLqfiu8ZYrzW7NTwq3SzOvLJcC2zacGldP8XbwNUXdAC2WFTR0xPcVDk_FlJ2F-bMU_BQWIBX3e2rIxF-HzQ6nFFO3U0YIJObWdC4Yky_jyJsWnYuKrWr5j5Ojw_KzkMISq9ivdJojm2hid7FmdvbWC4mNCv7Pywq9LOLnI7Ukg7YTP8kTrxXw6v3FLjWIHKNC1c-y8i_BbzCBejbsJnFqVv7VZmlT5BVAwCl8GEJ31aLA6lRrs7kbTIqfuQ2ow7zMYhSTpYMQAbkSeGOHsHMtF63Jz1-n98s_63LS0IaTQtua9_1nJVFYDEy_3WrG5jC8-XQlCCrUeE3thHrP3YJw5Sy2U9NTC066XEIhCoJe68xgNPcevqRrGnqakJAxWeSrP5_feD656oJUJhLrYUBlJa8dI7NxaRRpO9B1eaSvb57i4a3KjqeeTresMA",
-        "width": 1440
-      },
-      {
-        "height": 3648,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/105257451912294944118\">空豆太郎</a>"
-        ],
-        "photo_reference": "ATKogpd12GhottfiPcYtOO-0GL3h7X-devGnNPzm8d1EJPGu-N8_XVYUe3fi1cahDxnzwlIA6DlFAKAQc8EwFUgTcFjjkMHs_9BiNIRagSeinyutpTBMbd2RIJFmtlM3KUQ7NXOcRo-c4zNKmMstFlPbESNfs1zv-lKrOX8oxjhdawqB5YmkQFSyC-9gTXDSplpjBDJpkV2znYuKujngoP4DwjbMf6q_Z-QuZFQPCxGOmV_J1Eu-LoVYm1gz8ne-M_Y0Buj53tNkyiQmXplny8zCWAEzLaXERy-88sD_eOSHXVwMHMFzpS9QpWujbGtA2ifY-ySwacIrmCu8TeJGb9tZfPQLvAMnd6APrisWbKinBGpPs16ZExJO_RBqp72w5wzScAJCQRnnYU0YmvCm9yPLFl2YcQBTZj9xpo0LyVexZ_Cg_3FLVpU1Zhs_Xxh6F07ya-vo15kvpZsnsvCGV4ULTqTGuGgWNhjdcSs3U-grYhPjtclOyNm5JK3WFDJkywmcpIfmYTskAnIFlK9EvIsX-3OE2ezy4_Tn0PvJFseuelq0IFU5Js0MR7gmZPWQTrHt1eIIf2B627p15oxqxphl-_fTB7IT-Jux2ohfJTue74AW8N9gEn4AQ_f5Cboycr4i",
-        "width": 5472
-      },
-      {
-        "height": 2268,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/111753278927358651997\">まゆみ</a>"
-        ],
-        "photo_reference": "ATKogpd2vUaHw4JsR6YvZHk-oJ6WyAhSXlGmPp1JLk_E4utqRAEYqbS5b1QqpEVBz_p5PxaEDkW96GZ-2fgjsXRpPGrbQoyBS9oGpKXz5FgXu-ltppM6J8PjqTWNmVvnMonoEZIGNIXYXSBcmgsmZ0LazirEqymstwdh8822iZzqLQPMu5yaRTkB_oazUXdjrXmypOCmF16OW_BJPyv0SczmZxBfrVd6U2-mwOr52YhYU9FdunedNIxCDKinGVp95i5iUGBh8juFMXFcCorZQGL5SEMbaotQNyfNGdjMD_funlJ6oRy-8tutofXJ4ce-NQQkurRd8YtbWF7_SAcLRL4ccq0oy5BunpxrTOzi5L6nf7Kl9p-brNG8uqtanDZDx24LUBwham_BcOBW5L9vbeQ8inuOY2vdzlvbv29ck-pndhbnc-Hevj04W9lpo8MDkEbOeYHNYo65uhfhTgqMB_iRFCQKiQDyxIYsERw8Fi4VY-A6iNOkzNOKn-pMCjw7dIuPzlKqsV4NDzTmSTbpBQENkNI1ngCERhmNFEPxlNlkJIyrQ8uwAH_ryA-cuqv-ZdNASaWEvfyPPnJLf9qG_o3yh0bUt-htkeTX86QWtTgOnmZ7dbv1h1WBUIafUKznGa2wEZ0cPA",
-        "width": 4032
-      },
-      {
-        "height": 2268,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/111167901073586010760\">貴史</a>"
-        ],
-        "photo_reference": "ATKogpf6eXrXHzJexib-HJ5ZlbjFqYNxuBPz1U3pZZywrLEtF_NTJUzRnLm3F1kwFPBuzL4kJ69ezp_HjYHHtoj0adehXhjk99rNgVzfFhx08i4FZAig7FudTRkHaKgWhkenbc3tHZOmjZwUcSsoFqLBvOeak4_fEbj4VbhkyHFlRvgBE8mc4pchFOLisD2cyuoiUY8p1s2wqWJVUs_Bi8ntkEvGCY9Dv04k6PSkLz_vL9edIad9WuZX9CCnD7ZWthzxxdyFlJze8p4Ad57ARW6cJuCNZnATIn_nrQDKKNZBSWcwWTzHqjWN0KtEBJlRmFmVbpg_TdIH3hlDQsnqQ3Y-xopwZBY0xjJ-yGgYK3A1VqW5wT7xpYFvxpUF1dbUF1yHrr7wzDCvlsFFlfsZkzq-YZEpxYeht9mlYrG_t1NKy-ma0mG5_lYy-raAIyHLiR1f9MJMMwS04v2RMoBcNaIXYNJRTMU1t8bd3-RGmBcSTBEAH9WaBqhnh7DLh-XHlqWp5J_yTf8FC8TSJAvYQL2V5263PltQUb789mmmKvuhI1g2S5H6A2WblUBm3DaRjKkQ1SyLxZrfk0sXUEnszoGZuiZwQAu2iaYiAXKIWMqZw8zecl8gbh1Rymp8yBrDy7ORrO01jw",
-        "width": 4032
-      },
-      {
-        "height": 2604,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/116174061055404431230\">Morgan Lee</a>"
-        ],
-        "photo_reference": "ATKogpfxRTc1SbFDZ_dtPS9JfCd8cxBYg7eMPSOn_OxTlY3Ug2-X3xQhQVMbjCBl3Gp1wsH_rlylEH7bk3fnq5-K3IP144Irkvc7DF92UiuJQlZnIBZpTfadPgYg5Gm05qZM8xhvu3gdFobBfginm0ur0jGBUvcy750cAvyXQD_B-s2NqexBvhGRdlwB6IWcz8NPxmdGQrCrg0K5iyjSPVbykud8HE36lfQg6btBxUi2D37VVgjhhUyXEN4LoopXobYjVb8ily1-EXKfSelmuxLu0Xz2gF5RhzhXf4v9tmVnyCfPgZ9xmWgApqJMByvB0Q2HOkqIkSsLLNvyEaM1a-2rRQyFZJtfPOOmKDw1-hRCBFlE8YGuUM8p3uppSjq1rQ2iH6Mp3hOFIClYk8DGGYfK-07udC7ktlnIEe5E2cz-qTS5zK0U__F_HGHE6MwYo2Z53xjyxXA0Nl4wNDUV7nUlAO18v3ciBTHevq1ve8qaw9Pe1_RsBG2FhdX8NigZFUDg42mqcaEh7fQsOatx6htk7vEdL8keww5j-k1k8mZiAJkmwOm6Ar1zMK636QUAHRpeXsquNuVXEZPCKpLtDF_Llomyr-dE77EEB6K87KIuP4sxHwOujLP76fPpxdJAwswhcc49cg",
-        "width": 4624
-      },
-      {
-        "height": 3000,
-        "html_attributions": [
-          "<a href=\"https://maps.google.com/maps/contrib/110192953860290877064\">carl hong</a>"
-        ],
-        "photo_reference": "ATKogpctW6uzrLRBMyWbphqdWHawav3CUONwCATgPmXWakQGH1U_ifd0IjDIyXmeXprnBQ_6VOEdc_0iYZoM1ed14NracZCfTKlStuC4xemKd_mRLbaoMlIQoSMRAnT3vvYlW6HmmBCa0f2dauRFNkgLq4IPrUtmD6l_g4mpvhw9pKdLtB5ruL8LvXa_eX0Jh75wH6twxWMpoMCremBZGRz3eTXNeBWaD5wQRjhBxDcp9p49Vh0ADYY-VAn59nsSbmuHTwRoNj55qSTJiKrWF8WIdEz5Wf8nIYcKfyy2oheMOrsyHwvX31e6t7UcDseRGaIPcjQQ6s2c6wmnmaKGz72QDaudGiSyZu2ybHd7QjomdFu0QPj9evJieydVHZWrZDwA1T9MtFY1lb9qG8F_8rG5vHgtA4zS1B4A573cUXTmxcaVhNXII9SjziNRWU2ttmAAr3CTOW887Wip9cSFrQsMx8sluU7odo9QWaG3XGiAbvo8_5CeCmH0WiQQQ3_0HTQ908Gk1-hZVy8SnNARrsPF113HVYI30t7GWNfGVI_yjqE_rccx-Kkg5f6v1kggujLo-QeppODgGhnSrsSlvR69ec6eaa3NtNsmIe0hcDkatDOKNncNMcQaUbcpy_7mhndzNJXxGVlI",
-        "width": 4000
-      }
-    ],
-    "place_id": "ChIJszdHEQN9GGARy9MJ1TY22eQ",
-    "plus_code": {
-      "compound_code": "JVMJ+55 Urayasu, Chiba, Japan",
-      "global_code": "8Q7XJVMJ+55"
-    },
-    "rating": 4.6,
-    "reference": "ChIJszdHEQN9GGARy9MJ1TY22eQ",
+    "place_id": "ChIJq9dWiFHnAGARlha5p88psD4",
+    "rating": 4.3,
     "reviews": [
       {
-        "author_name": "Cindy C.S",
-        "author_url": "https://www.google.com/maps/contrib/108987136320444267089/reviews",
+        "author_name": "Chanyanat S.",
+        "author_url": "https://www.google.com/maps/contrib/118091622077020368760/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUXD0QtbNxK_zyLmiS_Ig-orS0061rKT7C5WqWH16_xmJ1LkOO=s128-c0x00000000-cc-rp-mo-ba6",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdnD_L6x-9S_u9pmithgagcA4dwuvCR9aIaQTMetceQittwTEh=s128-c0x00000000-cc-rp-mo-ba6",
         "rating": 5,
-        "relative_time_description": "2 weeks ago",
-        "text": "One of Magical places on earth\n\nTokyo Disneyland was my second Disneyland. And its good to be here. I have great time. Even no ride any attactions. Just strolling around park its already MADE ME HAPPY\n\nso many parade which is its fun to seeing it live..\nMake sure you download Disney Resort apps before you come as it will needed during you in park such as to buy meal, to buy disney premier access, as your guideline because it shows which attractions has long queue and which one is not",
-        "time": 1749720666,
+        "relative_time_description": "3 months ago",
+        "text": "It was my first time at Blue Bottle, and I loved it! The location is great—just a few minutes’ walk from the main train station and close to one of the biggest Uniqlo stores.\n\nThe coffee is amazing! I tried the Iced Nola with both regular milk and oat milk, and for some reason, I think it tastes better with regular milk. Highly recommend giving it a try!\n\nThe atmosphere is super nice, with seating on both floors. The second floor has a cool space with a projection ceiling, and there are also window seats where you can watch the trains go by.\n\nThe staff are also super nice and speak English quite well, which makes ordering easy.\n\nOverall, just an amazing experience! Definitely worth a visit.",
+        "time": 1743431354,
         "translated": false
       },
       {
-        "author_name": "Yuval Ezov",
-        "author_url": "https://www.google.com/maps/contrib/107801109114802731122/reviews",
+        "author_name": "Mick Duck",
+        "author_url": "https://www.google.com/maps/contrib/110793646855814928218/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_s8DElW4on_vMXmXO2rxAcNQ0CrCw7Mx-KERwHBY7HOzArfQD=s128-c0x00000000-cc-rp-mo-ba5",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTtsaJrb5FcLQSMwFD0ZWnnNZtOC-IRpQdmLcrCXmj62bfERqG=s128-c0x00000000-cc-rp-mo-ba5",
         "rating": 5,
         "relative_time_description": "a month ago",
-        "text": "We woke up early and arrived before opening, waited in line with everyone and it was totally worth it—we were among the first to enter. The Beauty and the Beast attraction was amazing, beautifully designed and so much fun. The park is very organized, super clean, and the staff were kind and helpful. We had a great time with the kids, and the price was more reasonable than expected.",
-        "time": 1746706748,
+        "text": "Bright and a design feel. Staff were friendly and helpful and spoke English to help with our ordering. There is only about 15 seats so it might be difficult to get a seat in peak times. Good coffee selection. We had Macchiato’s which were like an Aussie strong Piccolo. Try the Gibraltar if you want something in between Macchiato and Latte. We didn’t eat here just had coffee.",
+        "time": 1748311876,
         "translated": false
       },
       {
-        "author_name": "Dexter Jemuel Tay",
-        "author_url": "https://www.google.com/maps/contrib/109381824600258789770/reviews",
+        "author_name": "Alan Tan",
+        "author_url": "https://www.google.com/maps/contrib/103801214611209064283/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwtKx_mApHL7Z5lKC1QAIKIjRn99Ln4aPYX8ZMBEpVD8xh1uba=s128-c0x00000000-cc-rp-mo-ba3",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqOkQAy5TCUpHEtjF56vXMJ_I6MCpkmeP8MJQEwJSkUsXklzBC=s128-c0x00000000-cc-rp-mo-ba6",
         "rating": 5,
-        "relative_time_description": "a week ago",
-        "text": "My first time in a Disneyland in 43 years. 😅\nBrought my daughter (12yo), son (10yo) and mum (69yo) for a day of fun (on a Monday).\n\nSpent 10hrs there and managed to catch the fireworks at the end.\n\nNo other experience for reference and comparison.\n\nBuying of tickets is now done on the app though - I'd suggest downloading the app, create an account and familiarize yourself with it, prior to your trip.\n\nAnd it seems that we can bring our own food in now so if you'd like, stock up on sandwiches/snacks before you make your way there. Oh and raincoats too, just in case.",
-        "time": 1750156794,
+        "relative_time_description": "a month ago",
+        "text": "Few minutes walk from the Umeda Station. Not difficult to spot it from the road. As usual, a very spacious, clean and neat layout. Coffee was great and the cakes were alright. The window seats overlooked the Umeda train tracks and can be quite therapeutic watching the trains.",
+        "time": 1746587950,
         "translated": false
       },
       {
-        "author_name": "Nest",
-        "author_url": "https://www.google.com/maps/contrib/104966709213256354050/reviews",
+        "author_name": "He Nancy",
+        "author_url": "https://www.google.com/maps/contrib/106507594034714196293/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVU7oJ0BU1Om1zanHTXM4YGvgbGzhgfFBzXygslNELNuklB4jYV=s128-c0x00000000-cc-rp-mo-ba2",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH9wPmyfGH2x2Y2p7VuONTk2G_Mfj-JjWoldLiESJ5ubZToA=s128-c0x00000000-cc-rp-mo",
         "rating": 5,
-        "relative_time_description": "a week ago",
-        "text": "visited Tokyo Disneyland in September 2024, and it truly felt like stepping into a dream. From the moment I entered, everything was filled with joy, colour and magic. The attention to detail in every corner of the park was amazing: every ride, building, and even snack felt like part of a fairy tale.\n\nIt was a day full of laughter, wonder, and unforgettable moments.\n\nUnfortunately the queuing takes a long time: we spent  at least 15-30 minutes waiting to access each attraction.",
-        "time": 1750222864,
+        "relative_time_description": "4 weeks ago",
+        "text": "My friend recommended me to this coffee shop. Today was my first time here. I ordered a latte and it tasted really good! The staff was very friendly. When I asked if there was any coffee powder that could be used for the moka pot, they actively helped me translate and recommend it. In the end, they also helped me grind the coffee beans into powder. It was a very happy experience! Thank you very much for the help, caring smiles and service of the staff.",
+        "time": 1749026677,
         "translated": false
       },
       {
-        "author_name": "Shanuka Rathnayake",
-        "author_url": "https://www.google.com/maps/contrib/116552041692723943084/reviews",
+        "author_name": "Marie",
+        "author_url": "https://www.google.com/maps/contrib/102007435231591786834/reviews",
         "language": "en",
         "original_language": "en",
-        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNJj1nODjdzx0Lux8dAy5m-b8RXmT1uFVIocNkc_mNp8-oFGA2=s128-c0x00000000-cc-rp-mo-ba5",
-        "rating": 5,
-        "relative_time_description": "2 weeks ago",
-        "text": "I visited Tokyo Disneyland in May 2024, and it truly felt like stepping into a dream. From the moment I entered, everything was filled with joy, color, and magic. The attention to detail in every corner of the park was amazing, every ride, building, and even snack felt like part of a fairy tale.\n\nThe parades and shows were full of energy and beautifully done, and I was so impressed by how friendly and cheerful all the staff were. Their kindness and enthusiasm added so much to the overall experience.\n\nThe rides were fun for all ages, classics like It’s a Small World and Pirates of the Caribbean were full of charm, and the newer attractions were exciting and well-designed. The park was clean, well-organized, and surprisingly easy to get around, even with the crowds.\n\nIt was a day full of laughter, wonder, and unforgettable moments. Tokyo Disneyland truly lives up to its reputation, it’s not just for kids, it’s for anyone who still believes in a little magic.",
-        "time": 1749371055,
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8yP-Jjg-vAxO0fui7f7nq5ae1-_a9vxzzpfpupDXQbAQBGRPJdA=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "4 months ago",
+        "text": "I went there on a Sunday afternoon and was told that I had to wait 20 min to be able to be seated so I just decided to get my coffee to take out. I got an iced NOLA float with oat milk, and It tasted pretty good, however the amount was quite small, but the coffee definitely tasted better than the Seoul location. Probably would have a nicer experience if I went on a less crowded day and got seated in.",
+        "time": 1739018172,
         "translated": false
       }
     ],
     "types": [
-      "amusement_park",
-      "tourist_attraction",
+      "cafe",
+      "meal_takeaway",
+      "restaurant",
       "point_of_interest",
+      "food",
+      "store",
       "establishment"
     ],
-    "url": "https://maps.google.com/?cid=16490271119724106699",
-    "user_ratings_total": 113862,
+    "user_ratings_total": 880,
     "utc_offset": 540,
-    "vicinity": "1-1 Maihama, Urayasu",
-    "website": "https://www.tokyodisneyresort.jp/tdl/",
-    "wheelchair_accessible_entrance": true
+    "website": "https://store.bluebottlecoffee.jp/pages/umeda-chayamachi?utm_source=google&utm_campaign=my_business&utm_id=C025Chayamachi&utm_term=top"
   },
-  "status": "OK"
-}
+  {
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-06",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-07",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-08",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-09",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ]
+    },
+    "dine_in": true,
+    "formatted_address": "2-chōme-4-36 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
+    "geometry": {
+      "location": {
+        "lat": 34.7068208,
+        "lng": 135.5019543
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.7081739302915,
+          "lng": 135.5033324802915
+        },
+        "southwest": {
+          "lat": 34.7054759697085,
+          "lng": 135.5006345197085
+        }
+      }
+    },
+    "name": "Cafe Taiyō No Tou - Bekkan shop",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 10:00 AM – 6:00 PM",
+        "Tuesday: 10:00 AM – 6:00 PM",
+        "Wednesday: 10:00 AM – 6:00 PM",
+        "Thursday: 10:00 AM – 6:00 PM",
+        "Friday: 10:00 AM – 6:00 PM",
+        "Saturday: 10:00 AM – 6:00 PM",
+        "Sunday: 10:00 AM – 6:00 PM"
+      ]
+    },
+    "place_id": "ChIJZxmCqZbmAGARnsRqnixkZLs",
+    "rating": 4,
+    "reviews": [
+      {
+        "author_name": "William Ho",
+        "author_url": "https://www.google.com/maps/contrib/105772734412170642625/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRzIKdmDWOp5CkdNO496cfGj90KFkVY5UgIBjPfeesisTvOw=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "A short walk away from the busy Umeda Station shopping area, Nakazakicho is a quiet oasis. We chanced upon a charming cafe located in a traditional building at the end of a short alleyway. We ordered a Tanuki cake, a strawberry sponge cake,  lemon squash, and yuzu squash. Tanuki Cake is a Japanese shortcake that resembles a Japanese raccoon dog. We had it for the first time, and it was very delicious with dark chocolate and a filling inside that we couldn't identify.\n\nThe strawberry sponge cake was also very good. The freshly made drinks were very refreshing on a hot day. The cafe has a bohemian feel. On the upper floor, we noticed a tatami room that was occupied by families with little toddlers. It was almost like a nursery. I would recommend walking around the neighbourhood after having a snack at Cafe Taiyo. Nakazakicho is a quiet and quaint neighbourhood, quite a world away from Umeda.",
+        "time": 1745925850,
+        "translated": false
+      },
+      {
+        "author_name": "vv瘋狂嵐孩",
+        "author_url": "https://www.google.com/maps/contrib/114190015922813858085/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDex5NJR1dOfjIw3BosZ-Tl4rrW5TKDwlkYJ6LD1r28ehG5g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "We visited this café to celebrate my son’s birthday, and the staff went above and beyond by handwriting a sweet birthday message on his dessert plate—he was thrilled! ❤️\n\nA few notes for future visitors:\n\nMinimum Order: Requires 1 cake + 1 drink per person (even if not consumed).\n\nFood Quality: The cakes/drinks were average in taste, but the warm service compensated for it.\n\nLanguage: Staff spoke basic English and were very patient.",
+        "time": 1747742997,
+        "translated": false
+      },
+      {
+        "author_name": "Cartt Hr",
+        "author_url": "https://www.google.com/maps/contrib/108867336579156077814/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXm9r3VV1xp90KLu-FovdvXzyEiLn8IS6eaRSaTrBnsFxuxvzE2=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Such a cute place with a vintage Japanese style. The desserts were really good and looked super cute. I had some trouble with the menu on the phone because some items didn’t show up, but the staff were very helpful. The food took a little while to come, but it was no big deal. I’d love to come back for dessert again! 😊💖",
+        "time": 1746297634,
+        "translated": false
+      },
+      {
+        "author_name": "JAMM Channel小足跡大世界",
+        "author_url": "https://www.google.com/maps/contrib/101257589966126293315/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl60JDK-g0hdWPhvHrVz5GQ66A0vtKdru-1pqMnEiY3710vc0J=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 4,
+        "relative_time_description": "5 months ago",
+        "text": "It’s an interesting dessert shop. A place that local japanese people like to go. Though we are told that you have to spend at least ¥1000 per person (min order)",
+        "time": 1737475124,
+        "translated": false
+      },
+      {
+        "author_name": "Victor Ude",
+        "author_url": "https://www.google.com/maps/contrib/103098657117318249814/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUb8uqrmlxG7P-WiY--YNwEME9YgMWgYVV0BAOPawTebhNgzWFCg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "This is where you want to hang out if you're tired of the hustle and bustle of Osaka. Situated northeast of Umeda, it's a few minutes walk from major stations and a bit out of the way of the usual tourist traps. The food and drink is great like the other location right across the footpath from this building. The staff is warm and attentive. Bring small bills if you're paying in cash!",
+        "time": 1737207422,
+        "translated": false
+      }
+    ],
+    "types": [
+      "cafe",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 187,
+    "utc_offset": 540,
+    "website": "https://taiyounotou.com/cafe/bekkan/"
+  }
+]

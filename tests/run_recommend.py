@@ -18,12 +18,10 @@ req = RecommendRequest(**data)
 
 #受け取ったJsonを使用しお店候補を取得
 shop_list = getplace(
-    client = googlemaps.Client(settings.GOOGLE_MAP_KEY), #インスタンス生成
     center_lat = req.location.lat, #現在地の緯度
     center_lng = req.location.lng, #現在地の軽度
     keyword = req.genre, #選択したジャンル
-    mock_json_path = settings.MOCK_JSON_PATH, #MOCKを使う場合のパス
-    use_mock = settings.USE_MOCK #モックを使うかどうか
+    use_mock = False #モックを使うかどうか
 )
 
 shop_list = add_distance_to_shops(shop_list,req.location.lat,req.location.lng)
