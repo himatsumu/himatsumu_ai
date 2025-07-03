@@ -1,6 +1,15 @@
 import json
+import googlemaps
+from typing import Dict , List
+from config.settings import get_setting
+from utils.extraction import extraction_place
 
-def getplace(client,center_lat,center_lng,keyword,mock_json_path,use_mock):
+settings = get_setting()
+client = googlemaps.Client(settings.GOOGLE_MAP_KEY) #API使用のためのインスタンス生成
+mock_json_path = settings.MOCK_JSON_PATH, #MOCKを使う場合のパス
+
+#PlaceAPIを３回叩き、リストにして返す関数
+def getplace(center_lat,center_lng,keyword,use_mock):
     #検索件数を増やし、3方位に300mずらすためのリスト
     directions = [ 
         (0.003, 0),        # 北
@@ -37,8 +46,23 @@ def getplace(client,center_lat,center_lng,keyword,mock_json_path,use_mock):
         # 値だけ取り出してリストに
         shop_list = list(unique_places.values())
 
+        shop_list = [extraction_place(place_data) for place_data in shop_list]
+
         # ダミーデータ作成用：重複なしの結果を新しいJSONに保存
         with open(mock_json_path, "w", encoding="utf-8") as f:
             json.dump(shop_list, f, ensure_ascii=False, indent=2)
 
     return shop_list
+
+#簡易スコアリングで上位に選ばれたお店の詳しい情報を取得
+def get_place_detail(place_data: List[Dict]) -> List[Dict]:
+
+    #API呼び出し結果を格納するリスト
+    details_results = []
+
+    for place_detail in place_data[:10]:
+        place_id = place_detail.get("place_id")
+        get_detail = client.place(place_id)
+        details_results.append(get_detail["result"])
+
+    return details_results
