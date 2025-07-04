@@ -3,13 +3,15 @@ import googlemaps
 from typing import Dict , List
 from config.settings import get_setting
 from utils.extraction import extraction_place
+from utils.extraction import extraction_detail
 
 settings = get_setting()
 client = googlemaps.Client(settings.GOOGLE_MAP_KEY) #API使用のためのインスタンス生成
-mock_json_path = settings.MOCK_JSON_PATH, #MOCKを使う場合のパス
+mock_json_path = settings.MOCK_JSON_PATH #MOCKを使う場合のパス
+mock_detaile_json = settings.MOCK_DETAILE_JSON
 
 #PlaceAPIを３回叩き、リストにして返す関数
-def getplace(center_lat,center_lng,keyword,use_mock):
+def getplace(center_lat,center_lng,keyword,budget,use_mock):
     #検索件数を増やし、3方位に300mずらすためのリスト
     directions = [ 
         (0.003, 0),        # 北
@@ -34,7 +36,7 @@ def getplace(center_lat,center_lng,keyword,use_mock):
             lat = center_lat + dlat #現在地に緯度300m追加
             lng = center_lng + dlng #現在地に軽度300m追加
             #半径500m以内で指定ジャンルのお店をGoogle placeAPIで呼び出す
-            place_result = client.places(query = keyword, location=(lat, lng), radius=300)
+            place_result = client.places(query = (keyword, ",", budget), location=(lat, lng), radius=300,language='ja')
             api_results.extend(place_result['results']) #結果を追加する
 
         # place_id を使って重複排除
@@ -62,7 +64,9 @@ def get_place_detail(place_data: List[Dict]) -> List[Dict]:
 
     for place_detail in place_data[:10]:
         place_id = place_detail.get("place_id")
-        get_detail = client.place(place_id)
+        get_detail = client.place(place_id,language='ja')
         details_results.append(get_detail["result"])
+
+    # details_results = [extraction_place(place_data) for place_data in details_results]
 
     return details_results

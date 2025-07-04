@@ -1,4 +1,3 @@
-import googlemaps
 import json
 from utils.place_api import getplace
 from config.settings import get_setting
@@ -21,6 +20,7 @@ shop_list = getplace(
     center_lat = req.location.lat, #現在地の緯度
     center_lng = req.location.lng, #現在地の軽度
     keyword = req.genre, #選択したジャンル
+    budget = req.budget, #予算
     use_mock = False #モックを使うかどうか
 )
 

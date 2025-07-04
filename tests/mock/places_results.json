@@ -1,1826 +1,40 @@
 [
   {
     "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0015 Osaka, Kita Ward, Nakazakinishi, 4 Chome−1−6 3F",
+    "formatted_address": "日本、〒530-0016 大阪府大阪市北区中崎３丁目５−１４ 2階",
     "geometry": {
       "location": {
-        "lat": 34.7087307,
-        "lng": 135.5040461
+        "lat": 34.709636,
+        "lng": 135.504873
       },
       "viewport": {
         "northeast": {
-          "lat": 34.71007947989272,
-          "lng": 135.5054064298927
+          "lat": 34.71112772989272,
+          "lng": 135.5061908298927
         },
         "southwest": {
-          "lat": 34.70737982010727,
-          "lng": 135.5027067701073
+          "lat": 34.70842807010727,
+          "lng": 135.5034911701073
         }
       }
     },
-    "name": "cafe&bar färben",
+    "name": "韓国料理ミラチキン＆キンパ 梅田中崎町本店 Korean Restaurant Mira chicken & Kimbap",
     "opening_hours": {
       "open_now": true
     },
-    "place_id": "ChIJO-BXdZnnAGARI1WT3wBVoIw",
-    "rating": 4.7,
-    "types": [
-      "bar",
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 190,
-    "distance": 298.35092114991176,
-    "score": 0.92
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "1 Chome-10-11 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7086429,
-        "lng": 135.5042847
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70999202989272,
-          "lng": 135.5056332798927
-        },
-        "southwest": {
-          "lat": 34.70729237010728,
-          "lng": 135.5029336201073
-        }
-      }
-    },
-    "name": "Yatt Nakazakicho",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJzcfdRQDnAGARgCmucNdEsAk",
-    "rating": 4.6,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "store",
-      "establishment"
-    ],
-    "user_ratings_total": 122,
-    "distance": 290.719335446427,
-    "score": 0.85
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 5 Chome−6−5 コミカビル",
-    "geometry": {
-      "location": {
-        "lat": 34.7065656,
-        "lng": 135.5114766
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70787442989272,
-          "lng": 135.5129605298927
-        },
-        "southwest": {
-          "lat": 34.70517477010728,
-          "lng": 135.5102608701073
-        }
-      }
-    },
-    "name": "MIKO COFFEE",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJAdW_b0XnAGARAAJXoCcR6Uk",
-    "rating": 5,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 3,
-    "distance": 698.7475912933119,
-    "score": 0.69
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Doyamacho, 15−17 梅田 City Villa Act III 2F 202",
-    "geometry": {
-      "location": {
-        "lat": 34.7044907,
-        "lng": 135.5031641
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70576932989272,
-          "lng": 135.5044291798927
-        },
-        "southwest": {
-          "lat": 34.70306967010728,
-          "lng": 135.5017295201072
-        }
-      }
-    },
-    "name": "Blau coffee",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJVc6VnrvnAGAR0lh6kKi3ELo",
-    "rating": 4.3,
-    "types": [
-      "cafe",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 24,
-    "distance": 184.84085362911904,
-    "score": 0.68
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "1-45 Chayamachi, Kita Ward, Osaka, 530-0013, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7054212,
-        "lng": 135.4999978
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70691077989272,
-          "lng": 135.5013240298927
-        },
-        "southwest": {
-          "lat": 34.70421112010728,
-          "lng": 135.4986243701073
-        }
-      }
-    },
-    "name": "Eggs 'n Things",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJ5-RjB5HmAGARSVydVI7ptFM",
-    "rating": 4.2,
-    "types": [
-      "cafe",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 1259,
-    "distance": 359.7879711403153,
-    "score": 0.65
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "4 Chome-1-13 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7087745,
-        "lng": 135.5034573
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.71014747989272,
-          "lng": 135.5047750298927
-        },
-        "southwest": {
-          "lat": 34.70744782010728,
-          "lng": 135.5020753701072
-        }
-      }
-    },
-    "name": "neel中崎町",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJGyLAvWrnAGARgV8FAkqNJfk",
-    "rating": 4.2,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "store",
-      "establishment"
-    ],
-    "user_ratings_total": 249,
-    "distance": 304.93604896548607,
-    "score": 0.63
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0056 Osaka, Kita Ward, Toganocho, 5−番2号 梅田ホリックホテル 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7009509,
-        "lng": 135.5048723
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70230717989272,
-          "lng": 135.5063144298927
-        },
-        "southwest": {
-          "lat": 34.69960752010727,
-          "lng": 135.5036147701072
-        }
-      }
-    },
-    "name": "UMEDAHOLIC HOTEL café & bar",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJKWYGVd_nAGARNKOK3ckRZ2Q",
-    "rating": 4.6,
-    "types": [
-      "cafe",
-      "bar",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 52,
-    "distance": 574.7442686698666,
-    "score": 0.63
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0016 Osaka, Kita Ward, Nakazaki, 2 Chome−3−12 パイロットビル 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.708551,
-        "lng": 135.5058182
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70990542989272,
-          "lng": 135.5071385298928
-        },
-        "southwest": {
-          "lat": 34.70720577010728,
-          "lng": 135.5044388701073
-        }
-      }
-    },
-    "name": "Taiyō No Tou",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJD4lf_ZXmAGARUQaNS6ytpec",
-    "rating": 4.1,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 486,
-    "distance": 330.6276827560592,
-    "score": 0.58
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0013 Osaka, Kita Ward, Chayamachi, 15−22 アーバンテラス A棟",
-    "geometry": {
-      "location": {
-        "lat": 34.70778600000001,
-        "lng": 135.4981302
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70909992989272,
-          "lng": 135.4995052298927
-        },
-        "southwest": {
-          "lat": 34.70640027010727,
-          "lng": 135.4968055701073
-        }
-      }
-    },
-    "name": "Blue Bottle Coffee - Umeda Chayamachi Cafe",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJq9dWiFHnAGARlha5p88psD4",
-    "rating": 4.3,
-    "types": [
-      "meal_takeaway",
-      "cafe",
-      "restaurant",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 878,
-    "distance": 557.9696937610992,
-    "score": 0.57
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "2 Chome-4-36 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7068208,
-        "lng": 135.5019543
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70817477989272,
-          "lng": 135.5033333298927
-        },
-        "southwest": {
-          "lat": 34.70547512010727,
-          "lng": 135.5006336701073
-        }
-      }
-    },
-    "name": "Cafe Taiyō No Tou - Bekkan shop",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJZxmCqZbmAGARnsRqnixkZLs",
-    "rating": 4,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 187,
-    "distance": 193.89674131136897,
-    "score": 0.57
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0018 Osaka, Kita Ward, Komatsubaracho, 梅田地下街 4-5 ホワイティうめだイーストモールＨ-22",
-    "geometry": {
-      "location": {
-        "lat": 34.7019259,
-        "lng": 135.5006638
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70325617989273,
-          "lng": 135.5019592798927
-        },
-        "southwest": {
-          "lat": 34.70055652010728,
-          "lng": 135.4992596201073
-        }
-      }
-    },
-    "name": "belle-ville pancake cafe ホワイティうめだ店",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJS35vHpPmAGAR3Be014unx74",
-    "rating": 4.1,
-    "types": [
-      "meal_takeaway",
-      "cafe",
-      "restaurant",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 2629,
-    "distance": 543.8476824821674,
-    "score": 0.5
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "2 Chome-14-18 Honjonishi, Kita Ward, Osaka, 531-0073, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7131964,
-        "lng": 135.5051196
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.71452112989272,
-          "lng": 135.5065226298927
-        },
-        "southwest": {
-          "lat": 34.71182147010727,
-          "lng": 135.5038229701073
-        }
-      }
-    },
-    "name": "iTohen",
-    "opening_hours": {},
-    "place_id": "ChIJkTXKIpjmAGARLJhxj2rV4-Y",
-    "rating": 4.6,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 53,
-    "distance": 802.7432852807384,
-    "score": 0.48
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 5 Chome−8−30 1階",
-    "geometry": {
-      "location": {
-        "lat": 34.7077369,
-        "lng": 135.5112096
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70903022989273,
-          "lng": 135.5124447798927
-        },
-        "southwest": {
-          "lat": 34.70633057010728,
-          "lng": 135.5097451201072
-        }
-      }
-    },
-    "name": "Coffee Space ANGLE",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJJS8VnWznAGAR8udNPWJE3bc",
-    "rating": 4.5,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 35,
-    "distance": 697.626041393393,
-    "score": 0.48
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "3 Chome-3-8 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7071001,
-        "lng": 135.5016785
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70841167989272,
-          "lng": 135.5030191298927
-        },
-        "southwest": {
-          "lat": 34.70571202010728,
-          "lng": 135.5003194701073
-        }
-      }
-    },
-    "name": "NOON＋CAFE",
-    "opening_hours": {},
-    "place_id": "ChIJQVpPrZbmAGARTNFw8z3fU4A",
-    "rating": 3.8,
-    "types": [
-      "night_club",
-      "cafe",
-      "restaurant",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 183,
-    "distance": 230.82667992690202,
-    "score": 0.43
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "3-29 Suehirocho, Kita Ward, Osaka, 530-0053, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7020458,
-        "lng": 135.5106739
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70339732989271,
-          "lng": 135.5120964298928
-        },
-        "southwest": {
-          "lat": 34.70069767010727,
-          "lng": 135.5093967701073
-        }
-      }
-    },
-    "name": "Yama",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJ3anvVsHmAGARBOyOjnKNHOM",
-    "rating": 4.5,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 22,
-    "distance": 765.9224519938475,
-    "score": 0.42
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0015 Osaka, Kita Ward, Nakazakinishi, 1 Chome−8−30 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7073344,
-        "lng": 135.50384
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70869372989272,
-          "lng": 135.5052366298927
-        },
-        "southwest": {
-          "lat": 34.70599407010727,
-          "lng": 135.5025369701072
-        }
-      }
-    },
-    "name": "マローネ",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJL2C9B9vnAGARytJ5R2JuE5g",
-    "rating": 3.7,
-    "types": [
-      "cafe",
-      "meal_takeaway",
-      "bakery",
-      "restaurant",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 76,
-    "distance": 142.60416255996856,
-    "score": 0.4
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "1 Chome-6-22 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7076681,
-        "lng": 135.5040782
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70900787989272,
-          "lng": 135.5054325298927
-        },
-        "southwest": {
-          "lat": 34.70630822010727,
-          "lng": 135.5027328701073
-        }
-      }
-    },
-    "name": "Korabokafetsubomi",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJqY4R1ZXmAGARP0Ti_qzdCmE",
-    "rating": 3.9,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 7,
-    "distance": 180.8222878646717,
-    "score": 0.4
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0013 Osaka, Kita Ward, Chayamachi, 12−6 エスパシオン梅田ビル 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7069334,
-        "lng": 135.4986427
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70825367989272,
-          "lng": 135.4999232798927
-        },
-        "southwest": {
-          "lat": 34.70555402010728,
-          "lng": 135.4972236201073
-        }
-      }
-    },
-    "name": "Gong Cha Umeda Chayamachi",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJMboXsJHmAGARBv2VROmoWjw",
-    "rating": 4,
-    "types": [
-      "cafe",
-      "meal_takeaway",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 286,
-    "distance": 486.72129231537343,
-    "score": 0.4
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3 Chome−8−23 コア扇町 ２階",
-    "geometry": {
-      "location": {
-        "lat": 34.7020841,
-        "lng": 135.5113048
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70324692989273,
-          "lng": 135.5127715798928
-        },
-        "southwest": {
-          "lat": 34.70054727010728,
-          "lng": 135.5100719201073
-        }
-      }
-    },
-    "name": "Self Cafe Tenma",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJ95bno-XnAGARyuzKvWSIer8",
-    "rating": 4.4,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 136,
-    "distance": 811.2048898113025,
-    "score": 0.4
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "4 Chome-4-10 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7050776,
-        "lng": 135.5114959
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70655887989273,
-          "lng": 135.5127877298927
-        },
-        "southwest": {
-          "lat": 34.70385922010728,
-          "lng": 135.5100880701073
-        }
-      }
-    },
-    "name": "Orion",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJW-IK3-rnAGARYX9dJEleHxg",
-    "rating": 4.4,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 24,
-    "distance": 706.5379041432094,
-    "score": 0.4
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒531-0072 Osaka, Kita Ward, Toyosaki, 3 Chome−6−4 上野ビル ３階",
-    "geometry": {
-      "location": {
-        "lat": 34.7106725,
-        "lng": 135.4992466
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.71198267989272,
-          "lng": 135.5006050298927
-        },
-        "southwest": {
-          "lat": 34.70928302010728,
-          "lng": 135.4979053701072
-        }
-      }
-    },
-    "name": "Storybook",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJAQDViZrmAGAR4FUlyJ90DT8",
-    "rating": 4.2,
-    "types": [
-      "cafe",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "store",
-      "establishment"
-    ],
-    "user_ratings_total": 240,
-    "distance": 664.5746845375863,
-    "score": 0.39
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 1 Chome−1−3 Osaka Station 3 Building, B2-89",
-    "geometry": {
-      "location": {
-        "lat": 34.6991515,
-        "lng": 135.4998327
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70053167989272,
-          "lng": 135.5012277298927
-        },
-        "southwest": {
-          "lat": 34.69783202010728,
-          "lng": 135.4985280701073
-        }
-      }
-    },
-    "name": "Cafe Sunshine",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJpToQwuzmAGAR5yRA6Ki8YL0",
-    "rating": 4.2,
-    "types": [
-      "meal_takeaway",
-      "cafe",
-      "restaurant",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 1066,
-    "distance": 850.9817318046615,
-    "score": 0.33
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0016 Osaka, Kita Ward, Nakazaki, 3 Chome−2−14 珈琲舎書肆アラビク",
-    "geometry": {
-      "location": {
-        "lat": 34.7084678,
-        "lng": 135.5048107
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70979807989272,
-          "lng": 135.5061312298927
-        },
-        "southwest": {
-          "lat": 34.70709842010728,
-          "lng": 135.5034315701073
-        }
-      }
-    },
-    "name": "Arabiq",
-    "opening_hours": {},
-    "place_id": "ChIJnxV7cZbmAGARhUzS6xOhCvc",
-    "rating": 3.7,
-    "types": [
-      "art_gallery",
-      "cafe",
-      "book_store",
-      "home_goods_store",
-      "food",
-      "point_of_interest",
-      "store",
-      "establishment"
-    ],
-    "user_ratings_total": 127,
-    "distance": 282.381864134873,
-    "score": 0.32
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "5 Chome-6-22 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7076464,
-        "lng": 135.5117577
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70896642989272,
-          "lng": 135.5131247298927
-        },
-        "southwest": {
-          "lat": 34.70626677010728,
-          "lng": 135.5104250701073
-        }
-      }
-    },
-    "name": "ショットバーガーデンカフェ",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJMQMburjmAGARfWk75OwQIk0",
-    "rating": 4.3,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 24,
-    "distance": 743.5459936401649,
-    "score": 0.32
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "4 Chome-4-1 大阪市北区 Osaka 530-0041, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7047718,
-        "lng": 135.5118182
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70609447989273,
-          "lng": 135.5131690298927
-        },
-        "southwest": {
-          "lat": 34.70339482010728,
-          "lng": 135.5104693701072
-        }
-      }
-    },
-    "name": "Nishinaka Coffee Printemps",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJO-fmJsfmAGARzOACmBA_FZ4",
-    "rating": 4.1,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 243,
-    "distance": 741.4380162298216,
-    "score": 0.29
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0023 Osaka, Kita Ward, Kurosakicho, 6−22 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7071667,
-        "lng": 135.5095409
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70851652989273,
-          "lng": 135.5108907298927
-        },
-        "southwest": {
-          "lat": 34.70581687010728,
-          "lng": 135.5081910701072
-        }
-      }
-    },
-    "name": "WHY BOWL(ワイボウル)",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJD7PshSDnAGARupfarqL8Wxg",
-    "rating": 4,
-    "types": [
-      "cafe",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 30,
-    "distance": 534.0458934424876,
-    "score": 0.29
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 4 Chome−4−10 廣田ビル １階２階",
-    "geometry": {
-      "location": {
-        "lat": 34.705122,
-        "lng": 135.5115037
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70657062989272,
-          "lng": 135.5127916298927
-        },
-        "southwest": {
-          "lat": 34.70387097010727,
-          "lng": 135.5100919701073
-        }
-      }
-    },
-    "name": "bb.Q OLIVE CHICKEN cafe JR Temma eki-mae",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJoeSSvG7nAGARqOytee_7LmI",
-    "rating": 4,
-    "types": [
-      "bar",
-      "cafe",
-      "meal_takeaway",
-      "store",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 368,
-    "distance": 706.5027983176958,
-    "score": 0.26
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0033 Osaka, Kita Ward, Ikedacho, 3−1 Ur賃貸住宅ぷららてんま 2F",
-    "geometry": {
-      "location": {
-        "lat": 34.7067866,
-        "lng": 135.5127499
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70823662989272,
-          "lng": 135.5140472798927
-        },
-        "southwest": {
-          "lat": 34.70553697010727,
-          "lng": 135.5113476201073
-        }
-      }
-    },
-    "name": "PAL cafe",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJKzD1Sc7nAGARHuG7EZXgoRA",
-    "rating": 4.3,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 20,
-    "distance": 816.8968636655587,
-    "score": 0.26
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 4 Chome−7−29 扇町山一ビル 1階",
-    "geometry": {
-      "location": {
-        "lat": 34.7034894,
-        "lng": 135.5112648
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70450652989272,
-          "lng": 135.5127247798927
-        },
-        "southwest": {
-          "lat": 34.70180687010727,
-          "lng": 135.5100251201073
-        }
-      }
-    },
-    "name": "Orange Fields Bread Factory Tenjinbashi",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJlyfAy8bmAGARyeXNNonqJxQ",
-    "rating": 4,
-    "types": [
-      "bakery",
-      "cafe",
-      "store",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 397,
-    "distance": 734.5808475648225,
-    "score": 0.25
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0017 Osaka, Kita Ward, Kakudacho, 5−1 Umedarakutenchi Building, 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7038023,
-        "lng": 135.5003191
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70511327989272,
-          "lng": 135.5016658298927
-        },
-        "southwest": {
-          "lat": 34.70241362010728,
-          "lng": 135.4989661701073
-        }
-      }
-    },
-    "name": "PRONTO - Umeda Rakutenchi Building",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJT1N3dZPmAGARyWwrJR0_W-8",
-    "rating": 3.6,
-    "types": [
-      "cafe",
-      "bar",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 256,
-    "distance": 408.9518873620619,
-    "score": 0.21
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0025 Osaka, Kita Ward, Ogimachi, 2 Chome−4−20 北野病院 ２Ｆ",
-    "geometry": {
-      "location": {
-        "lat": 34.7051275,
-        "lng": 135.5068375
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70638667989272,
-          "lng": 135.5081624798927
-        },
-        "southwest": {
-          "lat": 34.70368702010728,
-          "lng": 135.5054628201073
-        }
-      }
-    },
-    "name": "Doutor",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJC6Kn5b_mAGARO6ToJfn38Yc",
-    "rating": 3.4,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 390,
-    "distance": 291.1025393950685,
-    "score": 0.18
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "5 Chome-3-22 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7078077,
-        "lng": 135.5122512
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70915642989272,
-          "lng": 135.5136081798927
-        },
-        "southwest": {
-          "lat": 34.70645677010727,
-          "lng": 135.5109085201073
-        }
-      }
-    },
-    "name": "cafe&bar mitoco",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJDcNUgMHnAGAR-q2SLne1zdk",
-    "rating": 4.1,
-    "types": [
-      "cafe",
-      "bar",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 26,
-    "distance": 791.659900287396,
-    "score": 0.17
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0018 Osaka, Kita Ward, Komatsubaracho, 梅田地下街 4-5 ホワイティ梅田イーストモール",
-    "geometry": {
-      "location": {
-        "lat": 34.7020578,
-        "lng": 135.5007786
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70332182989272,
-          "lng": 135.5019862298927
-        },
-        "southwest": {
-          "lat": 34.70062217010728,
-          "lng": 135.4992865701073
-        }
-      }
-    },
-    "name": "Cafe Eikokuya Whity Umeda NORTH",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJ1UjTRJPmAGARPSMU-U1fgpg",
-    "rating": 3.6,
-    "types": [
-      "cafe",
-      "restaurant",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 222,
-    "distance": 525.8406081787242,
-    "score": 0.13
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0001 Osaka, Kita Ward, Umeda, 1 Chome−13−13 7F Hanshin Department Store Umeda Main Store",
-    "geometry": {
-      "location": {
-        "lat": 34.7014363,
-        "lng": 135.4982636
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70289777989272,
-          "lng": 135.4995790798927
-        },
-        "southwest": {
-          "lat": 34.70019812010728,
-          "lng": 135.4968794201073
-        }
-      }
-    },
-    "name": "喫茶室 KOHORO｜阪神梅田本店",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJaT8pBYLnAGARtmPwN-czqeU",
-    "rating": 3.9,
-    "types": [
-      "cafe",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 70,
-    "distance": 724.5503739963657,
-    "score": 0.13
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Doyamacho, 3−3 日本生命梅田ビル 第一ビル",
-    "geometry": {
-      "location": {
-        "lat": 34.7023335,
-        "lng": 135.5031282
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70364242989272,
-          "lng": 135.5044877798927
-        },
-        "southwest": {
-          "lat": 34.70094277010728,
-          "lng": 135.5017881201072
-        }
-      }
-    },
-    "name": "Doutor",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJRR87MevmAGAR0rSS00e_rOM",
-    "rating": 3.4,
-    "types": [
-      "cafe",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 663,
-    "distance": 418.8301869199561,
-    "score": 0.12
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "6 Chome-6-21 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7091451,
-        "lng": 135.5110991
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.71077537989272,
-          "lng": 135.5123112798927
-        },
-        "southwest": {
-          "lat": 34.70807572010727,
-          "lng": 135.5096116201073
-        }
-      }
-    },
-    "name": "Doutor Coffee shop Tenroku shop",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJPawdLbnmAGARIeCxcFMnIgw",
-    "rating": 3.7,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 650,
-    "distance": 745.9170942163508,
-    "score": 0.08
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "9-17 Kakudacho, Kita Ward, Osaka, 530-0017, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7033258,
-        "lng": 135.4979889
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70464677989273,
-          "lng": 135.4992445798927
-        },
-        "southwest": {
-          "lat": 34.70194712010728,
-          "lng": 135.4965449201073
-        }
-      }
-    },
-    "name": "PRONTO - Shin-Umeda Shokudogai",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJx9yJQpLmAGAR13TZtFbWlBo",
-    "rating": 3.6,
-    "types": [
-      "cafe",
-      "bar",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 322,
-    "distance": 616.2446393768172,
-    "score": 0.08
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "4 Chome-8-26 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7045841,
-        "lng": 135.511228
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70598057989273,
-          "lng": 135.5126719798927
-        },
-        "southwest": {
-          "lat": 34.70328092010728,
-          "lng": 135.5099723201073
-        }
-      }
-    },
-    "name": "Saint Marc Cafe - Osaka Tenjinbashi",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJKwG11MDmAGARfF3b2Zexlnw",
-    "rating": 3.6,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 606,
-    "distance": 693.1846390857902,
-    "score": 0.06
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒531-0041 Osaka, Kita Ward, Tenjinbashi, 7 Chome−2−10 大木戸ビル",
-    "geometry": {
-      "location": {
-        "lat": 34.7113684,
-        "lng": 135.5111266
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.71281172989272,
-          "lng": 135.5125313798927
-        },
-        "southwest": {
-          "lat": 34.71011207010728,
-          "lng": 135.5098317201073
-        }
-      }
-    },
-    "name": "roasting workshop Café de Timely Tenjinbashi",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJnVbz-LvmAGARMkcBn6fIR_k",
-    "rating": 3.9,
-    "types": [
-      "cafe",
-      "grocery_or_supermarket",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 166,
-    "distance": 889.3183364918457,
-    "score": 0.06
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0011 Osaka, Kita Ward, Ofukacho, 4−1 グランフロント大阪ショップ＆レストラン うめきた広場B1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7033509,
-        "lng": 135.4944039
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70473487989272,
-          "lng": 135.4954818298927
-        },
-        "southwest": {
-          "lat": 34.70203522010728,
-          "lng": 135.4927821701073
-        }
-      }
-    },
-    "name": "24/7 Cafe Apartment Umeda",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJGylOgY7mAGARGG0yVjK4k5g",
-    "rating": 3.9,
-    "types": [
-      "cafe",
-      "restaurant",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 270,
-    "distance": 914.9471293769133,
-    "score": 0.06
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0013 Osaka, Kita Ward, Chayamachi, 19−19 アプローズ B1",
-    "geometry": {
-      "location": {
-        "lat": 34.7083761,
-        "lng": 135.4985323
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70955827989273,
-          "lng": 135.5000352298927
-        },
-        "southwest": {
-          "lat": 34.70685862010728,
-          "lng": 135.4973355701073
-        }
-      }
-    },
-    "name": "KOːHIːKAN Chayamachi Applause",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJW0C6YJDmAGARWnyNtNNlRNs",
-    "rating": 3.6,
-    "types": [
-      "cafe",
-      "meal_takeaway",
-      "bakery",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "store",
-      "establishment"
-    ],
-    "user_ratings_total": 38,
-    "distance": 551.1778088112187,
-    "score": 0.05
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Komatsubaracho, 4−2 梅田地下街",
-    "geometry": {
-      "location": {
-        "lat": 34.7021157,
-        "lng": 135.5014329
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70343647989272,
-          "lng": 135.5027863298927
-        },
-        "southwest": {
-          "lat": 34.70073682010728,
-          "lng": 135.5000866701073
-        }
-      }
-    },
-    "name": "Sao Dou Hua Umeda",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJs4yKna3nAGARFYxIEjAiIi0",
-    "rating": 3.4,
+    "place_id": "ChIJ73ssuFbnAGARCxajzaUcbPg",
+    "rating": 4.8,
     "types": [
       "restaurant",
-      "cafe",
-      "food",
       "point_of_interest",
+      "food",
       "establishment"
     ],
-    "user_ratings_total": 339,
-    "distance": 490.64483447882867,
-    "score": 0.05
+    "user_ratings_total": 66
   },
   {
     "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0012 Osaka, Kita Ward, Shibata, 1 Chome−1−3 阪急三番街 南館 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7046405,
-        "lng": 135.4989305
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70619037989272,
-          "lng": 135.49972775
-        },
-        "southwest": {
-          "lat": 34.70349072010728,
-          "lng": 135.49653875
-        }
-      }
-    },
-    "name": "KIEFEL",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJY2t6EJLmAGAR5mMkqEMMyRw",
-    "rating": 3.3,
-    "types": [
-      "cafe",
-      "restaurant",
-      "food",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 414,
-    "distance": 477.01135827769855,
-    "score": 0.01
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0041 Osaka, Kita Ward, Tenjinbashi, 3 Chome−9−11 グランピア扇町 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7021519,
-        "lng": 135.511624
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70327812989272,
-          "lng": 135.5129191298927
-        },
-        "southwest": {
-          "lat": 34.70057847010727,
-          "lng": 135.5102194701073
-        }
-      }
-    },
-    "name": "Yokohama Coffee Tenjinbashi 3 Chome",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJz2PHHMTmAGARPVpXGzW_hWc",
-    "rating": 3.7,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 404,
-    "distance": 831.8862138718898,
-    "score": 0.01
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0015 Osaka, Kita Ward, Nakazakinishi, 3 Chome−2−4 ２F",
-    "geometry": {
-      "location": {
-        "lat": 34.7082493,
-        "lng": 135.5030707
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70957202989272,
-          "lng": 135.5044371298928
-        },
-        "southwest": {
-          "lat": 34.70687237010728,
-          "lng": 135.5017374701073
-        }
-      }
-    },
-    "name": "Spiacafe",
-    "opening_hours": {
-      "open_now": false
-    },
-    "place_id": "ChIJ39oOlJbmAGARWF18uBGoF1s",
-    "rating": 4.5,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 165,
-    "distance": 254.70993601911601,
-    "score": 0.0
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒531-0072 Osaka, Kita Ward, Toyosaki, 1 Chome−3−1 丸善レヂデンス豊崎 1F",
-    "geometry": {
-      "location": {
-        "lat": 34.7097291,
-        "lng": 135.5028931
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.71102057989272,
-          "lng": 135.5042692298927
-        },
-        "southwest": {
-          "lat": 34.70832092010728,
-          "lng": 135.5015695701073
-        }
-      }
-    },
-    "name": "Café Y aka The Toast Lady",
-    "opening_hours": {
-      "open_now": false
-    },
-    "place_id": "ChIJFb7gGJfmAGARyvJw2dg-8cc",
-    "rating": 4.2,
-    "types": [
-      "cafe",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 679,
-    "distance": 418.28143231359803,
-    "score": 0.0
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "2 Chome-4-36 Nakazakinishi, Kita Ward, Osaka, 530-0015, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.706828,
-        "lng": 135.5020543
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70817827989273,
-          "lng": 135.5034099298927
-        },
-        "southwest": {
-          "lat": 34.70547862010728,
-          "lng": 135.5007102701072
-        }
-      }
-    },
-    "name": "Taiyō No Tou - Green West shop",
-    "opening_hours": {
-      "open_now": false
-    },
-    "place_id": "ChIJz9cSqZbmAGARq71KrEh6k9Y",
-    "rating": 4,
-    "types": [
-      "cafe",
-      "food",
-      "point_of_interest",
-      "store",
-      "establishment"
-    ],
-    "user_ratings_total": 323,
-    "distance": 186.1055124929215,
-    "score": 0.0
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "4 Chome-10-2 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7057021,
-        "lng": 135.5112908
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70702152989272,
-          "lng": 135.5126375798927
-        },
-        "southwest": {
-          "lat": 34.70432187010727,
-          "lng": 135.5099379201073
-        }
-      }
-    },
-    "name": "Doutor Coffee Tenma-eki-mae ( JR Temma Station )",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJX3i_S8fmAGARMw3QPB4Rlrk",
-    "rating": 3.5,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 571,
-    "distance": 680.5425299608223,
-    "score": 0.0
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "3 Chome-8-18 Tenjinbashi, Kita Ward, Osaka, 530-0041, Japan",
-    "geometry": {
-      "location": {
-        "lat": 34.7024975,
-        "lng": 135.5114122
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70390792989271,
-          "lng": 135.5128080798927
-        },
-        "southwest": {
-          "lat": 34.70120827010727,
-          "lng": 135.5101084201073
-        }
-      }
-    },
-    "name": "Cafe So La La",
-    "opening_hours": {
-      "open_now": true
-    },
-    "place_id": "ChIJC4K0rsbmAGARhsirFKMze_M",
-    "rating": 3.8,
-    "types": [
-      "cafe",
-      "store",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 35,
-    "distance": 795.6529649826821,
-    "score": 0.0
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0018 Osaka, Kita Ward, Komatsubaracho, 1−5 イビス大阪梅田内1階",
-    "geometry": {
-      "location": {
-        "lat": 34.7021789,
-        "lng": 135.5010739
-      },
-      "viewport": {
-        "northeast": {
-          "lat": 34.70345232989272,
-          "lng": 135.5024105298927
-        },
-        "southwest": {
-          "lat": 34.70075267010728,
-          "lng": 135.4997108701073
-        }
-      }
-    },
-    "name": "COOKPARK",
-    "opening_hours": {
-      "open_now": false
-    },
-    "place_id": "ChIJ4wOgXLHnAGARr7f0XErl9tU",
-    "rating": 3.9,
-    "types": [
-      "night_club",
-      "bar",
-      "cafe",
-      "restaurant",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "user_ratings_total": 97,
-    "distance": 500.25825356997944,
-    "score": 0.0
-  },
-  {
-    "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0012 Osaka, Kita Ward, Shibata, 1 Chome−1−3 阪急三番街南館 地下2階",
+    "formatted_address": "日本、〒530-0012 大阪府大阪市北区芝田１丁目１−３ 阪急三番街南館 地下2階",
     "geometry": {
       "location": {
         "lat": 34.7052188,
@@ -1837,66 +51,594 @@
         }
       }
     },
-    "name": "River Cafe",
+    "name": "梅田 阪急三番街 リバーカフェ",
     "opening_hours": {
-      "open_now": false
+      "open_now": true
     },
     "place_id": "ChIJm1YniJHmAGARBdtY9mAJ3gs",
     "rating": 3.8,
     "types": [
-      "meal_takeaway",
       "cafe",
+      "meal_takeaway",
       "restaurant",
-      "food",
       "store",
       "point_of_interest",
+      "food",
       "establishment"
     ],
-    "user_ratings_total": 502,
-    "distance": 490.68413362397206,
-    "score": 0.0
+    "user_ratings_total": 505
   },
   {
     "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0013 Osaka, Kita Ward, Chayamachi, 6−2 Mizuno Bld, 1F",
+    "formatted_address": "日本、〒530-0015 大阪府大阪市北区中崎西２丁目３−１４",
     "geometry": {
       "location": {
-        "lat": 34.7058699,
-        "lng": 135.5006362
+        "lat": 34.7057131,
+        "lng": 135.5025296
       },
       "viewport": {
         "northeast": {
-          "lat": 34.70723847989272,
-          "lng": 135.5020253798927
+          "lat": 34.70706847989272,
+          "lng": 135.5038238798927
         },
         "southwest": {
-          "lat": 34.70453882010727,
-          "lng": 135.4993257201073
+          "lat": 34.70436882010728,
+          "lng": 135.5011242201073
         }
       }
     },
-    "name": "PALM Cafe&Creperie 茶屋町",
+    "name": "RICH GARDEN 梅田中崎町店",
     "opening_hours": {
-      "open_now": false
+      "open_now": true
     },
-    "place_id": "ChIJQ8g_F2fnAGAR-yTU_gzt4S8",
-    "rating": 4.5,
+    "place_id": "ChIJVVWJa5TmAGARxVMOOz_2ZKc",
+    "rating": 4.2,
     "types": [
-      "bakery",
-      "cafe",
       "restaurant",
       "food",
-      "store",
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 359,
-    "distance": 295.22139377096926,
-    "score": 0.0
+    "user_ratings_total": 329
   },
   {
     "business_status": "OPERATIONAL",
-    "formatted_address": "Japan, 〒530-0027 Osaka, Kita Ward, Doyamacho, 15−15 鳳城ビル 7F",
+    "formatted_address": "日本、〒530-0013 大阪府大阪市北区茶屋町１−４５",
+    "geometry": {
+      "location": {
+        "lat": 34.7054212,
+        "lng": 135.4999978
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70692472989272,
+          "lng": 135.5014714298927
+        },
+        "southwest": {
+          "lat": 34.70422507010728,
+          "lng": 135.4987717701073
+        }
+      }
+    },
+    "name": "Eggs ’n Things 梅田茶屋町店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ5-RjB5HmAGARSVydVI7ptFM",
+    "rating": 4.2,
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1259
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0015 大阪府大阪市北区中崎西１丁目９−１１",
+    "geometry": {
+      "location": {
+        "lat": 34.7083807,
+        "lng": 135.5034971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70973292989272,
+          "lng": 135.5048289798927
+        },
+        "southwest": {
+          "lat": 34.70703327010727,
+          "lng": 135.5021293201073
+        }
+      }
+    },
+    "name": "ダイニング 和楽",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJHTWqjZbmAGARubQJouJ8Dh0",
+    "rating": 4.6,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 101
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0013 大阪府大阪市北区茶屋町２−１６ イースクエア茶屋町 4階",
+    "geometry": {
+      "location": {
+        "lat": 34.7058328,
+        "lng": 135.499195
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70715122989272,
+          "lng": 135.5004020798928
+        },
+        "southwest": {
+          "lat": 34.70445157010728,
+          "lng": 135.4977024201073
+        }
+      }
+    },
+    "name": "焼肉の和民 梅田茶屋町店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJMUoudY_nAGARd4gctLnY9w0",
+    "rating": 4.7,
+    "types": [
+      "restaurant",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1088
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0016 大阪府大阪市北区中崎１丁目６−１６ 中野ビル",
+    "geometry": {
+      "location": {
+        "lat": 34.7073661,
+        "lng": 135.5063122
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70872517989272,
+          "lng": 135.5076623298928
+        },
+        "southwest": {
+          "lat": 34.70602552010728,
+          "lng": 135.5049626701073
+        }
+      }
+    },
+    "name": "倶蘇酡麗 中崎店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJNWPiiZXmAGARnkbxoZtkN0A",
+    "rating": 4.3,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 332
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0021 大阪府大阪市北区浮田２丁目４−１６",
+    "geometry": {
+      "location": {
+        "lat": 34.710284,
+        "lng": 135.507706
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71169827989272,
+          "lng": 135.5090080798927
+        },
+        "southwest": {
+          "lat": 34.70899862010728,
+          "lng": 135.5063084201072
+        }
+      }
+    },
+    "name": "総大醤",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJC2Pfw73mAGARkdMg82J6N3o",
+    "rating": 4.1,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2124
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0023 大阪府大阪市北区黒崎町７−１",
+    "geometry": {
+      "location": {
+        "lat": 34.7076544,
+        "lng": 135.5095221
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70899072989272,
+          "lng": 135.5108742298927
+        },
+        "southwest": {
+          "lat": 34.70629107010728,
+          "lng": 135.5081745701073
+        }
+      }
+    },
+    "name": "すし政 西店",
+    "opening_hours": {},
+    "place_id": "ChIJJ5nsG7_mAGARKxsltuO0tYg",
+    "rating": 4.1,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 52
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0013 大阪府大阪市北区茶屋町１０−１２ NU茶屋町 8階",
+    "geometry": {
+      "location": {
+        "lat": 34.706972,
+        "lng": 135.4991059
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70838837989272,
+          "lng": 135.5005788798927
+        },
+        "southwest": {
+          "lat": 34.70568872010728,
+          "lng": 135.4978792201073
+        }
+      }
+    },
+    "name": "エイス シー オイスターバー 梅田NU茶屋町店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJK974ppHmAGARIXaGcgb0uy4",
+    "rating": 4.4,
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 438
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0012 大阪府大阪市北区芝田１丁目１−４ 阪急ターミナルビル 17F",
+    "geometry": {
+      "location": {
+        "lat": 34.7042757,
+        "lng": 135.4983239
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70569302989271,
+          "lng": 135.4992520298927
+        },
+        "southwest": {
+          "lat": 34.70299337010727,
+          "lng": 135.4965523701073
+        }
+      }
+    },
+    "name": "梅の花 梅田店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJiTr1UbvnAGARw1886MjwrzA",
+    "rating": 4.1,
+    "types": [
+      "restaurant",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 239
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0013 大阪府大阪市北区茶屋町１０−１２ NU９F",
+    "geometry": {
+      "location": {
+        "lat": 34.7070155,
+        "lng": 135.4990478
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70849422989272,
+          "lng": 135.5003618798928
+        },
+        "southwest": {
+          "lat": 34.70579457010728,
+          "lng": 135.4976622201073
+        }
+      }
+    },
+    "name": "アレグリア NU茶屋町",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJM0sLkUHnAGARBTY6bwcuI0c",
+    "rating": 4.7,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 423
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0015 大阪府大阪市北区中崎西３丁目３−４ セブンイレブンの奥オレンジのビル 1F",
+    "geometry": {
+      "location": {
+        "lat": 34.7076364,
+        "lng": 135.5019611
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70892497989272,
+          "lng": 135.5033392798927
+        },
+        "southwest": {
+          "lat": 34.70622532010728,
+          "lng": 135.5006396201073
+        }
+      }
+    },
+    "name": "【だしカレー&カフェ】ジパングカリーカフェ 中崎町本店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJwVUkrpbmAGAREMZelraXU2c",
+    "rating": 4.3,
+    "types": [
+      "cafe",
+      "meal_takeaway",
+      "restaurant",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 241
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0015 大阪府大阪市北区中崎西４丁目１−７ グリーン・シティ",
+    "geometry": {
+      "location": {
+        "lat": 34.7087119,
+        "lng": 135.5039926
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71005177989272,
+          "lng": 135.5053394298927
+        },
+        "southwest": {
+          "lat": 34.70735212010728,
+          "lng": 135.5026397701073
+        }
+      }
+    },
+    "name": "Dexter Diner",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJiz-uArbnAGARF8J0vcl6lok",
+    "rating": 4.2,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 223
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0013 大阪府大阪市北区茶屋町７−２０ アルモニーアンブラッセ大阪 10階",
+    "geometry": {
+      "location": {
+        "lat": 34.7074407,
+        "lng": 135.5001197
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70871282989272,
+          "lng": 135.5013612298928
+        },
+        "southwest": {
+          "lat": 34.70601317010728,
+          "lng": 135.4986615701073
+        }
+      }
+    },
+    "name": "レストラン＆カフェ レヨン 梅田店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJcc9MWOrnAGARNeF1y1BzgDE",
+    "rating": 4.3,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 35
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0016 大阪府大阪市北区中崎１丁目６−１５ 4F",
+    "geometry": {
+      "location": {
+        "lat": 34.70733269999999,
+        "lng": 135.5062408
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70872947989272,
+          "lng": 135.5075547798927
+        },
+        "southwest": {
+          "lat": 34.70602982010728,
+          "lng": 135.5048551201073
+        }
+      }
+    },
+    "name": "灯無 暗闇レストラン",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJaRWA9S_nAGAR-5jpgJ1hj6w",
+    "rating": 5,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0022 大阪府大阪市北区浪花町３−６",
+    "geometry": {
+      "location": {
+        "lat": 34.7071551,
+        "lng": 135.5099711
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70844637989273,
+          "lng": 135.5114017298927
+        },
+        "southwest": {
+          "lat": 34.70574672010729,
+          "lng": 135.5087020701073
+        }
+      }
+    },
+    "name": "生姜焼き専門店 ニュージーポークnew_g_pork",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJac1gSwDnAGARF4K5RjXXOgs",
+    "rating": 4.5,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 135
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒531-0072 大阪府大阪市北区豊崎３丁目１０−２ アイアンドエフ梅田 1F",
+    "geometry": {
+      "location": {
+        "lat": 34.7094498,
+        "lng": 135.4988734
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.71070007989272,
+          "lng": 135.5002927298927
+        },
+        "southwest": {
+          "lat": 34.70800042010728,
+          "lng": 135.4975930701073
+        }
+      }
+    },
+    "name": "蒸し料理専門店mus",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJU4rGe5DmAGARSA1J8N_pZog",
+    "rating": 4,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 392
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0015 大阪府大阪市北区中崎西３丁目３−１５ JR高架下 36号",
+    "geometry": {
+      "location": {
+        "lat": 34.7077196,
+        "lng": 135.5017443
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70907452989271,
+          "lng": 135.5030544798927
+        },
+        "southwest": {
+          "lat": 34.70637487010727,
+          "lng": 135.5003548201073
+        }
+      }
+    },
+    "name": "海鮮居酒屋 てつたろう 梅田中崎町店",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJL8R9tZbmAGARY9lfqIYTU_g",
+    "rating": 4,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 465
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町１５−１５ 鳳城ビル 7F",
     "geometry": {
       "location": {
         "lat": 34.7046879,
@@ -1913,22 +655,953 @@
         }
       }
     },
-    "name": "Comma Umeda",
+    "name": "COMMA, 梅田店",
     "opening_hours": {
       "open_now": false
     },
     "place_id": "ChIJA9C0yHLnAGARylWgliYyrzc",
     "rating": 4.7,
     "types": [
-      "bar",
       "cafe",
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 3380
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0025 大阪府大阪市北区扇町１丁目１−８８",
+    "geometry": {
+      "location": {
+        "lat": 34.7033504,
+        "lng": 135.5093149
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70462222989271,
+          "lng": 135.5101568
+        },
+        "southwest": {
+          "lat": 34.70192257010727,
+          "lng": 135.5067892
+        }
+      }
+    },
+    "name": "Botanico扇町公園",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJNR8ft2rnAGARCVaWzEBAlac",
+    "rating": 4.2,
+    "types": [
+      "cafe",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 47
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0041 大阪府大阪市北区天神橋４丁目１０−６",
+    "geometry": {
+      "location": {
+        "lat": 34.7060816,
+        "lng": 135.5110271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70743052989273,
+          "lng": 135.5123078798927
+        },
+        "southwest": {
+          "lat": 34.70473087010728,
+          "lng": 135.5096082201073
+        }
+      }
+    },
+    "name": "餃子酒飯 大阪王 天満店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJuXhmBjTnAGARD3YI1Bh0sMg",
+    "rating": 4.1,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 33
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町３−１３",
+    "geometry": {
+      "location": {
+        "lat": 34.7027281,
+        "lng": 135.5029438
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70411067989272,
+          "lng": 135.5041994798927
+        },
+        "southwest": {
+          "lat": 34.70141102010728,
+          "lng": 135.5014998201073
+        }
+      }
+    },
+    "name": "一蘭 梅田阪急東通店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJX97nNOvmAGARdTaAqV-Uv1I",
+    "rating": 4.1,
+    "types": [
       "restaurant",
       "food",
       "point_of_interest",
       "establishment"
     ],
-    "user_ratings_total": 3375,
-    "distance": 180.62724701641213,
-    "score": 0.0
+    "user_ratings_total": 2643
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0022 大阪府大阪市北区浪花町１−２４ JL天満駅前ビル 1～5F",
+    "geometry": {
+      "location": {
+        "lat": 34.706141,
+        "lng": 135.5107384
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70749422989272,
+          "lng": 135.5120914298927
+        },
+        "southwest": {
+          "lat": 34.70479457010727,
+          "lng": 135.5093917701073
+        }
+      }
+    },
+    "name": "中国食府 双龍居 天満駅前店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJP3pkhsfmAGARnGblJRYSqMw",
+    "rating": 4.1,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1066
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0052 大阪府大阪市北区南扇町７−２７ TTH東梅田 1F",
+    "geometry": {
+      "location": {
+        "lat": 34.7022927,
+        "lng": 135.5072175
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70367187989272,
+          "lng": 135.5085676798927
+        },
+        "southwest": {
+          "lat": 34.70097222010727,
+          "lng": 135.5058680201072
+        }
+      }
+    },
+    "name": "本格中華 錦厨",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJnxSrzsHmAGARrodorj05S_c",
+    "rating": 3.8,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 135
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0021 大阪府大阪市北区浮田１丁目５−３１",
+    "geometry": {
+      "location": {
+        "lat": 34.7082821,
+        "lng": 135.5089061
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70963882989273,
+          "lng": 135.5102643298927
+        },
+        "southwest": {
+          "lat": 34.70693917010728,
+          "lng": 135.5075646701073
+        }
+      }
+    },
+    "name": "MON CHARME par monsieur K （モンシャルメ パール ムッシュ ケイ）",
+    "opening_hours": {},
+    "place_id": "ChIJH41h977mAGARuj7zgooacNE",
+    "rating": 4.7,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 47
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町３−１２ ステージスカラブビル 4階",
+    "geometry": {
+      "location": {
+        "lat": 34.7027438,
+        "lng": 135.5029043
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70409682989272,
+          "lng": 135.5041522798927
+        },
+        "southwest": {
+          "lat": 34.70139717010727,
+          "lng": 135.5014526201073
+        }
+      }
+    },
+    "name": "回転すし さかえ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJh7C7RZPmAGARUGg_xSybBOM",
+    "rating": 3.9,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1641
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0041 大阪府大阪市北区天神橋５丁目８−１ 三商ビル大阪支社 1F",
+    "geometry": {
+      "location": {
+        "lat": 34.707692,
+        "lng": 135.511108
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70900582989272,
+          "lng": 135.5123488798927
+        },
+        "southwest": {
+          "lat": 34.70630617010728,
+          "lng": 135.5096492201073
+        }
+      }
+    },
+    "name": "タケル 天満店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJMQMburjmAGARTIrxeVrtW_M",
+    "rating": 4,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1108
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0023 大阪府大阪市北区黒崎町５−１４ Ｃａｆｅ Ｍａｌａｃｃａ珈琲館馬六甲 東南アジア食堂, マラッカ",
+    "geometry": {
+      "location": {
+        "lat": 34.7074424,
+        "lng": 135.5084834
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70880107989272,
+          "lng": 135.5098315798927
+        },
+        "southwest": {
+          "lat": 34.70610142010728,
+          "lng": 135.5071319201073
+        }
+      }
+    },
+    "name": "会員制 東南アジア食堂マラッカ Malacca Canteen 海南鶏飯",
+    "opening_hours": {},
+    "place_id": "ChIJAzlrq7_mAGARkigcrBlDn9c",
+    "rating": 4,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 174
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0056 大阪府大阪市北区兎我野町３−２０",
+    "geometry": {
+      "location": {
+        "lat": 34.7010204,
+        "lng": 135.5055932
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70240577989271,
+          "lng": 135.5069853298927
+        },
+        "southwest": {
+          "lat": 34.69970612010727,
+          "lng": 135.5042856701073
+        }
+      }
+    },
+    "name": "natural kitchen めだか 2号店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJlzpfburmAGAR3T78h_lYCIY",
+    "rating": 4.4,
+    "types": [
+      "restaurant",
+      "cafe",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 249
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0023 大阪府大阪市北区黒崎町３−２２",
+    "geometry": {
+      "location": {
+        "lat": 34.70734059999999,
+        "lng": 135.507784
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70872362989272,
+          "lng": 135.5091418798927
+        },
+        "southwest": {
+          "lat": 34.70602397010727,
+          "lng": 135.5064422201073
+        }
+      }
+    },
+    "name": "DREAM ON TAIGA 中崎町店",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ3Q11aW3nAGARbOt6_HMlhyE",
+    "rating": 4.4,
+    "types": [
+      "meal_takeaway",
+      "liquor_store",
+      "bar",
+      "restaurant",
+      "store",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 108
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0016 大阪府大阪市北区中崎３丁目２−２６",
+    "geometry": {
+      "location": {
+        "lat": 34.7086095,
+        "lng": 135.505545
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70996567989272,
+          "lng": 135.5069290798927
+        },
+        "southwest": {
+          "lat": 34.70726602010728,
+          "lng": 135.5042294201073
+        }
+      }
+    },
+    "name": "インドネパール料理 サグン",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJQaHdC5bmAGAReej2i58vFnI",
+    "rating": 4.2,
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 176
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町５−９ 扇会館 102",
+    "geometry": {
+      "location": {
+        "lat": 34.7030114,
+        "lng": 135.5020856
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70431207989272,
+          "lng": 135.5034395798927
+        },
+        "southwest": {
+          "lat": 34.70161242010728,
+          "lng": 135.5007399201073
+        }
+      }
+    },
+    "name": "堂山食堂本店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJi4lqEdbnAGAR2XkczGjW04A",
+    "rating": 3.6,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 147
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0057 大阪府大阪市北区曾根崎２丁目１５−２０ ＳＷＩＮＧうめだ 8階",
+    "geometry": {
+      "location": {
+        "lat": 34.7018782,
+        "lng": 135.5006243
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70322802989272,
+          "lng": 135.5019974298928
+        },
+        "southwest": {
+          "lat": 34.70052837010727,
+          "lng": 135.4992977701073
+        }
+      }
+    },
+    "name": "かに道楽 梅田店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJV06niozmAGAR9W6fYyNLmDs",
+    "rating": 4.2,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1115
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0057 大阪府大阪市北区曾根崎２町目8番12号 B1F",
+    "geometry": {
+      "location": {
+        "lat": 34.6997814,
+        "lng": 135.5006886
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70112727989272,
+          "lng": 135.5019846798927
+        },
+        "southwest": {
+          "lat": 34.69842762010727,
+          "lng": 135.4992850201073
+        }
+      }
+    },
+    "name": "OKOGEお初天神店",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJcW93jnvnAGARS_4q2A3qxBA",
+    "rating": 4.7,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5916
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Axis Umeda.II.Bld., １ｆ １７-１５ 堂山町 北区 大阪市 大阪府 530-0027 日本",
+    "geometry": {
+      "location": {
+        "lat": 34.7045097,
+        "lng": 135.5023853
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70586027989273,
+          "lng": 135.5037173298927
+        },
+        "southwest": {
+          "lat": 34.70316062010729,
+          "lng": 135.5010176701073
+        }
+      }
+    },
+    "name": "やよい軒 梅田東店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJeTQNtNnnAGARZHu2baYD_ro",
+    "rating": 3.6,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 639
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0057 大阪府大阪市北区曾根崎２丁目１０−１９ 河合ビル 3F",
+    "geometry": {
+      "location": {
+        "lat": 34.7007624,
+        "lng": 135.500914
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70215867989272,
+          "lng": 135.5022699298927
+        },
+        "southwest": {
+          "lat": 34.69945902010727,
+          "lng": 135.4995702701073
+        }
+      }
+    },
+    "name": "サムギョプサル×韓国料理 コギソウル 梅田お初天神店",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJNeMmuULnAGAR_MEbJjhejFM",
+    "rating": 4.8,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9456
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町６−３ B1F",
+    "geometry": {
+      "location": {
+        "lat": 34.70293300000001,
+        "lng": 135.50317
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70435837989272,
+          "lng": 135.5046788298927
+        },
+        "southwest": {
+          "lat": 34.70165872010728,
+          "lng": 135.5019791701073
+        }
+      }
+    },
+    "name": "餃子のかっちゃん 東通り店",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJyUAKx3fnAGAR3pJx8Oqh7kI",
+    "rating": 4.7,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 681
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町６−１ 3F",
+    "geometry": {
+      "location": {
+        "lat": 34.7029964,
+        "lng": 135.5034174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70431067989272,
+          "lng": 135.5048157798927
+        },
+        "southwest": {
+          "lat": 34.70161102010728,
+          "lng": 135.5021161201072
+        }
+      }
+    },
+    "name": "寿司としゃぶしゃぶ No.8 梅田店",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJxwVbGPvnAGARqu8WoSp8xso",
+    "rating": 4.5,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1499
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町３−１３ B1F",
+    "geometry": {
+      "location": {
+        "lat": 34.7027622,
+        "lng": 135.5031002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70408082989272,
+          "lng": 135.5042877298928
+        },
+        "southwest": {
+          "lat": 34.70138117010728,
+          "lng": 135.5015880701073
+        }
+      }
+    },
+    "name": "韓国料理食べ放題 ソルチカ 梅田堂山",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJK3n23kTnAGAREipg2kDr_6I",
+    "rating": 4.6,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1105
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町１−５ 三共梅田ビル 2F",
+    "geometry": {
+      "location": {
+        "lat": 34.7026461,
+        "lng": 135.5043503
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70381892989272,
+          "lng": 135.5055382298927
+        },
+        "southwest": {
+          "lat": 34.70111927010727,
+          "lng": 135.5028385701073
+        }
+      }
+    },
+    "name": "OKOGE 梅田東通り店",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJLRTAo8_nAGARGcnNI1rKpFM",
+    "rating": 4.7,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5873
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0017 大阪府大阪市北区角田町2−１ 梅田地下街 ホワイティ梅田ノースモールD-26",
+    "geometry": {
+      "location": {
+        "lat": 34.702763,
+        "lng": 135.4994971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70415367989272,
+          "lng": 135.5008038298927
+        },
+        "southwest": {
+          "lat": 34.70145402010728,
+          "lng": 135.4981041701072
+        }
+      }
+    },
+    "name": "やきにく萬野 ホワイティうめだ",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ11DJMMfnAGARhyE0iLVgZUo",
+    "rating": 4.4,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 377
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0017 大阪府大阪市北区角田町８−４７ 阪急グランドビル 30階",
+    "geometry": {
+      "location": {
+        "lat": 34.7029862,
+        "lng": 135.4990478
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70431092989272,
+          "lng": 135.5005268798927
+        },
+        "southwest": {
+          "lat": 34.70161127010728,
+          "lng": 135.4978272201072
+        }
+      }
+    },
+    "name": "インドレストラン BINDU 梅田阪急グランドビル店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJH6EIVpLmAGARE5W-5RQZdk8",
+    "rating": 4.1,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 330
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0018 大阪府大阪市北区小松原町梅田地下街",
+    "geometry": {
+      "location": {
+        "lat": 34.702603,
+        "lng": 135.5017416
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70359417989273,
+          "lng": 135.5025544
+        },
+        "southwest": {
+          "lat": 34.70089452010728,
+          "lng": 135.4997896
+        }
+      }
+    },
+    "name": "韓国酒場コッキオ ホワイティ梅田店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJi_8ZODPnAGARzh1RxNYr6c4",
+    "rating": 4.1,
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 107
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0057 大阪府大阪市北区曾根崎２丁目１５−２０ ＳＷＩＮＧうめだ 5階",
+    "geometry": {
+      "location": {
+        "lat": 34.701767,
+        "lng": 135.500849
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70312177989272,
+          "lng": 135.5020778798927
+        },
+        "southwest": {
+          "lat": 34.70042212010728,
+          "lng": 135.4993782201073
+        }
+      }
+    },
+    "name": "スシロー お初天神通り店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJMwba1aXnAGARCimvmTbP3B8",
+    "rating": 3.9,
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 446
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0051 大阪府大阪市北区太融寺町２−１７ 太融寺ビル 地下一階",
+    "geometry": {
+      "location": {
+        "lat": 34.7022094,
+        "lng": 135.5052598
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70361027989273,
+          "lng": 135.5066025298927
+        },
+        "southwest": {
+          "lat": 34.70091062010729,
+          "lng": 135.5039028701073
+        }
+      }
+    },
+    "name": "Asian Dining & Bar CHAUTARI（チャウタリ）",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJa4-BjermAGARfoXCMFNvewA",
+    "rating": 4.3,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 109
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町５−４",
+    "geometry": {
+      "location": {
+        "lat": 34.7027834,
+        "lng": 135.5023512
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70409827989273,
+          "lng": 135.5036556798927
+        },
+        "southwest": {
+          "lat": 34.70139862010728,
+          "lng": 135.5009560201073
+        }
+      }
+    },
+    "name": "元祖ぶっち切り寿司 魚心 本店",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJAQC7sZTmAGARX6Ij8MPBt4E",
+    "rating": 3.9,
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1485
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "日本、〒530-0027 大阪府大阪市北区堂山町４−１２ 白馬車Bld. 5Ｆ",
+    "geometry": {
+      "location": {
+        "lat": 34.70254200000001,
+        "lng": 135.5021224
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.70387892989272,
+          "lng": 135.5033907298927
+        },
+        "southwest": {
+          "lat": 34.70117927010728,
+          "lng": 135.5006910701073
+        }
+      }
+    },
+    "name": "KICHIRI 梅田",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJk8KjrZTmAGARGwBv1aKSee8",
+    "rating": 4.7,
+    "types": [
+      "bar",
+      "restaurant",
+      "store",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2179
   }
 ]

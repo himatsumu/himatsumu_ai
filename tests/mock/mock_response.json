@@ -3,8 +3,9 @@
     "lat": 34.70605201690028,
     "lng": 135.503858174402
   },
-  "genre": "カフェ",
+  "schedule": "映画",
+  "genre": "ご飯系",
   "time": "14:00",
   "budget": 1500,
-  "quest_history": ""
+  "history": ""
 }
