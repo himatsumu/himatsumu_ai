@@ -14,7 +14,8 @@ def recommend(req: RecommendRequest):
         req.location.lng,
         req.genre,
         req.time,
-        req.budget
+        req.budget,
+        req.schedule
     )
 
     shop_name = [shop.get("name") for shop in shop_list]

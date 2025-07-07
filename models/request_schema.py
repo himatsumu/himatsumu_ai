@@ -9,4 +9,5 @@ class RecommendRequest(BaseModel):
     genre: str
     time: str
     budget:  int
+    schedule: str
     history: str
