@@ -5,7 +5,7 @@ from config.settings import get_setting
 from utils.extraction import extraction_place
 
 settings = get_setting()
-client = googlemaps.Client(settings.GOOGLE_MAP_KEY) #API使用のためのインスタンス生成
+client = googlemaps.Client(settings.GOOGLE_PLACE_KEY) #API使用のためのインスタンス生成
 mock_json_path = settings.MOCK_JSON_PATH #MOCKを使う場合のパス
 mock_detaile_json = settings.MOCK_DETAILE_JSON
 

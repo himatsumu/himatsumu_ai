@@ -7,7 +7,7 @@ genre = 'アミューズメント' #絞るジャンル
 
 load_dotenv
 
-key = os.getenv("GOOGLE_MAP_KEY") # 上記で作成したAPIキーを入れる
+key = os.getenv("GOOGLE_PLACE_KEY") # 上記で作成したAPIキーを入れる
 client = googlemaps.Client(key) #インスタンス生成
 
 #緯度と軽度 ※現在は中崎町で固定

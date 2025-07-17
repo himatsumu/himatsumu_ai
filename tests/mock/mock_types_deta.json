@@ -1,0 +1,27 @@
+[
+    {
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "types": [
+            "store",
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    },
+    {
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ]
+    }
+]

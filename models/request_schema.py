@@ -1,13 +1,8 @@
 from pydantic import BaseModel
 
-class Location(BaseModel):
-    lat:float
-    lng:float
-
 class RecommendRequest(BaseModel):
-    location: Location
-    genre: str
-    time: str
-    budget:  int
     schedule: str
-    history: str
+    end_time: str
+    start_prace: str
+    budget: int
+    genre: str

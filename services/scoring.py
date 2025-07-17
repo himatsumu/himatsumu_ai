@@ -21,8 +21,8 @@ def score_shops(
 ) -> List[Dict]: #お店のリスト情報を返す
     
     #特徴量の取得
-    distances = [shop.get("distance",0) for shop in shop_list] #各距離
-    ratings = [shop.get("rating", 0) for shop in shop_list] #各お店の評価
+    distances = [shop.get("distance") or 0 for shop in shop_list] #各距離
+    ratings = [shop.get("rating") or 0 for shop in shop_list] #各お店の評価
     #レビュー数（差が出過ぎるためlogスケーリングで緩やかに）
     log_reviews = [math.log(1 + (shop.get("user_ratings_total") or 0)) for shop in shop_list]
 
@@ -36,8 +36,8 @@ def score_shops(
     # 各お店を評価
     for shop in shop_list:
         #各評価指数を0〜1に
-        distance_score = min_max(shop.get("distance", 0), min_dist, max_dist)
-        rating_score = min_max(shop.get("rating", 0), min_rating, max_rating)
+        distance_score = min_max(shop.get("distance") or 0, min_dist, max_dist)
+        rating_score = min_max(shop.get("rating") or 0, min_rating, max_rating)
         #minがないため関数を使わず計算
         log_review = math.log(1 + (shop.get("user_ratings_total") or 0))
         review_score = log_review / max_log_review
@@ -91,7 +91,8 @@ def is_closing_soon(business_hours , end_tm , shop) -> bool:
             start = time(h1,m1)
             end = time(h2,m2)
 
-            shop["today_schedule"] += f"{str(start.strftime("%H:%M"))}~{str(end.strftime("%H:%M"))}"
+            shop["start_hours"] += str(start.strftime("%H:%M"))
+            shop["end_hours"] += str(end.strftime("%H:%M"))
 
             end_shop = datetime.combine(today,end)
 
@@ -124,7 +125,8 @@ def score_details_shops(
         business_hours = shop.get("current_opening_hours", {}).get("weekday_text", {})
         shop_score = shop.get("score")
 
-        shop["today_schedule"] = ""
+        shop["start_hours"] = ""
+        shop["end_hours"] = ""
 
         if  not is_closing_soon(business_hours,time,shop):
             shop_score = 0

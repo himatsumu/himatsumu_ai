@@ -1,11 +1,7 @@
 {
-  "location": {
-    "lat": 34.70605201690028,
-    "lng": 135.503858174402
-  },
-  "schedule": "映画",
-  "genre": "ご飯系",
-  "time": "14:00",
-  "budget": 1500,
-  "history": ""
+    "schedule": "映画",
+    "end_time": "21:00",
+    "start_prace": "梅田",
+    "budget": 5000,
+    "genre": "ご飯系"
 }

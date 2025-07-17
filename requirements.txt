@@ -4,3 +4,6 @@ pydantic-settings
 pydantic
 fastapi
 uvicorn
+mecab-python3
+unidic-lite
+geocoder

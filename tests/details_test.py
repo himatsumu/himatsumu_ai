@@ -28,9 +28,9 @@ details_datas = get_place_detail(data)
 # with open(settings.MOCK_DETAILE_JSON, "r", encoding="utf-8") as f:
 #             details_datas = json.load(f)
 
-# details_datas = add_distance_to_shops(details_datas,req.location.lat,req.location.lng)
+details_datas = add_distance_to_shops(details_datas,34.70605201690028,135.503858174402)
 
-# details_datas = score_details_shops(details_datas,req.time)
+details_datas = score_details_shops(details_datas,req.end_time)
 
 # ダミーデータ作成用：重複なしの結果を新しいJSONに保存
 with open(settings.MOCK_DETAILE_JSON, "w", encoding="utf-8") as f:

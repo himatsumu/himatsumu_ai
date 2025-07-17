@@ -1,5 +1,16 @@
 from typing import List, Dict
+import googlemaps
+from config.settings import get_setting
 import math
+
+settings = get_setting()
+
+def geocoder(start_place: str):
+    gmaps = googlemaps.Client(key=settings.GOOGLE_PLACE_KEY)
+    result = gmaps.geocode(address = start_place , language = "ja")
+    location = result[0]["geometry"]["location"]["lat"] , result[0]["geometry"]["location"]["lng"]
+
+    return location
 
 #2地点間の距離を測る関数
 def calc_distance(center_lat: float,center_lng: float,shop_lat:float,shop_lng:float):
