@@ -53,7 +53,6 @@ def extrsction_responce(responce_results: Dict) ->Dict:
     
     #住所の表示を少なくする
     address = responce_results.get("formatted_address")
-    print(address)
     formatted_address = re.split(r'[ \u3000,、]+',address)[2]
 
     return{
