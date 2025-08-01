@@ -1,4 +1,5 @@
 from typing import Dict
+import re
 
 #取得した情報から必要項目を抽出する
 def extraction_place(place_data: Dict) -> Dict:
@@ -49,13 +50,18 @@ def extrsction_responce(responce_results: Dict) ->Dict:
         if t != "point_of_interest":
             title = t
             break
+    
+    #住所の表示を少なくする
+    address = responce_results.get("formatted_address")
+    print(address)
+    formatted_address = re.split(r'[ \u3000,、]+',address)[2]
 
     return{
         "end_hours": responce_results.get("end_hours"),
         "location": responce_results.get("geometry", {}).get("location", {}),
         "reviews": reviews,
         "start_hours": responce_results.get("start_hours"),
-        "store_address": responce_results.get("formatted_address"),
+        "store_address": formatted_address,
         "store_name" : responce_results.get("name"),
         "types": responce_results.get("types")
     }
