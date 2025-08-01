@@ -6,6 +6,7 @@ from utils.geo import geocoder
 from services.scoring import score_shops
 from services.scoring import score_details_shops
 from utils.extraction import extrsction_responce
+from utils.place_api import update_json
 
 def recommend_shops(start_place,genre,time,budget,schedule):
 
@@ -26,6 +27,8 @@ def recommend_shops(start_place,genre,time,budget,schedule):
 
     #お店の簡易スコアリング
     shop_list = score_shops(shop_list)
+
+    update_json(shop_list)
 
     shop_list = get_place_detail(shop_list)
 

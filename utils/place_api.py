@@ -7,7 +7,7 @@ from utils.extraction import extraction_place
 settings = get_setting()
 client = googlemaps.Client(settings.GOOGLE_PLACE_KEY) #API使用のためのインスタンス生成
 mock_json_path = settings.MOCK_JSON_PATH #MOCKを使う場合のパス
-mock_detaile_json = settings.MOCK_DETAILE_JSON
+mock_json_detaile_json = settings.MOCK_DETAILE_JSON_PATH
 
 #PlaceAPIを３回叩き、リストにして返す関数
 def getplace(center_lat,center_lng,keyword,budget,schedule,use_mock):
@@ -62,6 +62,11 @@ def getplace(center_lat,center_lng,keyword,budget,schedule,use_mock):
             json.dump(shop_list, f, ensure_ascii=False, indent=2)
 
     return shop_list
+
+#元々のJSONにスコアを追加して保存する関数
+def update_json(place_data: List[Dict]):
+    with open(mock_json_path, "w", encoding="utf-8") as f:
+        json.dump(place_data, f, ensure_ascii=False, indent=2)
 
 #簡易スコアリングで上位に選ばれたお店の詳しい情報を取得
 def get_place_detail(place_data: List[Dict]) -> List[Dict]:
