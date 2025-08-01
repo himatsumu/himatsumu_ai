@@ -10,7 +10,7 @@ class Setting(BaseSettings):
     USE_MOCK: bool = False  # ダミーモード切替用
     MOCK_JSON_PATH: str = str(BASE_DIR / "tests" / "mock" / "places_results.json") # JSON保存パス
     MOCK_RESPONSE_JSON: str = str(BASE_DIR / "tests" / "mock" / "mock_response.json") #レスポンスデータのMOCKパス
-    MOCK_DETAILE_JSON: str = str(BASE_DIR / "tests" / "mock" / "mock_places_details.json") #詳細データのMOCKパス
+    MOCK_DETAILE_JSON_PATH: str = str(BASE_DIR / "tests" / "mock" / "mock_places_details.json") #詳細データのMOCKパス
 
     #Composeの環境変数で読み込んでいる場合不要
     class Config:
