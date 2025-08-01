@@ -59,8 +59,25 @@ def score_shops(
         shop["score"] = round(score, 2) #小数点第2位までに
         score_shops.append(shop)
 
+
+    #店舗がチェーン店だった場合、距離が近いもののみ提案するようにする処理
+    for shop in shop_list:
+        #判定してる店の店舗名取得
+        shop_name = shop.get("name")
+        chain_name = re.sub("[\u3000 \t]","",shop_name)[0]
+
+        #各店舗名取得し
+        for compare_shop in shop_list:
+                chain_shop_compare = compare_shop.get("name")
+                compare_chain_shop = re.sub("[\u3000 \t]","",chain_shop_compare)[0]
+                #店舗名が被った場合、評価が低い方のスコアを０に
+                if compare_chain_shop == chain_name and compare_shop.get("score") > shop.get("score"):
+                        shop["score"] = round(0)#スコアを0に
+                        score_shops.append(shop)
+
     #評価が高い順にソート
     score_shops.sort(key=lambda x: x["score"], reverse=True)
+
 
     return score_shops
 
