@@ -12,6 +12,3 @@ pip list をターミナルで実行し、requirements.txt内に記載された�
 
 実行コマンド  
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload 
-
-## test_recommender
-テストデータを使い、pythonのみで実行確認をするディレクトリ
