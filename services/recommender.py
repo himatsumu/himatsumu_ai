@@ -5,42 +5,53 @@ from utils.geo import add_distance_to_shops
 from utils.geo import geocoder
 from services.scoring import score_shops
 from services.scoring import score_details_shops
-from utils.extraction import extrsction_responce
-from utils.place_api import update_json
+from utils.extraction import extraction_responce
+from utils.json_write import update_json
+from utils.json_write import update_detaile_json
 
 def recommend_shops(start_place,genre,time,budget,schedule):
 
     location = geocoder(start_place)
+    mock = False
 
     #現在地からのAPI呼び出し
-    shop_list = getplace(
+    nearby_shops = getplace(
         center_lat = location[0],
         center_lng =  location[1],#現在地の軽度
         keyword = genre, #選択したジャンル
         budget = budget, #予算
         schedule = schedule,
-        use_mock = False #モックを使うかどうか
+        use_mock = mock #モックを使うかどうか
     )
 
     #現在地とお店との距離を計算
-    shop_list = add_distance_to_shops(shop_list,location[0],location[1])
+    shops_distance = add_distance_to_shops(nearby_shops,location[0],location[1])
 
     #お店の簡易スコアリング
-    shop_list = score_shops(shop_list)
+    scored_shops = score_shops(shops_distance)
 
-    update_json(shop_list)
+    #JSONデータとして書き出し
+    update_json(scored_shops)
 
-    shop_list = get_place_detail(shop_list)
+    #上位のお店の詳細データ取得
+    detailed_shops = get_place_detail(scored_shops,mock)
 
-    shop_list = [extraction_detail(place_data) for place_data in shop_list]
+    #必要項目のみ抽出
+    shop_list = [extraction_detail(place_data) for place_data in detailed_shops]
 
-    shop_list = add_distance_to_shops(shop_list,location[0],location[1])
+    #JSONデータとして書き出し
+    update_json(detailed_shops)
 
-    shop_list = score_details_shops(shop_list,time)
+    #店舗リストに中心地点からの距離を追加する
+    extracted_shops = add_distance_to_shops(shop_list,location[0],location[1])
+
+    #詳細データを元に再度スコアリング
+    scored_details_shops = score_details_shops(extracted_shops,time)
 
     #上位５件を返す
-    shop_list = shop_list[0:4]
+    top_shops = scored_details_shops[0:4]
 
-    shop_list = [extrsction_responce(shop) for shop in shop_list]
+    #バックエンドに返す値に整形
+    response_shops = [extraction_responce(place_data) for place_data in top_shops]
 
-    return shop_list
+    return response_shops

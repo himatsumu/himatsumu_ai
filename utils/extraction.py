@@ -38,7 +38,7 @@ def extraction_detail(place_details: Dict) -> Dict:
     }
 
 #バック側に返す項目を抽出する
-def extrsction_responce(responce_results: Dict) ->Dict:
+def extraction_responce(responce_results: Dict) ->Dict:
     #お店のレビュー全件取得
     reviews = [review.get("text","") for review in responce_results.get("reviews",{})]
 

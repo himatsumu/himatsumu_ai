@@ -4,11 +4,11 @@ from services.recommender import recommend_shops
 
 app = FastAPI()
 
-#python起動コマンド:uvicorn main:app --host 0.0.0.0 --port 8000 --reload
+#python起動コマンド：uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 @app.post("/auth/quest/recommend")
 def recommend(req: RecommendRequest , response: Response):
-    shop_list = recommend_shops(
+    response_shops = recommend_shops(
         req.start_prace,
         req.genre,
         req.end_time,
@@ -18,7 +18,7 @@ def recommend(req: RecommendRequest , response: Response):
    
     return {
         "data":{
-		    "stores": shop_list
+		    "stores": response_shops
 	    },
 	    "status": 200
     }
