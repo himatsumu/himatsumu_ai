@@ -57,28 +57,23 @@ def getplace(center_lat,center_lng,keyword,budget,schedule,use_mock):
 
         shop_list = [extraction_place(place_data) for place_data in shop_list]
 
-        # ダミーデータ作成用：重複なしの結果を新しいJSONに保存
-        with open(mock_json_path, "w", encoding="utf-8") as f:
-            json.dump(shop_list, f, ensure_ascii=False, indent=2)
-
     return shop_list
 
-#元々のJSONにスコアを追加して保存する関数
-def update_json(place_data: List[Dict]):
-    with open(mock_json_path, "w", encoding="utf-8") as f:
-        json.dump(place_data, f, ensure_ascii=False, indent=2)
-
 #簡易スコアリングで上位に選ばれたお店の詳しい情報を取得
-def get_place_detail(place_data: List[Dict]) -> List[Dict]:
+def get_place_detail(place_data: List[Dict], use_mock) -> List[Dict]:
 
     #API呼び出し結果を格納するリスト
     details_results = []
 
-    for place_detail in place_data[:10]:
-        place_id = place_detail.get("place_id")
-        get_detail = client.place(place_id,language='ja')
-        details_results.append(get_detail["result"])
-
-    # details_results = [extraction_place(place_data) for place_data in details_results]
-
+    if use_mock: #使用
+        #ダミーデータ呼び出し
+        with open(mock_json_path, "r", encoding="utf-8") as f:
+            shop_list = json.load(f)
+        for place_detail in place_data[:10]:
+            place_id = place_detail.get("place_id")
+            get_detail = client.place(place_id,language='ja')
+            details_results.append(get_detail["result"])
+            # shop_score = place_detail.get("score")
+            
+            # details_results["score"] = round(shop_score,2)
     return details_results
