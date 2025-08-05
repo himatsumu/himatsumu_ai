@@ -97,24 +97,28 @@ def is_closing_soon(business_hours , end_tm , shop) -> bool:
         parts = today_schedule.split(":",1)
         time_ranges = parts[1].split(",")
 
+        #閉店時間をtime型にコンバート
         end_tm = datetime.strptime(end_tm, "%H:%M").time()
 
         #営業時間が２つに分かれてる場合も対応するため
         for time_renge in time_ranges:
+
+            #時間のみにパース
             match = re.match(r"(\d{1,2})時(\d{2})分～(\d{1,2})時(\d{2})分", time_renge.strip())
 
+            #グループ化
             h1, m1, h2, m2 = map(int, match.groups())
 
-            start = time(h1,m1)
-            end = time(h2,m2)
+            start = time(h1,m1) #開店時間
+            end = time(h2,m2) #閉店時間
 
+            #お店のデータに各時間を追加
             shop["start_hours"] += str(start.strftime("%H:%M"))
             shop["end_hours"] += str(end.strftime("%H:%M"))
 
+            #閉店時間が日を跨ぐ場合の対応処理
             end_shop = datetime.combine(today,end)
-
             end_tm = datetime.combine(today,end_tm)
-
             if end_shop < now:
                 end_shop += timedelta(days=1)
             
