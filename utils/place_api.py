@@ -65,15 +65,9 @@ def get_place_detail(place_data: List[Dict], use_mock) -> List[Dict]:
     #API呼び出し結果を格納するリスト
     details_results = []
 
-    if use_mock: #使用
-        #ダミーデータ呼び出し
-        with open(mock_json_path, "r", encoding="utf-8") as f:
-            shop_list = json.load(f)
-        for place_detail in place_data[:10]:
-            place_id = place_detail.get("place_id")
-            get_detail = client.place(place_id,language='ja')
-            details_results.append(get_detail["result"])
-            # shop_score = place_detail.get("score")
-            
-            # details_results["score"] = round(shop_score,2)
+    for place_detail in place_data[:10]:
+        place_id = place_detail.get("place_id")
+        get_detail = client.place(place_id,language='ja')
+        details_results.append(get_detail["result"])
+
     return details_results
