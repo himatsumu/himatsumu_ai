@@ -2,28 +2,28 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-# システムのタイムゾーンを設定
-ENV TZ=Asia/Tokyo
-
-# 基本的な依存関係のみインストール
+# ビルド依存関係のインストール
 RUN apt-get update && apt-get install -y \
-    curl \
+    gcc \
+    python3-dev \
     && rm -rf /var/lib/apt/lists/*
 
 # pipをアップグレード
 RUN pip install --no-cache-dir --upgrade pip
 
-# requirements.txtをコピー
+# 依存関係のインストール
 COPY requirements.txt .
-
-# パッケージを1つずつインストール（問題のあるパッケージを特定するため）
-RUN for package in $(cat requirements.txt); do \
-    echo "Installing $package..."; \
-    pip install --no-cache-dir "$package" || exit 1; \
-    done
+RUN pip install --no-cache-dir -r requirements.txt
 
 # アプリケーションコードをコピー
 COPY . .
+
+# ビルド依存関係を削除
+RUN apt-get purge -y \
+    gcc \
+    python3-dev \
+    && apt-get autoremove -y \
+    && rm -rf /var/lib/apt/lists/*
 
 # ポートの公開
 EXPOSE 8000
