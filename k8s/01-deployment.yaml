@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: himatsumu-ai-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: himatsumu-ai
+  template:
+    metadata:
+      labels:
+        app: himatsumu-ai
+    spec:
+      imagePullSecrets:
+      - name: ghcr-secret
+      containers:
+      - name: himatsumu-ai-container
+        image: ghcr.io/himatsumu/himatsumu_ai:latest
+        ports:
+        - containerPort: 8000
+        envFrom:
+        - secretRef:
+            name: himatsumu-ai-secret
